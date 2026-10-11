@@ -20,7 +20,7 @@ msgstr "山岳之王，我呼喚祢的名。救我脫離這個闖入者！"
 #. event 11 (leaveFastArea)
 msgctxt "bark 0415:045E"
 msgid "Thank you, my friend. You have done good service this day. And your timing could not be better. For, as you can see, Lothian lies upon the altar barely clinging to life. For your service, I will grant you the boon which you did ask of me. I will introduce you to the Necromancer. But first, stand witness to the Ceremony of Eternity. For the time has come for Lothian and I to perform the ceremony. Please follow my instructions closely. Are you prepared, Lothian? "
-msgstr "謝謝你，朋友。你今天立了大功，而且來得正是時候。你也看到了，洛西恩躺在祭壇上，只剩一口氣。為了報答你，我會實現你向我提出的請求，帶你去見降靈師。不過首先，請你見證永恆儀式。洛西恩和我舉行儀式的時刻已經到了。請仔細照我的指示做。你準備好了嗎，洛西恩？"
+msgstr "謝謝你，朋友。你今天立了大功，而且來得正是時候。你也看到了，洛西安躺在祭壇上，只剩一口氣。為了報答你，我會實現你向我提出的請求，帶你去見降靈師。不過首先，請你見證永恆儀式。洛西安和我舉行儀式的時刻已經到了。請仔細照我的指示做。你準備好了嗎，洛西安？"
 
 # P13 batch 3
 #. event 11 (leaveFastArea)
@@ -44,7 +44,7 @@ msgstr "請在往生祭壇前跪下。"
 #. event 11 (leaveFastArea)
 msgctxt "bark 0415:070B"
 msgid "Lord Lithos, Mountain King, eldest and mightiest of the four Titans, we come forth to send your faithful servant Lothian into your waiting arms. Tell us now, Lord of the Underworld, does this, our sacrifice please you? "
-msgstr "里索斯大人，山岳之王，四位泰坦中最年長、最強大者，我們前來將祢忠實的僕人洛西恩送入祢等待的懷抱。冥界之主啊，請告訴我們，我們的這份獻祭可令祢滿意？"
+msgstr "里索斯大人，山岳之王，四位泰坦中最年長、最強大者，我們前來將祢忠實的僕人洛西安送入祢等待的懷抱。冥界之主啊，請告訴我們，我們的這份獻祭可令祢滿意？"
 
 # P13 batch 3
 #. event 11 (leaveFastArea)
@@ -68,7 +68,7 @@ msgstr "Kal Corp"
 #. event 11 (leaveFastArea)
 msgctxt "bark 0415:0A3F"
 msgid "The dead now surround you, Lothian. Prepare yourself for your Lord. "
-msgstr "亡者如今環繞著你，洛西恩。準備好迎接你的主吧。"
+msgstr "亡者如今環繞著你，洛西安。準備好迎接你的主吧。"
 
 # P13 batch 3
 #. event 11 (leaveFastArea)
@@ -110,7 +110,7 @@ msgstr "現在，讓我們為此地所完成之事，也為山岳之王無比的
 #. event 11 (leaveFastArea)
 msgctxt "bark 0415:0E83"
 msgid "All is done. Lothian may now join her lord. "
-msgstr "一切都完成了。洛西恩現在可以與她的主同在了。"
+msgstr "一切都完成了。洛西安現在可以與她的主同在了。"
 
 # P13 batch 3
 #. event 11 (leaveFastArea)
@@ -441,7 +441,7 @@ msgstr "學習降靈師之道。學習我們的傳統與奧祕！"
 #. event 01 (use (talk)), after "Necromancer? "
 msgctxt "bark 0415:297E"
 msgid "Lothian is the current Necromancer. But you probably already knew that. "
-msgstr "洛西恩是現任的降靈師。不過你大概已經知道了。"
+msgstr "洛西安是現任的降靈師。不過你大概已經知道了。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Necromancer? "
@@ -453,7 +453,7 @@ msgstr "我需要跟降靈師談談。"
 #. event 01 (use (talk)), after "Necromancer? "
 msgctxt "ask 0415"
 msgid "Lothian?"
-msgstr "洛西恩？"
+msgstr "洛西安？"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "I need to speak to the Necromancer. "
@@ -477,7 +477,7 @@ msgstr "是的。事實上，她最近時昏時醒。就算你見到她，她大
 #. event 01 (use (talk)), after "Lothian?"
 msgctxt "bark 0415:2C57"
 msgid "Long has she been the Necromancer. Lothian has loyally served since I was but a boy. "
-msgstr "她當降靈師已經很久了。從我還是個孩子起，洛西恩就一直忠心侍奉。"
+msgstr "她當降靈師已經很久了。從我還是個孩子起，洛西安就一直忠心侍奉。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Traditions. "
@@ -807,19 +807,19 @@ msgstr "祂為什麼這麼做？"
 #. event 01 (use (talk)), after "Why did he do this? "
 msgctxt "bark 0415:4661"
 msgid "Please, I do not have time to talk of this. I need to get the dagger back before Lothian dies. "
-msgstr "拜託，我沒時間談這個。我得在洛西恩死前把匕首拿回來。"
+msgstr "拜託，我沒時間談這個。我得在洛西安死前把匕首拿回來。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Anger him? "
 msgctxt "bark 0415:4729"
 msgid "Yes. If I am not able to perform the appropriate ceremony upon Lothian, I will greatly disappoint, and anger, my Lord. "
-msgstr "是的。要是我無法為洛西恩舉行適當的儀式，我的主會非常失望，也會非常憤怒。"
+msgstr "是的。要是我無法為洛西安舉行適當的儀式，我的主會非常失望，也會非常憤怒。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Get the dagger back. "
 msgctxt "bark 0415:4826"
 msgid "How? Lothian is very ill and I must stay by her side. Besides, neither of us are trained warriors to challenge Mordea's guards. How could we possibly retrieve the dagger? "
-msgstr "怎麼拿？洛西恩病得很重，我得守在她身邊。再說，我們兩個都不是受過訓練的戰士，對付不了莫迪雅的衛兵。我們怎麼可能把匕首拿回來？"
+msgstr "怎麼拿？洛西安病得很重，我得守在她身邊。再說，我們兩個都不是受過訓練的戰士，對付不了莫迪雅的衛兵。我們怎麼可能把匕首拿回來？"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Get the dagger back. "
@@ -873,7 +873,7 @@ msgstr "這玩笑太殘忍了。我們必須盡快拿到匕首，不然大家都
 #. event 01 (use (talk)), after "Stay by her side. "
 msgctxt "bark 0415:4B63"
 msgid "It is as I have said, our ceremonies must occur at the correct time. I can tell you no more than that except to say that I must be present when Lothian dies. "
-msgstr "就像我說的，我們的儀式必須在正確的時間舉行。我只能告訴你這麼多，此外就是洛西恩死時我必須在場。"
+msgstr "就像我說的，我們的儀式必須在正確的時間舉行。我只能告訴你這麼多，此外就是洛西安死時我必須在場。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "May I meet the Necromancer? "
@@ -909,7 +909,7 @@ msgstr "那是一把非常特別的匕首。是山岳之王賜給我們的，讓
 #. event 01 (use (talk)), after "You may get the dagger back. "
 msgctxt "bark 0415:4EC4"
 msgid "Unfortunately, I can not leave here. You see, I must stay by Lothian's side. "
-msgstr "可惜我不能離開這裡。你知道，我必須守在洛西恩身邊。"
+msgstr "可惜我不能離開這裡。你知道，我必須守在洛西安身邊。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Farewell. "
@@ -927,7 +927,7 @@ msgstr "真的？！匕首在你那裡？願你蒙福，朋友，願你蒙福！
 #. event 01 (use (talk)), after "How are you today, Vividos? "
 msgctxt "bark 0415:519B"
 msgid "Not well, I fear. Our problem still exists and Lothian nears her end. Have you managed to get the dagger away from Mordea? "
-msgstr "恐怕不太好。我們的問題還沒解決，洛西恩也快不行了。你從莫迪雅那裡拿到匕首了嗎？"
+msgstr "恐怕不太好。我們的問題還沒解決，洛西安也快不行了。你從莫迪雅那裡拿到匕首了嗎？"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "How are you today, Vividos? "
@@ -939,7 +939,7 @@ msgstr "什麼問題？"
 #. event 01 (use (talk)), after "How are you today, Vividos? "
 msgctxt "ask 0415"
 msgid "Is Lothian dying? "
-msgstr "洛西恩快死了嗎？"
+msgstr "洛西安快死了嗎？"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "How are you today, Vividos? "
@@ -1071,7 +1071,7 @@ msgstr "我見到山岳之王了。"
 #. event 01 (use (talk)), after "Tell me of Lithos. "
 msgctxt "ask 0415"
 msgid "I have interred Lothian, Necromancer. "
-msgstr "我已經安葬了洛西恩，降靈師。"
+msgstr "我已經安葬了洛西安，降靈師。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of Lithos. "
@@ -1089,7 +1089,7 @@ msgstr "我見過莫里恩斯的誕生地了。"
 #. event 01 (use (talk)), after "You are the Necromancer? "
 msgctxt "bark 0415:6066"
 msgid "I am now. With Lothian's passage, I step forward and take her place. As Lothian's Scion, I was next in the Necromantic line of succession. "
-msgstr "現在是了。隨著洛西恩的逝去，我挺身接替她的位置。身為洛西恩的傳人，我是降靈師繼承順位的下一位。"
+msgstr "現在是了。隨著洛西安的逝去，我挺身接替她的位置。身為洛西安的傳人，我是降靈師繼承順位的下一位。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "You are the Necromancer? "
@@ -1125,7 +1125,7 @@ msgstr "我說的話你一個字都沒聽進去嗎？永恆儀式是我們最神
 #. event 01 (use (talk)), after "What is a Scion? "
 msgctxt "bark 0415:6349"
 msgid "A Scion is the Necromancer's chosen successor. It is normal for the Necromancer's first apprentice to be the Scion. It is sad to say, but I was Lothian's only apprentice. Now, I am in need of an apprentice. "
-msgstr "傳人就是降靈師選定的繼承人。通常降靈師的第一個學徒就是傳人。說來難過，我是洛西恩唯一的學徒。現在，我需要一個學徒了。"
+msgstr "傳人就是降靈師選定的繼承人。通常降靈師的第一個學徒就是傳人。說來難過，我是洛西安唯一的學徒。現在，我需要一個學徒了。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "What is a Scion? "
@@ -1143,7 +1143,7 @@ msgstr "你需要一個學徒？"
 #. event 01 (use (talk)), after "Well what's the difference? "
 msgctxt "bark 0415:64B2"
 msgid "Murdering some one is to take their life against their will. Lothian had known nearly her entire life that, when it was her time of passage, she would be killed in this fashion. The same will happen to me when it is my time. "
-msgstr "謀殺是違背一個人的意願奪走他的性命。洛西恩幾乎一輩子都知道，等她往生的時候到了，她就會以這種方式被殺。等我的時候到了，我也會一樣。"
+msgstr "謀殺是違背一個人的意願奪走他的性命。洛西安幾乎一輩子都知道，等她往生的時候到了，她就會以這種方式被殺。等我的時候到了，我也會一樣。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Well what's the difference? "
@@ -1179,7 +1179,7 @@ msgstr "很多人無知，不了解我們在做什麼。他們以為我們跟屍
 #. event 01 (use (talk)), after "So that is the Ceremony of Eternity? "
 msgctxt "bark 0415:68B5"
 msgid "Yes, the ceremony must be performed as Lithos has commanded. You see, as Lothian was Necromancer, she will be permitted into the Hall of Eternity. In order to be allowed into this most hallowed of places, the Necromancers must be prepared in the Ceremony of Eternity. "
-msgstr "是的，儀式必須依照里索斯的命令舉行。你知道，洛西恩身為降靈師，將獲准進入永恆大廳。要獲准進入這個最神聖的地方，降靈師必須先經過永恆儀式的準備。"
+msgstr "是的，儀式必須依照里索斯的命令舉行。你知道，洛西安身為降靈師，將獲准進入永恆大廳。要獲准進入這個最神聖的地方，降靈師必須先經過永恆儀式的準備。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "So that is the Ceremony of Eternity? "
@@ -1539,7 +1539,7 @@ msgstr "不，祂沒說。"
 #. event 01 (use (talk)), after "No, he didn't. "
 msgctxt "bark 0415:919F"
 msgid "He did not? I do not believe you. The Mountain King instructed me to ask you if He had told you what you must do. He told me He instructed you to inter Lothian. If you did not perform this task, you were to be expelled from His order. Now you lie to me. Therefore, you must go from here. Never return here again. "
-msgstr "祂沒說？我不相信你。山岳之王吩咐我問你，祂有沒有告訴你必須做什麼。祂告訴我，祂已經吩咐你去安葬洛西恩。如果你不完成這項任務，就要被逐出祂的教團。現在你竟然對我說謊。所以，你必須離開這裡，永遠別再回來。"
+msgstr "祂沒說？我不相信你。山岳之王吩咐我問你，祂有沒有告訴你必須做什麼。祂告訴我，祂已經吩咐你去安葬洛西安。如果你不完成這項任務，就要被逐出祂的教團。現在你竟然對我說謊。所以，你必須離開這裡，永遠別再回來。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Yes, he did. "
@@ -1551,13 +1551,13 @@ msgstr "祂跟你說了什麼？"
 #. event 01 (use (talk)), after "Yes, he did. "
 msgctxt "ask 0415"
 msgid "I must inter Lothian. "
-msgstr "我必須安葬洛西恩。"
+msgstr "我必須安葬洛西安。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "I must inter Lothian. "
 msgctxt "bark 0415:938D"
 msgid "That is correct, apprentice. Take this, the Key of the Scion. By touching this item to Lothian, you will make her body acceptable for interment, as commanded in our covenant with Lithos. Know that this Key will also permit access through many doors within the Catacombs. "
-msgstr "沒錯，學徒。拿著這個，傳人之鑰。用它碰觸洛西恩，就能讓她的遺體依照我們與里索斯的盟約，成為可以安葬的狀態。要知道，這把鑰匙也能讓你通過地下墓穴裡的許多扇門。"
+msgstr "沒錯，學徒。拿著這個，傳人之鑰。用它碰觸洛西安，就能讓她的遺體依照我們與里索斯的盟約，成為可以安葬的狀態。要知道，這把鑰匙也能讓你通過地下墓穴裡的許多扇門。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "I must inter Lothian. "
@@ -1581,7 +1581,7 @@ msgstr "又一把鑰匙？"
 #. event 01 (use (talk)), after "I must inter Lothian. "
 msgctxt "ask 0415"
 msgid "Where is Lothian? "
-msgstr "洛西恩在哪裡？"
+msgstr "洛西安在哪裡？"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Where is Lothian? "

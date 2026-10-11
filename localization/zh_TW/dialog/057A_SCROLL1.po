@@ -77,7 +77,7 @@ msgstr "……我幾乎沒有力氣寫字了，心臟狂跳，雙腿再也撐不
 # P13 batch 8
 msgctxt "scroll 057A:1906"
 msgid "My time above this ground draws nigh. My dearest lord, the Mountain King calls me, and I must go. Soon I shall shed this mortal coil and join Lithos for life ever lasting. Yet before I go I must fulfill my final charge as Necromancer. ~My final duty is this, my spell. The spell which shall by my addition to the magic of the Earthen Power, may Lithos be praised. For time immorial, students of the power of Earth shall this spell learn. From my undead lips shall they hear how to coax the Lord of all Earth to shake His mighty body and make all fall before the user of Earthen Magic. ~To call Quakes; combine the sacred reagents of bone, wood, dirt, and blackmoor. Invoke the power of magic upon these reagents when enclosed within a bag. Then will you be enabled to call upon the power of Lithos. ~This then is my final act as Necromancer. I await the call of the Mountain King. ~Lothian, Necromancer."
-msgstr "我在這片大地上的時日將盡。我最親愛的主——山岳之王——在召喚我，我必須去了。很快我就會擺脫這副凡軀，與里索斯同享永生。但在離去之前，我必須完成身為降靈師的最後使命。~我最後的職責，就是我的法術。這道法術將是我為大地之力的魔法所做的貢獻，願里索斯受讚美。從今以後，研習大地之力的學生都將學習這道法術。他們將從我不死的雙唇聽到，如何引誘萬土之主搖動祂強大的身軀，讓一切在大地魔法的使用者面前倒下。~要召喚地震，就把神聖的材料——骨骼、木材、塵土和黑石漿——混合在一起。把這些材料裝進袋子裡，對它們發動魔法之力。之後你就能召喚里索斯的力量。~這就是我身為降靈師的最後一件事。我靜候山岳之王的召喚。~降靈師洛西恩"
+msgstr "我在這片大地上的時日將盡。我最親愛的主——山岳之王——在召喚我，我必須去了。很快我就會擺脫這副凡軀，與里索斯同享永生。但在離去之前，我必須完成身為降靈師的最後使命。~我最後的職責，就是我的法術。這道法術將是我為大地之力的魔法所做的貢獻，願里索斯受讚美。從今以後，研習大地之力的學生都將學習這道法術。他們將從我不死的雙唇聽到，如何引誘萬土之主搖動祂強大的身軀，讓一切在大地魔法的使用者面前倒下。~要召喚地震，就把神聖的材料——骨骼、木材、塵土和黑石漿——混合在一起。把這些材料裝進袋子裡，對它們發動魔法之力。之後你就能召喚里索斯的力量。~這就是我身為降靈師的最後一件事。我靜候山岳之王的召喚。~降靈師洛西安"
 
 # P13 batch 8
 msgctxt "scroll 057A:1B81"

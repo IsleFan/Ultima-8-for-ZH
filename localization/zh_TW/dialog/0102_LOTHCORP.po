@@ -14,4 +14,4 @@ msgstr ""
 #. event 00 (look)
 msgctxt "bark 0102:009A"
 msgid "Lothian"
-msgstr "洛西恩"
+msgstr "洛西安"

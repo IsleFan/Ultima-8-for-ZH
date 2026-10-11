@@ -936,7 +936,7 @@ msgstr "那我建議你從降靈師開始。去找維菲多斯，談談當他學
 #. event 01 (use (talk)), after "No, I have not. "
 msgctxt "bark 0421:4194"
 msgid "Then I suggest you begin with them. Speak with Vividos about becoming his apprentice once Lothian has passed on her powers to him. I realize the thought of dealing with the rituals of death may seem distasteful, but I expect it is something to which you must become accustomed if you wish to succeed. "
-msgstr "那我建議你從他們開始。等洛西恩把她的力量傳給維菲多斯之後，去找他談談當他學徒的事。我明白，一想到要跟死亡儀式打交道，或許會讓你覺得反感，但我想你若要成功，就必須習慣這些。"
+msgstr "那我建議你從他們開始。等洛西安把她的力量傳給維菲多斯之後，去找他談談當他學徒的事。我明白，一想到要跟死亡儀式打交道，或許會讓你覺得反感，但我想你若要成功，就必須習慣這些。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "No, I have not. "
@@ -1080,7 +1080,7 @@ msgstr "現任的降靈師維菲多斯接任不久。這表示他離開城市才
 #. event 01 (use (talk)), after "Tell me of the mages. "
 msgctxt "bark 0421:51F9"
 msgid "The current Necromancer, Lothian, is very old. I expect she soon will be passing her role to her Apprentice. Vividos should handle the responsibility quite well. "
-msgstr "現任的降靈師洛西恩已經非常老了。我想她很快就會把職位傳給她的學徒。維菲多斯應該能把這份職責處理得很好。"
+msgstr "現任的降靈師洛西安已經非常老了。我想她很快就會把職位傳給她的學徒。維菲多斯應該能把這份職責處理得很好。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of the mages. "
@@ -1369,7 +1369,7 @@ msgstr "那我建議你從他們開始。去找維菲多斯，談談當他學徒
 #. event 01 (use (talk)), after "No, I have not. "
 msgctxt "bark 0421:7E4B"
 msgid "Then I suggest you begin with them. Speak with Vividos about becoming his apprentice once Lothian has passed on her powers to him. I realize the thought of dealing with the rituals of death may seem distasteful, but I expect it is something to which you must become accustomed if you wish to succeed. "
-msgstr "那我建議你從他們開始。等洛西恩把她的力量傳給維菲多斯之後，去找他談談當他學徒的事。我明白，一想到要跟死亡儀式打交道，或許會讓你覺得反感，但我想你若要成功，就必須習慣這些。"
+msgstr "那我建議你從他們開始。等洛西安把她的力量傳給維菲多斯之後，去找他談談當他學徒的事。我明白，一想到要跟死亡儀式打交道，或許會讓你覺得反感，但我想你若要成功，就必須習慣這些。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Where are the Necromancers? "

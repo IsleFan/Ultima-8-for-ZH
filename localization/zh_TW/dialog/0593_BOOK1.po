@@ -13,7 +13,7 @@ msgstr ""
 # P13 batch 8
 msgctxt "book 0593:028A"
 msgid "WHAT THE FISH TELL ME ~by Kilandra ~~Oh the fish tell me all sorts of things, ~like when there's sun and when there's rain, ~They are so nice and very smart, ~and bubbles come up when they fart. ~~Oh the fish tell me all sorts of things, ~I like to listen to them sing. ~They sing of life beneath the sea ~But never mention if they pee. ~~Oh the fish tell me all sorts of things, ~Like where they are and where they've been. ~I guess it all just goes to prove ~You can have your friends and eat them too!"
-msgstr "魚告訴我的事~奇蘭卓著~~噢，魚兒告訴我好多事，~像是何時出太陽、何時雨綿綿，~牠們好親切又好聰明，~放屁時還會冒出泡泡圈圈。~~噢，魚兒告訴我好多事，~我好愛聽牠們唱歌謠。~牠們唱著海底的生活，~卻從不提牠們在哪裡尿尿。~~噢，魚兒告訴我好多事，~像是牠們在哪、去過哪裡。~我想這一切正好證明，~朋友可以交，也可以吃下肚裡！"
+msgstr "魚告訴我的事~綺蘭朵著~~噢，魚兒告訴我好多事，~像是何時出太陽、何時雨綿綿，~牠們好親切又好聰明，~放屁時還會冒出泡泡圈圈。~~噢，魚兒告訴我好多事，~我好愛聽牠們唱歌謠。~牠們唱著海底的生活，~卻從不提牠們在哪裡尿尿。~~噢，魚兒告訴我好多事，~像是牠們在哪、去過哪裡。~我想這一切正好證明，~朋友可以交，也可以吃下肚裡！"
 
 # P13 batch 8
 msgctxt "book 0593:03AA"

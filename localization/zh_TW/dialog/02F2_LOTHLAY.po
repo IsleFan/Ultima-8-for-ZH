@@ -14,7 +14,7 @@ msgstr ""
 #. event 00 (look)
 msgctxt "bark 02F2:009A"
 msgid "Lothian"
-msgstr "洛西恩"
+msgstr "洛西安"
 
 # P13 batch 6
 #. event 06 (gotHit)

@@ -44,13 +44,13 @@ msgstr "維菲多斯現在是降靈師了。"
 #. event 01 (use (talk))
 msgctxt "bark 01B1:0397"
 msgid "I am very well aware of that, living one. And now Lothian must be interred. "
-msgstr "這我很清楚，活人。而現在洛西恩必須被安葬。"
+msgstr "這我很清楚，活人。而現在洛西安必須被安葬。"
 
 # P13 batch 5
 #. event 01 (use (talk))
 msgctxt "bark 01B1:03D9"
 msgid "Lothian must be interred? "
-msgstr "洛西恩必須被安葬？"
+msgstr "洛西安必須被安葬？"
 
 # P13 batch 5
 #. event 01 (use (talk))
@@ -92,7 +92,7 @@ msgstr "現在，在我面前跪下，蟲子。"
 #. event 01 (use (talk))
 msgctxt "bark 01B1:0796"
 msgid "To become the apprentice, you must inter Lothian into my clay. "
-msgstr "要成為學徒，你必須把洛西恩安葬在我的泥土裡。"
+msgstr "要成為學徒，你必須把洛西安安葬在我的泥土裡。"
 
 # P13 batch 5
 #. event 01 (use (talk))

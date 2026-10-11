@@ -266,7 +266,7 @@ msgstr "你好"
 #. event 01 (use (talk))
 msgctxt "ask 040E"
 msgid "Corinth told me of the ghost. "
-msgstr "柯林斯跟我說了鬼魂的事。"
+msgstr "珂林絲跟我說了鬼魂的事。"
 
 # P13 batch 5
 #. event 01 (use (talk))
@@ -303,13 +303,13 @@ msgstr "嗯，真高興見到你。希望你一切都好。"
 #. event 01 (use (talk)), after "I'm fine, thanks. "
 msgctxt "bark 040E:19DC"
 msgid "Good and welcome! It is rare that Corinth and I get visitors here in the valley. "
-msgstr "很好，歡迎！柯林斯和我在這山谷裡很少有客人來。"
+msgstr "很好，歡迎！珂林絲和我在這山谷裡很少有客人來。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "I'm fine, thanks. "
 msgctxt "ask 040E"
 msgid "Who is Corinth? "
-msgstr "柯林斯是誰？"
+msgstr "珂林絲是誰？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "I'm fine, thanks. "
@@ -327,7 +327,7 @@ msgstr "你們沒什麼客人？"
 #. event 01 (use (talk)), after "Who is Corinth? "
 msgctxt "bark 040E:1B01"
 msgid "Corinth is my wife. She is a fine lady, too. Corinth works hard every day, never complains, and has been a good mother to our son, too. "
-msgstr "柯林斯是我的妻子，她也是個好女人。柯林斯每天辛勤工作，從不抱怨，對我們的兒子也一直是個好母親。"
+msgstr "珂林絲是我的妻子，她也是個好女人。珂林絲每天辛勤工作，從不抱怨，對我們的兒子也一直是個好母親。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Who is Corinth? "
@@ -351,7 +351,7 @@ msgstr "聽起來她是個好女人。"
 #. event 01 (use (talk)), after "Where is your son? "
 msgctxt "bark 040E:1CE8"
 msgid "I am surprised that my wife did not talk your ear off about our son. Corinth is so proud of Cyrrus that sometimes I think that she can speak of nothing else. But make no mistake, we are law abiding folk here. We also honor Hydros as Her Ladyship does command. "
-msgstr "我還真意外我妻子沒跟你嘮叨我們兒子的事嘮叨到你耳朵長繭。柯林斯以席勒斯為傲，有時我覺得她除了他什麼都不會說。不過可別誤會，我們這裡是奉公守法的人家，也遵照夫人的命令尊崇海特蘿。"
+msgstr "我還真意外我妻子沒跟你嘮叨我們兒子的事嘮叨到你耳朵長繭。珂林絲以席勒斯為傲，有時我覺得她除了他什麼都不會說。不過可別誤會，我們這裡是奉公守法的人家，也遵照夫人的命令尊崇海特蘿。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Where is your son? "
@@ -387,19 +387,19 @@ msgstr "神通師是什麼人？"
 #. event 01 (use (talk)), after "Talk my ear off? "
 msgctxt "bark 040E:1F92"
 msgid "I love Corinth, but if you give that woman a chance, she'll talk the legs off a Kith when it comes to that boy. Surely she told you that Cyrrus has become a Theurgist. "
-msgstr "我愛柯林斯，不過只要給那女人一個機會，一說起那孩子，她能把奇斯怪蛛的腿都說斷。她一定跟你說過席勒斯當上神通師了吧。"
+msgstr "我愛珂林絲，不過只要給那女人一個機會，一說起那孩子，她能把奇斯怪蛛的腿都說斷。她一定跟你說過席勒斯當上神通師了吧。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Talk my ear off? "
 msgctxt "ask 040E"
 msgid "Yes, Corinth did mention that Cyrrus is a Theurgist. "
-msgstr "是的，柯林斯確實提過席勒斯是神通師。"
+msgstr "是的，珂林絲確實提過席勒斯是神通師。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Talk my ear off? "
 msgctxt "ask 040E"
 msgid "No, Corinth didn't mention Theurgists. "
-msgstr "沒有，柯林斯沒提到神通師。"
+msgstr "沒有，珂林絲沒提到神通師。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "No, Corinth didn't mention Theurgists. "
@@ -417,7 +417,7 @@ msgstr "那我可真意外。你知道，我妻子很以我們兒子當上神通
 #. event 01 (use (talk)), after "Oh yes, I've met your wife. "
 msgctxt "bark 040E:227F"
 msgid "Quite a lady, that Corinth. "
-msgstr "柯林斯可真是個了不起的女人。"
+msgstr "珂林絲可真是個了不起的女人。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "She sounds like a fine lady. "
@@ -605,7 +605,7 @@ msgstr "我沒替莫迪雅做事。"
 #. event 01 (use (talk)), after "Gwillim, Mordea's dead. "
 msgctxt "bark 040E:3486"
 msgid "Really? I have not heard this. I must tell Corinth! She will be so excited, er, I mean saddened to hear of our ruler's untimely death. "
-msgstr "真的嗎？我還沒聽說。我得告訴柯林斯！她聽到我們統治者英年早逝，一定會很興奮——呃，我是說，很難過。"
+msgstr "真的嗎？我還沒聽說。我得告訴珂林絲！她聽到我們統治者英年早逝，一定會很興奮——呃，我是說，很難過。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "I don't work for Mordea. "
@@ -785,7 +785,7 @@ msgstr "請別生氣。"
 #. event 01 (use (talk)), after "Please don't get angry. "
 msgctxt "bark 040E:4398"
 msgid "Do not get angry? Just because my wife told of my darkest secret? I hardly know you and yet Corinth tells you everything that I would wish to keep hidden! No, I am not angry with you. But Corinth and I shall have words when you have gone. "
-msgstr "別生氣？就因為我妻子說出了我最不可告人的祕密？我跟你幾乎素不相識，柯林斯卻把我想隱瞞的事全告訴了你！不，我不是在生你的氣。不過等你走了，我得跟柯林斯好好談談。"
+msgstr "別生氣？就因為我妻子說出了我最不可告人的祕密？我跟你幾乎素不相識，珂林絲卻把我想隱瞞的事全告訴了你！不，我不是在生你的氣。不過等你走了，我得跟珂林絲好好談談。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "You've -seen- it? "
@@ -803,7 +803,7 @@ msgstr "所以是真的？"
 #. event 01 (use (talk)), after "You've -seen- it? "
 msgctxt "ask 040E"
 msgid "Don't get mad at Corinth. "
-msgstr "別對柯林斯發火。"
+msgstr "別對珂林絲發火。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "So it's true? "
@@ -833,7 +833,7 @@ msgstr "是我的錯。"
 #. event 01 (use (talk)), after "It was my fault. "
 msgctxt "bark 040E:47F4"
 msgid "I can not accept that. Corinth is a grown woman and she is fully responsible for her actions. No, if Corinth told you of this thing then she did it herself. She and I must talk later about this. "
-msgstr "我不能接受這種說法。柯林斯是個成年女人，要為自己的行為負全責。不，如果柯林斯跟你說了這件事，那就是她自己的決定。我和她晚點得好好談談。"
+msgstr "我不能接受這種說法。珂林絲是個成年女人，要為自己的行為負全責。不，如果珂林絲跟你說了這件事，那就是她自己的決定。我和她晚點得好好談談。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "She was trying to help. "
@@ -857,7 +857,7 @@ msgstr "幫你，威廉。"
 #. event 01 (use (talk)), after "Me. My task is very important. "
 msgctxt "bark 040E:4A55"
 msgid "I doubt very seriously that whatever you have to do here is all that important. You certainly have no right to come here and stir up such trouble, my friend. Corinth and I have been through very great ordeals and we will certainly make our way through you and your scheming! Now, be on your way! "
-msgstr "我非常懷疑你在這裡要做的事有那麼重要。你絕對沒有權利跑來這裡惹這種麻煩，朋友。柯林斯和我經歷過非常大的磨難，你和你的詭計我們也一定挺得過去！現在，走你的路吧！"
+msgstr "我非常懷疑你在這裡要做的事有那麼重要。你絕對沒有權利跑來這裡惹這種麻煩，朋友。珂林絲和我經歷過非常大的磨難，你和你的詭計我們也一定挺得過去！現在，走你的路吧！"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "You, Gwillim. "
@@ -881,7 +881,7 @@ msgstr "我不知道。"
 #. event 01 (use (talk)), after "I don't know. "
 msgctxt "bark 040E:4C56"
 msgid "Well I have a feeling that -I- know. Corinth has been laboring under the impression that I just talk about my brother, then somehow everything will be alright. "
-msgstr "嗯，我想「我」知道。柯林斯一直以為，只要我說說我兄弟的事，一切就會好起來。"
+msgstr "嗯，我想「我」知道。珂林絲一直以為，只要我說說我兄弟的事，一切就會好起來。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "I don't know. "
@@ -989,7 +989,7 @@ msgstr "多到不該再讓你去多添一個死掉的傻瓜。"
 #. event 01 (use (talk)), after "Who is she? "
 msgctxt "bark 040E:55AE"
 msgid "Who? The mad woman? Her name is Kilandra and she is as mad as a keplock. Some have heard her claim to possess a key that will get you to the ghost. The woman also talks to fish, so I would not believe a word she says, but apparently the ghost and the key are not subjects she likes to brag about. She had to be pestered several times before she would even speak of it. "
-msgstr "誰？那個瘋女人？她叫奇蘭卓，瘋得不得了。有人聽她說過，她有一把能帶你找到鬼魂的鑰匙。那女人還會跟魚說話，所以她說的話我一個字都不信，不過看來鬼魂和鑰匙的事，她並不喜歡拿出來炫耀。得纏她好幾次，她才肯提。"
+msgstr "誰？那個瘋女人？她叫綺蘭朵，瘋得不得了。有人聽她說過，她有一把能帶你找到鬼魂的鑰匙。那女人還會跟魚說話，所以她說的話我一個字都不信，不過看來鬼魂和鑰匙的事，她並不喜歡拿出來炫耀。得纏她好幾次，她才肯提。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Who is she? "

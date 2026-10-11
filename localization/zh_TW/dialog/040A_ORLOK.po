@@ -982,7 +982,7 @@ msgstr "說說班提克。"
 #. event 01 (use (talk)), after "Tell me of Tenebrae. "
 msgctxt "ask 040A"
 msgid "Tell me of Kilandra. "
-msgstr "說說奇蘭卓。"
+msgstr "說說綺蘭朵。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Tenebrae. "
@@ -1024,7 +1024,7 @@ msgstr "（降靈師從來沒有襲擊過泰納布利。吹牛大王約翰唯一
 #. event 01 (use (talk)), after "Tell me its history. "
 msgctxt "bark 040A:A111"
 msgid "Ah, I shall tell ye of the year of the Great Storm. Many years ago the Tempest of Tenebrae was a man named Strem. Lord Strem had a very beautiful daughter named Trecian. She had hair the color of spun honey and eyes the color of the Sea of Rains. She caught the eye of me great great great granpappy, John Blowhard. Well, John Blowhard and Trecian fell in love, but the Tempest didn't approve. The young lovers knew they couldn't live without each other so one night they ran away together. Well, the Tempest went into a rage and started a terrible storm. It rained and the wind blew and the surf pounded poor Tenebrae. He vowed to keep the storm raging until John Blowhard and Trecian were found. As the storm worsened, a huge wave began to build. It roared down upon Tenebrae, heading straight for the palace. From their hiding place in the mountains, John saw it and knew the people in the palace had to be warned. He ran for the palace and arrived just in time to get all the people out. The wave demolished the palace. When Lord Strem saw what he had done, he stopped the storm. He was so happy that John Blowhard had saved the people in the palace that he gave his blessing and allowed John and Trecian to marry."
-msgstr "啊，我來跟你講講大風暴那一年的事。很多年前，泰納布利的役水師是個叫史特雷姆的男人。史特雷姆大人有個非常美麗的女兒，名叫特雷西安。她的頭髮像蜂蜜絲一樣金黃，眼睛像雨之海一樣湛藍。她吸引了我的曾曾曾祖父吹牛大王約翰的目光。吹牛大王約翰和特雷西安墜入了愛河，但役水師不同意。這對年輕戀人知道彼此誰也離不開誰，於是有一晚私奔了。役水師勃然大怒，掀起一場可怕的風暴。大雨狂下、狂風怒吼，海浪不停拍打著可憐的泰納布利。他發誓，在找到吹牛大王約翰和特雷西安之前，絕不讓風暴停歇。風暴越來越猛，一道巨浪開始成形，咆哮著朝泰納布利撲來，直衝宮殿。約翰從山中藏身處看見了，知道必須警告宮殿裡的人。他朝宮殿狂奔，及時趕到，把所有人都救了出來。巨浪摧毀了宮殿。史特雷姆大人看到自己闖下的禍，就止住了風暴。他對吹牛大王約翰救了宮裡的人感激萬分，於是祝福他們，允許約翰和特雷西安成婚。"
+msgstr "啊，我來跟你講講大風暴那一年的事。很多年前，泰納布利的役水師是個叫史特雷姆的男人。史特雷姆大人有個非常美麗的女兒，名叫翠西安。她的頭髮像蜂蜜絲一樣金黃，眼睛像雨之海一樣湛藍。她吸引了我的曾曾曾祖父吹牛大王約翰的目光。吹牛大王約翰和翠西安墜入了愛河，但役水師不同意。這對年輕戀人知道彼此誰也離不開誰，於是有一晚私奔了。役水師勃然大怒，掀起一場可怕的風暴。大雨狂下、狂風怒吼，海浪不停拍打著可憐的泰納布利。他發誓，在找到吹牛大王約翰和翠西安之前，絕不讓風暴停歇。風暴越來越猛，一道巨浪開始成形，咆哮著朝泰納布利撲來，直衝宮殿。約翰從山中藏身處看見了，知道必須警告宮殿裡的人。他朝宮殿狂奔，及時趕到，把所有人都救了出來。巨浪摧毀了宮殿。史特雷姆大人看到自己闖下的禍，就止住了風暴。他對吹牛大王約翰救了宮裡的人感激萬分，於是祝福他們，允許約翰和翠西安成婚。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me its history. "
@@ -1072,37 +1072,37 @@ msgstr "（從來沒有什麼叫血腥鮑比的海盜，而且我跟班提克也
 #. event 01 (use (talk)), after "Tell me of Kilandra. "
 msgctxt "bark 040A:AB13"
 msgid "Now there's a case. She's a bit touched in the head, she is. Spends most of her time talking to the fish. Thinks they can talk back to her. Sad, sad tale is hers. Her daughter had a rare disease, she died before the healers got to Tenebrae. It is said that Kilandra went to the Pit of Death to retrieve her. Lithos would not allow her to pass and touched her mind to punish her for such impudence."
-msgstr "這位可是個特別的例子。她腦子有點不正常，大部分時間都在跟魚說話，還以為魚會回答她。她的故事真是好悲傷啊。她女兒得了一種罕見的病，沒等到治療師來泰納布利就死了。據說奇蘭卓去了死亡深坑，想把女兒帶回來。里索斯不准她通過，還為了懲罰她的放肆，擾亂了她的心智。"
+msgstr "這位可是個特別的例子。她腦子有點不正常，大部分時間都在跟魚說話，還以為魚會回答她。她的故事真是好悲傷啊。她女兒得了一種罕見的病，沒等到治療師來泰納布利就死了。據說綺蘭朵去了死亡深坑，想把女兒帶回來。里索斯不准她通過，還為了懲罰她的放肆，擾亂了她的心智。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Kilandra. "
 msgctxt "bark 040A:AB77"
 msgid "(Kilandra is a little strange, but she didn't go to the Pit of Death.) "
-msgstr "（奇蘭卓是有點怪，但她沒去過死亡深坑。）"
+msgstr "（綺蘭朵是有點怪，但她沒去過死亡深坑。）"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Kilandra. "
 msgctxt "bark 040A:AC8D"
 msgid "Kilandra acts a bit strange, but don't ye believe it. She's all right, she is. She's actually the mother of our Lady Mordea. Once Lady Mordea came to power she threw Kilandra out into the streets. She wanted no one to stand in the way of her power."
-msgstr "奇蘭卓的舉止是有點怪，但你可別信那一套。她好得很。她其實是咱們莫迪雅夫人的母親。莫迪雅夫人一掌權，就把奇蘭卓趕到了街上。她不想讓任何人妨礙她的權力。"
+msgstr "綺蘭朵的舉止是有點怪，但你可別信那一套。她好得很。她其實是咱們莫迪雅夫人的母親。莫迪雅夫人一掌權，就把綺蘭朵趕到了街上。她不想讓任何人妨礙她的權力。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Kilandra. "
 msgctxt "bark 040A:ACD2"
 msgid "(Kilandra is not Lady Mordea's mother.) "
-msgstr "（奇蘭卓不是莫迪雅夫人的母親。）"
+msgstr "（綺蘭朵不是莫迪雅夫人的母親。）"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Kilandra. "
 msgctxt "bark 040A:AEE7"
 msgid "I don't know about Kilandra. She acts a bit queer at times, but I think it is all fake. I have often seen her, late at night, slipping off into the woods behind the town. She doesn't come back 'til the wee hours before dawn. After I had watched her a number of times, I went back with the daylight and followed her trail. I came across a place where a campfire had been built. There were the footprints of many trolls. I think the trolls are planning to try to take over Tenebrae and she is their agent!"
-msgstr "奇蘭卓這人我說不準。她有時舉止古怪，但我覺得那全是裝的。我常看到她深夜偷偷溜進城後的樹林，直到天亮前的凌晨才回來。我觀察了她好幾次之後，就趁白天循著她的足跡追過去，結果找到一個生過營火的地方，地上有許多巨魔的腳印。我看巨魔是打算奪取泰納布利，而她就是牠們的內應！"
+msgstr "綺蘭朵這人我說不準。她有時舉止古怪，但我覺得那全是裝的。我常看到她深夜偷偷溜進城後的樹林，直到天亮前的凌晨才回來。我觀察了她好幾次之後，就趁白天循著她的足跡追過去，結果找到一個生過營火的地方，地上有許多巨魔的腳印。我看巨魔是打算奪取泰納布利，而她就是牠們的內應！"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Kilandra. "
 msgctxt "bark 040A:AF78"
 msgid "(I saw Kilandra out late at night once. She was going to the cemetery to put flowers on the grave of her daughter.) "
-msgstr "（我有一次看到奇蘭卓深夜外出。她是要去墓地，在她女兒的墳上放花。）"
+msgstr "（我有一次看到綺蘭朵深夜外出。她是要去墓地，在她女兒的墳上放花。）"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Aramina. "

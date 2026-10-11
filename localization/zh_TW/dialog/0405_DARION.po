@@ -599,7 +599,7 @@ msgstr "我見過班提克。"
 #. event 01 (use (talk)), after "Good morrow, Captain Darion. " or "Yes, just terrible, Captain Darion. "
 msgctxt "ask 0405"
 msgid "I met Kilandra. "
-msgstr "我見過奇蘭卓。"
+msgstr "我見過綺蘭朵。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Good morrow, Captain Darion. " or "Yes, just terrible, Captain Darion. "

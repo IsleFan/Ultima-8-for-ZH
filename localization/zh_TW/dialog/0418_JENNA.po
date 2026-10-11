@@ -344,7 +344,7 @@ msgstr "托拉克斯獸乳酪"
 #. event 11 (leaveFastArea), after "fish "
 msgctxt "bark 0418:1472"
 msgid "It's very fresh. Kilandra just brought it in today. It will cost you only one obsidian. "
-msgstr "非常新鮮，奇蘭卓今天才送來的。只要一枚黑曜石幣。"
+msgstr "非常新鮮，綺蘭朵今天才送來的。只要一枚黑曜石幣。"
 
 # P13 batch 2
 #. event 11 (leaveFastArea), after "Toraxen jerky "

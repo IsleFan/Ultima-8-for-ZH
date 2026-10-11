@@ -14,7 +14,7 @@ msgstr ""
 #. event 00 (look)
 msgctxt "bark 040F:00A2"
 msgid "Corinth "
-msgstr "柯林斯"
+msgstr "珂林絲"
 
 # P13 batch 5
 #. event 00 (look)
@@ -200,7 +200,7 @@ msgstr "別轉身不理我，女人！"
 #. event 01 (use (talk))
 msgctxt "ask 040F"
 msgid "Hello, Corinth. "
-msgstr "你好，柯林斯。"
+msgstr "你好，珂林絲。"
 
 # P13 batch 5
 #. event 01 (use (talk))
@@ -242,7 +242,7 @@ msgstr "閉嘴，女人！"
 #. event 01 (use (talk)), after "I apologize, m'lady. "
 msgctxt "bark 040F:13AB"
 msgid "Apology accepted, sir. I hope that I was not too terse in my response. We certainly do not get many strangers up here. Allow me to introduce my self; I am Corinth. By what are you called? "
-msgstr "我接受你的道歉，先生。希望我剛才回答得不會太冷淡。我們這裡確實很少有陌生人來。容我自我介紹，我是柯林斯。你叫什麼名字？"
+msgstr "我接受你的道歉，先生。希望我剛才回答得不會太冷淡。我們這裡確實很少有陌生人來。容我自我介紹，我是珂林絲。你叫什麼名字？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "I apologize, m'lady. "
@@ -280,7 +280,7 @@ msgstr "所以，你們很少見到陌生人？"
 #. event 01 (use (talk)), after "Don't turn away from me, woman! "
 msgctxt "ask 040F"
 msgid "Corinth? "
-msgstr "柯林斯？"
+msgstr "珂林絲？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Don't turn away from me, woman! "
@@ -394,7 +394,7 @@ msgstr "你們人民的價值觀"
 #. event 01 (use (talk)), after "I -do- apologize, my lady. "
 msgctxt "bark 040F:1BDD"
 msgid "Very well, sir, I accept your apology. I am called Corinth. By what are you called? "
-msgstr "好吧，先生，我接受你的道歉。我叫柯林斯。你叫什麼名字？"
+msgstr "好吧，先生，我接受你的道歉。我叫珂林絲。你叫什麼名字？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Hello, Corinth. "
@@ -478,7 +478,7 @@ msgstr "你知道我是誰嗎？"
 #. event 01 (use (talk)), after "Do you know who I am? "
 msgctxt "bark 040F:2416"
 msgid "Well, to be honest, no. But, someone of my stature certainly has no business telling a warrior what he can or can not do. But I have not introduced myself. I am Corinth. And by what are you called? "
-msgstr "嗯，老實說，不知道。不過，像我這樣身分的人，當然沒資格告訴一位戰士他能做什麼、不能做什麼。我還沒自我介紹呢，我是柯林斯。你叫什麼名字？"
+msgstr "嗯，老實說，不知道。不過，像我這樣身分的人，當然沒資格告訴一位戰士他能做什麼、不能做什麼。我還沒自我介紹呢，我是珂林絲。你叫什麼名字？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Do you know who I am? "

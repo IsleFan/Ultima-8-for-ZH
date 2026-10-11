@@ -14,7 +14,7 @@ msgstr ""
 #. event 00 (look)
 msgctxt "bark 0410:00BB"
 msgid "the body of Kilandra "
-msgstr "奇蘭卓的遺體"
+msgstr "綺蘭朵的遺體"
 
 # P13 batch 2
 #. event 00 (look)
@@ -26,13 +26,13 @@ msgstr "死去的女人"
 #. event 00 (look)
 msgctxt "bark 0410:0120"
 msgid "Kilandra the fisherwoman "
-msgstr "漁婦奇蘭卓"
+msgstr "漁婦綺蘭朵"
 
 # P13 batch 2
 #. event 00 (look)
 msgctxt "bark 0410:014C"
 msgid "Kilandra "
-msgstr "奇蘭卓"
+msgstr "綺蘭朵"
 
 # P13 batch 2
 #. event 00 (look)
@@ -183,7 +183,7 @@ msgstr "告訴我鑰匙在哪裡！"
 #. event 01 (use (talk))
 msgctxt "ask 0410"
 msgid "Hello, Kilandra. "
-msgstr "你好，奇蘭卓。"
+msgstr "你好，綺蘭朵。"
 
 # P13 batch 2
 #. event 01 (use (talk))
@@ -195,7 +195,7 @@ msgstr "你好"
 #. event 01 (use (talk))
 msgctxt "ask 0410"
 msgid "Kilandra? "
-msgstr "奇蘭卓？"
+msgstr "綺蘭朵？"
 
 # P13 batch 2
 #. event 01 (use (talk))
@@ -234,7 +234,7 @@ msgstr "那麼，陌生人，今天有什麼能幫你的？"
 #. event 01 (use (talk)), after "Well, what can I do for ye today, stranger? "
 msgctxt "bark 0410:0EFD"
 msgid "Pleased to meet ye, I am Kilandra. I haven't seen ye' here before. Are ye' new in town? "
-msgstr "很高興認識你，我是奇蘭卓。我以前沒在這兒見過你。你是剛來城裡的嗎？"
+msgstr "很高興認識你，我是綺蘭朵。我以前沒在這兒見過你。你是剛來城裡的嗎？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Well, what can I do for ye today, stranger? "
