@@ -49,6 +49,7 @@ rm -rf "$OUT"
 mkdir -p "$OUT"
 cp -R "$APP" "$OUT/"
 cp "$ROOT"/package/README.zh-TW.md "$ROOT"/package/SETTINGS.zh-TW.md \
+	"$ROOT"/package/CONSOLE.zh-TW.md \
 	"$ROOT"/package/LICENSES.md "$ROOT"/package/TRANSLATION_CREDITS.md \
 	"$ROOT"/package/INSTALL-macOS.zh-TW.md "$OUT/"
 sed -e "s/{ENGINE_COMMIT}/$(git -C "$SRC" rev-parse --short=10 HEAD)/" \

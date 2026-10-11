@@ -31,7 +31,9 @@
 | Quick action icons (快捷圖示列) | 滑鼠移到畫面右下角時出現的快捷圖示：背包、屬性、戰鬥、地圖、選單、鑰匙圈、召回石、睡袋、存檔、讀檔（預設開啟）。在 `scummvm.ini` 加上 `quick_bar_autohide=false` 可讓它常駐顯示。 |
 | High-resolution Chinese text (高解析中文字) | 中文字以視窗解析度繪製（字型 jf open 粉圓），畫面其他部分不變（預設開啟）。重新啟動遊戲後生效。 |
 
-字型、字級、字距、行距、台詞框的行數與寬度、快捷圖示列是否常駐等細部調整，寫在本資料夾的 `scummvm.ini`（每個設定都有中文註解）。完整說明與調整範例見 [SETTINGS.zh-TW.md](SETTINGS.zh-TW.md)。
+字型、字級、字距、行距、台詞框的行數與寬度、快捷圖示列是否常駐等細部調整，寫在本資料夾的 `scummvm.ini`（每個設定都有中文註解）。完整說明與調整範例見 [SETTINGS.zh-TW.md](SETTINGS.zh-TW.md)，音樂音源（General MIDI、AdLib、Roland MT-32）的設定也在其中。
+
+進階玩家可以用 ScummVM 的主控台（`Ctrl+Alt+D`）輸入指令：傳送、作弊、播放動畫與音樂等，見 [CONSOLE.zh-TW.md](CONSOLE.zh-TW.md)。
 
 ## 已知問題
 
