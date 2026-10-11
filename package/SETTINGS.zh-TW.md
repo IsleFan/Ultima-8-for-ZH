@@ -18,6 +18,8 @@
 | Chinese engravings (墓碑牌匾全中文) | 開 | 墓碑與牌匾直接刻上中文（王漢宗魏碑體，雕刻效果）。關閉時為英文雕刻加中文字幕 |
 | Quick action icons (快捷圖示列) | 開 | 滑鼠移到畫面右下角時出現的快捷圖示（背包、屬性、戰鬥、地圖、選單、鑰匙圈、召回石、睡袋、存檔、讀檔） |
 
+這些勾選框在 `scummvm.ini` 的 `[ultima8]` 區段裡依序是 `localization_zh_tw`、`localization_annotate`、`hd_text`、`walk_to_use`、`engraving_chinese`、`quick_bar`（`true` 為開、`false` 為關）。平常在介面切換即可；macOS 版或想直接改設定檔時，可以用這些名稱。
+
 ## 二、修改 `scummvm.ini`
 
 `scummvm.ini` 在本包的資料夾裡（和 `scummvm.exe` 同一處）。
