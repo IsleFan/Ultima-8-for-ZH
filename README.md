@@ -2,7 +2,7 @@
 
 [English](README_EN.md)
 
-讓《創世紀 VIII：佩根》（Ultima VIII: Pagan）以**正體中文**遊玩的同好專案。以 [ScummVM](https://www.scummvm.org/) 的 Ultima 8 引擎為基礎，在不修改原始遊戲資料的前提下，把對話、選項、書籍、捲軸、墓碑與介面顯示成中文。
+讓《創世紀 VIII：異教徒》（Ultima VIII: Pagan）以**正體中文**遊玩的同好專案。以 [ScummVM](https://www.scummvm.org/) 的 Ultima 8 引擎為基礎，在不修改原始遊戲資料的前提下，把對話、選項、書籍、捲軸、墓碑與介面顯示成中文。
 
 > **目前狀態：v1.0.1 正式版。** 全遊戲翻譯完成（99.8%），提供 Windows 與 macOS（Apple Silicon、Intel）的免安裝版本，見[下載與安裝](#下載與安裝)。
 
