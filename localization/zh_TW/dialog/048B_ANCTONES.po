@@ -32,13 +32,13 @@ msgstr "我的命運是什麼？"
 #. event 10 (enterFastArea)
 msgctxt "bark 048B:0452"
 msgid "That is not important now. Know that we wish to help you in your quest. Behind us lies the Tomb of Khumash-Gor. "
-msgstr "那現在並不重要。要知道我們想在你的旅程中幫助你。在我們身後的，是庫馬許·戈爾之墓。"
+msgstr "那現在並不重要。要知道我們想在你的旅程中幫助你。在我們身後的，是克瑪許郭之墓。"
 
 # P13 batch 6
 #. event 10 (enterFastArea)
 msgctxt "bark 048B:0486"
 msgid "Who is Khumash-Gor? "
-msgstr "庫馬許·戈爾是誰？"
+msgstr "克瑪許郭是誰？"
 
 # P13 batch 6
 #. event 10 (enterFastArea)
@@ -56,7 +56,7 @@ msgstr "與他一同長眠的，是一件通往強大力量之鑰的神器。它
 #. event 10 (enterFastArea)
 msgctxt "bark 048B:07A0"
 msgid "...for even in death, Khumash-Gor has kept the fighting spirit to which he held so tenaciously in life. He will not part readily with his possessions. "
-msgstr "……因為就算死了，庫馬許·戈爾仍保有他生前執著不放的戰鬥意志。他不會輕易交出他的東西。"
+msgstr "……因為就算死了，克瑪許郭仍保有他生前執著不放的戰鬥意志。他不會輕易交出他的東西。"
 
 # P13 batch 6
 #. event 10 (enterFastArea)
@@ -116,13 +116,13 @@ msgstr "繼續追尋其他泰坦的力量吧，那是贏得他們追隨者的方
 #. event 10 (enterFastArea)
 msgctxt "bark 048B:1044"
 msgid "Go now to find the Titans called Stratos, Hydros, and Pyros. "
-msgstr "現在去找名為史特拉托斯、海德羅斯和派羅斯的泰坦吧。"
+msgstr "現在去找名為史卓拉透絲、海特蘿和派羅斯的泰坦吧。"
 
 # P13 batch 6
 #. event 10 (enterFastArea)
 msgctxt "bark 048B:10ED"
 msgid "You shall find Hydros in her underground Temple. The other two dwell on the surface. "
-msgstr "你會在海德羅斯的地下神廟找到她。另外兩位住在地面上。"
+msgstr "你會在海特蘿的地下神廟找到她。另外兩位住在地面上。"
 
 # P13 batch 6
 #. event 10 (enterFastArea)

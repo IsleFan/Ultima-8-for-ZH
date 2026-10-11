@@ -14,13 +14,13 @@ msgstr ""
 #. event 07 (hatch)
 msgctxt "bark 0483:0321"
 msgid "Toran, you have been accused of blasphemy against our Lady Mordea and sentenced to death by beheading... Do you have any final words? "
-msgstr "托蘭，你被控褻瀆我們的莫爾迪亞夫人，判處斬首之刑……你還有什麼遺言嗎？"
+msgstr "托蘭，你被控褻瀆我們的莫迪雅夫人，判處斬首之刑……你還有什麼遺言嗎？"
 
 # P13 batch 1
 #. event 07 (hatch)
 msgctxt "bark 0483:0396"
 msgid "I shall die as I have lived... with honor.  When I face Lithos, he will not find -me- wanting. "
-msgstr "我活得光明磊落，死也要死得有尊嚴。當我面見利索斯時，他絕不會認為我有所虧欠。"
+msgstr "我活得光明磊落，死也要死得有尊嚴。當我面見里索斯時，他絕不會認為我有所虧欠。"
 
 # P13 batch 1
 #. event 07 (hatch)
@@ -32,7 +32,7 @@ msgstr "有尊嚴的人，可不會散播煽動的謠言來侮辱他的夫人，
 #. event 07 (hatch)
 msgctxt "bark 0483:04EA"
 msgid "I fear that Lithos will not find you at all... for your grave shall be a watery one.  The Lurker is not kind to the ones she... acquires. "
-msgstr "恐怕利索斯根本見不到你了……因為你的墳墓將在水底。潛伏者對她……收下的人，可不會手下留情。"
+msgstr "恐怕里索斯根本見不到你了……因為你的墳墓將在水底。潛伏者對她……收下的人，可不會手下留情。"
 
 # P13 batch 1
 #. event 07 (hatch)
@@ -44,7 +44,7 @@ msgstr "這是禁忌，夫人。安葬儀式是神聖的。"
 #. event 07 (hatch)
 msgctxt "bark 0483:0649"
 msgid "Do not question my decisions, Tarna.  I am sure that Lithos would not want this one's worthless spirit in his domain. "
-msgstr "不要質疑我的決定，塔娜。我相信利索斯也不會想讓這傢伙一文不值的靈魂進入他的領域。"
+msgstr "不要質疑我的決定，塔娜。我相信里索斯也不會想讓這傢伙一文不值的靈魂進入他的領域。"
 
 # P13 batch 1
 #. event 07 (hatch)
@@ -62,4 +62,4 @@ msgstr "我的丈夫……"
 #. event 07 (hatch)
 msgctxt "bark 0483:0D92"
 msgid "Stand aside! Let Lady Mordea pass! "
-msgstr "讓開！讓莫爾迪亞夫人通過！"
+msgstr "讓開！讓莫迪雅夫人通過！"

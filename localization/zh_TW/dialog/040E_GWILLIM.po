@@ -351,7 +351,7 @@ msgstr "聽起來她是個好女人。"
 #. event 01 (use (talk)), after "Where is your son? "
 msgctxt "bark 040E:1CE8"
 msgid "I am surprised that my wife did not talk your ear off about our son. Corinth is so proud of Cyrrus that sometimes I think that she can speak of nothing else. But make no mistake, we are law abiding folk here. We also honor Hydros as Her Ladyship does command. "
-msgstr "我還真意外我妻子沒跟你嘮叨我們兒子的事嘮叨到你耳朵長繭。柯林斯以席勒斯為傲，有時我覺得她除了他什麼都不會說。不過可別誤會，我們這裡是奉公守法的人家，也遵照夫人的命令尊崇海德羅斯。"
+msgstr "我還真意外我妻子沒跟你嘮叨我們兒子的事嘮叨到你耳朵長繭。柯林斯以席勒斯為傲，有時我覺得她除了他什麼都不會說。不過可別誤會，我們這裡是奉公守法的人家，也遵照夫人的命令尊崇海特蘿。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Where is your son? "
@@ -375,43 +375,43 @@ msgstr "夫人？"
 #. event 01 (use (talk)), after "Where is your son? "
 msgctxt "bark 040E:1E46"
 msgid "Cyrrus, that's our boy's name, joined the Theurgists not long ago. My wife was very proud of him. She has always said that Cyrrus was a natural healer. But make no mistake, we are law abiding folk here. We also honor Hydros as Her Ladyship does command. "
-msgstr "席勒斯——那是我們兒子的名字——不久前加入了神術師。我妻子很以他為傲。她總說席勒斯是天生的治療者。不過可別誤會，我們這裡是奉公守法的人家，也遵照夫人的命令尊崇海德羅斯。"
+msgstr "席勒斯——那是我們兒子的名字——不久前加入了神通師。我妻子很以他為傲。她總說席勒斯是天生的治療者。不過可別誤會，我們這裡是奉公守法的人家，也遵照夫人的命令尊崇海特蘿。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Where is your son? "
 msgctxt "ask 040E"
 msgid "Who are the Theurgists? "
-msgstr "神術師是什麼人？"
+msgstr "神通師是什麼人？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Talk my ear off? "
 msgctxt "bark 040E:1F92"
 msgid "I love Corinth, but if you give that woman a chance, she'll talk the legs off a Kith when it comes to that boy. Surely she told you that Cyrrus has become a Theurgist. "
-msgstr "我愛柯林斯，不過只要給那女人一個機會，一說起那孩子，她能把奇斯怪蛛的腿都說斷。她一定跟你說過席勒斯當上神術師了吧。"
+msgstr "我愛柯林斯，不過只要給那女人一個機會，一說起那孩子，她能把奇斯怪蛛的腿都說斷。她一定跟你說過席勒斯當上神通師了吧。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Talk my ear off? "
 msgctxt "ask 040E"
 msgid "Yes, Corinth did mention that Cyrrus is a Theurgist. "
-msgstr "是的，柯林斯確實提過席勒斯是神術師。"
+msgstr "是的，柯林斯確實提過席勒斯是神通師。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Talk my ear off? "
 msgctxt "ask 040E"
 msgid "No, Corinth didn't mention Theurgists. "
-msgstr "沒有，柯林斯沒提到神術師。"
+msgstr "沒有，柯林斯沒提到神通師。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "No, Corinth didn't mention Theurgists. "
 msgctxt "bark 040E:2127"
 msgid "Well I am greatly surprised. My wife is very proud of our son. He left here to become one of the Theurgists that I told you about. My son is quite a good healer. "
-msgstr "那我可真意外。我妻子很以我們的兒子為傲。他離開這裡，成了我跟你說過的神術師。我兒子是個相當好的治療者。"
+msgstr "那我可真意外。我妻子很以我們的兒子為傲。他離開這裡，成了我跟你說過的神通師。我兒子是個相當好的治療者。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "No, Corinth didn't mention Theurgists. "
 msgctxt "bark 040E:21E8"
 msgid "Well, I am greatly surprised. You see, my wife is very proud of the fact that our son has become a Theurgist. They are the healers who serve Stratos, the Titan of Air. "
-msgstr "那我可真意外。你知道，我妻子很以我們兒子當上神術師為傲。他們是侍奉天空泰坦史特拉托斯的治療者。"
+msgstr "那我可真意外。你知道，我妻子很以我們兒子當上神通師為傲。他們是侍奉天空泰坦史卓拉透絲的治療者。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Oh yes, I've met your wife. "
@@ -429,13 +429,13 @@ msgstr "噢，她是的。她當然是。"
 #. event 01 (use (talk)), after "Who are the Theurgists? "
 msgctxt "bark 040E:2434"
 msgid "What? Have you never heard of the Theurgists? For Lithos' sake, man, did you just fall out of the sky? The Theurgists are the disciples of Stratos, the Air Titan. I thought that everyone knew that. "
-msgstr "什麼？你沒聽過神術師？看在利索斯的分上，老兄，你是剛從天上掉下來的嗎？神術師是天空泰坦史特拉托斯的門徒。我還以為人人都知道。"
+msgstr "什麼？你沒聽過神通師？看在里索斯的分上，老兄，你是剛從天上掉下來的嗎？神通師是天空泰坦史卓拉透絲的門徒。我還以為人人都知道。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Yes, Corinth did mention that Cyrrus is a Theurgist. "
 msgctxt "bark 040E:24E5"
 msgid "Well, that is where he is; Argentrock Isle. "
-msgstr "嗯，他就在那裡，白銀之岩島。"
+msgstr "嗯，他就在那裡，銀岩島。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "The valley "
@@ -514,19 +514,19 @@ msgstr "你父親是牧民？"
 #. event 01 (use (talk)), after "You don't get visitors? "
 msgctxt "bark 040E:2C5F"
 msgid "Not very often. No one really has much cause to come up here, other than Shaana and Mythran. That is why I was so surprised to see you. "
-msgstr "不太常有。除了夏娜和米斯蘭，沒什麼人有理由上來這裡。所以看到你我才那麼驚訝。"
+msgstr "不太常有。除了夏娜和米瑟倫，沒什麼人有理由上來這裡。所以看到你我才那麼驚訝。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "You don't get visitors? "
 msgctxt "ask 040E"
 msgid "Who is Mythran? "
-msgstr "米斯蘭是誰？"
+msgstr "米瑟倫是誰？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Who is Mythran? "
 msgctxt "bark 040E:2E04"
 msgid "Mythran is an old hermit who lives up on the plateau. Many people think that he sells magical scrolls. I do not know if that is true or not. Personally I doubt that there is anyone who does such a thing. The Titans are the only magic in the world. I believe that Mythran is just an eccentric old man. "
-msgstr "米斯蘭是住在高原上的老隱士。很多人以為他賣魔法捲軸，我不知道是真是假。我個人懷疑有誰會做那種事。泰坦是世上唯一的魔法。我相信米斯蘭只是個古怪的老頭子。"
+msgstr "米瑟倫是住在高原上的老隱士。很多人以為他賣魔法捲軸，我不知道是真是假。我個人懷疑有誰會做那種事。泰坦是世上唯一的魔法。我相信米瑟倫只是個古怪的老頭子。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Gwillim "
@@ -551,19 +551,19 @@ msgstr "沒錯，先生。夫人的官府從來沒理由為我們操心。"
 #. event 01 (use (talk)), after "Her Ladyship? "
 msgctxt "bark 040E:3028"
 msgid "Our ruler, Lady Mordea. You need not pretend that you do not know The Lady. But be assured that I have always lived well by her mandates. You can tell Her Ladyship that all is well in this district. "
-msgstr "我們的統治者，莫爾迪亞夫人。你用不著假裝不認識夫人。不過請放心，我一向謹遵她的命令過日子。你可以告訴夫人，這一區一切安好。"
+msgstr "我們的統治者，莫迪雅夫人。你用不著假裝不認識夫人。不過請放心，我一向謹遵她的命令過日子。你可以告訴夫人，這一區一切安好。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Her Ladyship? "
 msgctxt "ask 040E"
 msgid "Gwillim, Mordea's dead. "
-msgstr "威廉，莫爾迪亞死了。"
+msgstr "威廉，莫迪雅死了。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Her Ladyship? "
 msgctxt "ask 040E"
 msgid "Tell Mordea what? "
-msgstr "告訴莫爾迪亞什麼？"
+msgstr "告訴莫迪雅什麼？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Tell Mordea what? "
@@ -575,7 +575,7 @@ msgstr "告訴她這裡一切安好。她用不著擔心山谷裡的子民會違
 #. event 01 (use (talk)), after "Tell Mordea what? "
 msgctxt "ask 040E"
 msgid "Do you think that I work for Mordea? "
-msgstr "你以為我替莫爾迪亞做事？"
+msgstr "你以為我替莫迪雅做事？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Tell Mordea what? "
@@ -599,7 +599,7 @@ msgstr "一個裝備這麼齊全、護甲這麼精良的人，除了保護我們
 #. event 01 (use (talk)), after "Do you think that I work for Mordea? "
 msgctxt "ask 040E"
 msgid "I don't work for Mordea. "
-msgstr "我沒替莫爾迪亞做事。"
+msgstr "我沒替莫迪雅做事。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Gwillim, Mordea's dead. "
@@ -641,19 +641,19 @@ msgstr "為什麼你是最後一代？"
 #. event 01 (use (talk)), after "Why are you the last? "
 msgctxt "bark 040E:37B2"
 msgid "Because my son has become a Theurgist and I don't have any other children. "
-msgstr "因為我兒子成了神術師，而我沒有別的孩子。"
+msgstr "因為我兒子成了神通師，而我沒有別的孩子。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Why are you the last? "
 msgctxt "ask 040E"
 msgid "Yes, you told me of the Theurgists. "
-msgstr "是啊，你跟我說過神術師的事。"
+msgstr "是啊，你跟我說過神通師的事。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Why are you the last? "
 msgctxt "ask 040E"
 msgid "What's a Theurgist? "
-msgstr "神術師是什麼？"
+msgstr "神通師是什麼？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Yes, you told me of the Theurgists. "
@@ -665,7 +665,7 @@ msgstr "那你就明白，席勒斯永遠不會當牧民了。"
 #. event 01 (use (talk)), after "What's a Theurgist? "
 msgctxt "bark 040E:39B4"
 msgid "You have not heard of the Theurgists? They are the disciples of Stratos, the Air elemental. My son, Cyrrus, now lives with them on Argentrock Isle. "
-msgstr "你沒聽過神術師？他們是風之元素史特拉托斯的門徒。我兒子席勒斯現在跟他們一起住在白銀之岩島。"
+msgstr "你沒聽過神通師？他們是風之元素史卓拉透絲的門徒。我兒子席勒斯現在跟他們一起住在銀岩島。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Farewell. "
@@ -1007,7 +1007,7 @@ msgstr "是的，她跟魚說話。除非你想送命，或是下半輩子都跟
 #. event 01 (use (talk)), after "I want to find the ghost. "
 msgctxt "bark 040E:579F"
 msgid "Look, if you are in a hurry to die, then go and insult Lady Mordea. But I will have no hand in assisting you. Do you understand? "
-msgstr "聽著，如果你急著找死，就去侮辱莫爾迪亞夫人吧。但我絕不會幫你。明白嗎？"
+msgstr "聽著，如果你急著找死，就去侮辱莫迪雅夫人吧。但我絕不會幫你。明白嗎？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "I want to find the ghost. "
@@ -1025,13 +1025,13 @@ msgstr "我只需要你幫我找到它。"
 #. event 01 (use (talk)), after "I want to find the ghost. "
 msgctxt "ask 040E"
 msgid "Mordea's dead, Gwillim. "
-msgstr "莫爾迪亞死了，威廉。"
+msgstr "莫迪雅死了，威廉。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Mordea's dead, Gwillim. "
 msgctxt "bark 040E:58FD"
 msgid "Oh yes, I keep forgetting that. Mordead was Tempest for so long that it is difficult for me to think of anyone else as ruling Tenebrae. "
-msgstr "噢，對，我老是忘了這件事。莫爾迪亞當風暴使者太久了，我很難想像由別人來統治泰尼伯瑞。"
+msgstr "噢，對，我老是忘了這件事。莫迪雅當役水師太久了，我很難想像由別人來統治泰納布利。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Don't worry about me. "

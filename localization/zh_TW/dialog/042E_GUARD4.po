@@ -104,19 +104,19 @@ msgstr "只有沒腦子的傻瓜，才會逢人就問名字。"
 #. event 01 (use (talk)), after "What is your duty? "
 msgctxt "bark 042E:0605"
 msgid "My job is to guard the new Tempest, of course. "
-msgstr "我的工作當然是守衛新的風暴使者。"
+msgstr "我的工作當然是守衛新的役水師。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What is your duty? "
 msgctxt "bark 042E:0651"
 msgid "My job is to guard her Ladyship Mordea, of course! "
-msgstr "我的工作當然是守衛莫爾迪亞夫人！"
+msgstr "我的工作當然是守衛莫迪雅夫人！"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Where am I? "
 msgctxt "bark 042E:06C8"
 msgid "You are in the palace of the Tempest. "
-msgstr "你在風暴使者的宮殿裡。"
+msgstr "你在役水師的宮殿裡。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Where am I? "
@@ -128,7 +128,7 @@ msgstr "聽著，我沒空跟陌生人閒聊。"
 #. event 01 (use (talk)), after "Where am I? "
 msgctxt "bark 042E:075D"
 msgid "Push off, before Mordea has both our heads. "
-msgstr "快滾吧，免得莫爾迪亞把我們倆的頭都砍了。"
+msgstr "快滾吧，免得莫迪雅把我們倆的頭都砍了。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Bye "
@@ -140,7 +140,7 @@ msgstr "反正我也得去執勤了。"
 #. event 01 (use (talk)), after "Bye "
 msgctxt "bark 042E:0824"
 msgid "Oh, yes, I heard you had a part in ridding us of Mordea. "
-msgstr "噢，對了，聽說你出了一份力，幫我們擺脫了莫爾迪亞。"
+msgstr "噢，對了，聽說你出了一份力，幫我們擺脫了莫迪雅。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Bye "

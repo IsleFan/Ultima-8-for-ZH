@@ -14,25 +14,25 @@ msgstr ""
 #. event 00 (look)
 msgctxt "bark 041B:013E"
 msgid "Malchir the late Master Sorcerer "
-msgstr "已故的大巫師馬爾奇爾"
+msgstr "已故的大巫師麥爾吉爾"
 
 # P13 batch 5
 #. event 00 (look)
 msgctxt "bark 041B:016E"
 msgid "Malchir the Master Sorcerer "
-msgstr "大巫師馬爾奇爾"
+msgstr "大巫師麥爾吉爾"
 
 # P13 batch 5
 #. event 00 (look)
 msgctxt "bark 041B:01AA"
 msgid "Malchir the deceased "
-msgstr "已故的馬爾奇爾"
+msgstr "已故的麥爾吉爾"
 
 # P13 batch 5
 #. event 00 (look)
 msgctxt "bark 041B:01C5"
 msgid "Malchir"
-msgstr "馬爾奇爾"
+msgstr "麥爾吉爾"
 
 # P13 batch 5
 #. event 00 (look)

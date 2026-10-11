@@ -26,7 +26,7 @@ msgstr "你的目的地是哪裡？"
 #. event 01 (use (talk))
 msgctxt "ask 0341"
 msgid "Central Tenebrae "
-msgstr "泰尼伯瑞中區"
+msgstr "泰納布利中區"
 
 # P13 batch 6
 #. event 01 (use (talk))
@@ -50,7 +50,7 @@ msgstr "山之王大廳"
 #. event 01 (use (talk))
 msgctxt "ask 0341"
 msgid "Argentrock Isle "
-msgstr "白銀之岩島"
+msgstr "銀岩島"
 
 # P13 batch 6
 #. event 01 (use (talk))

@@ -38,7 +38,7 @@ msgstr "快逃命吧，笨蛋！泰坦們發瘋了！"
 #. event 01 (use (talk))
 msgctxt "bark 040B:0319"
 msgid "Lithos makes the land quake and the dead rise. Run, fool, and hide before the very city falls to the undead onslaught. "
-msgstr "利索斯讓大地震動、讓死者復活。快逃吧，笨蛋，在整座城被不死者攻陷之前躲起來。"
+msgstr "里索斯讓大地震動、讓死者復活。快逃吧，笨蛋，在整座城被不死者攻陷之前躲起來。"
 
 # P13 batch 1
 #. event 01 (use (talk))

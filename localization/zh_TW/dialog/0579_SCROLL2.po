@@ -13,7 +13,7 @@ msgstr ""
 # P13 batch 8
 msgctxt "scroll 0579:0168"
 msgid "SCROLL OF DISPELLING MAGICAL PORTALS.~By Mythran ~~This scroll has been constructed to unravel the countermagics used to seal all types of portals, including doors and sealed walls. Do not store in damp areas."
-msgstr "驅散傳送門捲軸~米斯蘭製~~本捲軸用於解除封印各類傳送門的反制魔法，包括門與封住的牆壁。請勿存放於潮濕處。"
+msgstr "驅散傳送門捲軸~米瑟倫製~~本捲軸用於解除封印各類傳送門的反制魔法，包括門與封住的牆壁。請勿存放於潮濕處。"
 
 # P13 batch 8
 msgctxt "bark 0579:0310"

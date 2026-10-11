@@ -81,7 +81,7 @@ msgstr "你好。"
 #. event 01 (use (talk)), after "What is your name? "
 msgctxt "bark 0408:05F1"
 msgid "I am Tarna, guardswoman of Tenebrae. Please tell me what it is you wish to know so that I might get on with my business. "
-msgstr "我是塔娜，泰尼伯瑞的衛兵。請告訴我你想知道什麼，我好繼續辦我的事。"
+msgstr "我是塔娜，泰納布利的衛兵。請告訴我你想知道什麼，我好繼續辦我的事。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What is your name? "
@@ -93,7 +93,7 @@ msgstr "說說你的工作。"
 #. event 01 (use (talk)), after "What is your name? "
 msgctxt "ask 0408"
 msgid "Tell me about Tenebrae. "
-msgstr "說說泰尼伯瑞。"
+msgstr "說說泰納布利。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Hello, Tarna. " or "Hello. "
@@ -148,7 +148,7 @@ msgstr "抱歉，我沒空閒聊。再會。"
 #. event 01 (use (talk)), after "Information. "
 msgctxt "bark 0408:0A36"
 msgid "I have no time to talk. Now that the Theurgists have lost their healing powers, the guards are on extra duty to insure no trouble breaks out. "
-msgstr "我沒空說話。神術師們失去了治癒的力量，衛兵都得加班執勤，以防出亂子。"
+msgstr "我沒空說話。神通師們失去了治癒的力量，衛兵都得加班執勤，以防出亂子。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Information. "
@@ -208,7 +208,7 @@ msgstr "那個女侍？她是衛兵隊長的女兒。她脾氣很衝——比她
 #. event 01 (use (talk)), after "Tell me about Tenebrae. "
 msgctxt "bark 0408:1202"
 msgid "I suppose that should not be too difficult, since I have lived here my entire life. Some say Tenebrae does not need to be anything more than a bastion of security, since there is no other measure of civilization around, but I disagree. Give me my home and my blade and I'll protect her -- Tenebrae -- with my life. "
-msgstr "這應該不難，畢竟我這輩子都住在這裡。有人說，既然周圍沒有其他像樣的文明，泰尼伯瑞只要當個安全的堡壘就夠了，但我不這麼認為。只要給我我的家園和我的劍，我就會用性命守護她——守護泰尼伯瑞。"
+msgstr "這應該不難，畢竟我這輩子都住在這裡。有人說，既然周圍沒有其他像樣的文明，泰納布利只要當個安全的堡壘就夠了，但我不這麼認為。只要給我我的家園和我的劍，我就會用性命守護她——守護泰納布利。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Tell me about Tenebrae. "
@@ -226,7 +226,7 @@ msgstr "沒有其他文明？"
 #. event 01 (use (talk)), after "Bastion of security from what? "
 msgctxt "bark 0408:142F"
 msgid "Well, initially, from the Zealans. That is why the city is divided into three sections. The rulers wanted addition defenses for the palace should the outer walls be breached.  Now, however, the walls are little more than divisions between the decent people and\tthe Necromancers. Not to, ah, imply that you or the Necromancers are -indecent- or any such thing, of course. "
-msgstr "嗯，起初是為了防禦澤蘭人。所以這座城才分成三個區域。統治者希望外牆萬一被攻破，宮殿還有額外的防線。不過現在，這些城牆差不多只是把正派人士和死靈法師隔開而已。當然，呃，我可沒有暗示你或死靈法師「不正派」之類的意思。"
+msgstr "嗯，起初是為了防禦澤蘭人。所以這座城才分成三個區域。統治者希望外牆萬一被攻破，宮殿還有額外的防線。不過現在，這些城牆差不多只是把正派人士和降靈師隔開而已。當然，呃，我可沒有暗示你或降靈師「不正派」之類的意思。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Bastion of security from what? "
@@ -262,13 +262,13 @@ msgstr "連可鄙的澤蘭人都不知道，你果然是外地人。他們是—
 #. event 01 (use (talk)), after "Boundary for the weather? "
 msgctxt "bark 0408:19C4"
 msgid "As long as we show proper reverence for The Lady Mordea, she shall bless us with skies of peace and calm. Cross her, however, and she shall call upon the might of Hydros, raining down upon the people a tempest the likes of which have never been felt before. Yet the Lady does not extend her kindness without the city walls, traveler beware. "
-msgstr "只要我們對莫爾迪亞夫人保持應有的敬畏，她就會賜給我們風平浪靜的天空。但要是違逆她，她就會召喚海德羅斯的力量，降下一場前所未見的暴風雨給人民。不過夫人的恩惠不會延伸到城牆之外，旅人可要當心。"
+msgstr "只要我們對莫迪雅夫人保持應有的敬畏，她就會賜給我們風平浪靜的天空。但要是違逆她，她就會召喚海特蘿的力量，降下一場前所未見的暴風雨給人民。不過夫人的恩惠不會延伸到城牆之外，旅人可要當心。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What about the cemetery? "
 msgctxt "bark 0408:1AF9"
 msgid "'Tis home to more than the dead it is. In accordance with our pact, we bring the lifeless corpses of our friends and brethren to the Necromancers there, and only they and Lithos know what happens after that. "
-msgstr "那裡住的可不只是死人。依照我們的契約，我們會把朋友和同胞的遺體送到那裡交給死靈法師，之後會發生什麼事，只有他們和利索斯知道。"
+msgstr "那裡住的可不只是死人。依照我們的契約，我們會把朋友和同胞的遺體送到那裡交給降靈師，之後會發生什麼事，只有他們和里索斯知道。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What about the cemetery? "
@@ -280,13 +280,13 @@ msgstr "什麼契約？"
 #. event 01 (use (talk)), after "What about the cemetery? "
 msgctxt "ask 0408"
 msgid "Tell me about the Necromancers. "
-msgstr "說說死靈法師。"
+msgstr "說說降靈師。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What pact? "
 msgctxt "bark 0408:1CB1"
 msgid "Eons ago, our forebears formed a covenant with Lithos. He would cease his angry rumblings if we agreed to send our dead to him. There, deep in the heart of Pagan, the dead exist solely to serve the Mountain King's very wishes. And sometimes, Lithos has them wander the surface world as well! "
-msgstr "很久很久以前，我們的祖先與利索斯立下了盟約。只要我們同意把死者送給他，他就會平息憤怒的震動。在佩根的深處，死者只為了實現山之王的心願而存在。有時候，利索斯還會讓他們在地面上遊蕩！"
+msgstr "很久很久以前，我們的祖先與里索斯立下了盟約。只要我們同意把死者送給他，他就會平息憤怒的震動。在佩根的深處，死者只為了實現山之王的心願而存在。有時候，里索斯還會讓他們在地面上遊蕩！"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What pact? "
@@ -304,19 +304,19 @@ msgstr "在地面上遊蕩？"
 #. event 01 (use (talk)), after "Wander up here? "
 msgctxt "bark 0408:1E37"
 msgid "Aye, in the cemetery the undead wander, doing the bidding of the Necromancers, always ready to take the living down to the very depths of the Mountain King's domain. I would avoid the cemetery at all costs, I would.  Keep your business far from there. "
-msgstr "沒錯，不死者就在墓地裡遊蕩，聽從死靈法師的差遣，隨時準備把活人拖進山之王領域的最深處。換作是我，無論如何都會避開墓地。別去那裡辦事。"
+msgstr "沒錯，不死者就在墓地裡遊蕩，聽從降靈師的差遣，隨時準備把活人拖進山之王領域的最深處。換作是我，無論如何都會避開墓地。別去那裡辦事。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "How do you send the dead? "
 msgctxt "bark 0408:1EFB"
 msgid "How in the blazes do you expect me to know? Burying them does it I suppose.  Why not ask a Necromancer? "
-msgstr "我怎麼會知道？大概是把他們埋了就行了吧。你何不去問死靈法師？"
+msgstr "我怎麼會知道？大概是把他們埋了就行了吧。你何不去問降靈師？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Tell me about the Necromancers. "
 msgctxt "bark 0408:208F"
 msgid "I'll tell you what I can. They say Necromancers deal with death. Well, I say that is not true -- Necromancers -are- death as far as I am concerned! I suppose someone must be responsible for maintaining our end of the pact, but how anyone can choose to do so willingly is beyond my comprehension. "
-msgstr "我知道多少就說多少。人們說死靈法師是和死亡打交道的人。我倒認為不是這樣——在我看來，死靈法師根本就是死亡本身！我想總得有人負責履行我們這一方的契約，可是怎麼會有人心甘情願做這種事，我實在無法理解。"
+msgstr "我知道多少就說多少。人們說降靈師是和死亡打交道的人。我倒認為不是這樣——在我看來，降靈師根本就是死亡本身！我想總得有人負責履行我們這一方的契約，可是怎麼會有人心甘情願做這種事，我實在無法理解。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "No other measure? "
@@ -352,13 +352,13 @@ msgstr "什麼巫師？"
 #. event 01 (use (talk)), after "Describe the healers. "
 msgctxt "bark 0408:23B7"
 msgid "They call themselves Theurgists -- whatever -that- means. All I know is that they provide a valuable service to us here in the city, so I care not how it is done. I am grateful they do not require that we head to their home, Argentrock Isle, for such help. I consider it only too kind that the healers are willing to travel here. "
-msgstr "他們自稱神術師——天曉得那是什麼意思。我只知道他們為城裡提供了寶貴的服務，所以我不在乎他們是怎麼辦到的。我很感激他們不要求我們跑到他們的家鄉白銀之岩島去求助。治療師願意親自來這裡，我覺得真是太好心了。"
+msgstr "他們自稱神通師——天曉得那是什麼意思。我只知道他們為城裡提供了寶貴的服務，所以我不在乎他們是怎麼辦到的。我很感激他們不要求我們跑到他們的家鄉銀岩島去求助。治療師願意親自來這裡，我覺得真是太好心了。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Describe the healers. "
 msgctxt "ask 0408"
 msgid "How do the Theurgists arrive? "
-msgstr "神術師是怎麼來的？"
+msgstr "神通師是怎麼來的？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "How do the Theurgists arrive? "
@@ -370,13 +370,13 @@ msgstr "問得好，可惜我答不出來。傳聞有一種魔法裝置，能讓
 #. event 01 (use (talk)), after "What Sorcerers? "
 msgctxt "bark 0408:268F"
 msgid "Ah, the black ones, followers of the Lord of Flame. The Necromancers may deal with death, but oft times I wonder whether the followers of Pyros are not the true representatives of evil. I do know this: Ask not too many questions of the Town Sorcerer, Beren, for our peace with him is tenuous at best. "
-msgstr "啊，那些黑衣人，烈焰之主的信徒。死靈法師或許是和死亡打交道，但我常常懷疑，派羅斯的信徒才是真正的邪惡化身。我只知道一件事：別向城裡的巫師貝倫問太多問題，我們和他之間的和平頂多只是勉強維持。"
+msgstr "啊，那些黑衣人，烈焰之主的信徒。降靈師或許是和死亡打交道，但我常常懷疑，派羅斯的信徒才是真正的邪惡化身。我只知道一件事：別向城裡的巫師貝倫問太多問題，我們和他之間的和平頂多只是勉強維持。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Tell me about your job. "
 msgctxt "bark 0408:27C8"
 msgid "I see. Very well, 'tis my lot to take care of my fellow Tenebraens, though I suspect that would include you as well, so long as you stay out of trouble. I keep the peace within and the war without, if you know what I mean. "
-msgstr "我明白了。好吧，照顧泰尼伯瑞的同胞是我的職責，只要你不惹麻煩，我想你也算在內。我負責維持城內的和平，抵禦城外的戰事，你懂我的意思吧。"
+msgstr "我明白了。好吧，照顧泰納布利的同胞是我的職責，只要你不惹麻煩，我想你也算在內。我負責維持城內的和平，抵禦城外的戰事，你懂我的意思吧。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Tell me about your job. "
@@ -406,7 +406,7 @@ msgstr "澤蘭人是什麼？"
 #. event 01 (use (talk)), after "What about the executions? "
 msgctxt "bark 0408:2B0D"
 msgid "They were part of maintaining order under Mordea's iron grip. I am glad there are fewer under Devon's rule. "
-msgstr "在莫爾迪亞的鐵腕統治下，處決是維持秩序的手段之一。我很高興在戴文的統治下，處決變少了。"
+msgstr "在莫迪雅的鐵腕統治下，處決是維持秩序的手段之一。我很高興在戴文的統治下，處決變少了。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What about the executions? "
@@ -424,7 +424,7 @@ msgstr "連可鄙的澤蘭人都不知道，你果然是外地人。他們是—
 #. event 01 (use (talk)), after "Goodbye. "
 msgctxt "bark 0408:2E68"
 msgid "Halt! I have never seen you before, stranger. Identify yourself and your business in Tenebrae. "
-msgstr "站住！我從沒見過你，陌生人。報上你的身分，還有你來泰尼伯瑞做什麼。"
+msgstr "站住！我從沒見過你，陌生人。報上你的身分，還有你來泰納布利做什麼。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Goodbye. "
@@ -528,7 +528,7 @@ msgstr "現在告訴我，你是從哪裡來的？"
 #. event 01 (use (talk)), after "My business, not yours. "
 msgctxt "bark 0408:35C3"
 msgid "If you truly believe that, then you are sadly mistaken. For every moment you spend in Tenebrae, what you are doing and where you are doing it is exactly my business as guard of the royal household! Now I repeat, state your name and business. "
-msgstr "你要是真這麼想，那就大錯特錯了。你在泰尼伯瑞的每一刻，你在做什麼、在哪裡做，正是我這個王室衛兵該管的事！我再說一次，報上你的名字和來意。"
+msgstr "你要是真這麼想，那就大錯特錯了。你在泰納布利的每一刻，你在做什麼、在哪裡做，正是我這個王室衛兵該管的事！我再說一次，報上你的名字和來意。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "My business, not yours. "
@@ -540,7 +540,7 @@ msgstr "我說了，不關你的事！"
 #. event 01 (use (talk)), after "I said, not your concern! "
 msgctxt "bark 0408:3736"
 msgid "You won't last long here with an attitude like that. For the final time, will you tell me your name and business here in Tenebrae? "
-msgstr "用這種態度，你在這裡撐不了多久的。我最後再問一次，你要不要說出你的名字，還有你來泰尼伯瑞做什麼？"
+msgstr "用這種態度，你在這裡撐不了多久的。我最後再問一次，你要不要說出你的名字，還有你來泰納布利做什麼？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "I said, not your concern! "

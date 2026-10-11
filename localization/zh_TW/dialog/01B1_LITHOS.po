@@ -38,19 +38,19 @@ msgstr "一個活人能有什麼事與「我」相干？"
 #. event 01 (use (talk))
 msgctxt "bark 01B1:032A"
 msgid "Vividos is now the Necromancer. "
-msgstr "維維多斯現在是死靈法師了。"
+msgstr "維菲多斯現在是降靈師了。"
 
 # P13 batch 5
 #. event 01 (use (talk))
 msgctxt "bark 01B1:0397"
 msgid "I am very well aware of that, living one. And now Lothian must be interred. "
-msgstr "這我很清楚，活人。而現在羅西安必須被安葬。"
+msgstr "這我很清楚，活人。而現在洛西恩必須被安葬。"
 
 # P13 batch 5
 #. event 01 (use (talk))
 msgctxt "bark 01B1:03D9"
 msgid "Lothian must be interred? "
-msgstr "羅西安必須被安葬？"
+msgstr "洛西恩必須被安葬？"
 
 # P13 batch 5
 #. event 01 (use (talk))
@@ -74,13 +74,13 @@ msgstr "你膽子不小，竟敢向我請求，凡人。你求的是什麼？"
 #. event 01 (use (talk))
 msgctxt "bark 01B1:052C"
 msgid "I wish to become Vividos' apprentice. "
-msgstr "我想成為維維多斯的學徒。"
+msgstr "我想成為維菲多斯的學徒。"
 
 # P13 batch 5
 #. event 01 (use (talk))
 msgctxt "bark 01B1:05A3"
 msgid "You wish to apprentice to the Necromancer? Then fall before me and serve your master! "
-msgstr "你想拜死靈法師為師？那就拜倒在我面前，侍奉你的主人吧！"
+msgstr "你想拜降靈師為師？那就拜倒在我面前，侍奉你的主人吧！"
 
 # P13 batch 5
 #. event 01 (use (talk))
@@ -92,7 +92,7 @@ msgstr "現在，在我面前跪下，蟲子。"
 #. event 01 (use (talk))
 msgctxt "bark 01B1:0796"
 msgid "To become the apprentice, you must inter Lothian into my clay. "
-msgstr "要成為學徒，你必須把羅西安安葬在我的泥土裡。"
+msgstr "要成為學徒，你必須把洛西恩安葬在我的泥土裡。"
 
 # P13 batch 5
 #. event 01 (use (talk))
@@ -104,7 +104,7 @@ msgstr "我要怎麼做，大人？"
 #. event 01 (use (talk))
 msgctxt "bark 01B1:0846"
 msgid "Ask this of the Necromancer. He will teach you for it is his task to serve me. "
-msgstr "去問死靈法師吧。他會教你，因為侍奉我是他的職責。"
+msgstr "去問降靈師吧。他會教你，因為侍奉我是他的職責。"
 
 # P13 batch 5
 #. event 01 (use (talk))
@@ -116,4 +116,4 @@ msgstr "再會，我的大人。"
 #. event 01 (use (talk))
 msgctxt "bark 01B1:090F"
 msgid "You may now leave my presence, live one. Do not come before me again until you yourself are the Necromancer. "
-msgstr "你現在可以退下了，活人。在你自己成為死靈法師之前，別再來見我。"
+msgstr "你現在可以退下了，活人。在你自己成為降靈師之前，別再來見我。"

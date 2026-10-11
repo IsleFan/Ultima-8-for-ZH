@@ -593,7 +593,7 @@ msgstr "嗯，以你有限的理解力，我看得出為什麼會這樣。*不�
 #. event 01 (use (talk)), after "I'm sorry, I really meant no offense. "
 msgctxt "bark 0420:26F6"
 msgid "What a shame. I am truly sorry for you. For I cannot allow your actions to remain unanswered. If I were to forgive this heinous crime, the people of Tenebrae would think us weak. We can't let that happen, now can we? "
-msgstr "真可惜。我真的為你感到遺憾，因為我不能讓你的行為不受制裁。要是我原諒了這種滔天大罪，泰尼伯瑞的人就會以為我們軟弱。我們不能讓這種事發生，對吧？"
+msgstr "真可惜。我真的為你感到遺憾，因為我不能讓你的行為不受制裁。要是我原諒了這種滔天大罪，泰納布利的人就會以為我們軟弱。我們不能讓這種事發生，對吧？"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "I'm sorry, I really meant no offense. "
@@ -762,7 +762,7 @@ msgstr "算了。"
 #. event 01 (use (talk)), after "Nevermind."
 msgctxt "bark 0420:32FD"
 msgid "I know that you have no idea what you have done, but let me tell you. You have allowed Vardion to destroy one of the most powerful, resourceful, and beautiful Sorcerers this isle has ever known. I shall never forgive you for it, even though Malchir has. Leave me be. "
-msgstr "我知道你根本不明白自己做了什麼，那就讓我告訴你：你讓瓦爾迪恩毀了這座島上前所未有、最強大、最機智、最美麗的巫師。就算馬爾奇爾原諒了你，我也永遠不會原諒你。別來煩我。"
+msgstr "我知道你根本不明白自己做了什麼，那就讓我告訴你：你讓瓦迪恩毀了這座島上前所未有、最強大、最機智、最美麗的巫師。就算麥爾吉爾原諒了你，我也永遠不會原諒你。別來煩我。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Nevermind."
@@ -786,7 +786,7 @@ msgstr "既然你已加入我們，就該盡可能多學習巫術。"
 #. event 01 (use (talk)), after "Nevermind."
 msgctxt "bark 0420:3533"
 msgid "I must commend you on destroying that lumbering torax, Vardion. He would have driven the Sorcerers into obscurity. "
-msgstr "我必須稱讚你除掉了瓦爾迪恩那頭笨重的托拉克斯獸。他原本會讓巫師們沒落得無人知曉。"
+msgstr "我必須稱讚你除掉了瓦迪恩那頭笨重的托拉克斯獸。他原本會讓巫師們沒落得無人知曉。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Nevermind."
@@ -1360,7 +1360,7 @@ msgstr "有意思，你想保持神祕。我喜歡謎團，在一定程度內。
 #. event 01 (use (talk)), after "Tell me of this place? "
 msgctxt "bark 0420:5CC7"
 msgid "Of course. This is the Sorcerer's Enclave. It sits in Daemon's Crag, upon the isle of Morgaelin. "
-msgstr "當然。這裡是巫師聚落，坐落在摩加林島上的惡魔崖。"
+msgstr "當然。這裡是巫師聚落，坐落在摩蓋林島上的惡魔崖。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of this place? "
@@ -1372,7 +1372,7 @@ msgstr "說說巫師聚落吧？"
 #. event 01 (use (talk)), after "Tell me of this place? "
 msgctxt "ask 0420"
 msgid "Tell me of Daemon's Crag and Morgaelin. "
-msgstr "說說惡魔崖和摩加林。"
+msgstr "說說惡魔崖和摩蓋林。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "What is a Sorcerer? "
@@ -1384,13 +1384,13 @@ msgstr "巫師就是修習巫術魔法的人。我是密謀會的學徒巫師。
 #. event 01 (use (talk)), after "Tell me of the Acolytes. "
 msgctxt "bark 0420:5F76"
 msgid "Well, there are four of us... Vardion, First Acolyte, Gorgrond, his faithful pet, Bane the Red, and myself. We are the ones that Master Malchir calls upon to aid in his great rituals. "
-msgstr "嗯，我們有四個人……第一學徒瓦爾迪恩、他忠心的寵物戈格隆德、赤紅的貝恩，還有我。馬爾奇爾大巫師舉行重大儀式時，就是召喚我們協助。"
+msgstr "嗯，我們有四個人……第一學徒瓦迪恩、他忠心的寵物戈格隆德、赤紅的貝恩，還有我。麥爾吉爾大巫師舉行重大儀式時，就是召喚我們協助。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of the Acolytes. "
 msgctxt "ask 0420"
 msgid "Tell me of Vardion and his position. "
-msgstr "說說瓦爾迪恩和他的地位。"
+msgstr "說說瓦迪恩和他的地位。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of the Acolytes. "
@@ -1402,7 +1402,7 @@ msgstr "戈格隆德是誰？"
 #. event 01 (use (talk)), after "Tell me of the Acolytes. "
 msgctxt "ask 0420"
 msgid "Who is Master Malchir? "
-msgstr "馬爾奇爾大巫師是誰？"
+msgstr "麥爾吉爾大巫師是誰？"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of the Acolytes. "
@@ -1456,7 +1456,7 @@ msgstr "沒什麼重要的，就是我們住的地方。"
 #. event 01 (use (talk)), after "Tell me of Daemon's Crag and Morgaelin. "
 msgctxt "bark 0420:6592"
 msgid "Very well. Daemon's Crag is a lava-filled ravine, that flows from Mt. Morgaelin. This volcano is what the island takes its name from. "
-msgstr "好吧。惡魔崖是一道充滿熔岩的峽谷，熔岩從摩加林山流下。這座島就是以這座火山命名的。"
+msgstr "好吧。惡魔崖是一道充滿熔岩的峽谷，熔岩從摩蓋林山流下。這座島就是以這座火山命名的。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of Daemon's Crag and Morgaelin. "
@@ -1606,7 +1606,7 @@ msgstr "我明白了。唉，好吧。你還想知道什麼？"
 #. event 01 (use (talk)), after "Tell me of Vardion and his position. "
 msgctxt "bark 0420:7196"
 msgid "Vardion is a petty overlord. He is loathe to give up any of his power to those better suited to run certain details. He cannot seem to delegate his authority, therefore we suffer. "
-msgstr "瓦爾迪恩是個心胸狹窄的霸主。他不願把任何權力交給更適合處理某些事務的人。他似乎不懂得授權，所以我們只好受苦。"
+msgstr "瓦迪恩是個心胸狹窄的霸主。他不願把任何權力交給更適合處理某些事務的人。他似乎不懂得授權，所以我們只好受苦。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Who is Gorgrond. "
@@ -1618,7 +1618,7 @@ msgstr "一個無足輕重的學徒。他魔力雄厚，但他的腦袋不靈光
 #. event 01 (use (talk)), after "Who is Master Malchir? "
 msgctxt "bark 0420:7374"
 msgid "He leads us in all things. Well,... he would if he were around more often. He remains busy with his own studies, leaving Vardion to lead us poorly. "
-msgstr "他在一切事務上領導我們。嗯……如果他常在的話。他一直忙於自己的研究，讓瓦爾迪恩來領導我們，結果領導得一塌糊塗。"
+msgstr "他在一切事務上領導我們。嗯……如果他常在的話。他一直忙於自己的研究，讓瓦迪恩來領導我們，結果領導得一塌糊塗。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "What rituals do you mean? "
@@ -1636,7 +1636,7 @@ msgstr "你傻了嗎？就是火焰本身。它流貫這片土地，就像血液
 #. event 01 (use (talk)), after "Tell me of this Lord of Flame. "
 msgctxt "bark 0420:76D6"
 msgid "Pyros was the last Titan to be brought to terms. He was bound by my kind, long ago and is now at the beck and call of Master Malchir. A dangerous servant, to be sure, but a servant nonetheless. "
-msgstr "派羅斯是最後一個被迫接受協議的泰坦。很久以前，他被我的同類束縛，如今聽憑馬爾奇爾大巫師差遣。他確實是個危險的僕人，但終究是個僕人。"
+msgstr "派羅斯是最後一個被迫接受協議的泰坦。很久以前，他被我的同類束縛，如今聽憑麥爾吉爾大巫師差遣。他確實是個危險的僕人，但終究是個僕人。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of this Lord of Flame. "

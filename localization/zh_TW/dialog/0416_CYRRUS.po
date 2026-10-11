@@ -44,7 +44,7 @@ msgstr "男人"
 #. event 11 (leaveFastArea)
 msgctxt "bark 0416:03DA"
 msgid "Aid me, Stratos! "
-msgstr "幫幫我，史特拉托斯！"
+msgstr "幫幫我，史卓拉透絲！"
 
 # P13 batch 4
 #. event 13 (justMoved)
@@ -134,7 +134,7 @@ msgstr "我得回去讀書了。"
 #. event 13 (justMoved)
 msgctxt "bark 0416:0C26"
 msgid "Perhaps I should travel home to Tenebrae. "
-msgstr "也許我該回泰尼伯瑞老家一趟。"
+msgstr "也許我該回泰納布利老家一趟。"
 
 # P13 batch 4
 #. event 13 (justMoved)
@@ -218,7 +218,7 @@ msgstr "我有點餓了。"
 #. event 13 (justMoved)
 msgctxt "bark 0416:124E"
 msgid "I should leave for Tenebrae soon. "
-msgstr "我應該盡快動身去泰尼伯瑞。"
+msgstr "我應該盡快動身去泰納布利。"
 
 # P13 batch 4
 #. event 13 (justMoved)
@@ -278,7 +278,7 @@ msgstr "你需要什麼嗎？"
 #. event 13 (justMoved)
 msgctxt "bark 0416:179B"
 msgid "This is lovely, but I do miss Tenebrae. "
-msgstr "這裡很美，但我真的很想念泰尼伯瑞。"
+msgstr "這裡很美，但我真的很想念泰納布利。"
 
 # P13 batch 4
 #. event 13 (justMoved)
@@ -296,7 +296,7 @@ msgstr "真希望珍娜也在這裡。"
 #. event 13 (justMoved)
 msgctxt "bark 0416:18B8"
 msgid "I wish I were in Tenebrae. "
-msgstr "真希望我在泰尼伯瑞。"
+msgstr "真希望我在泰納布利。"
 
 # P13 batch 4
 #. event 13 (justMoved)
@@ -520,13 +520,13 @@ msgstr "專注考驗很難？"
 #. event 01 (use (talk)), after "The Test of Centeredness was difficult? " or "Is the Test of Centeredness difficult? "
 msgctxt "bark 0416:2738"
 msgid "Difficult? It was nearly the death of me! I fell at least five times. Fortunately Stratos saw fit to keep me and not send me to my death over the steep side. But, you'll see for yourself when you get there! "
-msgstr "難？我差點就死了！我至少摔了五次。幸好史特拉托斯決定留下我，沒讓我從陡坡摔下去送命。不過等你到了那裡，你就會親眼見識了！"
+msgstr "難？我差點就死了！我至少摔了五次。幸好史卓拉透絲決定留下我，沒讓我從陡坡摔下去送命。不過等你到了那裡，你就會親眼見識了！"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "I have passed the Tests of Wisdom and Centeredness. "
 msgctxt "bark 0416:28DD"
 msgid "You have? But you've just arrived on our island. I don't believe we've ever had anyone complete them this fast. Stratos will be so pleased with your accomplishments. Now you must find Stellos and begin on the next part of your journey. "
-msgstr "你通過了？可是你才剛來到我們島上。我想從來沒有人這麼快就完成。史特拉托斯一定會為你的成就感到高興。現在你必須去找史泰洛斯，開始你旅程的下一段。"
+msgstr "你通過了？可是你才剛來到我們島上。我想從來沒有人這麼快就完成。史卓拉透絲一定會為你的成就感到高興。現在你必須去找史泰洛斯，開始你旅程的下一段。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "I have passed the Third Test and have my Foci. "
@@ -586,7 +586,7 @@ msgstr "沒有，我一整天都沒看到他。"
 #. event 01 (use (talk)), after "Where is he? "
 msgctxt "bark 0416:2D33"
 msgid "I do not know. (He told me he was going to go to Windy Point today for something very important.) "
-msgstr "我不知道。（他跟我說他今天要去狂風角，辦一件非常重要的事。）"
+msgstr "我不知道。（他跟我說他今天要去風之岬，辦一件非常重要的事。）"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Where is he? "
@@ -604,7 +604,7 @@ msgstr "我沒有掩護他！（我想拿走法器的就是他。不過我不認
 #. event 01 (use (talk)), after "Why are you covering up for him? "
 msgctxt "bark 0416:2EE9"
 msgid "Pardon me? I am not covering up for him. That would go against all the teachings of Stratos. "
-msgstr "你說什麼？我沒有掩護他。那會違背史特拉托斯所有的教誨。"
+msgstr "你說什麼？我沒有掩護他。那會違背史卓拉透絲所有的教誨。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Holy Cyrrus? "
@@ -652,13 +652,13 @@ msgstr "是的，我本來也會是牧民。家鄉現在正是生小獸的季節
 #. event 01 (use (talk)), after "Where are you from? "
 msgctxt "bark 0416:3385"
 msgid "My home is in the hills of Tenebrae. Even Argent Rock with all its finery is but a pale shadow of the beauty of Tenebrae. The ocean, the hills, the people...I miss it so. "
-msgstr "我的家在泰尼伯瑞的山上。就算白銀之岩再怎麼華美，跟泰尼伯瑞的美景相比也黯然失色。大海、山丘、那裡的人……我好想念啊。"
+msgstr "我的家在泰納布利的山上。就算銀岩再怎麼華美，跟泰納布利的美景相比也黯然失色。大海、山丘、那裡的人……我好想念啊。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Where are you from? "
 msgctxt "ask 0416"
 msgid "You miss the people of Tenebrae? "
-msgstr "你想念泰尼伯瑞的人？"
+msgstr "你想念泰納布利的人？"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Where are you from? "
@@ -712,7 +712,7 @@ msgstr "我好想他。他是個善良溫和的人，一生最愛的就是他的
 #. event 01 (use (talk)), after "Tell me of Darion. "
 msgctxt "bark 0416:3A71"
 msgid "He talked of the day I would join the guard. I told him many times I would be a herdsman like my father. 'Nonsense,' he would say, 'you're cut out to be a guard, you have the spirit for it.' I don't know why, the guard never does anything but hang around the castle hoping Aramina will bring them a sweet from the Tempest's table! He is Jenna's father, you know. "
-msgstr "他老是說我總有一天會加入衛隊。我跟他說過好多次，我要跟我父親一樣當牧民。他總是說：「胡說，你天生就是當衛兵的料，你有那股氣魄。」我不懂為什麼，衛隊除了在城堡附近閒晃、盼著阿拉米娜從風暴使者的餐桌上拿點甜點給他們之外，什麼事也沒做！你知道嗎，他是珍娜的父親。"
+msgstr "他老是說我總有一天會加入衛隊。我跟他說過好多次，我要跟我父親一樣當牧民。他總是說：「胡說，你天生就是當衛兵的料，你有那股氣魄。」我不懂為什麼，衛隊除了在城堡附近閒晃、盼著阿拉米娜從役水師的餐桌上拿點甜點給他們之外，什麼事也沒做！你知道嗎，他是珍娜的父親。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Tell me of Darion. "
@@ -736,7 +736,7 @@ msgstr "噢不！告訴我這不是真的！天哪！你帶來了我家鄉的噩
 #. event 01 (use (talk)), after "Bentic is dead. "
 msgctxt "ask 0416"
 msgid "Mordea had him executed. "
-msgstr "莫爾迪亞處決了他。"
+msgstr "莫迪雅處決了他。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Bentic is dead. "
@@ -754,7 +754,7 @@ msgstr "今天真是令我悲傷的一天。班提克是我親愛的朋友。"
 #. event 01 (use (talk)), after "Mordea had him executed. "
 msgctxt "bark 0416:3DAF"
 msgid "The Tempest? I knew she was a hard woman, but to execute someone as gentle and harmless as Bentic? What terrible thing did he do that would anger the Tempest so? "
-msgstr "風暴使者？我知道她是個冷酷的女人，可是竟然處決像班提克這麼溫和無害的人？他做了什麼可怕的事，讓風暴使者這麼生氣？"
+msgstr "役水師？我知道她是個冷酷的女人，可是竟然處決像班提克這麼溫和無害的人？他做了什麼可怕的事，讓役水師這麼生氣？"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Mordea had him executed. "
@@ -790,7 +790,7 @@ msgstr "啊，那你見過她了。她很可愛吧？我從第一眼看到她就
 #. event 01 (use (talk)), after "Tell me of Jenna. "
 msgctxt "bark 0416:41F0"
 msgid "She lives in Tenebrae. If you should travel there, stop in and see her. She is a lovely girl, so full of life. I would that I could marry her, but I cannot. "
-msgstr "她住在泰尼伯瑞。如果你去那裡，順道去看看她吧。她是個可愛的女孩，充滿活力。我真希望能娶她，可是我不能。"
+msgstr "她住在泰納布利。如果你去那裡，順道去看看她吧。她是個可愛的女孩，充滿活力。我真希望能娶她，可是我不能。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Tell me of Jenna. "
@@ -802,37 +802,37 @@ msgstr "為什麼不能娶她？"
 #. event 01 (use (talk)), after "Why not marry her? "
 msgctxt "bark 0416:43D1"
 msgid "Look around you, my friend. There are few enough of us here on Argent Rock. Rare are those with the talent it takes to touch the power of Stratos and use it to heal. I am one of those few. To help the people of this land I must sacrifice that which I most dearly desire...to marry my beloved Jenna and live a simple herdsman's life in the hills above Tenebrae. "
-msgstr "看看你四周吧，朋友。我們在白銀之岩的人已經夠少了。有天分觸及史特拉托斯的力量並用來治療的人非常稀少，而我正是其中之一。為了幫助這片土地的人民，我必須犧牲我最渴望的事……娶我心愛的珍娜，在泰尼伯瑞的山上過著簡單的牧民生活。"
+msgstr "看看你四周吧，朋友。我們在銀岩的人已經夠少了。有天分觸及史卓拉透絲的力量並用來治療的人非常稀少，而我正是其中之一。為了幫助這片土地的人民，我必須犧牲我最渴望的事……娶我心愛的珍娜，在泰納布利的山上過著簡單的牧民生活。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "What place is this? "
 msgctxt "bark 0416:4457"
 msgid "This is Argent Rock, home of the Theurgists. "
-msgstr "這裡是白銀之岩，神術師的家園。"
+msgstr "這裡是銀岩，神通師的家園。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "What place is this? "
 msgctxt "ask 0416"
 msgid "Who are the Theurgists? "
-msgstr "神術師是什麼人？"
+msgstr "神通師是什麼人？"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Who are the Theurgists? "
 msgctxt "bark 0416:452E"
 msgid "Why we are the disciples of Stratos, the Great Titan of Air. We are healers. "
-msgstr "哎，我們就是偉大的天空泰坦史特拉托斯的門徒啊。我們是治療者。"
+msgstr "哎，我們就是偉大的天空泰坦史卓拉透絲的門徒啊。我們是治療者。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "I passed the Third Test. "
 msgctxt "bark 0416:4633"
 msgid "I have heard. This is certainly a great occasion. Now you are ready to attempt the greatest feat of your life...to reach out and touch the power that is Stratos. "
-msgstr "我聽說了。這真是個值得慶祝的時刻。現在你已經準備好挑戰你人生中最偉大的壯舉……伸出手，觸及史特拉托斯的力量。"
+msgstr "我聽說了。這真是個值得慶祝的時刻。現在你已經準備好挑戰你人生中最偉大的壯舉……伸出手，觸及史卓拉透絲的力量。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "I passed the Third Test. "
 msgctxt "ask 0416"
 msgid "Touch Stratos' power? "
-msgstr "觸及史特拉托斯的力量？"
+msgstr "觸及史卓拉透絲的力量？"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "I passed the Third Test. "
@@ -850,13 +850,13 @@ msgstr "那股讓我們能治療人們的力量。第一次觸及泰坦時，那
 #. event 01 (use (talk)), after "The greatest feat? "
 msgctxt "bark 0416:4800"
 msgid "You must go to Stellos. He will tell you how to reach Stratos. "
-msgstr "你必須去找史泰洛斯。他會告訴你怎麼找到史特拉托斯。"
+msgstr "你必須去找史泰洛斯。他會告訴你怎麼找到史卓拉透絲。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "I have the Breath of Wind. "
 msgctxt "bark 0416:48C9"
 msgid "That explains it then. I felt a tremor in my link with Stratos, then it was broken. I am unable to heal. "
-msgstr "原來如此。我感覺到我與史特拉托斯的聯繫一陣震顫，接著就斷了。我無法治療了。"
+msgstr "原來如此。我感覺到我與史卓拉透絲的聯繫一陣震顫，接著就斷了。我無法治療了。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "I have the Breath of Wind. "
@@ -880,7 +880,7 @@ msgstr "為什麼苦樂參半？"
 #. event 01 (use (talk)), after "Why bittersweet? "
 msgctxt "bark 0416:4BCC"
 msgid "For if my link with Stratos is permanently broken then I can never heal the sick and injured of this land again. This would be a tragic thing for the people, however, it also would release me of my vow to Stratos, leaving me free to return to Tenebrae and marry my beloved Jenna. So while I mourn for the people, I thank you for giving my love to me. "
-msgstr "因為如果我與史特拉托斯的聯繫永遠斷了，我就再也無法醫治這片土地上的病患與傷者。這對人民來說是一場悲劇，但同時也解除了我對史特拉托斯的誓言，讓我能自由地回到泰尼伯瑞，娶我心愛的珍娜。所以，雖然我為人民哀悼，卻也感謝你把我的愛人還給了我。"
+msgstr "因為如果我與史卓拉透絲的聯繫永遠斷了，我就再也無法醫治這片土地上的病患與傷者。這對人民來說是一場悲劇，但同時也解除了我對史卓拉透絲的誓言，讓我能自由地回到泰納布利，娶我心愛的珍娜。所以，雖然我為人民哀悼，卻也感謝你把我的愛人還給了我。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Will you tell me the answers? "
@@ -928,7 +928,7 @@ msgstr "也許你是對的。那種震驚和悲傷她可能承受不了。不過
 #. event 01 (use (talk)), after "The Test of Centeredness was difficult? " or "Is the Test of Centeredness difficult? "
 msgctxt "bark 0416:5297"
 msgid "Difficult? It was nearly the death of me! I fell at least five times. Fortunately Stratos saw fit to keep me and not send me to my death over the steep side. But, you'll see for yourself when you get there! "
-msgstr "難？我差點就死了！我至少摔了五次。幸好史特拉托斯決定留下我，沒讓我從陡坡摔下去送命。不過等你到了那裡，你就會親眼見識了！"
+msgstr "難？我差點就死了！我至少摔了五次。幸好史卓拉透絲決定留下我，沒讓我從陡坡摔下去送命。不過等你到了那裡，你就會親眼見識了！"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "bye "

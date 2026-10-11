@@ -158,7 +158,7 @@ msgstr "多謝你了，陌生人。"
 #. event 01 (use (talk))
 msgctxt "bark 0344:08E2"
 msgid "May Hydros find favor with you. "
-msgstr "願海德羅斯眷顧你。"
+msgstr "願海特蘿眷顧你。"
 
 # P13 batch 4
 #. event 01 (use (talk))
@@ -212,7 +212,7 @@ msgstr "讓潛伏者把你抓去吧！"
 #. event 01 (use (talk))
 msgctxt "bark 0344:0AE8"
 msgid "May the minions of Lithos suck the marrow from your bones! "
-msgstr "讓利索斯的爪牙吸乾你的骨髓！"
+msgstr "讓里索斯的爪牙吸乾你的骨髓！"
 
 # P13 batch 4
 #. event 01 (use (talk))

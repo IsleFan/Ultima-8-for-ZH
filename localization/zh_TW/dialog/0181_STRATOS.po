@@ -14,7 +14,7 @@ msgstr ""
 #. event 00 (look)
 msgctxt "bark 0181:00B1"
 msgid "Stratos, the Air Titan "
-msgstr "史特拉托斯，天空泰坦"
+msgstr "史卓拉透絲，天空泰坦"
 
 # P13 batch 5
 #. event 00 (look)
@@ -80,7 +80,7 @@ msgstr "你是誰？"
 #. event 01 (use (talk)), after "Who are you? "
 msgctxt "bark 0181:0774"
 msgid "Who am I? Ah, such a dear child. So very young in his knowledge. Why, he is no more than a babe. I am Stratos, Titan of Air, Giver of Life. To reach me took a great deal of courage. I wish to reward you. "
-msgstr "我是誰？啊，多可愛的孩子，知識這麼淺。哎呀，他簡直還是個嬰孩。我是史特拉托斯，天空泰坦，生命賜予者。來到我這裡需要很大的勇氣。我想獎賞你。"
+msgstr "我是誰？啊，多可愛的孩子，知識這麼淺。哎呀，他簡直還是個嬰孩。我是史卓拉透絲，天空泰坦，生命賜予者。來到我這裡需要很大的勇氣。我想獎賞你。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Who are you? "

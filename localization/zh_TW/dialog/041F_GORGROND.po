@@ -646,7 +646,7 @@ msgstr "你錯了，不配的是你，我會在你身上證明這一點，無賴
 #. event 01 (use (talk)), after "Nevermind. "
 msgctxt "bark 041F:1F16"
 msgid "Do you know what you have done? You have allowed Bane to destroy one of the most powerful, resourceful, and courageous Sorcerers this isle has ever known. I shall never forgive you for it, even though Malchir has. Leave me be. "
-msgstr "你知道你做了什麼嗎？你讓貝恩毀了這座島上前所未有、最強大、最機智、最勇敢的巫師。就算馬爾奇爾原諒了你，我也永遠不會原諒你。別來煩我。"
+msgstr "你知道你做了什麼嗎？你讓貝恩毀了這座島上前所未有、最強大、最機智、最勇敢的巫師。就算麥爾吉爾原諒了你，我也永遠不會原諒你。別來煩我。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Nevermind. "
@@ -664,13 +664,13 @@ msgstr "你要是再跟我說話，我就讓你嘗嘗你加諸在我朋友身上
 #. event 01 (use (talk)), after "Nevermind. "
 msgctxt "bark 041F:2102"
 msgid "Now that Vardion has allowed you to join us, you should learn as much from him as you can. Vardion always says that a moment spent in study is worth a day spent at play. "
-msgstr "既然瓦爾迪恩讓你加入我們了，你就該盡量跟他學。瓦爾迪恩總說，用功片刻勝過玩樂一整天。"
+msgstr "既然瓦迪恩讓你加入我們了，你就該盡量跟他學。瓦迪恩總說，用功片刻勝過玩樂一整天。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Nevermind. "
 msgctxt "bark 041F:21A8"
 msgid "I thank you for helping to destroy that conniving kith, Bane. She would have driven the Sorcerers into open war with the Tenebraens. "
-msgstr "謝謝你幫忙除掉貝恩那隻工於心計的奇斯怪蛛。她原本會讓巫師們跟泰尼伯瑞人公開開戰。"
+msgstr "謝謝你幫忙除掉貝恩那隻工於心計的奇斯怪蛛。她原本會讓巫師們跟泰納布利人公開開戰。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Nevermind. "
@@ -887,13 +887,13 @@ msgstr "聰明到不跟侮辱我的人說話！"
 #. event 01 (use (talk)), after "I see. That was helpful. "
 msgctxt "bark 041F:2FAF"
 msgid "Thank you. Glad to be of aid. Vardion always says that I am so mercifully free of cluttering thoughts. I'm not sure what he means, but he smiles when he says it. So it must be good. "
-msgstr "謝謝。很高興能幫上忙。瓦爾迪恩總說我「幸好沒有雜亂的念頭」。我不太懂他的意思，不過他說的時候都在笑，所以一定是好話。"
+msgstr "謝謝。很高興能幫上忙。瓦迪恩總說我「幸好沒有雜亂的念頭」。我不太懂他的意思，不過他說的時候都在笑，所以一定是好話。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "I see. That was helpful. "
 msgctxt "ask 041F"
 msgid "Vardion? Tell me of him. "
-msgstr "瓦爾迪恩？說說他。"
+msgstr "瓦迪恩？說說他。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "I see. That was helpful. "
@@ -917,7 +917,7 @@ msgstr "有朋友真好。"
 #. event 01 (use (talk)), after "What an... esoteric description. "
 msgctxt "bark 041F:3114"
 msgid "Do you think so? What's esso?... Bane uses that word sometimes. She's not nice like Vardion. What do you mean? "
-msgstr "你這麼覺得嗎？什麼是深……？貝恩有時會用這個詞。她不像瓦爾迪恩那麼好。你是什麼意思？"
+msgstr "你這麼覺得嗎？什麼是深……？貝恩有時會用這個詞。她不像瓦迪恩那麼好。你是什麼意思？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "What an... esoteric description. "
@@ -1021,7 +1021,7 @@ msgstr "我已經跟你說過了。她是個背後捅刀、脾氣暴躁、心腸
 #. event 01 (use (talk)), after "Tell me what you know of Bane. "
 msgctxt "bark 041F:3745"
 msgid "Vardion has plans for her. "
-msgstr "瓦爾迪恩對她另有打算。"
+msgstr "瓦迪恩對她另有打算。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Tell me what you know of Bane. "
@@ -1039,7 +1039,7 @@ msgstr "我看你才是蠢材！"
 #. event 01 (use (talk)), after "It is good to have friends. "
 msgctxt "bark 041F:3872"
 msgid "Yes, and Vardion is the best friend to have. "
-msgstr "是啊，而瓦爾迪恩是最好的朋友。"
+msgstr "是啊，而瓦迪恩是最好的朋友。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "You -are- free of thought. "
@@ -1127,19 +1127,19 @@ msgstr "不能！我跟你說了，光想就頭痛。你一定是聾了。"
 #. event 01 (use (talk)), after "Who is the Master. "
 msgctxt "bark 041F:3D8E"
 msgid "Master Malchir is the leader of the Sorcerers. "
-msgstr "馬爾奇爾大巫師是巫師們的領袖。"
+msgstr "麥爾吉爾大巫師是巫師們的領袖。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Who is the Master. "
 msgctxt "ask 041F"
 msgid "Tell me about Master Malchir. "
-msgstr "說說馬爾奇爾大巫師。"
+msgstr "說說麥爾吉爾大巫師。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Who is the Master. "
 msgctxt "ask 041F"
 msgid "How did Malchir become leader? "
-msgstr "馬爾奇爾是怎麼成為領袖的？"
+msgstr "麥爾吉爾是怎麼成為領袖的？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "As a matter of fact, yes. "
@@ -1151,7 +1151,7 @@ msgstr "那你可要小心你的背後。有她這種「朋友」，你背上長
 #. event 01 (use (talk)), after "No, of course not. "
 msgctxt "bark 041F:3F5A"
 msgid "Well, you should know that Vardion has some plans concerning her. "
-msgstr "那你應該知道，瓦爾迪恩對她另有打算。"
+msgstr "那你應該知道，瓦迪恩對她另有打算。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Why do you ask? "
@@ -1175,7 +1175,7 @@ msgstr "不，我不能說。你得自己去問他。"
 #. event 01 (use (talk)), after "Tell me about Master Malchir. "
 msgctxt "bark 041F:4315"
 msgid "Why should I? You aren't a Sorcerer. And if you want to be one, you should talk to Vardion. I don't have the patience to train you. "
-msgstr "我為什麼要說？你又不是巫師。如果你想當巫師，就該去找瓦爾迪恩。我可沒耐心訓練你。"
+msgstr "我為什麼要說？你又不是巫師。如果你想當巫師，就該去找瓦迪恩。我可沒耐心訓練你。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "How did Malchir become leader? "

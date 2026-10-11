@@ -14,7 +14,7 @@ msgstr ""
 #. event 00 (look)
 msgctxt "bark 0081:009F"
 msgid "Odion"
-msgstr "歐迪恩"
+msgstr "歐甸"
 
 # P13 batch 6
 #. event 00 (look)

@@ -153,13 +153,13 @@ msgstr "好嘞，伙計。一共{call_0C74}枚黑曜石幣。"
 #. event 11 (leaveFastArea)
 msgctxt "bark 040A:0DE3"
 msgid "We got Tenebraen Ale, o' course, vintage Blackwine, a feisty little brew called the Hurricane, Breath o' the Spirit, and the hard stuff ... Cloven Hoof. "
-msgstr "咱們有泰尼伯瑞麥酒，那是當然的；還有陳年黑酒、一種叫颶風酒的烈性小酒、靈息酒，以及最烈的那款……魔蹄酒。"
+msgstr "咱們有泰納布利麥酒，那是當然的；還有陳年黑酒、一種叫颶風酒的烈性小酒、靈息酒，以及最烈的那款……魔蹄酒。"
 
 # P13 batch 2
 #. event 11 (leaveFastArea)
 msgctxt "ask 040A"
 msgid "Tenebraen Ale "
-msgstr "泰尼伯瑞麥酒"
+msgstr "泰納布利麥酒"
 
 # P13 batch 2
 #. event 11 (leaveFastArea)
@@ -419,7 +419,7 @@ msgstr "說說你的故事。"
 #. event 01 (use (talk))
 msgctxt "ask 040A"
 msgid "Tell me of Tenebrae. "
-msgstr "說說泰尼伯瑞。"
+msgstr "說說泰納布利。"
 
 # P13 batch 2
 #. event 01 (use (talk))
@@ -633,7 +633,7 @@ msgstr "隨你便。不過你不知道自己錯過了什麼。我們這兒只賣
 #. event 01 (use (talk)), after "Tell me of your tales. "
 msgctxt "bark 040A:2DCA"
 msgid "Aye, me bucco. I know a right frightful tale about a ghost that walks the hills above Tenebrae. Would ye like to hear that 'en? "
-msgstr "好啊，老弟。我知道一個挺嚇人的故事，說的是一個在泰尼伯瑞後山遊蕩的幽靈。想聽這個嗎？"
+msgstr "好啊，老弟。我知道一個挺嚇人的故事，說的是一個在泰納布利後山遊蕩的幽靈。想聽這個嗎？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of your tales. "
@@ -699,7 +699,7 @@ msgstr "好吧，隨你便。來杯酒怎麼樣？"
 #. event 01 (use (talk)), after "That I would. "
 msgctxt "bark 040A:35F0"
 msgid "Well, ye see, my great great great granpappy, John Blowhard spent most of his days on the sea. It is said that he came across the lost treasure of the ancient Kings. Gold, my friend, gold beyound yer wildest dreams. He brought that gold back here to Tenebrae with the idea of settling down and living out the rest of his life in comfort. Well, that was not to be, for he had no more found a comfortable place to live in, when the dreams began to plague him. Terrible nightmares, he'd have. Now, my great great great granpappy weren't afraid of nothing. He was the bravest man alive, but these dreams would wake him up screamin' and shakin' with fright. In his dreams, the ghosts of the ancient kings would visit him and demand their treasure back. Night after night these specters appeared, but my great great great granpappy wouldn't give up the treasure. One night, after a particularly frightful visit, he had an idea. He would take the treasure and hide it away where no one would ever find it. So he took a shovel and his treasure and disappeared into the hills ... never to be seen alive again. There're are some that say he is in those hills yet and can be seen patrolling the area where the treasure is hid. But no one yet has had the courage to find out."
-msgstr "是這樣的，我的曾曾曾祖父吹牛大王約翰，大半輩子都在海上度過。據說他找到了古代諸王失落的寶藏。黃金啊，朋友，多到你做夢都想不到的黃金。他把那些黃金帶回泰尼伯瑞，打算安頓下來，舒舒服服地過完下半輩子。可惜事與願違，他才剛找到舒適的住處，噩夢就開始纏上他了。好可怕的噩夢啊。我那曾曾曾祖父天不怕地不怕，是世上最勇敢的人，可這些夢卻讓他尖叫著驚醒、嚇得直發抖。在夢裡，古代諸王的鬼魂來找他，要他歸還寶藏。這些幽靈夜夜出現，但我那曾曾曾祖父就是不肯交出寶藏。有一晚，在一次特別嚇人的造訪之後，他想到一個主意：把寶藏藏到一個誰也找不到的地方。於是他扛起鏟子、帶著寶藏走進山裡……從此再也沒有人見過活著的他。有人說他至今仍在那片山裡，還能看見他在藏寶的地方巡邏。不過到現在，還沒有人有膽子去查個究竟。"
+msgstr "是這樣的，我的曾曾曾祖父吹牛大王約翰，大半輩子都在海上度過。據說他找到了古代諸王失落的寶藏。黃金啊，朋友，多到你做夢都想不到的黃金。他把那些黃金帶回泰納布利，打算安頓下來，舒舒服服地過完下半輩子。可惜事與願違，他才剛找到舒適的住處，噩夢就開始纏上他了。好可怕的噩夢啊。我那曾曾曾祖父天不怕地不怕，是世上最勇敢的人，可這些夢卻讓他尖叫著驚醒、嚇得直發抖。在夢裡，古代諸王的鬼魂來找他，要他歸還寶藏。這些幽靈夜夜出現，但我那曾曾曾祖父就是不肯交出寶藏。有一晚，在一次特別嚇人的造訪之後，他想到一個主意：把寶藏藏到一個誰也找不到的地方。於是他扛起鏟子、帶著寶藏走進山裡……從此再也沒有人見過活著的他。有人說他至今仍在那片山裡，還能看見他在藏寶的地方巡邏。不過到現在，還沒有人有膽子去查個究竟。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me how you lost your eye. "
@@ -741,7 +741,7 @@ msgstr "（我的眼睛根本沒瞎。這是個假眼罩，其實看得穿。）
 #. event 01 (use (talk)), after "Tell me about lost treasures. "
 msgctxt "bark 040A:4550"
 msgid "Lost treasures? Hmmmm, well there is the great hammer, 'Bone Crusher.' See once Lithos and Pyros had a quarrel. Now a quarrel for a titan is a full scale war for the like of you and me. Pyros made the skies rain fire and Lithos sent out armies of undead. Unfortunately, the battle ground was right over Tenebrae. My great great great granpappy, John Blowhard, knew it had to stop or it would destroy the city. He went to Hydros and asked her for a weapon to fight these things. She gave him a magic hammer. Well, he strode into battle with that thing and sent the skeletons flying, so he named the hammer Bone Crusher. Well, he quickly sent the undead back to their home and the fire stopped raining from the sky, but not before one of the fireballs struck him down. Bone Crusher went flying from his hand. When he came to, the mighty hammer was gone and it hasn't been seen since."
-msgstr "失落的寶藏？嗯……有一把了不起的鎚子，叫「碎骨槌」。話說從前利索斯和派羅斯吵了一架。泰坦吵架，對你我這種人來說就是一場全面大戰。派羅斯讓天空降下火雨，利索斯則派出不死大軍。不幸的是，戰場就在泰尼伯瑞上空。我的曾曾曾祖父吹牛大王約翰知道，再不阻止，整座城就要毀了。他去找海德羅斯，向她求一把能對抗這些東西的武器。她給了他一把魔法鎚。他拿著那東西大步走上戰場，把骷髏打得四處亂飛，於是就把這把鎚子命名為碎骨槌。他很快就把不死者趕回老家，天上的火雨也停了，可是在那之前，有一顆火球把他擊倒，碎骨槌從他手中飛了出去。等他醒來，那把威力強大的鎚子已經不見了，從此再也沒人見過它。"
+msgstr "失落的寶藏？嗯……有一把了不起的鎚子，叫「碎骨槌」。話說從前里索斯和派羅斯吵了一架。泰坦吵架，對你我這種人來說就是一場全面大戰。派羅斯讓天空降下火雨，里索斯則派出不死大軍。不幸的是，戰場就在泰納布利上空。我的曾曾曾祖父吹牛大王約翰知道，再不阻止，整座城就要毀了。他去找海特蘿，向她求一把能對抗這些東西的武器。她給了他一把魔法鎚。他拿著那東西大步走上戰場，把骷髏打得四處亂飛，於是就把這把鎚子命名為碎骨槌。他很快就把不死者趕回老家，天上的火雨也停了，可是在那之前，有一顆火球把他擊倒，碎骨槌從他手中飛了出去。等他醒來，那把威力強大的鎚子已經不見了，從此再也沒人見過它。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me about lost treasures. "
@@ -753,7 +753,7 @@ msgstr "（碎骨槌的故事是我在班提克的圖書館讀到的。）"
 #. event 01 (use (talk)), after "Tell me about lost treasures. "
 msgctxt "bark 040A:4950"
 msgid "It'll be treasure ye're after then. Well, my great great great granpappy, John Blowhard, was visiting a village off what is now Argentrock Isle. In the middle of the night, a group of trolls attacked the village, trying to carry off all the children. Children are their favorite snacks, ye know. Well, John Blowhard wouldn't have that, so he grabbed up a butter knife from the kitchen of the house he was staying in and ran out to battle the trolls. All that night and half the next day he fought those trolls. When it was all over, more than thirty trolls lay dead, and he had done it all with a butter knife. The titans approved of his bravery and rewarded him by turning that knife into a wondrous sword. However, on his way back to Tenebrae, the trolls ambushed him while he slept and stole the sword away. Rumor has it, it is lost in the woods around here where the trolls used to have their camps."
-msgstr "原來你是衝著寶藏來的。好吧，我的曾曾曾祖父吹牛大王約翰，有一回去拜訪如今白銀之岩島外的一座村子。半夜裡，一群巨魔襲擊村子，想把所有小孩都擄走。你知道的，小孩可是牠們最愛的點心。吹牛大王約翰哪能容忍這種事，他從借住那戶人家的廚房抓起一把奶油刀，就衝出去跟巨魔拚了。他和那些巨魔打了一整夜，又打了第二天大半天。等一切結束，三十多隻巨魔橫屍遍地，而他靠的只是一把奶油刀。泰坦們讚賞他的勇氣，把那把刀變成一把神奇的寶劍作為獎賞。可是在回泰尼伯瑞的路上，巨魔趁他睡著時偷襲，把劍搶走了。傳說那把劍就失落在這附近、巨魔從前紮營的樹林裡。"
+msgstr "原來你是衝著寶藏來的。好吧，我的曾曾曾祖父吹牛大王約翰，有一回去拜訪如今銀岩島外的一座村子。半夜裡，一群巨魔襲擊村子，想把所有小孩都擄走。你知道的，小孩可是牠們最愛的點心。吹牛大王約翰哪能容忍這種事，他從借住那戶人家的廚房抓起一把奶油刀，就衝出去跟巨魔拚了。他和那些巨魔打了一整夜，又打了第二天大半天。等一切結束，三十多隻巨魔橫屍遍地，而他靠的只是一把奶油刀。泰坦們讚賞他的勇氣，把那把刀變成一把神奇的寶劍作為獎賞。可是在回泰納布利的路上，巨魔趁他睡著時偷襲，把劍搶走了。傳說那把劍就失落在這附近、巨魔從前紮營的樹林裡。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me about lost treasures. "
@@ -765,7 +765,7 @@ msgstr "（確實有一把在對抗巨魔的戰役中贏得的魔法劍，但那
 #. event 01 (use (talk)), after "Tell me about lost treasures. "
 msgctxt "bark 040A:4D6D"
 msgid "Ah, I used to love to hear tales of treasure, meself. Well, seems that one of the early Tempests was a woman named Cekar. She was very beautiful but very vain. She spent all day looking into the glass, combing her hair and admiring her lovely face. So involved with her mirror was she, that she neglected her duties as Tempest. 'My eyes are like sapphires', she would say, 'my cheeks like rubies and my hair, spun gold.' Well Hydros became very angry with the Tempest. 'To punish you for your vanity,' she thundered, 'I will turn you into that which you compare yourself to.' And just like that, Cekar became a statue, with eyes of sapphires, cheeks of rubies and hair of spun gold. Cekar's servants took the statue away and hid it in the hills while they tried to find a way to turn her back. The statue remains hidden to this day."
-msgstr "啊，我自己以前也最愛聽寶藏的故事了。話說早期有一位風暴使者，是個名叫瑟卡的女人。她非常美麗，卻也非常虛榮，整天對著鏡子梳頭、欣賞自己美麗的臉蛋，沉迷到荒廢了風暴使者的職責。她總是說：「我的眼睛像藍寶石，我的臉頰像紅寶石，我的頭髮像金絲。」海德羅斯對這位風暴使者大為震怒，聲如雷鳴地說：「為了懲罰妳的虛榮，我要把妳變成妳拿來比喻自己的東西。」就這樣，瑟卡變成了一座雕像，有著藍寶石的眼睛、紅寶石的臉頰和金絲的頭髮。瑟卡的僕人把雕像搬走藏在山裡，同時設法要把她變回來。那座雕像至今仍藏在某處。"
+msgstr "啊，我自己以前也最愛聽寶藏的故事了。話說早期有一位役水師，是個名叫瑟卡的女人。她非常美麗，卻也非常虛榮，整天對著鏡子梳頭、欣賞自己美麗的臉蛋，沉迷到荒廢了役水師的職責。她總是說：「我的眼睛像藍寶石，我的臉頰像紅寶石，我的頭髮像金絲。」海特蘿對這位役水師大為震怒，聲如雷鳴地說：「為了懲罰妳的虛榮，我要把妳變成妳拿來比喻自己的東西。」就這樣，瑟卡變成了一座雕像，有著藍寶石的眼睛、紅寶石的臉頰和金絲的頭髮。瑟卡的僕人把雕像搬走藏在山裡，同時設法要把她變回來。那座雕像至今仍藏在某處。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me about lost treasures. "
@@ -777,7 +777,7 @@ msgstr "（這是我以前聽一個吟遊詩人唱過的歌。）"
 #. event 01 (use (talk)), after "Tell me how you lost your leg. "
 msgctxt "bark 040A:5167"
 msgid "Ah, laddy. It 'twere a dark night upon the Sea of Rains. I was on me ship, the Dark Lady. We were hauling cargo for a wealthy merchant here in Tenebrae. The storm came up fast and hard. Seems our goodly Tempest was having a bit of a bad time and had decided to take it out on the sea. Unluckily for us, we were caught in the worst of it. The Dark Lady was tossed about like a leaf. All of a sudden, the main mast gave way and me first mate was standing directly in its path. I managed to push him out of the way, but it was too late for me. The mast crashed down on me and I could not get away. When the storm finally gave way, I was pulled from the wreckage. Me leg was crushed and there was naught for it but to cut it off. But it t'were a small price to pay for a man's life."
-msgstr "啊，小伙子。那是雨之海上一個漆黑的夜晚。我在我的船「黑夫人號」上，替泰尼伯瑞的一位富商運貨。暴風雨來得又快又猛。看來咱們那位好風暴使者心情不太好，決定拿大海出氣。我們運氣差，正好碰上最兇的那一段。黑夫人號像片葉子似地被拋來拋去。突然間，主桅斷了，我的大副正好站在它倒下的地方。我設法把他推開，可是自己來不及躲了。桅桿砸在我身上，我動彈不得。等暴風雨終於過去，大家才把我從殘骸裡拖出來。我的腿被壓爛了，除了鋸掉沒別的辦法。不過，用一條腿換一條人命，這代價算小的了。"
+msgstr "啊，小伙子。那是雨之海上一個漆黑的夜晚。我在我的船「黑夫人號」上，替泰納布利的一位富商運貨。暴風雨來得又快又猛。看來咱們那位好役水師心情不太好，決定拿大海出氣。我們運氣差，正好碰上最兇的那一段。黑夫人號像片葉子似地被拋來拋去。突然間，主桅斷了，我的大副正好站在它倒下的地方。我設法把他推開，可是自己來不及躲了。桅桿砸在我身上，我動彈不得。等暴風雨終於過去，大家才把我從殘骸裡拖出來。我的腿被壓爛了，除了鋸掉沒別的辦法。不過，用一條腿換一條人命，這代價算小的了。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me how you lost your leg. "
@@ -813,7 +813,7 @@ msgstr "（我劈柴時斧頭滑了一下。）"
 #. event 01 (use (talk)), after "Tell me how you lost your hand. "
 msgctxt "bark 040A:5DC9"
 msgid "Now there's a tale for the telling! One day I was sitting in a tavern much like this one when I met an old man. He told me a wonderous tale of a great hidden treasure. He said it contained more wealth than the Tempest's castle and it was hidden on an island out in the middle of the Sea of  Rains. Well, I immediately gathered me crew and boarded me ship, the Sea Raven. After a month of sailing, we had all but given up hope, when a cry came up from the crow's nest. 'Land ho!' the lad shouted. Sure enough, there was  the island. We boarded our long boats. Once ashore, I traversed deep into the jungle and came upon this huge pile of treasure. Above it all was a huge golden idol. Its eyes glowed with two of the largest gems I have  ever seen. I climbed up carefully and reached out to pluck one of the stones from its socket. Just as me fingers brushed the stone, a huge blade scythed down and severed me hand right at the wrist. As I tumbled to the ground, everything began to shake. We barely made it back to me ship as the island sank beneath the waves of the Sea of Rains, taking its treasure with it."
-msgstr "這可是個值得一講的故事！有一天，我坐在一間跟這兒差不多的酒館裡，遇見一個老頭。他跟我講了一個關於巨大祕寶的奇妙故事，說那批寶藏比風暴使者的城堡還值錢，就藏在雨之海正中央的一座島上。我立刻召集船員，登上我的船「海鴉號」。航行了一個月，我們幾乎都要放棄了，這時瞭望台上傳來一聲大喊：「看到陸地了！」那小伙子叫道。果然，那座島就在眼前。我們搭上長艇登岸後，我深入叢林，發現了一大堆寶藏。寶藏上方是一尊巨大的黃金神像，兩隻眼睛閃耀著我這輩子見過最大的兩顆寶石。我小心地爬上去，伸手想把其中一顆寶石從眼窩裡挖出來。手指才剛碰到寶石，一把巨大的刀刃就劈了下來，把我的手從手腕處整個斬斷。我摔到地上時，四周開始天搖地動。我們好不容易逃回船上，那座島就連同寶藏一起沉入了雨之海的波濤之中。"
+msgstr "這可是個值得一講的故事！有一天，我坐在一間跟這兒差不多的酒館裡，遇見一個老頭。他跟我講了一個關於巨大祕寶的奇妙故事，說那批寶藏比役水師的城堡還值錢，就藏在雨之海正中央的一座島上。我立刻召集船員，登上我的船「海鴉號」。航行了一個月，我們幾乎都要放棄了，這時瞭望台上傳來一聲大喊：「看到陸地了！」那小伙子叫道。果然，那座島就在眼前。我們搭上長艇登岸後，我深入叢林，發現了一大堆寶藏。寶藏上方是一尊巨大的黃金神像，兩隻眼睛閃耀著我這輩子見過最大的兩顆寶石。我小心地爬上去，伸手想把其中一顆寶石從眼窩裡挖出來。手指才剛碰到寶石，一把巨大的刀刃就劈了下來，把我的手從手腕處整個斬斷。我摔到地上時，四周開始天搖地動。我們好不容易逃回船上，那座島就連同寶藏一起沉入了雨之海的波濤之中。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me how you lost your hand. "
@@ -891,13 +891,13 @@ msgstr "這間旅店？嘿，小伙子，這間旅店跟這兒的山一樣老。
 #. event 01 (use (talk)), after "Tell me how you came to be at this inn. "
 msgctxt "bark 040A:775E"
 msgid "(It was an old torax barn. I turned it into an inn with the money I swindled when I worked as an exchecker for the Tempest.) "
-msgstr "（這原本是個托拉克斯獸的舊棚子。我替風暴使者當稅吏時騙了一筆錢，就拿來把它改成了旅店。）"
+msgstr "（這原本是個托拉克斯獸的舊棚子。我替役水師當稅吏時騙了一筆錢，就拿來把它改成了旅店。）"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me how you came to be at this inn. "
 msgctxt "bark 040A:7DE1"
 msgid "This inn has so much history behind it, sonny, I wish these old walls could talk. The name of the builder has been lost to history, for it was standing long before the city of Tenebrae was founded. In fact, it is the reason  Tenebrae was located where it is today. How I came to be the innkeeper is an interesting tale. It was shortly after I lost me eye. I had already lost me hand and leg, so I knew I had to start looking for something to do on land. I  had decided to take a trip to ArgentRock to see if there wasn't something the healers could do about me eye. Night was approaching and I was looking for a place to make camp when I came across this old man. He laying under a tree. He was unconscious, his face was the color of sea foam and  his breath came in wheezing gasps. I quickly built a fire and wrapped me blanket around him. He opened one bleary eye. 'Thank ye.' he said, 'Thank ye kindly for taking pity on an old man in his final hour of life. There's not many what would give up their blanket for one so close to the gate of  death.' He told me then of his life on the roads and some of the adventures he'd had. As the dawn approached, his coughing got worse. Finally he could barely speak and I knew he didn't have much time left. He motioned me closer with his boney finger. I bent me head  down to hear his final words. 'Ye have done a kind thing for a dying man. I wish to reward ye.' he said. 'In me pack ye'll find a piece of paper. It is the deed to an inn in Tenebrae. As I have no heirs, I wish ye to have it.' With that, he coughed once more and passed to the Pit of Death. That's how I came to own this inn."
-msgstr "這間旅店背後的歷史可多了，小子，真希望這幾面老牆能開口說話。蓋它的人叫什麼名字早已失傳，因為早在泰尼伯瑞建城之前它就在這兒了。事實上，泰尼伯瑞會建在今天這個地方，就是因為它。至於我怎麼當上旅店老闆，那可是個有趣的故事。那是我失去眼睛後不久的事。那時我已經沒了一隻手和一條腿，知道得開始在陸地上找點事做了。我決定去一趟白銀之岩，看看那裡的治療師能不能治我的眼睛。天快黑了，我正找地方紮營，就碰上了這個躺在樹下的老人。他昏迷不醒，臉色像海上的泡沫一樣慘白，呼吸又喘又急。我趕緊生了堆火，把毯子裹在他身上。他睜開一隻迷濛的眼睛，說：「謝謝你。謝謝你好心可憐一個將死的老頭子。肯把毯子讓給一個快進鬼門關的人，這種人可不多啊。」接著他跟我講起他浪跡天涯的日子，還有他經歷過的一些冒險。天快亮時，他咳得更厲害了，最後幾乎說不出話，我知道他沒剩多少時間了。他用瘦骨嶙峋的手指示意我靠近，我低下頭聽他的遺言。他說：「你對一個垂死的人做了件善事，我想報答你。我的行囊裡有一張紙，是泰尼伯瑞一間旅店的地契。我沒有繼承人，希望你收下它。」說完，他又咳了一聲，就去了死亡深坑。我就是這樣得到這間旅店的。"
+msgstr "這間旅店背後的歷史可多了，小子，真希望這幾面老牆能開口說話。蓋它的人叫什麼名字早已失傳，因為早在泰納布利建城之前它就在這兒了。事實上，泰納布利會建在今天這個地方，就是因為它。至於我怎麼當上旅店老闆，那可是個有趣的故事。那是我失去眼睛後不久的事。那時我已經沒了一隻手和一條腿，知道得開始在陸地上找點事做了。我決定去一趟銀岩，看看那裡的治療師能不能治我的眼睛。天快黑了，我正找地方紮營，就碰上了這個躺在樹下的老人。他昏迷不醒，臉色像海上的泡沫一樣慘白，呼吸又喘又急。我趕緊生了堆火，把毯子裹在他身上。他睜開一隻迷濛的眼睛，說：「謝謝你。謝謝你好心可憐一個將死的老頭子。肯把毯子讓給一個快進鬼門關的人，這種人可不多啊。」接著他跟我講起他浪跡天涯的日子，還有他經歷過的一些冒險。天快亮時，他咳得更厲害了，最後幾乎說不出話，我知道他沒剩多少時間了。他用瘦骨嶙峋的手指示意我靠近，我低下頭聽他的遺言。他說：「你對一個垂死的人做了件善事，我想報答你。我的行囊裡有一張紙，是泰納布利一間旅店的地契。我沒有繼承人，希望你收下它。」說完，他又咳了一聲，就去了死亡深坑。我就是這樣得到這間旅店的。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me how you came to be at this inn. "
@@ -909,7 +909,7 @@ msgstr "（它欠了一堆稅，我用便宜得要命的價錢買下來的。）
 #. event 01 (use (talk)), after "Tell me how you came to be at this inn. "
 msgctxt "bark 040A:8614"
 msgid "That is a tale worth the telling, matey. ye see, I was on shore leave from me ship, the Monkey's Fist. I was drinking in this little tavern when I was approached by a rather scurvy looking waterrat. He asked if I was interested in a card game...a 'high stakes' card game. Well, I couldn't pass that up so I agreed. He led me to the back of the tavern and through a door behind the bar. There sat four of the most shifty-eyed salt dogs I'd ever seen. They looked me over once or twice then motioned me to a chair. We played in silence for the next several hours, the stacks of chips changing hands like candy. I was coming out on the short end of the deal and soon saw that I was going to have to leave the game. I pushed me chair back. 'That's it for me, mateys.' says I. 'Yer gonna have to play wit'out me.' 'Not so fast', the one with a glass eye says. 'Yer not done yet. ye have the ship, right?' 'Yes.'says I. 'Then  that's what we'll play for.' I then knew that's they'd been after all along, the Monkey's Fist. 'I will not wager me ship on a game of cards.'says I. 'Ye'll not leave this room alive if'n ye don't.' says the leader. At that the bodyguard at the door drew his sword. 'All right,' says I I'll play, but only if ye puts up something just as valuable.' The glass-eyed man reached into his pack and pulled out a piece of paper. 'Here' says he. 'The deed to an inn in Tenebrae.' 'All right,' says I. 'We'll play.' The card dealing went fast and tense. Finally ol' glass-eye cackled. 'Here,' he said, 'ye can'na beat these ladies. The Monkey's Fist is mine!' 'Not so fast,' says I and laid down me cards. 'That's a set of dragons and a shield.' 'Why you!' said glass eye. He drew his sword and charged over the table at me. I drew me sword and hightailed it out the door, but not before I snatched up the deed to this place. They chased me all the way back to the ship, but I made it safely. And that, me friend, is how I came to be the proud owner of this fine establishment!"
-msgstr "這故事值得一講，伙計。是這樣的，那時我從我的船「猴拳號」上岸休假，在一間小酒館喝酒，有個長得一副賊相的碼頭混混湊了過來。他問我有沒有興趣玩牌……玩一場「大賭注」的牌局。這種事我哪能錯過，就答應了。他領我到酒館後頭，穿過吧檯後面的一扇門。裡面坐著四個我這輩子見過眼神最賊的老海狗。他們把我上下打量了一兩回，就示意我坐下。接下來好幾個鐘頭，我們一聲不吭地玩牌，一疊疊籌碼像糖果一樣換來換去。我越輸越多，很快就知道自己得退出了。我把椅子往後一推，說：「我就到此為止了，伙計們。你們自己玩吧。」那個裝了玻璃眼的說：「別急著走。你還沒完呢。你有艘船，對吧？」我說：「對。」「那我們就賭那艘船。」這下我才明白，他們從頭到尾要的就是猴拳號。我說：「我才不會拿我的船來賭牌。」那個頭頭說：「你不賭，就別想活著走出這個房間。」話一說完，門口的保鏢就拔出了劍。我說：「好吧，我賭。不過你們也得拿出同樣值錢的東西來。」玻璃眼伸手到行囊裡，掏出一張紙，說：「拿去，泰尼伯瑞一間旅店的地契。」我說：「好，那就賭吧。」發牌又快又緊張。最後老玻璃眼咯咯笑著說：「看吧，你可贏不了這幾張皇后。猴拳號歸我了！」我說：「別急。」然後把我的牌攤開，「這是一組龍牌外加一張盾牌。」玻璃眼大叫：「你這傢伙！」他拔劍越過桌子朝我撲來。我也拔出劍，拔腿就往門外跑，不過在那之前，我先一把抓起了這地方的地契。他們一路追我到船上，但我平安逃脫了。朋友，這就是我成為這間好店驕傲老闆的經過！"
+msgstr "這故事值得一講，伙計。是這樣的，那時我從我的船「猴拳號」上岸休假，在一間小酒館喝酒，有個長得一副賊相的碼頭混混湊了過來。他問我有沒有興趣玩牌……玩一場「大賭注」的牌局。這種事我哪能錯過，就答應了。他領我到酒館後頭，穿過吧檯後面的一扇門。裡面坐著四個我這輩子見過眼神最賊的老海狗。他們把我上下打量了一兩回，就示意我坐下。接下來好幾個鐘頭，我們一聲不吭地玩牌，一疊疊籌碼像糖果一樣換來換去。我越輸越多，很快就知道自己得退出了。我把椅子往後一推，說：「我就到此為止了，伙計們。你們自己玩吧。」那個裝了玻璃眼的說：「別急著走。你還沒完呢。你有艘船，對吧？」我說：「對。」「那我們就賭那艘船。」這下我才明白，他們從頭到尾要的就是猴拳號。我說：「我才不會拿我的船來賭牌。」那個頭頭說：「你不賭，就別想活著走出這個房間。」話一說完，門口的保鏢就拔出了劍。我說：「好吧，我賭。不過你們也得拿出同樣值錢的東西來。」玻璃眼伸手到行囊裡，掏出一張紙，說：「拿去，泰納布利一間旅店的地契。」我說：「好，那就賭吧。」發牌又快又緊張。最後老玻璃眼咯咯笑著說：「看吧，你可贏不了這幾張皇后。猴拳號歸我了！」我說：「別急。」然後把我的牌攤開，「這是一組龍牌外加一張盾牌。」玻璃眼大叫：「你這傢伙！」他拔劍越過桌子朝我撲來。我也拔出劍，拔腿就往門外跑，不過在那之前，我先一把抓起了這地方的地契。他們一路追我到船上，但我平安逃脫了。朋友，這就是我成為這間好店驕傲老闆的經過！"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me how you came to be at this inn. "
@@ -928,7 +928,7 @@ msgstr "說說雨之海。"
 #. event 01 (use (talk)), after "Tell me of the Sea of Rains. "
 msgctxt "bark 040A:8B27"
 msgid "She's a mysterious mistress, me boyo. Why ye never know when she's going to turn on ye. One fine day I took me ship, the Trident, out. There was no sign of trouble and it looked like clear sailing. Well, all of a sudden me boy in the crow's nest hollared and I looked up. There, on the horizon was the blackest storm cloud I'd ever seen. as I watched, I realized what I thought was a storm was really the biggest water spout I'd ever seen and it was coming straight for us. I ordered the ship about and tried to out run that monster, but it was no use. Before we knew it, it was upon us and we were picked straight up into the sky. We whirled and whirled about until we thought we were dead for sure. All caught up in that spout with us were fish and rocks and I even saw one of the Lurker's ghastly pets. We must have whirled about for two or three days until we were finally set down, safe and sound, in our berth in the harbor outside Tenebrae. It was something I'll never forget."
-msgstr "她是個神祕的情婦啊，老弟。你永遠不知道她什麼時候會翻臉。某個晴朗的日子，我駕著我的船「三叉戟號」出海。一點麻煩的徵兆都沒有，看來會是一帆風順。突然間，瞭望台上的小子大叫，我抬頭一看，地平線上是我這輩子見過最黑的暴風雲。我看著看著，才發覺那根本不是暴風雨，而是我見過最大的海龍捲，正直直朝我們衝來。我下令調轉船頭，想甩開那個怪物，卻一點用也沒有。我們還來不及反應，它就撲了上來，把我們整艘船捲上了天。我們轉啊轉啊，轉到都以為自己必死無疑了。跟我們一起被捲進龍捲裡的有魚、有石頭，我甚至還看到一隻潛伏者養的可怕寵物。我們大概轉了兩三天，最後才平平安安地落回泰尼伯瑞外海港裡我們的泊位。那是我一輩子都忘不了的事。"
+msgstr "她是個神祕的情婦啊，老弟。你永遠不知道她什麼時候會翻臉。某個晴朗的日子，我駕著我的船「三叉戟號」出海。一點麻煩的徵兆都沒有，看來會是一帆風順。突然間，瞭望台上的小子大叫，我抬頭一看，地平線上是我這輩子見過最黑的暴風雲。我看著看著，才發覺那根本不是暴風雨，而是我見過最大的海龍捲，正直直朝我們衝來。我下令調轉船頭，想甩開那個怪物，卻一點用也沒有。我們還來不及反應，它就撲了上來，把我們整艘船捲上了天。我們轉啊轉啊，轉到都以為自己必死無疑了。跟我們一起被捲進龍捲裡的有魚、有石頭，我甚至還看到一隻潛伏者養的可怕寵物。我們大概轉了兩三天，最後才平平安安地落回泰納布利外海港裡我們的泊位。那是我一輩子都忘不了的事。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of the Sea of Rains. "
@@ -994,49 +994,49 @@ msgstr "說說阿拉米娜。"
 #. event 01 (use (talk)), after "Tell me of Tenebrae. "
 msgctxt "ask 040A"
 msgid "Tell me of Lady Mordea. "
-msgstr "說說莫爾迪亞夫人。"
+msgstr "說說莫迪雅夫人。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me its history. "
 msgctxt "bark 040A:9903"
 msgid "Tenebrae has a long and colorful history, me friend. It was originally a troll encampment. See, the trolls at one time ruled Pagan. That was until me great great great granpappy, John Blowhard, arrived. He saw that the area the trolls were living in was beautiful. Now, trolls are not the best housekeepers, so they were making a mess of a very beautiful place. John Blowhard came in and cleaned out those trolls. It was a bloody battle, but soon the trolls were all gone and John Blowhard opened the very inn ye are standing in now, me friend."
-msgstr "泰尼伯瑞的歷史悠久又精彩，朋友。這裡原本是巨魔的營地。你知道，巨魔曾經統治過佩根，直到我的曾曾曾祖父吹牛大王約翰來了為止。他看到巨魔住的這片地方很美，可巨魔不太會持家，把這麼美的地方搞得一團糟。吹牛大王約翰就來把那些巨魔清了出去。那是一場血戰，但很快巨魔就被趕光了，吹牛大王約翰就開了你現在站著的這間旅店，朋友。"
+msgstr "泰納布利的歷史悠久又精彩，朋友。這裡原本是巨魔的營地。你知道，巨魔曾經統治過佩根，直到我的曾曾曾祖父吹牛大王約翰來了為止。他看到巨魔住的這片地方很美，可巨魔不太會持家，把這麼美的地方搞得一團糟。吹牛大王約翰就來把那些巨魔清了出去。那是一場血戰，但很快巨魔就被趕光了，吹牛大王約翰就開了你現在站著的這間旅店，朋友。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me its history. "
 msgctxt "bark 040A:9991"
 msgid "(I don't know the history of Tenebrae and me great great great granpappy was run out of town for being a thief.) "
-msgstr "（我不知道泰尼伯瑞的歷史，而我的曾曾曾祖父是因為偷東西被趕出城的。）"
+msgstr "（我不知道泰納布利的歷史，而我的曾曾曾祖父是因為偷東西被趕出城的。）"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me its history. "
 msgctxt "bark 040A:9BA7"
 msgid "Tenebrae has an interesting history. I would love to tell ye about it. In the very early days, the people of Tenebrae were attacked by those filthy Necromancers. Those mages of death comanded their minions of undead to kill everyone in the town. me great great great granpappy, John Blowhard, charged into their camp and singlehandedly slew all the necromancers. Without the mages to control them, the undead fell back into their timeless sleep and Tenebrae was saved."
-msgstr "泰尼伯瑞的歷史很有意思，我很樂意講給你聽。很久很久以前，泰尼伯瑞的人們遭到那些骯髒的死靈法師襲擊。那些死亡法師命令手下的不死者殺光城裡所有人。我的曾曾曾祖父吹牛大王約翰衝進他們的營地，單槍匹馬殺光了所有死靈法師。沒了法師的操控，不死者又陷入了永恆的沉睡，泰尼伯瑞就這樣得救了。"
+msgstr "泰納布利的歷史很有意思，我很樂意講給你聽。很久很久以前，泰納布利的人們遭到那些骯髒的降靈師襲擊。那些死亡法師命令手下的不死者殺光城裡所有人。我的曾曾曾祖父吹牛大王約翰衝進他們的營地，單槍匹馬殺光了所有降靈師。沒了法師的操控，不死者又陷入了永恆的沉睡，泰納布利就這樣得救了。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me its history. "
 msgctxt "bark 040A:9C31"
 msgid "(The Necromancers have never attacked Tenebrae. John Blowhard never slew anything but glasses of cheap ale.) "
-msgstr "（死靈法師從來沒有襲擊過泰尼伯瑞。吹牛大王約翰唯一「殺」過的，只有一杯杯的廉價麥酒。）"
+msgstr "（降靈師從來沒有襲擊過泰納布利。吹牛大王約翰唯一「殺」過的，只有一杯杯的廉價麥酒。）"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me its history. "
 msgctxt "bark 040A:A111"
 msgid "Ah, I shall tell ye of the year of the Great Storm. Many years ago the Tempest of Tenebrae was a man named Strem. Lord Strem had a very beautiful daughter named Trecian. She had hair the color of spun honey and eyes the color of the Sea of Rains. She caught the eye of me great great great granpappy, John Blowhard. Well, John Blowhard and Trecian fell in love, but the Tempest didn't approve. The young lovers knew they couldn't live without each other so one night they ran away together. Well, the Tempest went into a rage and started a terrible storm. It rained and the wind blew and the surf pounded poor Tenebrae. He vowed to keep the storm raging until John Blowhard and Trecian were found. As the storm worsened, a huge wave began to build. It roared down upon Tenebrae, heading straight for the palace. From their hiding place in the mountains, John saw it and knew the people in the palace had to be warned. He ran for the palace and arrived just in time to get all the people out. The wave demolished the palace. When Lord Strem saw what he had done, he stopped the storm. He was so happy that John Blowhard had saved the people in the palace that he gave his blessing and allowed John and Trecian to marry."
-msgstr "啊，我來跟你講講大風暴那一年的事。很多年前，泰尼伯瑞的風暴使者是個叫史特雷姆的男人。史特雷姆大人有個非常美麗的女兒，名叫特雷西安。她的頭髮像蜂蜜絲一樣金黃，眼睛像雨之海一樣湛藍。她吸引了我的曾曾曾祖父吹牛大王約翰的目光。吹牛大王約翰和特雷西安墜入了愛河，但風暴使者不同意。這對年輕戀人知道彼此誰也離不開誰，於是有一晚私奔了。風暴使者勃然大怒，掀起一場可怕的風暴。大雨狂下、狂風怒吼，海浪不停拍打著可憐的泰尼伯瑞。他發誓，在找到吹牛大王約翰和特雷西安之前，絕不讓風暴停歇。風暴越來越猛，一道巨浪開始成形，咆哮著朝泰尼伯瑞撲來，直衝宮殿。約翰從山中藏身處看見了，知道必須警告宮殿裡的人。他朝宮殿狂奔，及時趕到，把所有人都救了出來。巨浪摧毀了宮殿。史特雷姆大人看到自己闖下的禍，就止住了風暴。他對吹牛大王約翰救了宮裡的人感激萬分，於是祝福他們，允許約翰和特雷西安成婚。"
+msgstr "啊，我來跟你講講大風暴那一年的事。很多年前，泰納布利的役水師是個叫史特雷姆的男人。史特雷姆大人有個非常美麗的女兒，名叫特雷西安。她的頭髮像蜂蜜絲一樣金黃，眼睛像雨之海一樣湛藍。她吸引了我的曾曾曾祖父吹牛大王約翰的目光。吹牛大王約翰和特雷西安墜入了愛河，但役水師不同意。這對年輕戀人知道彼此誰也離不開誰，於是有一晚私奔了。役水師勃然大怒，掀起一場可怕的風暴。大雨狂下、狂風怒吼，海浪不停拍打著可憐的泰納布利。他發誓，在找到吹牛大王約翰和特雷西安之前，絕不讓風暴停歇。風暴越來越猛，一道巨浪開始成形，咆哮著朝泰納布利撲來，直衝宮殿。約翰從山中藏身處看見了，知道必須警告宮殿裡的人。他朝宮殿狂奔，及時趕到，把所有人都救了出來。巨浪摧毀了宮殿。史特雷姆大人看到自己闖下的禍，就止住了風暴。他對吹牛大王約翰救了宮裡的人感激萬分，於是祝福他們，允許約翰和特雷西安成婚。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me its history. "
 msgctxt "bark 040A:A1BF"
 msgid "(There was no great storm and John Blowhard was hated by the Tempest's daughter. She was the one who had him exiled from Tenebrae for thievery.) "
-msgstr "（根本沒有什麼大風暴，而且風暴使者的女兒很討厭吹牛大王約翰。就是她以偷竊的罪名把他逐出泰尼伯瑞的。）"
+msgstr "（根本沒有什麼大風暴，而且役水師的女兒很討厭吹牛大王約翰。就是她以偷竊的罪名把他逐出泰納布利的。）"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Bentic. "
 msgctxt "bark 040A:A339"
 msgid "Bentic. I don't see much of him. He's a bit of a recluse. Stays with his books. It is said, though that he is actually Lady Mordea's lover. People say they have seen him sneaking in her bedroom window in the middle of the night. Ye never can tell about those quiet types."
-msgstr "班提克啊。我不常見到他。他有點孤僻，整天和他的書待在一起。不過有人說，他其實是莫爾迪亞夫人的情人。大家說看過他半夜偷偷從她臥室的窗戶溜進去。那種安靜的人哪，你永遠猜不透。"
+msgstr "班提克啊。我不常見到他。他有點孤僻，整天和他的書待在一起。不過有人說，他其實是莫迪雅夫人的情人。大家說看過他半夜偷偷從她臥室的窗戶溜進去。那種安靜的人哪，你永遠猜不透。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Bentic. "
@@ -1048,7 +1048,7 @@ msgstr "（我對班提克不太了解。我覺得他就是個娘娘腔。）"
 #. event 01 (use (talk)), after "Tell me of Bentic. "
 msgctxt "bark 040A:A509"
 msgid "Bentic is quite the mystery man. He knows an awful lot about this area. Reads a lot of books. I think he is actually trying to find the treasure me great great great granpappy, John Blowhard buried in the hills above Tenebrae many years ago. There are certainly enough old maps in that library of his that he could have stumbled onto something."
-msgstr "班提克可是個神祕人物。他對這一帶知道得多得嚇人，讀了一大堆書。我想他其實是在找我的曾曾曾祖父吹牛大王約翰多年前埋在泰尼伯瑞後山的寶藏。他那圖書館裡的老地圖多得很，說不定真讓他發現了什麼。"
+msgstr "班提克可是個神祕人物。他對這一帶知道得多得嚇人，讀了一大堆書。我想他其實是在找我的曾曾曾祖父吹牛大王約翰多年前埋在泰納布利後山的寶藏。他那圖書館裡的老地圖多得很，說不定真讓他發現了什麼。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Bentic. "
@@ -1060,7 +1060,7 @@ msgstr "（吹牛大王約翰從來沒埋過什麼寶藏。）"
 #. event 01 (use (talk)), after "Tell me of Bentic. "
 msgctxt "bark 040A:A8A4"
 msgid "Don't know too much about Bentic. He doesn't come in here too often. When he does, he always orders the same thing, torax milk with a water chaser. But have ye ever noticed that ye never see his chest? Always keeps it covered, he does. That's because on his chest is a tattoo, a tattoo of a map. See, a while ago there was a pirate named Bloody Bobby. He was the fiercest pirate on the sea. Bloody Bobby looted and plundered all the towns on the coast. Finally, the authorities caught on to him, so Bloody Bobby buried his treasure in the hills above Tenebrae. He had the map tattooed on the chest of his most trusted companion and sent that man to stay in Tenebrae until he could come back and claim his treasure. That's been fifteen years ago and the companion still waits. The name of that trusted companion is Bentic."
-msgstr "我對班提克知道得不多。他不常來這兒，來了總是點同樣的東西：一杯托拉克斯獸奶，再配一杯水。不過你有沒有注意到，從來沒人看過他的胸口？他老是把胸口遮得嚴嚴實實的。那是因為他胸口上有刺青，刺的是一張地圖。話說不久前，有個叫血腥鮑比的海盜，是海上最兇狠的海盜，把沿岸的城鎮洗劫一空。後來官府盯上了他，血腥鮑比就把寶藏埋在泰尼伯瑞後山，把地圖刺在他最信任的同伴胸口，派那人留在泰尼伯瑞，等他回來取寶藏。那已經是十五年前的事了，那個同伴至今還在等。那位可靠同伴的名字，就叫班提克。"
+msgstr "我對班提克知道得不多。他不常來這兒，來了總是點同樣的東西：一杯托拉克斯獸奶，再配一杯水。不過你有沒有注意到，從來沒人看過他的胸口？他老是把胸口遮得嚴嚴實實的。那是因為他胸口上有刺青，刺的是一張地圖。話說不久前，有個叫血腥鮑比的海盜，是海上最兇狠的海盜，把沿岸的城鎮洗劫一空。後來官府盯上了他，血腥鮑比就把寶藏埋在泰納布利後山，把地圖刺在他最信任的同伴胸口，派那人留在泰納布利，等他回來取寶藏。那已經是十五年前的事了，那個同伴至今還在等。那位可靠同伴的名字，就叫班提克。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Bentic. "
@@ -1072,7 +1072,7 @@ msgstr "（從來沒有什麼叫血腥鮑比的海盜，而且我跟班提克也
 #. event 01 (use (talk)), after "Tell me of Kilandra. "
 msgctxt "bark 040A:AB13"
 msgid "Now there's a case. She's a bit touched in the head, she is. Spends most of her time talking to the fish. Thinks they can talk back to her. Sad, sad tale is hers. Her daughter had a rare disease, she died before the healers got to Tenebrae. It is said that Kilandra went to the Pit of Death to retrieve her. Lithos would not allow her to pass and touched her mind to punish her for such impudence."
-msgstr "這位可是個特別的例子。她腦子有點不正常，大部分時間都在跟魚說話，還以為魚會回答她。她的故事真是好悲傷啊。她女兒得了一種罕見的病，沒等到治療師來泰尼伯瑞就死了。據說奇蘭卓去了死亡深坑，想把女兒帶回來。利索斯不准她通過，還為了懲罰她的放肆，擾亂了她的心智。"
+msgstr "這位可是個特別的例子。她腦子有點不正常，大部分時間都在跟魚說話，還以為魚會回答她。她的故事真是好悲傷啊。她女兒得了一種罕見的病，沒等到治療師來泰納布利就死了。據說奇蘭卓去了死亡深坑，想把女兒帶回來。里索斯不准她通過，還為了懲罰她的放肆，擾亂了她的心智。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Kilandra. "
@@ -1084,19 +1084,19 @@ msgstr "（奇蘭卓是有點怪，但她沒去過死亡深坑。）"
 #. event 01 (use (talk)), after "Tell me of Kilandra. "
 msgctxt "bark 040A:AC8D"
 msgid "Kilandra acts a bit strange, but don't ye believe it. She's all right, she is. She's actually the mother of our Lady Mordea. Once Lady Mordea came to power she threw Kilandra out into the streets. She wanted no one to stand in the way of her power."
-msgstr "奇蘭卓的舉止是有點怪，但你可別信那一套。她好得很。她其實是咱們莫爾迪亞夫人的母親。莫爾迪亞夫人一掌權，就把奇蘭卓趕到了街上。她不想讓任何人妨礙她的權力。"
+msgstr "奇蘭卓的舉止是有點怪，但你可別信那一套。她好得很。她其實是咱們莫迪雅夫人的母親。莫迪雅夫人一掌權，就把奇蘭卓趕到了街上。她不想讓任何人妨礙她的權力。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Kilandra. "
 msgctxt "bark 040A:ACD2"
 msgid "(Kilandra is not Lady Mordea's mother.) "
-msgstr "（奇蘭卓不是莫爾迪亞夫人的母親。）"
+msgstr "（奇蘭卓不是莫迪雅夫人的母親。）"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Kilandra. "
 msgctxt "bark 040A:AEE7"
 msgid "I don't know about Kilandra. She acts a bit queer at times, but I think it is all fake. I have often seen her, late at night, slipping off into the woods behind the town. She doesn't come back 'til the wee hours before dawn. After I had watched her a number of times, I went back with the daylight and followed her trail. I came across a place where a campfire had been built. There were the footprints of many trolls. I think the trolls are planning to try to take over Tenebrae and she is their agent!"
-msgstr "奇蘭卓這人我說不準。她有時舉止古怪，但我覺得那全是裝的。我常看到她深夜偷偷溜進城後的樹林，直到天亮前的凌晨才回來。我觀察了她好幾次之後，就趁白天循著她的足跡追過去，結果找到一個生過營火的地方，地上有許多巨魔的腳印。我看巨魔是打算奪取泰尼伯瑞，而她就是牠們的內應！"
+msgstr "奇蘭卓這人我說不準。她有時舉止古怪，但我覺得那全是裝的。我常看到她深夜偷偷溜進城後的樹林，直到天亮前的凌晨才回來。我觀察了她好幾次之後，就趁白天循著她的足跡追過去，結果找到一個生過營火的地方，地上有許多巨魔的腳印。我看巨魔是打算奪取泰納布利，而她就是牠們的內應！"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Kilandra. "
@@ -1108,19 +1108,19 @@ msgstr "（我有一次看到奇蘭卓深夜外出。她是要去墓地，在她
 #. event 01 (use (talk)), after "Tell me of Aramina. "
 msgctxt "bark 040A:B0AE"
 msgid "Aramina, poor girl. ye know, she is really Lady Mordea's sister. That's right, but Lady Mordea wanted all the power to herself, so she used her Tempest magic to enslave the poor girl. That's the truth!"
-msgstr "阿拉米娜，可憐的姑娘。你知道嗎，她其實是莫爾迪亞夫人的妹妹。沒錯，可是莫爾迪亞夫人想獨攬大權，就用她風暴使者的魔法奴役了這可憐的姑娘。這可是千真萬確的！"
+msgstr "阿拉米娜，可憐的姑娘。你知道嗎，她其實是莫迪雅夫人的妹妹。沒錯，可是莫迪雅夫人想獨攬大權，就用她役水師的魔法奴役了這可憐的姑娘。這可是千真萬確的！"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Aramina. "
 msgctxt "bark 040A:B0F2"
 msgid "(Aramina is not Lady Mordea's sister.) "
-msgstr "（阿拉米娜不是莫爾迪亞夫人的妹妹。）"
+msgstr "（阿拉米娜不是莫迪雅夫人的妹妹。）"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Aramina. "
 msgctxt "bark 040A:B342"
 msgid "Aramina, now there is one to watch. She's much more than she appears. Why when the tides are just right, she goes to the highest cliffs above the sea. As she stands there, she will stretch her arms above her head and call on Hydros. Then, the most horrid transformation takes place as her arms become flippers, her legs, a tail and gills form on her face. She becomes one of those creatures that serve Hydros. She then dives into the sea and disappears. By the next morning, she is back in the palace, as meek as ye please. It's right spooky if ye was to ask me."
-msgstr "阿拉米娜啊，這個人可得留意。她遠不只表面上看起來那樣。嘿，每當潮水正好的時候，她就會走到海邊最高的懸崖上，站在那兒，把雙臂高舉過頭，呼喚海德羅斯。接著就會發生最可怕的變化：她的手臂變成鰭、雙腿變成尾巴，臉上還長出鰓來。她變成了侍奉海德羅斯的那種怪物，然後潛進海裡消失不見。到了隔天早上，她又回到宮殿裡，溫順得不得了。要我說啊，這可真是詭異。"
+msgstr "阿拉米娜啊，這個人可得留意。她遠不只表面上看起來那樣。嘿，每當潮水正好的時候，她就會走到海邊最高的懸崖上，站在那兒，把雙臂高舉過頭，呼喚海特蘿。接著就會發生最可怕的變化：她的手臂變成鰭、雙腿變成尾巴，臉上還長出鰓來。她變成了侍奉海特蘿的那種怪物，然後潛進海裡消失不見。到了隔天早上，她又回到宮殿裡，溫順得不得了。要我說啊，這可真是詭異。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Aramina. "
@@ -1132,25 +1132,25 @@ msgstr "（有一次我在宮殿裡，經過她房門口，看到地上有一點
 #. event 01 (use (talk)), after "Tell me of Aramina. "
 msgctxt "bark 040A:B5B1"
 msgid "Yes, I know Aramina. She is the 'servant' of the palace. Ye see, if ye was to ask me, I'd say she's really the Lady Mordea. Yep, and the person we think of as Lady Mordea is really Aramina, the servant girl. There's more than a few what would like to take the life of the Tempest. By changing places with her servant girl, she can still work her magic and yet her life is safe. That's what I thinks."
-msgstr "是啊，我認識阿拉米娜。她是宮殿裡的「僕人」。你知道嗎，要我說的話，她其實才是莫爾迪亞夫人。沒錯，而我們以為是莫爾迪亞夫人的那位，其實是女僕阿拉米娜。想要風暴使者性命的人可不少。只要跟女僕互換身分，她既能照樣施展魔法，性命又安全無虞。我是這麼想的啦。"
+msgstr "是啊，我認識阿拉米娜。她是宮殿裡的「僕人」。你知道嗎，要我說的話，她其實才是莫迪雅夫人。沒錯，而我們以為是莫迪雅夫人的那位，其實是女僕阿拉米娜。想要役水師性命的人可不少。只要跟女僕互換身分，她既能照樣施展魔法，性命又安全無虞。我是這麼想的啦。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Aramina. "
 msgctxt "bark 040A:B601"
 msgid "(Lady Mordea and Aramina have NOT changed places.) "
-msgstr "（莫爾迪亞夫人和阿拉米娜「沒有」互換身分。）"
+msgstr "（莫迪雅夫人和阿拉米娜「沒有」互換身分。）"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Lady Mordea. "
 msgctxt "bark 040A:B7DB"
 msgid "Ah, our fair Tempest. I can tell ye a thing or two about her, I can. Why, she is a regular visitor here to me inn. Well, not at the regular hours mind ye. No, I keep special hours for her. She comes by here late at night. She likes me Hurricanes. Can put them away she can. The lady knows how to have a good time, she does. Why, we shared more than one night, and more than just drinks...if ye can catch me meaning."
-msgstr "啊，咱們美麗的風暴使者。關於她，我可以跟你說上一兩件事。嘿，她可是我店裡的常客。當然啦，不是在平常營業的時間。不，我專門為她留了特別時段。她都是深夜才來。她喜歡我的颶風酒，喝起來可豪爽了。這位夫人可懂得找樂子呢。嘿，我們共度的夜晚可不只一個，分享的也不只是酒……你懂我的意思吧。"
+msgstr "啊，咱們美麗的役水師。關於她，我可以跟你說上一兩件事。嘿，她可是我店裡的常客。當然啦，不是在平常營業的時間。不，我專門為她留了特別時段。她都是深夜才來。她喜歡我的颶風酒，喝起來可豪爽了。這位夫人可懂得找樂子呢。嘿，我們共度的夜晚可不只一個，分享的也不只是酒……你懂我的意思吧。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Lady Mordea. "
 msgctxt "bark 040A:B821"
 msgid "(Lady Mordea has never been in the inn.) "
-msgstr "（莫爾迪亞夫人從來沒進過這間旅店。）"
+msgstr "（莫迪雅夫人從來沒進過這間旅店。）"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Lady Mordea. "
@@ -1203,7 +1203,7 @@ msgstr "颶風酒"
 #. parameter value inserted into sentence templates
 msgctxt "param 040A:call_0BCF"
 msgid "Tenebraen Ale "
-msgstr "泰尼伯瑞麥酒"
+msgstr "泰納布利麥酒"
 
 # P11 POC: dynamic strings (proposed terms, see authority.tsv)
 #. value of {varF7}: "stranger " | {name}

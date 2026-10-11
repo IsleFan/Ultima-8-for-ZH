@@ -13,7 +13,7 @@ msgstr ""
 # P13 batch 6
 msgctxt "bark 057E:00E1"
 msgid "There will be only one Tempest! "
-msgstr "風暴使者只能有一個！"
+msgstr "役水師只能有一個！"
 
 # P13 batch 6
 msgctxt "bark 057E:010C"
@@ -28,7 +28,7 @@ msgstr "去死吧，戴文！"
 # P13 batch 6
 msgctxt "bark 057E:038D"
 msgid "Your evil must end, Mordea! "
-msgstr "你的罪惡必須結束，莫爾迪亞！"
+msgstr "你的罪惡必須結束，莫迪雅！"
 
 # P13 batch 6
 msgctxt "bark 057E:04D6"
@@ -48,22 +48,22 @@ msgstr "噢，我的頭！"
 # P13 batch 6
 msgctxt "bark 057E:0A85"
 msgid "Avatar! At long last Mordea's tyranical rule is over! "
-msgstr "聖者！莫爾迪亞的暴政終於結束了！"
+msgstr "聖者！莫迪雅的暴政終於結束了！"
 
 # P13 batch 6
 msgctxt "bark 057E:0AB9"
 msgid "Now, I must be the Tempest. "
-msgstr "現在，我必須成為風暴使者。"
+msgstr "現在，我必須成為役水師。"
 
 # P13 batch 6
 msgctxt "bark 057E:0B0B"
 msgid "I must use my powers to undo the evils of Mordea's reign. "
-msgstr "我必須用我的力量，消除莫爾迪亞統治時的種種罪惡。"
+msgstr "我必須用我的力量，消除莫迪雅統治時的種種罪惡。"
 
 # P13 batch 6
 msgctxt "bark 057E:0B5D"
 msgid "I make it my duty to bring prosperity to all of Tenebrae. "
-msgstr "我要以讓整個泰尼伯瑞繁榮昌盛為己任。"
+msgstr "我要以讓整個泰納布利繁榮昌盛為己任。"
 
 # P13 batch 6
 msgctxt "bark 057E:0BB7"
@@ -73,17 +73,17 @@ msgstr "多虧了你的努力，我們美麗的城市才擺脫了她的壓迫。
 # P13 batch 6
 msgctxt "bark 057E:0C27"
 msgid "Though I know your destiny lies elsewhere, you will always be welcome here in Tenebrae. "
-msgstr "雖然我知道你的命運在別處，但泰尼伯瑞永遠歡迎你。"
+msgstr "雖然我知道你的命運在別處，但泰納布利永遠歡迎你。"
 
 # P13 batch 6
 msgctxt "bark 057E:0CB3"
 msgid "Now I must leave. I need time away from Tenebrae to contemplate all of the recent events. "
-msgstr "現在我得走了。我需要離開泰尼伯瑞一段時間，好好想想最近發生的一切。"
+msgstr "現在我得走了。我需要離開泰納布利一段時間，好好想想最近發生的一切。"
 
 # P13 batch 6
 msgctxt "bark 057E:0D12"
 msgid "I will return when the time is right and take my place as the Tempest. "
-msgstr "時機成熟時，我會回來接任風暴使者。"
+msgstr "時機成熟時，我會回來接任役水師。"
 
 # P13 batch 6
 msgctxt "bark 057E:0D59"

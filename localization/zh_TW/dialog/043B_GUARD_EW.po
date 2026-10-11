@@ -122,7 +122,7 @@ msgstr "這關你什麼事？"
 #. event 01 (use (talk)), after "We have spoken. "
 msgctxt "bark 043B:06AD"
 msgid "Then know this: For conducting forbidden research, Bentic's head rests deep within the realm of the Lurker upon the command of the Lady Mordea. Know also that as his confidant all of your actions are under observation. Now answer this: What do you know of the fisherman named Devon? "
-msgstr "那你聽好了：因為從事禁忌的研究，班提克的頭已奉莫爾迪亞夫人之命，沉入潛伏者領域的深處。你也要知道，身為他的知己，你的一舉一動都在監視之下。現在回答我：你對那個叫戴文的漁夫知道多少？"
+msgstr "那你聽好了：因為從事禁忌的研究，班提克的頭已奉莫迪雅夫人之命，沉入潛伏者領域的深處。你也要知道，身為他的知己，你的一舉一動都在監視之下。現在回答我：你對那個叫戴文的漁夫知道多少？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "We have spoken. "
@@ -147,13 +147,13 @@ msgstr "我不認識班提克。"
 #. event 01 (use (talk)), after "Nothing. " or "I know nothing of Bentic. "
 msgctxt "bark 043B:0897"
 msgid "You lie! You have been seen speaking to him. Know this: For conducting forbidden research, Bentic's head rests deep within the realm of the Lurker upon the command of the Lady Mordea. Know also that as his confidant all of your actions are under observation. Now answer this: What do you know of the fisherman named Devon? "
-msgstr "你說謊！有人看到你跟他說話。你聽好了：因為從事禁忌的研究，班提克的頭已奉莫爾迪亞夫人之命，沉入潛伏者領域的深處。你也要知道，身為他的知己，你的一舉一動都在監視之下。現在回答我：你對那個叫戴文的漁夫知道多少？"
+msgstr "你說謊！有人看到你跟他說話。你聽好了：因為從事禁忌的研究，班提克的頭已奉莫迪雅夫人之命，沉入潛伏者領域的深處。你也要知道，身為他的知己，你的一舉一動都在監視之下。現在回答我：你對那個叫戴文的漁夫知道多少？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Nothing. " or "I know nothing of Bentic. "
 msgctxt "bark 043B:0997"
 msgid "Then know this and be warned: For conducting forbidden research, the scholar's head rests deep within the realm of the Lurker upon the command of the Lady Mordea. Now answer this: What do you know of the fisherman named Devon? "
-msgstr "那你聽好，並引以為戒：因為從事禁忌的研究，那位學者的頭已奉莫爾迪亞夫人之命，沉入潛伏者領域的深處。現在回答我：你對那個叫戴文的漁夫知道多少？"
+msgstr "那你聽好，並引以為戒：因為從事禁忌的研究，那位學者的頭已奉莫迪雅夫人之命，沉入潛伏者領域的深處。現在回答我：你對那個叫戴文的漁夫知道多少？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "I have met him. "
@@ -237,7 +237,7 @@ msgstr "我當然是守衛戴文和這座城。"
 #. event 01 (use (talk)), after "What do you guard? "
 msgctxt "bark 043B:10EE"
 msgid "I guard her Ladyship Mordea, of course! "
-msgstr "我當然是守衛莫爾迪亞夫人！"
+msgstr "我當然是守衛莫迪雅夫人！"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Where does this road lead? "
@@ -267,7 +267,7 @@ msgstr "陰森？怎麼個陰森法？"
 #. event 01 (use (talk)), after "Eerie? How eerie? "
 msgctxt "bark 043B:14EF"
 msgid "'Tis not safe for sane men to be there. The cemetery is where the Necromancers inter the dead. Lithos may demand it, but I think it takes a twisted mind to perform the tasks they do. Some say that Lithos lets the Necromancers keep a few of the dead around to serve them. And late at night, I, myself, have often heard sounds that would freeze your bones. Beware to any who go there. "
-msgstr "正常人待在那裡可不安全。墓地是死靈法師埋葬死者的地方。也許是利索斯要求的，但我認為，要做他們那種工作，心理一定很扭曲。有人說，利索斯讓死靈法師留下一些死者供他們差遣。到了深夜，我自己就常常聽到讓人毛骨悚然的聲音。去那裡的人可要小心。"
+msgstr "正常人待在那裡可不安全。墓地是降靈師埋葬死者的地方。也許是里索斯要求的，但我認為，要做他們那種工作，心理一定很扭曲。有人說，里索斯讓降靈師留下一些死者供他們差遣。到了深夜，我自己就常常聽到讓人毛骨悚然的聲音。去那裡的人可要小心。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "May I go now? "

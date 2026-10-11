@@ -134,13 +134,13 @@ msgstr "我聽膩你的謊話了……"
 #. event 0F (calledFromAnim)
 msgctxt "bark 04C3:07E0"
 msgid "Please, I beg mercy in the name of the Tempest! "
-msgstr "求求您，看在風暴使者的分上，饒了我吧！"
+msgstr "求求您，看在役水師的分上，饒了我吧！"
 
 # P13 batch 1
 #. event 0F (calledFromAnim)
 msgctxt "bark 04C3:0819"
 msgid "You know Mordea never shows mercy! "
-msgstr "你知道莫爾迪亞從不手下留情！"
+msgstr "你知道莫迪雅從不手下留情！"
 
 # P13 batch 1
 #. event 0F (calledFromAnim)

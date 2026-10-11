@@ -18,7 +18,7 @@ msgstr "法器顯示我在程式設計師樂園！"
 # P13 batch 6
 msgctxt "bark 0596:082E"
 msgid "The focus reads that I am by the docks of Tenebrae. "
-msgstr "法器顯示我在泰尼伯瑞的碼頭邊。"
+msgstr "法器顯示我在泰納布利的碼頭邊。"
 
 # P13 batch 6
 msgctxt "bark 0596:082E"
@@ -28,12 +28,12 @@ msgstr "法器顯示我在漁夫礁附近。"
 # P13 batch 6
 msgctxt "bark 0596:082E"
 msgid "The focus reads that I am at north of Tenebrae in the Valley. "
-msgstr "法器顯示我在泰尼伯瑞北方的山谷。"
+msgstr "法器顯示我在泰納布利北方的山谷。"
 
 # P13 batch 6
 msgctxt "bark 0596:082E"
 msgid "The focus reads that I am on the East Road outside of Tenebrae. "
-msgstr "法器顯示我在泰尼伯瑞城外的東路上。"
+msgstr "法器顯示我在泰納布利城外的東路上。"
 
 # P13 batch 6
 msgctxt "bark 0596:082E"
@@ -68,7 +68,7 @@ msgstr "法器顯示我在寶藏灣。"
 # P13 batch 6
 msgctxt "bark 0596:082E"
 msgid "The focus reads that I am at Stone Cove. "
-msgstr "法器顯示我在石灣。"
+msgstr "法器顯示我在岩灣。"
 
 # P13 batch 6
 msgctxt "bark 0596:082E"
@@ -83,22 +83,22 @@ msgstr "法器顯示我在山之王大廳裡。"
 # P13 batch 6
 msgctxt "bark 0596:082E"
 msgid "The focus reads that I am on Argentrock Isle. "
-msgstr "法器顯示我在白銀之岩島上。"
+msgstr "法器顯示我在銀岩島上。"
 
 # P13 batch 6
 msgctxt "bark 0596:082E"
 msgid "The focus reads that I am in West Tenebrae. "
-msgstr "法器顯示我在泰尼伯瑞西區。"
+msgstr "法器顯示我在泰納布利西區。"
 
 # P13 batch 6
 msgctxt "bark 0596:082E"
 msgid "The focus reads that I am in central Tenebrae. "
-msgstr "法器顯示我在泰尼伯瑞中區。"
+msgstr "法器顯示我在泰納布利中區。"
 
 # P13 batch 6
 msgctxt "bark 0596:082E"
 msgid "The focus reads that I am in east Tenebrae. "
-msgstr "法器顯示我在泰尼伯瑞東區。"
+msgstr "法器顯示我在泰納布利東區。"
 
 # P13 batch 6
 msgctxt "bark 0596:082E"

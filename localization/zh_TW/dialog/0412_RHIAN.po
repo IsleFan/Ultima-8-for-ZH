@@ -829,7 +829,7 @@ msgstr "你兒子在哪裡？"
 #. event 01 (use (talk)), after "Toran was your husband? "
 msgctxt "bark 0412:3AD0"
 msgid "Yes and he was executed by the Tempest, Lady Mordea. -sob-. "
-msgstr "是的，他被風暴使者莫爾迪亞夫人處決了。（啜泣）"
+msgstr "是的，他被役水師莫迪雅夫人處決了。（啜泣）"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Toran was your husband? "
@@ -841,13 +841,13 @@ msgstr "他為什麼被處決？"
 #. event 01 (use (talk)), after "Why was he executed? "
 msgctxt "bark 0412:3C01"
 msgid "I tried to warn him about speaking his mind so openly, but he would laugh and say that no man need fear the truth. In the end 'twas Mordea's wrath that he should have feared. "
-msgstr "我曾試著勸他別那麼直言不諱，可他總是笑著說，沒有人需要害怕真相。到頭來，他該害怕的是莫爾迪亞的怒火。"
+msgstr "我曾試著勸他別那麼直言不諱，可他總是笑著說，沒有人需要害怕真相。到頭來，他該害怕的是莫迪雅的怒火。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Why was he executed? "
 msgctxt "ask 0412"
 msgid "Feared Mordea's wrath? "
-msgstr "害怕莫爾迪亞的怒火？"
+msgstr "害怕莫迪雅的怒火？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Why was he executed? "
@@ -865,26 +865,26 @@ msgstr "她容不得別人議論她。那會讓你賠上性命，就像我可憐
 #. event 01 (use (talk)), after "He was an outspoken man? "
 msgctxt "bark 0412:3E8B"
 msgid "Toran feared no one, not even the Tempest. Of late, he had begun to question the need for these executions. He was in the tavern when the guards came for him... oh, I tried to warn him, -sob-  Now I have no one, not even my son. -sob-. "
-msgstr "托蘭誰也不怕，連風暴使者都不怕。最近他開始質疑這些處決是否有必要。衛兵來抓他的時候，他正在酒館裡……噢，我曾試著警告他，（啜泣）現在我什麼人都沒有了，連兒子都不在身邊。（啜泣）"
+msgstr "托蘭誰也不怕，連役水師都不怕。最近他開始質疑這些處決是否有必要。衛兵來抓他的時候，他正在酒館裡……噢，我曾試著警告他，（啜泣）現在我什麼人都沒有了，連兒子都不在身邊。（啜泣）"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Where is your son? " or "Tell me again of your son. "
 msgctxt "bark 0412:3F89"
 msgid "My son, Torwin, left home to become a Theurgist. "
-msgstr "我的兒子托溫離家去當神術師了。"
+msgstr "我的兒子托溫離家去當神通師了。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Where is your son? " or "Tell me again of your son. "
 msgctxt "ask 0412"
 msgid "What is a Theurgist? "
-msgstr "神術師是什麼？"
+msgstr "神通師是什麼？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What is a Theurgist? "
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0412:4116"
 msgid "A Theurgist is a healer. Oh, please do not misunderstand me, friend {name}, I think it is grand that my son should want to be a healer. Why I'm thrilled, but I am concerned by the suddenness of his decision."
-msgstr "神術師是治療師。噢，請別誤會，{name}朋友，我兒子想當治療師，我覺得很了不起。我當然很高興，只是他突然做出這個決定，讓我很擔心。"
+msgstr "神通師是治療師。噢，請別誤會，{name}朋友，我兒子想當治療師，我覺得很了不起。我當然很高興，只是他突然做出這個決定，讓我很擔心。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What is a Theurgist? "
@@ -920,7 +920,7 @@ msgstr "那就太好了。噢，我多想再見他一面。就算……就算只
 #. event 01 (use (talk)), after "I've met your son. "
 msgctxt "bark 0412:45EF"
 msgid "Oh, is he well? Does he speak of me? I am sure he must be the finest healer on Argentrock. Oh, -sob- his father would be so proud... if only my husband could hear this, but he never will. He will never know... oh, no, no, no! -sob- "
-msgstr "噢，他好嗎？他有提到我嗎？我相信他一定是白銀之岩上最優秀的治療師。噢，（啜泣）他父親一定會非常驕傲……要是我丈夫能聽到這些就好了，可是他再也聽不到了。他永遠不會知道了……噢，不，不，不！（啜泣）"
+msgstr "噢，他好嗎？他有提到我嗎？我相信他一定是銀岩上最優秀的治療師。噢，（啜泣）他父親一定會非常驕傲……要是我丈夫能聽到這些就好了，可是他再也聽不到了。他永遠不會知道了……噢，不，不，不！（啜泣）"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "I'm sorry, but your son won't be back. "
@@ -968,7 +968,7 @@ msgstr "我不知道。"
 #. event 01 (use (talk)), after "Your son committed suicide. "
 msgctxt "ask 0412"
 msgid "He couldn't pass the Theurgists tests. "
-msgstr "他沒能通過神術師的考驗。"
+msgstr "他沒能通過神通師的考驗。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "I do not know. "

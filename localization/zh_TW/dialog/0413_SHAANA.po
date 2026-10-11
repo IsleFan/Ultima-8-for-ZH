@@ -278,13 +278,13 @@ msgstr "抱歉。我發誓。"
 #. event 01 (use (talk)), after "Aye, I swear. "
 msgctxt "bark 0413:19FD"
 msgid "Very well. His name is Mythran. You may find him outside the city walls. His wisdom is great, but I warn you not to visit him for idle prattle such as this. I swear myself that you do not wish to see me angered. "
-msgstr "很好。他叫米斯蘭。你可以在城牆外找到他。他的智慧非凡，但我警告你，別為了這種閒話去找他。我也向你發誓，你絕不會想看到我發怒。"
+msgstr "很好。他叫米瑟倫。你可以在城牆外找到他。他的智慧非凡，但我警告你，別為了這種閒話去找他。我也向你發誓，你絕不會想看到我發怒。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "I apologize. I swear. "
 msgctxt "bark 0413:1B82"
 msgid "I hope for your sake you speak the truth. I swear myself that you do not wish to see me angered. Very well. His name is Mythran. You may find him outside the city walls. His wisdom is great, but I warn you not to visit him for idle prattle such as this. "
-msgstr "為了你好，希望你說的是真話。我也向你發誓，你絕不會想看到我發怒。很好。他叫米斯蘭。你可以在城牆外找到他。他的智慧非凡，但我警告你，別為了這種閒話去找他。"
+msgstr "為了你好，希望你說的是真話。我也向你發誓，你絕不會想看到我發怒。很好。他叫米瑟倫。你可以在城牆外找到他。他的智慧非凡，但我警告你，別為了這種閒話去找他。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Where is the tavern? "
@@ -303,7 +303,7 @@ msgstr "什麼契約？"
 #. event 01 (use (talk)), after "What pact? "
 msgctxt "bark 0413:1E16"
 msgid "You know very little of our culture, stranger. I suggest that change. The pact is one forged ages ago between Lithos and our people. Our duty from the covenant is to send our dead to Lithos. Yet Lady Mordea elects to give them to her patron, Hydros. 'Tis only a matter of time before the dead rise up and avenge the Mountain King. "
-msgstr "你對我們的文化知道得太少了，陌生人。我建議你改善這一點。那份契約是很久以前利索斯與我們的人民所訂下的。依照盟約，我們的責任是把死者送給利索斯。然而莫爾迪亞夫人卻選擇把他們交給她的守護神海德羅斯。死者起來為山之王復仇，只是遲早的事。"
+msgstr "你對我們的文化知道得太少了，陌生人。我建議你改善這一點。那份契約是很久以前里索斯與我們的人民所訂下的。依照盟約，我們的責任是把死者送給里索斯。然而莫迪雅夫人卻選擇把他們交給她的守護神海特蘿。死者起來為山之王復仇，只是遲早的事。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What pact? "
@@ -321,7 +321,7 @@ msgstr "山之王？"
 #. event 01 (use (talk)), after "The Mountain King? "
 msgctxt "bark 0413:1F17"
 msgid "'Tis the earned title for Lithos, He who resides in the great Hall within the mountains. However, few have ever been there. "
-msgstr "那是利索斯應得的稱號，祂住在群山之中的大廳裡。不過，去過那裡的人寥寥無幾。"
+msgstr "那是里索斯應得的稱號，祂住在群山之中的大廳裡。不過，去過那裡的人寥寥無幾。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "The Mountain King? "
@@ -333,7 +333,7 @@ msgstr "哪些人？"
 #. event 01 (use (talk)), after "Dead rising up? "
 msgctxt "bark 0413:20D5"
 msgid "Aye, so the story goes. When he is angry, Lithos will set upon us our long lost kindred which he has willed to live again. Well, 'tis hardly living, but legend holds that they walk and fight like men. I have seen such wander about inside the confines of the cemetery, though even -I- have not dared to enter within. "
-msgstr "沒錯，傳說是這麼說的。利索斯發怒時，會讓我們早已逝去的親人重新活過來襲擊我們。嗯，那幾乎稱不上是活著，但傳說他們能像人一樣走路和戰鬥。我曾看過那種東西在墓地裡遊蕩，就連我也不敢踏進去。"
+msgstr "沒錯，傳說是這麼說的。里索斯發怒時，會讓我們早已逝去的親人重新活過來襲擊我們。嗯，那幾乎稱不上是活著，但傳說他們能像人一樣走路和戰鬥。我曾看過那種東西在墓地裡遊蕩，就連我也不敢踏進去。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Dead rising up? "
@@ -345,19 +345,19 @@ msgstr "你為什麼避開墓地？"
 #. event 01 (use (talk)), after "Which few? "
 msgctxt "bark 0413:2178"
 msgid "The Necromancers. "
-msgstr "死靈法師。"
+msgstr "降靈師。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Which few? "
 msgctxt "ask 0413"
 msgid "Who are the Necromancers? "
-msgstr "死靈法師是誰？"
+msgstr "降靈師是誰？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Who are the Necromancers? "
 msgctxt "bark 0413:232A"
 msgid "I tire of these questions. They are common to all Tenebraeans, yet to me do you pose them. The Necromancers are the line of mages who carry out our half of the pact with Lithos. Their duties are quite distasteful, but they are necessary. If you are truly interested in them, why not speak to them yourself. "
-msgstr "這些問題我聽膩了。每個泰尼伯瑞人都知道答案，你卻偏偏來問我。死靈法師是一脈相傳的法師，負責履行我們這一方與利索斯的契約。他們的職責令人相當反感，卻是必要的。你要是真對他們有興趣，何不自己去找他們談談。"
+msgstr "這些問題我聽膩了。每個泰納布利人都知道答案，你卻偏偏來問我。降靈師是一脈相傳的法師，負責履行我們這一方與里索斯的契約。他們的職責令人相當反感，卻是必要的。你要是真對他們有興趣，何不自己去找他們談談。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Who are the Necromancers? "
@@ -369,13 +369,13 @@ msgstr "他們在墓地裡嗎？"
 #. event 01 (use (talk)), after "Are they in the cemetery? "
 msgctxt "bark 0413:248E"
 msgid "Do not tell me you are so much a fool as to take me seriously! I will grant you this, stranger, you are indeed brave if not equally senseless! Aye, the Necromancers reside in the graveyard. Beware where you tread. "
-msgstr "別告訴我你蠢到把我的話當真了！不過我得承認，陌生人，你確實很勇敢，雖然也同樣沒腦子！沒錯，死靈法師就住在墓地裡。走路小心點。"
+msgstr "別告訴我你蠢到把我的話當真了！不過我得承認，陌生人，你確實很勇敢，雖然也同樣沒腦子！沒錯，降靈師就住在墓地裡。走路小心點。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Why do you avoid the cemetery? "
 msgctxt "bark 0413:2561"
 msgid "An odd question, stranger. I do not wish audience with the dead. That is the realm of the Necromancers. "
-msgstr "真是個奇怪的問題，陌生人。我可不想跟死人打交道。那是死靈法師的領域。"
+msgstr "真是個奇怪的問題，陌生人。我可不想跟死人打交道。那是降靈師的領域。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What do you study? "
@@ -546,19 +546,19 @@ msgstr "你不同意什麼？"
 #. event 01 (use (talk)), after "With what do you disagree? "
 msgctxt "bark 0413:3629"
 msgid "'Tis a moot point, considering she is no longer alive, but it was not right to let the body fall to The Lurker. It violated the pact, something which Lithos was not likely to tolerate much longer. "
-msgstr "既然她已經不在人世，再說也沒意義了，但讓屍體落入潛伏者手中是不對的。那違反了契約，利索斯不太可能再容忍下去。"
+msgstr "既然她已經不在人世，再說也沒意義了，但讓屍體落入潛伏者手中是不對的。那違反了契約，里索斯不太可能再容忍下去。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "With what do you disagree? "
 msgctxt "bark 0413:36C9"
 msgid "'Tis not right to let the body fall to The Lurker. It violates the pact, something for which Lithos will not likely stand much longer. "
-msgstr "讓屍體落入潛伏者手中是不對的。那違反了契約，利索斯不太可能再容忍下去。"
+msgstr "讓屍體落入潛伏者手中是不對的。那違反了契約，里索斯不太可能再容忍下去。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "With what do you disagree? "
 msgctxt "ask 0413"
 msgid "Who is Lithos? "
-msgstr "利索斯是誰？"
+msgstr "里索斯是誰？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Who is Lithos? "
@@ -570,43 +570,43 @@ msgstr "我不知道你是從哪裡來的，陌生人，但連泰坦都不知道
 #. event 01 (use (talk)), after "What pact? "
 msgctxt "bark 0413:39C3"
 msgid "You know very little of our culture, stranger. I suggest that change. The pact is one forged ages ago between Lithos and our people.\tOur duty from the covenant is to send our dead to Lithos. Yet Lady Mordea elects to give them to her patron, Hydros. 'Tis only a matter of time before the dead rise up and avenge the Mountain King. "
-msgstr "你對我們的文化知道得太少了，陌生人。我建議你改善這一點。那份契約是很久以前利索斯與我們的人民所訂下的。依照盟約，我們的責任是把死者送給利索斯。然而莫爾迪亞夫人卻選擇把他們交給她的守護神海德羅斯。死者起來為山之王復仇，只是遲早的事。"
+msgstr "你對我們的文化知道得太少了，陌生人。我建議你改善這一點。那份契約是很久以前里索斯與我們的人民所訂下的。依照盟約，我們的責任是把死者送給里索斯。然而莫迪雅夫人卻選擇把他們交給她的守護神海特蘿。死者起來為山之王復仇，只是遲早的事。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "The Mountain King? "
 msgctxt "bark 0413:3ACA"
 msgid "'Tis the earned title for Lithos, He who resides in the great Hall within the mountains. However, few have ever been there. "
-msgstr "那是利索斯應得的稱號，祂住在群山之中的大廳裡。不過，去過那裡的人寥寥無幾。"
+msgstr "那是里索斯應得的稱號，祂住在群山之中的大廳裡。不過，去過那裡的人寥寥無幾。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Dead rising up? "
 msgctxt "bark 0413:3C88"
 msgid "Aye, so the story goes. When he is angry, Lithos will set upon us our long lost kindred which he has willed to live again. Well, 'tis hardly living, but legend holds that they walk and fight like men. I have seen such wander about inside the confines of the cemetery, though even -I- have not dared to enter within. "
-msgstr "沒錯，傳說是這麼說的。利索斯發怒時，會讓我們早已逝去的親人重新活過來襲擊我們。嗯，那幾乎稱不上是活著，但傳說他們能像人一樣走路和戰鬥。我曾看過那種東西在墓地裡遊蕩，就連我也不敢踏進去。"
+msgstr "沒錯，傳說是這麼說的。里索斯發怒時，會讓我們早已逝去的親人重新活過來襲擊我們。嗯，那幾乎稱不上是活著，但傳說他們能像人一樣走路和戰鬥。我曾看過那種東西在墓地裡遊蕩，就連我也不敢踏進去。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Which few? "
 msgctxt "bark 0413:3D2B"
 msgid "The Necromancers. "
-msgstr "死靈法師。"
+msgstr "降靈師。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Who are the Necromancers? "
 msgctxt "bark 0413:3EDD"
 msgid "I tire of these questions. They are common to all Tenebraeans, yet to me do you pose them. The Necromancers are the line of mages who carry out our half of the pact with Lithos. Their duties are quite distasteful, but they are necessary. If you are truly interested in them, why not speak to them yourself. "
-msgstr "這些問題我聽膩了。每個泰尼伯瑞人都知道答案，你卻偏偏來問我。死靈法師是一脈相傳的法師，負責履行我們這一方與利索斯的契約。他們的職責令人相當反感，卻是必要的。你要是真對他們有興趣，何不自己去找他們談談。"
+msgstr "這些問題我聽膩了。每個泰納布利人都知道答案，你卻偏偏來問我。降靈師是一脈相傳的法師，負責履行我們這一方與里索斯的契約。他們的職責令人相當反感，卻是必要的。你要是真對他們有興趣，何不自己去找他們談談。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Are they in the cemetery? "
 msgctxt "bark 0413:4041"
 msgid "Do not tell me you are so much a fool as to take me seriously! I will grant you this, stranger, you are indeed brave if not equally senseless! Aye, the Necromancers reside in the graveyard. Beware where you tread. "
-msgstr "別告訴我你蠢到把我的話當真了！不過我得承認，陌生人，你確實很勇敢，雖然也同樣沒腦子！沒錯，死靈法師就住在墓地裡。走路小心點。"
+msgstr "別告訴我你蠢到把我的話當真了！不過我得承認，陌生人，你確實很勇敢，雖然也同樣沒腦子！沒錯，降靈師就住在墓地裡。走路小心點。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Why do you avoid the cemetery? "
 msgctxt "bark 0413:4114"
 msgid "An odd question, stranger. I do not wish audience with the dead. That is the realm of the Necromancers. "
-msgstr "真是個奇怪的問題，陌生人。我可不想跟死人打交道。那是死靈法師的領域。"
+msgstr "真是個奇怪的問題，陌生人。我可不想跟死人打交道。那是降靈師的領域。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What do you study? "

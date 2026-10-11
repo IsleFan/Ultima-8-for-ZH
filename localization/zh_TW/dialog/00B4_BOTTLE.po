@@ -38,7 +38,7 @@ msgstr "魔蹄酒"
 #. event 00 (look)
 msgctxt "bark 00B4:0169"
 msgid "Tenebraen Ale "
-msgstr "泰尼伯瑞麥酒"
+msgstr "泰納布利麥酒"
 
 # P13 batch 6
 #. event 00 (look)

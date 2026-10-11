@@ -26,19 +26,19 @@ msgstr "再見。"
 #. event 01 (use (talk))
 msgctxt "ask 0050"
 msgid "Hydros? "
-msgstr "海德羅斯？"
+msgstr "海特蘿？"
 
 # P13 batch 5
 #. event 01 (use (talk))
 msgctxt "ask 0050"
 msgid "I wish the power of Tempestry. "
-msgstr "我想要風暴術的力量。"
+msgstr "我想要役水術的力量。"
 
 # P13 batch 5
 #. event 01 (use (talk))
 msgctxt "ask 0050"
 msgid "Are you... Hydros? "
-msgstr "你是……海德羅斯？"
+msgstr "你是……海特蘿？"
 
 # P13 batch 5
 #. event 01 (use (talk))
@@ -50,7 +50,7 @@ msgstr "誰敢來？"
 #. event 01 (use (talk)), after "Are you... Hydros? "
 msgctxt "bark 0050:02D5"
 msgid "Indeed, piteous mortal, I am Hydros. Know that it is into -my- domain that you have trespassed. "
-msgstr "沒錯，可憐的凡人，我就是海德羅斯。要知道，你闖進的是「我的」領域。"
+msgstr "沒錯，可憐的凡人，我就是海特蘿。要知道，你闖進的是「我的」領域。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Are you... Hydros? "

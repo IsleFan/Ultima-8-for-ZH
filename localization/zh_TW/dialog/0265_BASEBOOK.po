@@ -38,13 +38,13 @@ msgstr "打趣之書"
 #. event 00 (look)
 msgctxt "bark 0265:0193"
 msgid "The History of Necromancy Vol. I "
-msgstr "死靈術歷史卷一"
+msgstr "降靈術歷史卷一"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:01DD"
 msgid "The History of Necromancy Vol. II "
-msgstr "死靈術歷史卷二"
+msgstr "降靈術歷史卷二"
 
 # P13 batch 6
 #. event 00 (look)
@@ -224,7 +224,7 @@ msgstr "我的對手，我的愛人：暗影弄臣之書"
 #. event 00 (look)
 msgctxt "bark 0265:08BC"
 msgid "Moriens: Necromancer, Prophet, Hero. "
-msgstr "摩瑞恩斯：死靈法師、先知、英雄"
+msgstr "莫里恩斯：降靈師、先知、英雄"
 
 # P13 batch 6
 #. event 00 (look)
@@ -266,7 +266,7 @@ msgstr "碎骨槌傳奇"
 #. event 00 (look)
 msgctxt "bark 0265:0A4A"
 msgid "Enemies of Tenebrae "
-msgstr "泰尼伯瑞之敵"
+msgstr "泰納布利之敵"
 
 # P13 batch 6
 #. event 00 (look)
@@ -386,7 +386,7 @@ msgstr "以太漫遊"
 #. event 00 (look)
 msgctxt "bark 0265:0E9B"
 msgid "Reagents of Thaumaturgy "
-msgstr "奇蹟術材料"
+msgstr "奇術材料"
 
 # P13 batch 6
 #. event 00 (look)
@@ -410,7 +410,7 @@ msgstr "佩根客觀歷史"
 #. event 00 (look)
 msgctxt "bark 0265:0FA9"
 msgid "The Mysteries of Lithos "
-msgstr "利索斯的奧秘"
+msgstr "里索斯的奧秘"
 
 # P13 batch 6
 #. event 00 (look)
@@ -422,19 +422,19 @@ msgstr "正確教養你的孩子"
 #. event 00 (look)
 msgctxt "bark 0265:1037"
 msgid "Finding the Wisdom of Stratos "
-msgstr "尋求史特拉托斯的智慧"
+msgstr "尋求史卓拉透絲的智慧"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:108D"
 msgid "Parables from the Teachings of Stratos, Vol I "
-msgstr "史特拉托斯教誨寓言集卷一"
+msgstr "史卓拉透絲教誨寓言集卷一"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:10E4"
 msgid "Parables from the Teachings of Stratos, Vol II "
-msgstr "史特拉托斯教誨寓言集卷二"
+msgstr "史卓拉透絲教誨寓言集卷二"
 
 # P13 batch 6
 #. event 00 (look)

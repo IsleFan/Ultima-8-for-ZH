@@ -1,4 +1,4 @@
-# 創世紀 VIII：佩根（Ultima VIII: Pagan）繁體中文版
+# 創世紀 VIII：異教徒（Ultima VIII: Pagan）繁體中文版
 
 這是 Ultima VIII: Pagan 的繁體中文化。遊戲本身不做任何修改：使用你自己的**英文版**遊戲資料，由本包附的 ScummVM（加入中文化功能的版本）在畫面上顯示中文。
 

@@ -248,7 +248,7 @@ msgstr "勞德爵士，被炸藥炸得粉身碎骨"
 #. event 01 (use (talk))
 msgctxt "grave 00C5:0C8A"
 msgid "ASHES TO ASHES*DUST TO DUST*HYDROS REFUSED*SO LITHOS MUST"
-msgstr "塵歸塵，土歸土，海德羅斯不收，只好由利索斯收"
+msgstr "塵歸塵，土歸土，海特蘿不收，只好由里索斯收"
 
 # P13 batch 7
 #. event 01 (use (talk))
@@ -397,13 +397,13 @@ msgstr "布蘭登因為笑得太大聲而被殺"
 #. event 01 (use (talk))
 msgctxt "grave 00C5:1564"
 msgid "ALEXIS*HER SPIRIT*TO LITHOS*I GIVE"
-msgstr "亞歷克西絲，我將她的靈魂交給利索斯"
+msgstr "亞歷克西絲，我將她的靈魂交給里索斯"
 
 # P13 batch 7
 #. event 01 (use (talk))
 msgctxt "grave 00C5:15BE"
 msgid "BURIED WITHIN*THE VERY BREAST*OF LITHOS*IS THE HEART"
-msgstr "埋藏在利索斯胸膛深處的，就是那顆心"
+msgstr "埋藏在里索斯胸膛深處的，就是那顆心"
 
 # P13 batch 7
 #. event 01 (use (talk))

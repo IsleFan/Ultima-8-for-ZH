@@ -14,19 +14,19 @@ msgstr ""
 #. event 00 (look)
 msgctxt "bark 0407:00B2"
 msgid "Mordea the Tempest "
-msgstr "風暴使者莫爾迪亞"
+msgstr "役水師莫迪雅"
 
 # P13 batch 1
 #. event 00 (look)
 msgctxt "bark 0407:00DB"
 msgid "Mordea"
-msgstr "莫爾迪亞"
+msgstr "莫迪雅"
 
 # P13 batch 1
 #. event 00 (look)
 msgctxt "bark 0407:0106"
 msgid "Tempest "
-msgstr "風暴使者"
+msgstr "役水師"
 
 # P13 batch 1
 #. event 00 (look)
@@ -147,7 +147,7 @@ msgstr "我可以和您談談嗎？"
 #. event 01 (use (talk)), after "Yes, I am. "
 msgctxt "bark 0407:1035"
 msgid "Who are you that you dare address the Tempest? "
-msgstr "你是什麼人，竟敢跟風暴使者說話？"
+msgstr "你是什麼人，竟敢跟役水師說話？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Yes, I am. "
@@ -172,19 +172,19 @@ msgstr "你是誰？"
 #. event 01 (use (talk)), after "Yes, I am. "
 msgctxt "ask 0407"
 msgid "Tempest? "
-msgstr "風暴使者？"
+msgstr "役水師？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Yes, I am. "
 msgctxt "ask 0407"
 msgid "Tell me of the Tempestry. "
-msgstr "請告訴我風暴術的事。"
+msgstr "請告訴我役水術的事。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Tell me of the Tempestry. "
 msgctxt "bark 0407:1148"
 msgid "I know not your name nor your face. I think you are not from Tenebrae. Where are you from? "
-msgstr "我不認得你的名字，也不認得你的長相。我想你不是泰尼伯瑞的人。你從哪裡來？"
+msgstr "我不認得你的名字，也不認得你的長相。我想你不是泰納布利的人。你從哪裡來？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Tell me of the Tempestry. "
@@ -208,7 +208,7 @@ msgstr "我來自很遠的地方。"
 #. event 01 (use (talk)), after "Tell me of the Tempestry. "
 msgctxt "ask 0407"
 msgid "I am from Tenebrae. "
-msgstr "我是泰尼伯瑞人。"
+msgstr "我是泰納布利人。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "I am from Tenebrae. "
@@ -220,13 +220,13 @@ msgstr "你在說謊。我認得我所有的子民……他們也都認得我。
 #. event 01 (use (talk)), after "Tempest? " or "Tell me of the Tempestry. "
 msgctxt "bark 0407:133B"
 msgid "Know you not of the Tempestry and its great power? Perhaps, then you should like a taste of it. -When I feed you to the Lurker!- "
-msgstr "你不知道風暴術和它強大的力量嗎？那麼，也許你該親自嚐嚐它的滋味——等我把你餵給潛伏者的時候！"
+msgstr "你不知道役水術和它強大的力量嗎？那麼，也許你該親自嚐嚐它的滋味——等我把你餵給潛伏者的時候！"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "May I speak with you? "
 msgctxt "bark 0407:13ED"
 msgid "I am not familiar with your name or your face. I think you are not from Tenebrae. Where are you from? "
-msgstr "你的名字和長相我都不熟悉。我想你不是泰尼伯瑞的人。你從哪裡來？"
+msgstr "你的名字和長相我都不熟悉。我想你不是泰納布利的人。你從哪裡來？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "I am from Britannia. "
@@ -238,7 +238,7 @@ msgstr "我從沒聽過這種地方。你不是騙子就是傻瓜。你看起來
 #. event 01 (use (talk)), after "Who are you? "
 msgctxt "bark 0407:163B"
 msgid "Fool! I am the Lady Mordea, the Tempest of Tenebrae. You will use reverence when dealing with me in the future or I shall have you thrown to the Lurker! "
-msgstr "蠢材！我是莫爾迪亞夫人，泰尼伯瑞的風暴使者。往後你對我說話時給我放尊敬點，否則我就把你丟去餵潛伏者！"
+msgstr "蠢材！我是莫迪雅夫人，泰納布利的役水師。往後你對我說話時給我放尊敬點，否則我就把你丟去餵潛伏者！"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "That is not your concern. "

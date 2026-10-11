@@ -50,7 +50,7 @@ msgstr "你在那裡做什麼……？"
 #. event 11 (leaveFastArea)
 msgctxt "bark 041A:04BC"
 msgid "Stratos! Preserve me! "
-msgstr "史特拉托斯！保佑我！"
+msgstr "史卓拉透絲！保佑我！"
 
 # P13 batch 4
 #. event 11 (leaveFastArea)
@@ -510,13 +510,13 @@ msgstr "你父親？"
 #. event 01 (use (talk)), after "the magic in it? "
 msgctxt "bark 041A:297E"
 msgid "Foci are very strong lines to the great Stratos. I thought that perhaps with two, I might be able to draw twice as much power from the great Air Titan. "
-msgstr "法器是通往偉大的史特拉托斯的強大管道。我想，也許有兩個法器，我就能從偉大的天空泰坦那裡汲取兩倍的力量。"
+msgstr "法器是通往偉大的史卓拉透絲的強大管道。我想，也許有兩個法器，我就能從偉大的天空泰坦那裡汲取兩倍的力量。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "your father? "
 msgctxt "bark 041A:2A4C"
 msgid "Yes, my father. His name is....er,..was Toran. He lived in Tenebrae, my home town. He's dead now, killed by that evil Mordea. "
-msgstr "是的，我父親。他叫……呃……他生前叫托蘭，住在泰尼伯瑞，我的家鄉。他現在死了，被那個邪惡的莫爾迪亞殺了。"
+msgstr "是的，我父親。他叫……呃……他生前叫托蘭，住在泰納布利，我的家鄉。他現在死了，被那個邪惡的莫迪雅殺了。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "your father? "
@@ -528,7 +528,7 @@ msgstr "托蘭是你父親？"
 #. event 01 (use (talk)), after "your father? "
 msgctxt "ask 041A"
 msgid "Why did Mordea kill him? "
-msgstr "莫爾迪亞為什麼殺他？"
+msgstr "莫迪雅為什麼殺他？"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Toran was your father? "
@@ -552,7 +552,7 @@ msgstr "我目睹了他的處決。"
 #. event 01 (use (talk)), after "Why did Mordea kill him? "
 msgctxt "ask 041A"
 msgid "Mordea is dead. "
-msgstr "莫爾迪亞死了。"
+msgstr "莫迪雅死了。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "I saw his execution. "
@@ -576,7 +576,7 @@ msgstr "你對此什麼也做不了？"
 #. event 01 (use (talk)), after "You could do nothing? "
 msgctxt "bark 041A:2FA9"
 msgid "I could do nothing, just as I could do nothing to stop you surpassing my deeds here at Argentrock. Until you arrived, I was the quickest learner and the most clever with the magic. You stole that from me, but I will still have my revenge. No, that is mine and mine alone. Do you hear me? "
-msgstr "我什麼也做不了，就像我無法阻止你在白銀之岩超越我的成就一樣。在你來之前，我是學得最快、魔法最靈巧的人。你從我這裡奪走了這一切，但我還是會報仇的。不，那是我的，只屬於我。你聽到了嗎？"
+msgstr "我什麼也做不了，就像我無法阻止你在銀岩超越我的成就一樣。在你來之前，我是學得最快、魔法最靈巧的人。你從我這裡奪走了這一切，但我還是會報仇的。不，那是我的，只屬於我。你聽到了嗎？"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "You could do nothing? "
@@ -648,7 +648,7 @@ msgstr "你要怎麼撥亂反正？"
 #. event 01 (use (talk)), after "How will you make things right? "
 msgctxt "bark 041A:367D"
 msgid "I will use the magic from Stratos to bring my father back to life. I will have my revenge! "
-msgstr "我要用史特拉托斯的魔法讓我父親復活。我要報仇！"
+msgstr "我要用史卓拉透絲的魔法讓我父親復活。我要報仇！"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "bye "

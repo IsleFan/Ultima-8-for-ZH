@@ -14,25 +14,25 @@ msgstr ""
 #. event 00 (look)
 msgctxt "bark 0237:00AF"
 msgid "Mordea's bed "
-msgstr "莫爾迪亞的床"
+msgstr "莫迪雅的床"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0237:00E7"
 msgid "Mordea the Tempest "
-msgstr "風暴使者莫爾迪亞"
+msgstr "役水師莫迪雅"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0237:010D"
 msgid "Mordea"
-msgstr "莫爾迪亞"
+msgstr "莫迪雅"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0237:0135"
 msgid "Tempest "
-msgstr "風暴使者"
+msgstr "役水師"
 
 # P13 batch 6
 #. event 00 (look)
@@ -44,7 +44,7 @@ msgstr "沉睡的女人"
 #. event 01 (use (talk))
 msgctxt "bark 0237:032C"
 msgid "Who dares to awaken the Tempest! "
-msgstr "是誰竟敢吵醒風暴使者！"
+msgstr "是誰竟敢吵醒役水師！"
 
 # P13 batch 6
 #. event 01 (use (talk))
@@ -56,4 +56,4 @@ msgstr "啊，抱歉……"
 #. event 01 (use (talk))
 msgctxt "bark 0237:0397"
 msgid "Sorry!?! Feel a touch of a Tempest's power! "
-msgstr "抱歉！？嘗嘗風暴使者的力量吧！"
+msgstr "抱歉！？嘗嘗役水師的力量吧！"

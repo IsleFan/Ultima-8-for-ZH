@@ -14,4 +14,4 @@ msgstr ""
 #. event 07 (hatch)
 msgctxt "bark 0485:0177"
 msgid "Who is foolish enough to disturb the sanctity of Khumash-Gor? Come you seeking treasure? Well, it is death you have found! "
-msgstr "是誰這麼愚蠢，竟敢褻瀆庫馬許·戈爾的聖域？你是來尋寶的嗎？哼，你找到的是死亡！"
+msgstr "是誰這麼愚蠢，竟敢褻瀆克瑪許郭的聖域？你是來尋寶的嗎？哼，你找到的是死亡！"

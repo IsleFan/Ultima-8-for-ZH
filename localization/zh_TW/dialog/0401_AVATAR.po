@@ -189,13 +189,13 @@ msgstr "派羅斯"
 #. event 00 (look), after "Demo"
 msgctxt "ask 0401"
 msgid "Malchir Death"
-msgstr "馬爾奇爾之死"
+msgstr "麥爾吉爾之死"
 
 # P13 batch 6
 #. event 00 (look), after "Demo"
 msgctxt "ask 0401"
 msgid "Stratos"
-msgstr "史特拉托斯"
+msgstr "史卓拉透絲"
 
 # P13 batch 6
 #. event 00 (look), after "Demo"
@@ -327,7 +327,7 @@ msgstr "貝恩死亡"
 #. event 00 (look), after "Run Pyros"
 msgctxt "ask 0401"
 msgid "Vardion dead"
-msgstr "瓦爾迪恩死亡"
+msgstr "瓦迪恩死亡"
 
 # P13 batch 6
 #. event 00 (look), after "After Daemon"
@@ -339,7 +339,7 @@ msgstr "貝恩勝。"
 #. event 00 (look), after "After Daemon"
 msgctxt "ask 0401"
 msgid "Vardion won."
-msgstr "瓦爾迪恩勝。"
+msgstr "瓦迪恩勝。"
 
 # P13 batch 6
 #. event 00 (look), after "Vardion won."

@@ -98,31 +98,31 @@ msgstr "我叫佩爾岡。"
 #. event 01 (use (talk)), after "What is your duty? "
 msgctxt "bark 0432:05EF"
 msgid "I am charged with protecting the Tempest, Devon. "
-msgstr "我負責保護風暴使者戴文。"
+msgstr "我負責保護役水師戴文。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What is your duty? "
 msgctxt "bark 0432:0636"
 msgid "I am charged with protecting the Lady Mordea. "
-msgstr "我負責保護莫爾迪亞夫人。"
+msgstr "我負責保護莫迪雅夫人。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Where am I? "
 msgctxt "bark 0432:06BA"
 msgid "You are in the royal palace of the Tempest, Devon. "
-msgstr "你在風暴使者戴文的王宮裡。"
+msgstr "你在役水師戴文的王宮裡。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Where am I? "
 msgctxt "bark 0432:0703"
 msgid "You are in the royal palace of the Lady Mordea. "
-msgstr "你在莫爾迪亞夫人的王宮裡。"
+msgstr "你在莫迪雅夫人的王宮裡。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Where am I? "
 msgctxt "bark 0432:075E"
 msgid "You had best be off before Mordea demands your head for trespassing. "
-msgstr "你最好趁莫爾迪亞以擅闖的罪名要你的腦袋之前趕快離開。"
+msgstr "你最好趁莫迪雅以擅闖的罪名要你的腦袋之前趕快離開。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Bye "
@@ -134,4 +134,4 @@ msgstr "很好。"
 #. event 01 (use (talk)), after "Bye "
 msgctxt "bark 0432:0858"
 msgid "I thank you for your assistance is deposing the tyrannical Mordea. Her unfair rulership has been brought to an end, thanks to you. "
-msgstr "感謝你協助推翻暴虐的莫爾迪亞。多虧了你，她不公的統治終於結束了。"
+msgstr "感謝你協助推翻暴虐的莫迪雅。多虧了你，她不公的統治終於結束了。"

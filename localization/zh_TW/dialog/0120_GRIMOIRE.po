@@ -38,13 +38,13 @@ msgstr "打趣之書"
 #. event 00 (look)
 msgctxt "bark 0120:018A"
 msgid "The History of Necromancy Vol.I "
-msgstr "死靈術歷史卷一"
+msgstr "降靈術歷史卷一"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0120:01D3"
 msgid "The History of Necromancy Vol.II "
-msgstr "死靈術歷史卷二"
+msgstr "降靈術歷史卷二"
 
 # P13 batch 6
 #. event 00 (look)
@@ -206,7 +206,7 @@ msgstr "地獄之旅"
 #. event 00 (look)
 msgctxt "bark 0120:07F2"
 msgid "Moriens: Necromancer, Prophet, Hero. "
-msgstr "摩瑞恩斯：死靈法師、先知、英雄"
+msgstr "莫里恩斯：降靈師、先知、英雄"
 
 # P13 batch 6
 #. event 00 (look)
@@ -248,7 +248,7 @@ msgstr "碎骨槌傳奇"
 #. event 00 (look)
 msgctxt "bark 0120:0980"
 msgid "Enemies of Tenebrae "
-msgstr "泰尼伯瑞之敵"
+msgstr "泰納布利之敵"
 
 # P13 batch 6
 #. event 00 (look)
@@ -362,7 +362,7 @@ msgstr "以太漫遊"
 #. event 00 (look)
 msgctxt "bark 0120:0D96"
 msgid "Reagents of Thaumaturgy "
-msgstr "奇蹟術材料"
+msgstr "奇術材料"
 
 # P13 batch 6
 #. event 00 (look)
