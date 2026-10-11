@@ -33,6 +33,8 @@
 
 字型、字級、字距、行距、台詞框的行數與寬度、快捷圖示列是否常駐等細部調整，寫在本資料夾的 `scummvm.ini`（每個設定都有中文註解）。完整說明與調整範例見 [SETTINGS.zh-TW.md](SETTINGS.zh-TW.md)，音樂音源（General MIDI、AdLib、Roland MT-32）的設定也在其中。
 
+對話時點畫面任何地方都會翻頁；Esc 會先關閉最上層的箱子、背包、屬性頁，全部關完才打開選單。這兩項可以在 `scummvm.ini` 改回原版行為。
+
 進階玩家可以用 ScummVM 的主控台（`Ctrl+Alt+D`）輸入指令：傳送、作弊、播放動畫與音樂等，見 [CONSOLE.zh-TW.md](CONSOLE.zh-TW.md)。
 
 ## 已知問題

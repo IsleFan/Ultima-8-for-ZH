@@ -19,6 +19,7 @@ A fan project to play *Ultima VIII: Pagan* in **Traditional Chinese**. It builds
 - **Engravings in Chinese**: gravestones, plaques and the death screen are engraved in Chinese ([Wang Han Zong](https://code.google.com/archive/p/wangfonts/) Weibei font with an engraved shadow); English engravings with Chinese subtitles are an option.
 - **Quick action icons**: icons in the bottom right corner, shown when the mouse is there (as in Exult), for the backpack, inventory, map, menu, saving and loading, combat, keyring and recall.
 - **Walk to use**: double-clicking a door, chest or book out of reach makes the Avatar walk there and use it.
+- **Conversations and windows**: in a conversation a click anywhere turns the page (as in Ultima VII); Escape closes the frontmost container or inventory before it opens the menu.
 - **Settings**: font, size, spacing, the size of the speech bubbles and the music device (General MIDI, AdLib, Roland MT-32) can be adjusted; every setting is explained in Chinese.
 - **Safe fallback**: a missing translation, a broken catalog or a missing font always shows the English text — never garbage or a crash.
 
