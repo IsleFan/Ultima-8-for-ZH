@@ -35,7 +35,7 @@ msgstr "那是我的事，不是你的事。"
 #. , after ""
 msgctxt "bark 056F:01E9"
 msgid "I don't care what your name is. I want to know who you are that you feel free to enter into the Sorcerer's Enclave without -my- permission. "
-msgstr "我不在乎你叫什麼名字。我想知道你是什麼人，竟敢未經「我」的許可就擅闖巫師聚落。"
+msgstr "我不在乎你叫什麼名字。我想知道你是什麼人，竟敢未經「我」的許可就擅闖巫師的領地。"
 
 # P13 batch 5
 #. , after ""
@@ -78,7 +78,7 @@ msgstr "有人叫我聖者。"
 #. , after "Some call me the Avatar. "
 msgctxt "bark 056F:0343"
 msgid "Avatar? Strange title. Now, what I want to know is why you feel free to enter into the Sorcerer's Enclave without -my- permission. "
-msgstr "聖者？奇怪的稱號。好了，我想知道的是，你為什麼敢未經「我」的許可就擅闖巫師聚落。"
+msgstr "聖者？奇怪的稱號。好了，我想知道的是，你為什麼敢未經「我」的許可就擅闖巫師的領地。"
 
 # P13 batch 5
 #. , after "It is of little import. "

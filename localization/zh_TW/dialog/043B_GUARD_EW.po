@@ -122,7 +122,7 @@ msgstr "這關你什麼事？"
 #. event 01 (use (talk)), after "We have spoken. "
 msgctxt "bark 043B:06AD"
 msgid "Then know this: For conducting forbidden research, Bentic's head rests deep within the realm of the Lurker upon the command of the Lady Mordea. Know also that as his confidant all of your actions are under observation. Now answer this: What do you know of the fisherman named Devon? "
-msgstr "那你聽好了：因為從事禁忌的研究，班提克的頭已奉莫迪雅夫人之命，沉入潛伏者領域的深處。你也要知道，身為他的知己，你的一舉一動都在監視之下。現在回答我：你對那個叫戴文的漁夫知道多少？"
+msgstr "那你聽好了：因為從事禁忌的研究，班提克的頭已奉莫迪雅夫人之命，沉入潛藏者領域的深處。你也要知道，身為他的知己，你的一舉一動都在監視之下。現在回答我：你對那個叫戴文的漁夫知道多少？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "We have spoken. "
@@ -147,13 +147,13 @@ msgstr "我不認識班提克。"
 #. event 01 (use (talk)), after "Nothing. " or "I know nothing of Bentic. "
 msgctxt "bark 043B:0897"
 msgid "You lie! You have been seen speaking to him. Know this: For conducting forbidden research, Bentic's head rests deep within the realm of the Lurker upon the command of the Lady Mordea. Know also that as his confidant all of your actions are under observation. Now answer this: What do you know of the fisherman named Devon? "
-msgstr "你說謊！有人看到你跟他說話。你聽好了：因為從事禁忌的研究，班提克的頭已奉莫迪雅夫人之命，沉入潛伏者領域的深處。你也要知道，身為他的知己，你的一舉一動都在監視之下。現在回答我：你對那個叫戴文的漁夫知道多少？"
+msgstr "你說謊！有人看到你跟他說話。你聽好了：因為從事禁忌的研究，班提克的頭已奉莫迪雅夫人之命，沉入潛藏者領域的深處。你也要知道，身為他的知己，你的一舉一動都在監視之下。現在回答我：你對那個叫戴文的漁夫知道多少？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Nothing. " or "I know nothing of Bentic. "
 msgctxt "bark 043B:0997"
 msgid "Then know this and be warned: For conducting forbidden research, the scholar's head rests deep within the realm of the Lurker upon the command of the Lady Mordea. Now answer this: What do you know of the fisherman named Devon? "
-msgstr "那你聽好，並引以為戒：因為從事禁忌的研究，那位學者的頭已奉莫迪雅夫人之命，沉入潛伏者領域的深處。現在回答我：你對那個叫戴文的漁夫知道多少？"
+msgstr "那你聽好，並引以為戒：因為從事禁忌的研究，那位學者的頭已奉莫迪雅夫人之命，沉入潛藏者領域的深處。現在回答我：你對那個叫戴文的漁夫知道多少？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "I have met him. "

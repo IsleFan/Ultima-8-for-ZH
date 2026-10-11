@@ -68,25 +68,25 @@ msgstr "烈焰之舌"
 #. event 00 (look)
 msgctxt "bark 0265:02C5"
 msgid "Ignite spellbook "
-msgstr "點燃術魔法書"
+msgstr "發火術魔法書"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:0302"
 msgid "Extinguish spellbook "
-msgstr "熄火術魔法書"
+msgstr "熄滅術魔法書"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:033A"
 msgid "Flash spellbook "
-msgstr "閃光術魔法書"
+msgstr "飛遁術魔法書"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:0377"
 msgid "Flame Bolt spellbook "
-msgstr "烈焰箭魔法書"
+msgstr "火箭術魔法書"
 
 # P13 batch 6
 #. event 00 (look)
@@ -98,25 +98,25 @@ msgstr "耐熱術魔法書"
 #. event 00 (look)
 msgctxt "bark 0265:03F3"
 msgid "Fire Shield spellbook "
-msgstr "火焰護盾魔法書"
+msgstr "火盾術魔法書"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:0435"
 msgid "Armor of Flames spellbook "
-msgstr "烈焰護甲魔法書"
+msgstr "火焰之甲魔法書"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:0473"
 msgid "Create Fire spellbook "
-msgstr "造火魔法書"
+msgstr "產生火焰魔法書"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:04AF"
 msgid "Explosion spellbook "
-msgstr "爆炸術魔法書"
+msgstr "爆裂術魔法書"
 
 # P13 batch 6
 #. event 00 (look)
@@ -128,13 +128,13 @@ msgstr "召喚惡魔魔法書"
 #. event 00 (look)
 msgctxt "bark 0265:052F"
 msgid "Banish Daemon spellbook "
-msgstr "驅逐惡魔魔法書"
+msgstr "放逐惡魔魔法書"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:056F"
 msgid "Conflagration spellbook "
-msgstr "烈焰焚燒魔法書"
+msgstr "巨焰術魔法書"
 
 # P13 batch 6
 #. event 00 (look)
@@ -284,49 +284,49 @@ msgstr "占卜術"
 #. event 00 (look)
 msgctxt "bark 0265:0AF1"
 msgid "Healing Touch "
-msgstr "治癒之觸"
+msgstr "醫療之觸"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:0B28"
 msgid "Aerial Servant "
-msgstr "風之僕役"
+msgstr "風之侍僕"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:0B57"
 msgid "Reveal "
-msgstr "現形術"
+msgstr "顯明術"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:0B8B"
 msgid "Restoration "
-msgstr "復原術"
+msgstr "回復術"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:0BC3"
 msgid "Fade From Sight "
-msgstr "隱匿行蹤"
+msgstr "隱形術"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:0BF4"
 msgid "Air Walk "
-msgstr "輕風漫步"
+msgstr "舞空術"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:0C27"
 msgid "Hear Truth "
-msgstr "聆聽真言"
+msgstr "實話術"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:0C5C"
 msgid "Intervention "
-msgstr "庇佑之光"
+msgstr "干涉術"
 
 # P13 batch 6
 #. event 00 (look)
@@ -350,7 +350,7 @@ msgstr "佩根編年史"
 #. event 00 (look)
 msgctxt "bark 0265:0D48"
 msgid "Confusion Blast "
-msgstr "混亂衝擊"
+msgstr "混亂之擊"
 
 # P13 batch 6
 #. event 00 (look)
@@ -368,13 +368,13 @@ msgstr "召喚生物"
 #. event 00 (look)
 msgctxt "bark 0265:0DEF"
 msgid "Call Destruction "
-msgstr "呼喚毀滅"
+msgstr "毀滅之召"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 0265:0E23"
 msgid "Devastation "
-msgstr "浩劫術"
+msgstr "末日之術"
 
 # P13 batch 6
 #. event 00 (look)

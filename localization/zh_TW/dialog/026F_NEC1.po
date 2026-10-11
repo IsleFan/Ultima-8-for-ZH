@@ -86,7 +86,7 @@ msgstr "我準備好了，降靈師。"
 #. event 01 (use (talk))
 msgctxt "bark 026F:0813"
 msgid "Good. The first spell that you will learn was written by my hand many generations ago. It is called Mask of Death. When you cast this spell upon yourself, your enemies shall think that you are dead. To cast this spell, you will need Wood and Executioner's Hood. Speak the words Quas Corp, and you appear to all who behold you as dead. "
-msgstr "很好。你要學的第一道法術，是我在許多代以前親手寫下的，叫做死亡面具。對自己施展這道法術，你的敵人就會以為你死了。要施展它，你需要木頭和劊子手兜帽草。唸出咒文「Quas Corp」，所有看見你的人都會以為你已經死了。"
+msgstr "很好。你要學的第一道法術，是我在許多代以前親手寫下的，叫做死亡面具。對自己施展這道法術，你的敵人就會以為你死了。要施展它，你需要木材和劊子手的頭巾。唸出咒文「Quas Corp」，所有看見你的人都會以為你已經死了。"
 
 # P13 batch 6
 #. event 01 (use (talk))
@@ -122,7 +122,7 @@ msgstr "你好，班托斯。我是來向你學習的。"
 #. event 01 (use (talk))
 msgctxt "bark 026F:0CD7"
 msgid "And so you shall. The way of the Necromancer is difficult. You will be assailed in many ways. And so will this happen before you next meet a Necromancer. Learn these words, Rel Sanct Ylem. Those words, and Wood and Dirt, will make you become as hard as stone. Now you must continue upon your way. May Lithos smile upon you. "
-msgstr "你會學到的。降靈師之道艱難險阻，你會遭到各種攻擊，在見到下一位降靈師之前也會如此。學會這些咒文：「Rel Sanct Ylem」。這些咒文加上木頭和泥土，就能讓你堅硬如石。現在你必須繼續上路了。願里索斯對你微笑。"
+msgstr "你會學到的。降靈師之道艱難險阻，你會遭到各種攻擊，在見到下一位降靈師之前也會如此。學會這些咒文：「Rel Sanct Ylem」。這些咒文加上木材和塵土，就能讓你堅硬如石。現在你必須繼續上路了。願里索斯對你微笑。"
 
 # P13 batch 6
 #. event 01 (use (talk))
@@ -134,7 +134,7 @@ msgstr "我幫不了你。你知道這是真的，所以離開這裡吧。"
 #. event 01 (use (talk))
 msgctxt "bark 026F:0E94"
 msgid "Well, well...You are progressing well, student. Please forgive those who attacked you. Your test must be a difficult one. Already you have learned Mask of Death and Rock Flesh from the Necromancers who wrote them. Are you now ready to learn my spell? "
-msgstr "好，好……你進步得很好，學生。請原諒那些攻擊你的人，你的考驗必須是艱難的。你已經從撰寫死亡面具和岩石之膚的降靈師那裡學到了這兩道法術。現在你準備好學我的法術了嗎？"
+msgstr "好，好……你進步得很好，學生。請原諒那些攻擊你的人，你的考驗必須是艱難的。你已經從撰寫死亡面具和岩石血肉的降靈師那裡學到了這兩道法術。現在你準備好學我的法術了嗎？"
 
 # P13 batch 6
 #. event 01 (use (talk))
@@ -146,7 +146,7 @@ msgstr "是的，降靈師。"
 #. event 01 (use (talk))
 msgctxt "bark 026F:0FA2"
 msgid "Very well, always remember that no matter how mighty you may feel, everyone eventually needs help in battle. Take Blood, Bone, and Wood. Speak the words Kal Corp Xen. Focus this power and help will arrive. "
-msgstr "很好。永遠記住，不管你覺得自己有多強大，每個人在戰鬥中終究都需要幫助。拿血、碎骨和木頭，唸出咒文「Kal Corp Xen」。集中這股力量，援助就會到來。"
+msgstr "很好。永遠記住，不管你覺得自己有多強大，每個人在戰鬥中終究都需要幫助。拿血液、骨骼和木材，唸出咒文「Kal Corp Xen」。集中這股力量，援助就會到來。"
 
 # P13 batch 6
 #. event 01 (use (talk))
@@ -194,7 +194,7 @@ msgstr "我很努力才走到這一步，降靈師。"
 #. event 01 (use (talk))
 msgctxt "bark 026F:13AF"
 msgid "Do not think that the rest of your path will be an easy one, apprentice!  There is something about you that I do not trust. I doubt your devotion to the Mountain King. "
-msgstr "別以為你剩下的路會很好走，學徒！你身上有某種讓我信不過的東西。我懷疑你對山之王的忠誠。"
+msgstr "別以為你剩下的路會很好走，學徒！你身上有某種讓我信不過的東西。我懷疑你對山岳之王的忠誠。"
 
 # P13 batch 6
 #. event 01 (use (talk))
@@ -218,7 +218,7 @@ msgstr "我明白，降靈師。"
 #. event 01 (use (talk))
 msgctxt "bark 026F:160F"
 msgid "I do not care that you understand, meat. Listen to me then be gone. Often will you be assailed by enemies. Carry with you Executioner's Hood and Blackmoor. Blend the reagents and focus your magic on the ground. Say the words, In Vas Corp and grant eternal peace\tupon your enemy. "
-msgstr "我才不在乎你明不明白，肉塊。聽我說完就走。你會常常遭到敵人攻擊。隨身帶著劊子手兜帽草和黑沼草。把材料調和，把你的魔力集中在地面上，唸出咒文「In Vas Corp」，賜予你的敵人永恆的安息。"
+msgstr "我才不在乎你明不明白，肉塊。聽我說完就走。你會常常遭到敵人攻擊。隨身帶著劊子手的頭巾和黑石漿。把材料調和，把你的魔力集中在地面上，唸出咒文「In Vas Corp」，賜予你的敵人永恆的安息。"
 
 # P13 batch 6
 #. event 01 (use (talk))
@@ -230,7 +230,7 @@ msgstr "謝謝你，降靈師。"
 #. event 01 (use (talk))
 msgctxt "bark 026F:1690"
 msgid "Go now, and Pray to the Mountain King that you are worthy. "
-msgstr "現在去吧，向山之王祈禱你夠格。"
+msgstr "現在去吧，向山岳之王祈禱你夠格。"
 
 # P13 batch 6
 #. event 01 (use (talk))
@@ -254,7 +254,7 @@ msgstr "謝謝你，降靈師。這一路很艱辛。"
 #. event 01 (use (talk))
 msgctxt "bark 026F:1975"
 msgid "And harder still will it become, live one. Your final test is at hand. The next Necromancer you seek is Galious. If you prove yourself worthy, Galious will provide you with that which you need to gain an audience with the Mountain King. "
-msgstr "而且還會更艱辛，活人。你的最後考驗就在眼前。你要找的下一位降靈師是加利烏斯。如果你證明自己夠格，加利烏斯會給你晉見山之王所需的東西。"
+msgstr "而且還會更艱辛，活人。你的最後考驗就在眼前。你要找的下一位降靈師是加利烏斯。如果你證明自己夠格，加利烏斯會給你晉見山岳之王所需的東西。"
 
 # P13 batch 6
 #. event 01 (use (talk))
@@ -266,7 +266,7 @@ msgstr "我準備好了，降靈師。"
 #. event 01 (use (talk))
 msgctxt "bark 026F:1B49"
 msgid "Galious will be the judge of that, live one. Now, listen carefully. For without my knowledge, you will never live to see Galious. A Necromancer deals always with death. Yet sometimes the Necromancer must be able to resist death in order to continue to serve his master. Therefore, when the time arrives, take Wood, Dirt and Blackmoor. Say the words Vas An Corp and focus this magic upon yourself. "
-msgstr "那要由加利烏斯來判斷，活人。現在仔細聽好，因為沒有我的知識，你永遠活不到見加利烏斯的那一天。降靈師總是與死亡打交道，但有時降靈師必須能抵抗死亡，才能繼續侍奉他的主人。所以，時候到了，就拿木頭、泥土和黑沼草，唸出咒文「Vas An Corp」，把這股魔力集中在自己身上。"
+msgstr "那要由加利烏斯來判斷，活人。現在仔細聽好，因為沒有我的知識，你永遠活不到見加利烏斯的那一天。降靈師總是與死亡打交道，但有時降靈師必須能抵抗死亡，才能繼續侍奉他的主人。所以，時候到了，就拿木材、塵土和黑石漿，唸出咒文「Vas An Corp」，把這股魔力集中在自己身上。"
 
 # P13 batch 6
 #. event 01 (use (talk))
@@ -290,7 +290,7 @@ msgstr "你知道我幫不了你。就算我能，我也不會選擇幫你。你
 #. event 01 (use (talk))
 msgctxt "bark 026F:1EB0"
 msgid "You have reached me and therefore proven yourself worthy. Lithos has instructed me to give a spell which would allow you to gain entrance to the Hall of the Mountain King. "
-msgstr "你來到我這裡，就證明了你夠格。里索斯吩咐我傳授你一道法術，讓你能進入山之王大廳。"
+msgstr "你來到我這裡，就證明了你夠格。里索斯吩咐我傳授你一道法術，讓你能進入山岳之王的大廳。"
 
 # P13 batch 6
 #. event 01 (use (talk))
@@ -314,7 +314,7 @@ msgstr "用土做成的魔像。"
 #. event 01 (use (talk))
 msgctxt "bark 026F:2207"
 msgid "Yes. Now listen carefully, for like the other Necromancers, I will only tell you this spell once. Blood, Bone, Wood, Dirt and Blackmoor. Say these words of power; In Ort Ylem Xen. Focus this magic upon a broad space of mud and the golem will be created. Seek out Stone Cove. You shall reach it by way of the catacombs. Once you have found Stone Cove, there you shall need to create your golem. Only the golem shall be able to open the door which shall stand before you. "
-msgstr "是的。現在仔細聽好，因為跟其他降靈師一樣，這道法術我只說一次。血、碎骨、木頭、泥土和黑沼草。唸出這些力量之語：「In Ort Ylem Xen」。把這股魔力集中在一大片泥地上，魔像就會成形。去找岩灣，你可以經由地下墓穴到達那裡。找到岩灣後，你就要在那裡創造你的魔像。只有魔像能打開擋在你面前的那扇門。"
+msgstr "是的。現在仔細聽好，因為跟其他降靈師一樣，這道法術我只說一次。血液、骨骼、木材、塵土和黑石漿。唸出這些力量之語：「In Ort Ylem Xen」。把這股魔力集中在一大片泥地上，魔像就會成形。去找岩灣，你可以經由地下墓穴到達那裡。找到岩灣後，你就要在那裡創造你的魔像。只有魔像能打開擋在你面前的那扇門。"
 
 # P13 batch 6
 #. event 01 (use (talk))
@@ -326,4 +326,4 @@ msgstr "我明白，降靈師。"
 #. event 01 (use (talk))
 msgctxt "bark 026F:228F"
 msgid "It is good that you do. Now, be gone. Go to the Mountain King. "
-msgstr "你明白就好。現在去吧，去見山之王。"
+msgstr "你明白就好。現在去吧，去見山岳之王。"

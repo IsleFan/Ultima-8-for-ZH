@@ -54,7 +54,7 @@ msgstr "說出這種異端邪說，我現在就該殺了你！"
 #. , after "Devon is the rightful heir! "
 msgctxt "bark 057F:0333"
 msgid "Stay your hand, Darion. He'll soon feed the Lurker. "
-msgstr "住手，達里恩。他很快就會去餵潛伏者了。"
+msgstr "住手，達里恩。他很快就會去餵潛藏者了。"
 
 # P13 batch 6
 #. , after "Devon is the rightful heir! "
@@ -198,7 +198,7 @@ msgstr "但真相救不了他！"
 #. , after "I have proof! "
 msgctxt "bark 057F:0EFD"
 msgid "His head will still rest in the belly of the Lurker! "
-msgstr "他的頭照樣會躺在潛伏者的肚子裡！"
+msgstr "他的頭照樣會躺在潛藏者的肚子裡！"
 
 # P13 batch 6
 #. , after "I have proof! "

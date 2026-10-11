@@ -38,7 +38,7 @@ msgstr "法器顯示我在泰納布利城外的東路上。"
 # P13 batch 6
 msgctxt "bark 0596:082E"
 msgid "The focus reads that I am on the Plateau. "
-msgstr "法器顯示我在高原上。"
+msgstr "法器顯示我在高地上。"
 
 # P13 batch 6
 msgctxt "bark 0596:082E"
@@ -78,7 +78,7 @@ msgstr "法器顯示我在黑曜石要塞裡。"
 # P13 batch 6
 msgctxt "bark 0596:082E"
 msgid "The focus reads that I am in the Hall of the Mountain King. "
-msgstr "法器顯示我在山之王大廳裡。"
+msgstr "法器顯示我在山岳之王的大廳裡。"
 
 # P13 batch 6
 msgctxt "bark 0596:082E"

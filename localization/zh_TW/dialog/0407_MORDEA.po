@@ -220,7 +220,7 @@ msgstr "你在說謊。我認得我所有的子民……他們也都認得我。
 #. event 01 (use (talk)), after "Tempest? " or "Tell me of the Tempestry. "
 msgctxt "bark 0407:133B"
 msgid "Know you not of the Tempestry and its great power? Perhaps, then you should like a taste of it. -When I feed you to the Lurker!- "
-msgstr "你不知道役水術和它強大的力量嗎？那麼，也許你該親自嚐嚐它的滋味——等我把你餵給潛伏者的時候！"
+msgstr "你不知道役水術和它強大的力量嗎？那麼，也許你該親自嚐嚐它的滋味——等我把你餵給潛藏者的時候！"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "May I speak with you? "
@@ -238,7 +238,7 @@ msgstr "我從沒聽過這種地方。你不是騙子就是傻瓜。你看起來
 #. event 01 (use (talk)), after "Who are you? "
 msgctxt "bark 0407:163B"
 msgid "Fool! I am the Lady Mordea, the Tempest of Tenebrae. You will use reverence when dealing with me in the future or I shall have you thrown to the Lurker! "
-msgstr "蠢材！我是莫迪雅夫人，泰納布利的役水師。往後你對我說話時給我放尊敬點，否則我就把你丟去餵潛伏者！"
+msgstr "蠢材！我是莫迪雅夫人，泰納布利的役水師。往後你對我說話時給我放尊敬點，否則我就把你丟去餵潛藏者！"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "That is not your concern. "
@@ -358,7 +358,7 @@ msgstr "砍了他的頭！"
 #. event 01 (use (talk)), after "I am from Earth. "
 msgctxt "bark 0407:22CD"
 msgid "Feed them all to the Lurker! "
-msgstr "把他們全丟去餵潛伏者！"
+msgstr "把他們全丟去餵潛藏者！"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "I am from Earth. "

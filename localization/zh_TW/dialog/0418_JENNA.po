@@ -1030,7 +1030,7 @@ msgstr "說說米瑟倫。"
 #. event 01 (use (talk)), after "Tell me of Mythran. "
 msgctxt "bark 0418:4AD1"
 msgid "Mythran is an old hermit that lives on the Plateau. Some call him a sage, but I think he wields magic. Occasionally he comes into town. I guess he buys things for all those scrolls he makes. "
-msgstr "米瑟倫是個住在高原上的老隱士。有人稱他為賢者，但我覺得他會使魔法。他偶爾會進城，我猜是來買材料做他那些捲軸的。"
+msgstr "米瑟倫是個住在高地上的老隱士。有人稱他為賢者，但我覺得他會使魔法。他偶爾會進城，我猜是來買材料做他那些捲軸的。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Mythran. "

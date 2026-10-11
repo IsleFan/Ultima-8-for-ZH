@@ -1001,7 +1001,7 @@ msgstr "為什麼是海特蘿？"
 #. event 01 (use (talk)), after "Why Hydros? "
 msgctxt "bark 040F:5036"
 msgid "My father taught me to sacrifice to Hydros. All of my family has sacrificed to the Lurker for as far back as any can remember. "
-msgstr "是我父親教我向海特蘿獻祭的。從有人記得的時候起，我家人就一直向潛伏者獻祭。"
+msgstr "是我父親教我向海特蘿獻祭的。從有人記得的時候起，我家人就一直向潛藏者獻祭。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Great things? "

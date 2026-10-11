@@ -307,7 +307,7 @@ msgstr "我想了解一道法術。"
 #. , after "I am ready to be tested. "
 msgctxt "bark 058A:248F"
 msgid "Are you? We shall see.*Your test will consist of enchanting a focus or foci, your choice, with the spells of Flash, Flame Bolt, and Endure Heat. If you find that you are not ready once the test begins, you may still leave, but the test will be forfeit. "
-msgstr "是嗎？我們走著瞧。*你的考驗是為一個或多個法器——隨你選——附上閃光術、烈焰箭和耐熱術。考驗開始後，要是你發現自己還沒準備好，還是可以離開，但考驗就算棄權。"
+msgstr "是嗎？我們走著瞧。*你的考驗是為一個或多個法器——隨你選——附上飛遁術、火箭術和耐熱術。考驗開始後，要是你發現自己還沒準備好，還是可以離開，但考驗就算棄權。"
 
 # P13 batch 5
 #. , after "I am ready to be tested. "
@@ -488,19 +488,19 @@ msgstr "法器是設計來容納法術能量的。每種法器能容納的法術
 #. , after "Explain the foci. "
 msgctxt "bark 058A:383C"
 msgid "The pentacle symbol is the least powerful, but quite possibly the most useful focus. It is designed to contain the energies of the Ignite and Extinguish spells, however, any other spell may be worked into its pattern for one use. "
-msgstr "五芒星符印是威力最弱、但很可能最有用的法器。它是設計來容納點燃術和熄火術的能量，不過其他任何法術也都能織入它的圖紋，用一次。"
+msgstr "五芒星符印是威力最弱、但很可能最有用的法器。它是設計來容納發火術和熄滅術的能量，不過其他任何法術也都能織入它的圖紋，用一次。"
 
 # P13 batch 5
 #. , after "Explain the foci. "
 msgctxt "bark 058A:396F"
 msgid "The wand can hold the Ignite, Extinguish, Flash, and Flame Bolt spells. The Rod holds all wand spells in addition to the protective spells of Endure Heat, Fire Shield, and Armor of Flames. The staff holds all of the wand and rod spells along with the Create Fire and Explosion spells. "
-msgstr "魔杖能容納點燃術、熄火術、閃光術和烈焰箭。權杖除了魔杖的所有法術外，還能容納耐熱術、火焰護盾和烈焰護甲這些防護法術。法杖能容納魔杖和權杖的所有法術，外加造火術和爆炸術。"
+msgstr "魔杖能容納發火術、熄滅術、飛遁術和火箭術。權杖除了魔杖的所有法術外，還能容納耐熱術、火盾術和火焰之甲這些防護法術。法杖能容納魔杖和權杖的所有法術，外加產生火焰和爆裂術。"
 
 # P13 batch 5
 #. , after "Explain the foci. "
 msgctxt "bark 058A:39E0"
 msgid "The daemon talisman holds only the Summon Daemon, Banish Daemon, and Conflagration spells. "
-msgstr "惡魔護符只能容納召喚惡魔、驅逐惡魔和烈焰焚燒這幾道法術。"
+msgstr "惡魔護符只能容納召喚惡魔、放逐惡魔和巨焰術這幾道法術。"
 
 # P13 batch 5
 #. , after "Explain the foci. "
@@ -524,7 +524,7 @@ msgstr "最簡單的材料是火山灰。它在巫術中的作用，是代表引
 #. , after "What are reagents? "
 msgctxt "bark 058A:3C4D"
 msgid "Pumice is thrown far from the maw of the volcano, and has the property of giving distance to a spell. "
-msgstr "浮岩是從火山口拋射到遠處的，具有讓法術射得更遠的特性。"
+msgstr "浮石是從火山口拋射到遠處的，具有讓法術射得更遠的特性。"
 
 # P13 batch 5
 #. , after "What are reagents? "

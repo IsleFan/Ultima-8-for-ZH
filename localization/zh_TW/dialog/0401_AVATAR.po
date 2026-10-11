@@ -400,19 +400,19 @@ msgstr "施法者必須是巫師。"
 #. event 00 (look), after "Enemy Caster"
 msgctxt "ask 0401"
 msgid "Ignite"
-msgstr "點燃術"
+msgstr "發火術"
 
 # P13 batch 6
 #. event 00 (look), after "Enemy Caster"
 msgctxt "ask 0401"
 msgid "Extinguish"
-msgstr "熄火術"
+msgstr "熄滅術"
 
 # P13 batch 6
 #. event 00 (look), after "Enemy Caster"
 msgctxt "ask 0401"
 msgid "Flame Bolt"
-msgstr "烈焰箭"
+msgstr "火箭術"
 
 # P13 batch 6
 #. event 00 (look), after "Enemy Caster"
@@ -424,25 +424,25 @@ msgstr "耐熱術"
 #. event 00 (look), after "Enemy Caster"
 msgctxt "ask 0401"
 msgid "Fire Shield"
-msgstr "火焰護盾"
+msgstr "火盾術"
 
 # P13 batch 6
 #. event 00 (look), after "Enemy Caster"
 msgctxt "ask 0401"
 msgid "Armor Of Flames"
-msgstr "烈焰護甲"
+msgstr "火焰之甲"
 
 # P13 batch 6
 #. event 00 (look), after "Enemy Caster"
 msgctxt "ask 0401"
 msgid "Create Fire"
-msgstr "造火術"
+msgstr "產生火焰"
 
 # P13 batch 6
 #. event 00 (look), after "Enemy Caster"
 msgctxt "ask 0401"
 msgid "Explosion"
-msgstr "爆炸術"
+msgstr "爆裂術"
 
 # P13 batch 6
 #. event 00 (look), after "Enemy Caster"
@@ -454,13 +454,13 @@ msgstr "召喚惡魔"
 #. event 00 (look), after "Enemy Caster"
 msgctxt "ask 0401"
 msgid "Banish Daemon"
-msgstr "驅逐惡魔"
+msgstr "放逐惡魔"
 
 # P13 batch 6
 #. event 00 (look), after "Enemy Caster"
 msgctxt "ask 0401"
 msgid "Conflagration"
-msgstr "烈焰焚燒"
+msgstr "巨焰術"
 
 # P13 batch 6
 #. event 00 (look), after "Spell Book"
@@ -490,7 +490,7 @@ msgstr "以太"
 #. event 00 (look), after "Earth"
 msgctxt "ask 0401"
 msgid "Death Speak"
-msgstr "與亡者交談"
+msgstr "死者對談"
 
 # P13 batch 6
 #. event 00 (look), after "Earth"
@@ -502,7 +502,7 @@ msgstr "死亡面具"
 #. event 00 (look), after "Earth"
 msgctxt "ask 0401"
 msgid "Rock Flesh"
-msgstr "岩石之膚"
+msgstr "岩石血肉"
 
 # P13 batch 6
 #. event 00 (look), after "Earth"
@@ -514,31 +514,31 @@ msgstr "召喚不死者"
 #. event 00 (look), after "Earth"
 msgctxt "ask 0401"
 msgid "Open Ground"
-msgstr "裂地術"
+msgstr "開啟土地"
 
 # P13 batch 6
 #. event 00 (look), after "Earth"
 msgctxt "ask 0401"
 msgid "Create Golem"
-msgstr "創造魔像"
+msgstr "創造石人"
 
 # P13 batch 6
 #. event 00 (look), after "Earth"
 msgctxt "ask 0401"
 msgid "Withstand Death"
-msgstr "抵禦死亡"
+msgstr "抗拒死亡"
 
 # P13 batch 6
 #. event 00 (look), after "Earth"
 msgctxt "ask 0401"
 msgid "Grant Peace"
-msgstr "賜予安息"
+msgstr "請求和平"
 
 # P13 batch 6
 #. event 00 (look), after "Earth"
 msgctxt "ask 0401"
 msgid "Call Quake"
-msgstr "引發地震"
+msgstr "召喚地震"
 
 # P13 batch 6
 #. event 00 (look), after "Earth"
@@ -563,49 +563,49 @@ msgstr "占卜術"
 #. event 00 (look), after "Air"
 msgctxt "ask 0401"
 msgid "Healing Touch"
-msgstr "治癒之觸"
+msgstr "醫療之觸"
 
 # P13 batch 6
 #. event 00 (look), after "Air"
 msgctxt "ask 0401"
 msgid "Aerial Servant"
-msgstr "風之僕役"
+msgstr "風之侍僕"
 
 # P13 batch 6
 #. event 00 (look), after "Air"
 msgctxt "ask 0401"
 msgid "Restortation"
-msgstr "復原術"
+msgstr "回復術"
 
 # P13 batch 6
 #. event 00 (look), after "Air"
 msgctxt "ask 0401"
 msgid "Fade From Sight"
-msgstr "隱匿行蹤"
+msgstr "隱形術"
 
 # P13 batch 6
 #. event 00 (look), after "Air"
 msgctxt "ask 0401"
 msgid "Air Walk"
-msgstr "輕風漫步"
+msgstr "舞空術"
 
 # P13 batch 6
 #. event 00 (look), after "Air"
 msgctxt "ask 0401"
 msgid "Hear Truth"
-msgstr "聆聽真言"
+msgstr "實話術"
 
 # P13 batch 6
 #. event 00 (look), after "Air"
 msgctxt "ask 0401"
 msgid "Intervention"
-msgstr "庇佑之光"
+msgstr "干涉術"
 
 # P13 batch 6
 #. event 00 (look), after "Air"
 msgctxt "ask 0401"
 msgid "Reveal"
-msgstr "現形術"
+msgstr "顯明術"
 
 # P13 batch 6
 #. event 00 (look), after "Fire"
@@ -623,13 +623,13 @@ msgstr "防禦與其他"
 #. event 00 (look), after "Defense and Other"
 msgctxt "ask 0401"
 msgid "Flash"
-msgstr "閃光術"
+msgstr "飛遁術"
 
 # P13 batch 6
 #. event 00 (look), after "Ether"
 msgctxt "ask 0401"
 msgid "Confusion Blast"
-msgstr "混亂衝擊"
+msgstr "混亂之擊"
 
 # P13 batch 6
 #. event 00 (look), after "Ether"
@@ -647,7 +647,7 @@ msgstr "死亡衝擊"
 #. event 00 (look), after "Ether"
 msgctxt "ask 0401"
 msgid "Call Destruction"
-msgstr "呼喚毀滅"
+msgstr "毀滅之召"
 
 # P13 batch 6
 #. event 00 (look), after "Ether"
@@ -659,7 +659,7 @@ msgstr "以太漫遊"
 #. event 00 (look), after "Ether"
 msgctxt "ask 0401"
 msgid "Devastation"
-msgstr "浩劫術"
+msgstr "末日之術"
 
 # P13 batch 6
 #. event 00 (look), after "Give"

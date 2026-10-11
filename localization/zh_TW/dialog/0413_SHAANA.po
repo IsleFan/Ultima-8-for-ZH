@@ -303,7 +303,7 @@ msgstr "什麼契約？"
 #. event 01 (use (talk)), after "What pact? "
 msgctxt "bark 0413:1E16"
 msgid "You know very little of our culture, stranger. I suggest that change. The pact is one forged ages ago between Lithos and our people. Our duty from the covenant is to send our dead to Lithos. Yet Lady Mordea elects to give them to her patron, Hydros. 'Tis only a matter of time before the dead rise up and avenge the Mountain King. "
-msgstr "你對我們的文化知道得太少了，陌生人。我建議你改善這一點。那份契約是很久以前里索斯與我們的人民所訂下的。依照盟約，我們的責任是把死者送給里索斯。然而莫迪雅夫人卻選擇把他們交給她的守護神海特蘿。死者起來為山之王復仇，只是遲早的事。"
+msgstr "你對我們的文化知道得太少了，陌生人。我建議你改善這一點。那份契約是很久以前里索斯與我們的人民所訂下的。依照盟約，我們的責任是把死者送給里索斯。然而莫迪雅夫人卻選擇把他們交給她的守護神海特蘿。死者起來為山岳之王復仇，只是遲早的事。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What pact? "
@@ -315,7 +315,7 @@ msgstr "死者起來？"
 #. event 01 (use (talk)), after "What pact? "
 msgctxt "ask 0413"
 msgid "The Mountain King? "
-msgstr "山之王？"
+msgstr "山岳之王？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "The Mountain King? "
@@ -546,13 +546,13 @@ msgstr "你不同意什麼？"
 #. event 01 (use (talk)), after "With what do you disagree? "
 msgctxt "bark 0413:3629"
 msgid "'Tis a moot point, considering she is no longer alive, but it was not right to let the body fall to The Lurker. It violated the pact, something which Lithos was not likely to tolerate much longer. "
-msgstr "既然她已經不在人世，再說也沒意義了，但讓屍體落入潛伏者手中是不對的。那違反了契約，里索斯不太可能再容忍下去。"
+msgstr "既然她已經不在人世，再說也沒意義了，但讓屍體落入潛藏者手中是不對的。那違反了契約，里索斯不太可能再容忍下去。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "With what do you disagree? "
 msgctxt "bark 0413:36C9"
 msgid "'Tis not right to let the body fall to The Lurker. It violates the pact, something for which Lithos will not likely stand much longer. "
-msgstr "讓屍體落入潛伏者手中是不對的。那違反了契約，里索斯不太可能再容忍下去。"
+msgstr "讓屍體落入潛藏者手中是不對的。那違反了契約，里索斯不太可能再容忍下去。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "With what do you disagree? "
@@ -570,7 +570,7 @@ msgstr "我不知道你是從哪裡來的，陌生人，但連泰坦都不知道
 #. event 01 (use (talk)), after "What pact? "
 msgctxt "bark 0413:39C3"
 msgid "You know very little of our culture, stranger. I suggest that change. The pact is one forged ages ago between Lithos and our people.\tOur duty from the covenant is to send our dead to Lithos. Yet Lady Mordea elects to give them to her patron, Hydros. 'Tis only a matter of time before the dead rise up and avenge the Mountain King. "
-msgstr "你對我們的文化知道得太少了，陌生人。我建議你改善這一點。那份契約是很久以前里索斯與我們的人民所訂下的。依照盟約，我們的責任是把死者送給里索斯。然而莫迪雅夫人卻選擇把他們交給她的守護神海特蘿。死者起來為山之王復仇，只是遲早的事。"
+msgstr "你對我們的文化知道得太少了，陌生人。我建議你改善這一點。那份契約是很久以前里索斯與我們的人民所訂下的。依照盟約，我們的責任是把死者送給里索斯。然而莫迪雅夫人卻選擇把他們交給她的守護神海特蘿。死者起來為山岳之王復仇，只是遲早的事。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "The Mountain King? "

@@ -1360,13 +1360,13 @@ msgstr "有意思，你想保持神祕。我喜歡謎團，在一定程度內。
 #. event 01 (use (talk)), after "Tell me of this place? "
 msgctxt "bark 0420:5CC7"
 msgid "Of course. This is the Sorcerer's Enclave. It sits in Daemon's Crag, upon the isle of Morgaelin. "
-msgstr "當然。這裡是巫師聚落，坐落在摩蓋林島上的惡魔崖。"
+msgstr "當然。這裡是巫師的領地，坐落在摩蓋林島上的惡魔崖。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of this place? "
 msgctxt "ask 0420"
 msgid "What can you say of the Enclave? "
-msgstr "說說巫師聚落吧？"
+msgstr "說說巫師的領地吧？"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of this place? "

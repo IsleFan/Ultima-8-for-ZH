@@ -417,7 +417,7 @@ msgstr "她拿它壓在人民頭上？"
 #. event 01 (use (talk)), after "She holds it over her people's heads? "
 msgctxt "bark 040D:229D"
 msgid "I mean...I mean it is a powerful tool to help the people's herds... of torax, that is. (Yes, she threatens to make the weather bad, or worse yet, send them to the Lurker, if they don't do her bidding.) Please, ask me no more. I am afraid Salkind will punish me. "
-msgstr "我是說……我是說，它是幫助人民照料牲口頭數的有力工具……我是指托拉克斯獸啦。（沒錯，誰要是不聽她的命令，她就威脅要讓天氣變壞，甚至更糟，把他們送給潛伏者。）拜託，別再問我了。我怕薩金德會懲罰我。"
+msgstr "我是說……我是說，它是幫助人民照料牲口頭數的有力工具……我是指托拉克斯獸啦。（沒錯，誰要是不聽她的命令，她就威脅要讓天氣變壞，甚至更糟，把他們送給潛藏者。）拜託，別再問我了。我怕薩金德會懲罰我。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "She holds it over her people's heads? "

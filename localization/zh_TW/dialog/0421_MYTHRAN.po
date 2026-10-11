@@ -158,19 +158,19 @@ msgstr "算了。"
 #. event 10 (enterFastArea), after "Necromancy. "
 msgctxt "bark 0421:0AA8"
 msgid "Do you wish to buy Bone, Executioner's Hood, or Blackmoor? "
-msgstr "你想買碎骨、劊子手兜帽草，還是黑沼草？"
+msgstr "你想買骨骼、劊子手的頭巾，還是黑石漿？"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Sorcery. "
 msgctxt "bark 0421:0B35"
 msgid "Do you wish to buy Obsidian, Brimstone, Pumice, Ash, or Pig Iron? "
-msgstr "你想買黑曜石、硫磺、浮岩、火山灰，還是生鐵？"
+msgstr "你想買黑曜石、硫磺、浮石、火山灰，還是生鐵？"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Thaumaturgy. "
 msgctxt "bark 0421:0BCB"
 msgid "Do you wish to buy Eye of Newt, Bat Wing, Serpent Scale, or Dragon Blood? "
-msgstr "你想買蠑螈之眼、蝙蝠翅膀、蛇鱗，還是龍血？"
+msgstr "你想買蠑螈眼睛、蝙蝠翅膀、巨蛇鱗，還是龍血？"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Nevermind. "
@@ -182,19 +182,19 @@ msgstr "很好。"
 #. event 10 (enterFastArea), after "Nevermind. "
 msgctxt "ask 0421"
 msgid "Bone. "
-msgstr "碎骨。"
+msgstr "骨骼。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Nevermind. "
 msgctxt "ask 0421"
 msgid "Executioner's Hood. "
-msgstr "劊子手兜帽草。"
+msgstr "劊子手的頭巾。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Nevermind. "
 msgctxt "ask 0421"
 msgid "Blackmoor. "
-msgstr "黑沼草。"
+msgstr "黑石漿。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Nevermind. "
@@ -212,7 +212,7 @@ msgstr "硫磺。"
 #. event 10 (enterFastArea), after "Nevermind. "
 msgctxt "ask 0421"
 msgid "Pumice. "
-msgstr "浮岩。"
+msgstr "浮石。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Nevermind. "
@@ -230,7 +230,7 @@ msgstr "生鐵。"
 #. event 10 (enterFastArea), after "Nevermind. "
 msgctxt "ask 0421"
 msgid "Eye of Newt. "
-msgstr "蠑螈之眼。"
+msgstr "蠑螈眼睛。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Nevermind. "
@@ -242,7 +242,7 @@ msgstr "蝙蝠翅膀。"
 #. event 10 (enterFastArea), after "Nevermind. "
 msgctxt "ask 0421"
 msgid "Serpent Scale. "
-msgstr "蛇鱗。"
+msgstr "巨蛇鱗。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Nevermind. "
@@ -267,28 +267,28 @@ msgstr "也許你並不是真的對材料有興趣。"
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coins for the Blackmoor ."
-msgstr "黑沼草我得收{num}枚黑曜石幣。"
+msgstr "黑石漿我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coin for the Blackmoor ."
-msgstr "黑沼草我得收{num}枚黑曜石幣。"
+msgstr "黑石漿我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coins for the Executioner's Hood ."
-msgstr "劊子手兜帽草我得收{num}枚黑曜石幣。"
+msgstr "劊子手的頭巾我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coin for the Executioner's Hood ."
-msgstr "劊子手兜帽草我得收{num}枚黑曜石幣。"
+msgstr "劊子手的頭巾我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
@@ -337,28 +337,28 @@ msgstr "龍血我得收{num}枚黑曜石幣。"
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coins for the Bone ."
-msgstr "碎骨我得收{num}枚黑曜石幣。"
+msgstr "骨骼我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coin for the Bone ."
-msgstr "碎骨我得收{num}枚黑曜石幣。"
+msgstr "骨骼我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coins for the Pumice ."
-msgstr "浮岩我得收{num}枚黑曜石幣。"
+msgstr "浮石我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coin for the Pumice ."
-msgstr "浮岩我得收{num}枚黑曜石幣。"
+msgstr "浮石我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
@@ -379,14 +379,14 @@ msgstr "硫磺我得收{num}枚黑曜石幣。"
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coins for the Eye of Newt ."
-msgstr "蠑螈之眼我得收{num}枚黑曜石幣。"
+msgstr "蠑螈眼睛我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coin for the Eye of Newt ."
-msgstr "蠑螈之眼我得收{num}枚黑曜石幣。"
+msgstr "蠑螈眼睛我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
@@ -407,14 +407,14 @@ msgstr "蝙蝠翅膀我得收{num}枚黑曜石幣。"
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coins for the Serpent Scale ."
-msgstr "蛇鱗我得收{num}枚黑曜石幣。"
+msgstr "巨蛇鱗我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coin for the Serpent Scale ."
-msgstr "蛇鱗我得收{num}枚黑曜石幣。"
+msgstr "巨蛇鱗我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
@@ -502,7 +502,7 @@ msgstr "現在學下一道法術還太早。"
 #. event 10 (enterFastArea), after ""
 msgctxt "bark 0421:1673"
 msgid "You are ready for your fourth spell -- Call Destruction. "
-msgstr "你已經準備好學第四道法術了——呼喚毀滅。"
+msgstr "你已經準備好學第四道法術了——毀滅之召。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
@@ -538,7 +538,7 @@ msgstr "現在學下一道法術還太早。"
 #. event 10 (enterFastArea), after ""
 msgctxt "bark 0421:18BF"
 msgid "You are ready for your first lesson in Thaumaturgy -- the blast of confusion. "
-msgstr "你已經準備好上奇術的第一課了——混亂衝擊。"
+msgstr "你已經準備好上奇術的第一課了——混亂之擊。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
@@ -802,7 +802,7 @@ msgstr "很好。"
 #. event 01 (use (talk)), after "Is there a haunted grove? "
 msgctxt "bark 0421:2E7B"
 msgid "A haunted grove of trees? Well, I have heard such rumors applied to a circle of dead trees here on the plateau, though I will not confirm the existence of undead there. "
-msgstr "鬧鬼的樹林？嗯，我聽過這類傳聞，說的是這片高原上一圈枯死的樹，不過那裡有沒有不死者，我可不敢證實。"
+msgstr "鬧鬼的樹林？嗯，我聽過這類傳聞，說的是這片高地上一圈枯死的樹，不過那裡有沒有不死者，我可不敢證實。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "What do you do? "
@@ -1387,7 +1387,7 @@ msgstr "我不喜歡被測試。也許你該給我一點時間，讓我重新提
 #. event 01 (use (talk)), after "Is there a haunted grove? "
 msgctxt "bark 0421:812E"
 msgid "A haunted grove of trees? Well, I have heard such rumors applied to a circle of dead trees here on the plateau, though I will not confirm the existence of undead there. "
-msgstr "鬧鬼的樹林？嗯，我聽過這類傳聞，說的是這片高原上一圈枯死的樹，不過那裡有沒有不死者，我可不敢證實。"
+msgstr "鬧鬼的樹林？嗯，我聽過這類傳聞，說的是這片高地上一圈枯死的樹，不過那裡有沒有不死者，我可不敢證實。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "What about Pagan history? "

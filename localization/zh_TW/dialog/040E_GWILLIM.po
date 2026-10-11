@@ -459,13 +459,13 @@ msgstr "你在這裡住多久了？"
 #. event 01 (use (talk)), after "How long have you lived here? "
 msgctxt "bark 040E:27A9"
 msgid "Oh, all of my life. I have strolled up to the plateau a time or two. I must go into town but twice a year. But other than that, I stay put here in the valley. "
-msgstr "噢，一輩子了。我散步到高原上去過一兩次，一年只需要進城兩次。除此之外，我都待在這山谷裡。"
+msgstr "噢，一輩子了。我散步到高地上去過一兩次，一年只需要進城兩次。除此之外，我都待在這山谷裡。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "How long have you lived here? "
 msgctxt "ask 040E"
 msgid "The plateau? "
-msgstr "高原？"
+msgstr "高地？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "How long have you lived here? "
@@ -477,7 +477,7 @@ msgstr "為什麼一年要進城兩次？"
 #. event 01 (use (talk)), after "The plateau? "
 msgctxt "bark 040E:28B7"
 msgid "Just take the trail that runs past our place here, and it will take you up to the plateau. Its very lovely up there. "
-msgstr "只要沿著經過我們家的那條小路走，就能上到高原。那上面很美。"
+msgstr "只要沿著經過我們家的那條小路走，就能上到高地。那上面很美。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Why go to town twice a year? "
@@ -526,7 +526,7 @@ msgstr "米瑟倫是誰？"
 #. event 01 (use (talk)), after "Who is Mythran? "
 msgctxt "bark 040E:2E04"
 msgid "Mythran is an old hermit who lives up on the plateau. Many people think that he sells magical scrolls. I do not know if that is true or not. Personally I doubt that there is anyone who does such a thing. The Titans are the only magic in the world. I believe that Mythran is just an eccentric old man. "
-msgstr "米瑟倫是住在高原上的老隱士。很多人以為他賣魔法捲軸，我不知道是真是假。我個人懷疑有誰會做那種事。泰坦是世上唯一的魔法。我相信米瑟倫只是個古怪的老頭子。"
+msgstr "米瑟倫是住在高地上的老隱士。很多人以為他賣魔法捲軸，我不知道是真是假。我個人懷疑有誰會做那種事。泰坦是世上唯一的魔法。我相信米瑟倫只是個古怪的老頭子。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Gwillim "

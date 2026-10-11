@@ -89,7 +89,7 @@ msgstr "你好，戴文。"
 #. event 01 (use (talk))
 msgctxt "ask 0402"
 msgid "The Lurker is free! "
-msgstr "潛伏者被釋放了！"
+msgstr "潛藏者被釋放了！"
 
 #. event 01 (use (talk))
 msgctxt "ask 0402"
@@ -231,12 +231,12 @@ msgstr "發現我？"
 #. event 01 (use (talk)), after "What happened to me? " or "Found me? "
 msgctxt "bark 0402:1A04"
 msgid "I am unsure, my friend. All I know is that I found your water-logged body in the depths of The Lurker's domain. What happened before remains a mystery. I pulled in my nets and within one I discovered you. "
-msgstr "我也不太清楚，朋友。我只知道，我是在潛伏者領域的深處發現你那泡得濕透的身體。在那之前發生了什麼，仍然是個謎。我收網的時候，就在其中一張網裡發現了你。"
+msgstr "我也不太清楚，朋友。我只知道，我是在潛藏者領域的深處發現你那泡得濕透的身體。在那之前發生了什麼，仍然是個謎。我收網的時候，就在其中一張網裡發現了你。"
 
 #. event 01 (use (talk)), after "What happened to me? " or "Found me? "
 msgctxt "ask 0402"
 msgid "The Lurker's domain? "
-msgstr "潛伏者的領域？"
+msgstr "潛藏者的領域？"
 
 #. event 01 (use (talk)), after "The Lurker's domain? "
 msgctxt "bark 0402:1B1D"
@@ -246,7 +246,7 @@ msgstr "是啊，我們有時候就這麼稱呼大海。你差點就淹死在裡
 #. event 01 (use (talk)), after "The Lurker's domain? "
 msgctxt "ask 0402"
 msgid "What is the Lurker? "
-msgstr "潛伏者是什麼？"
+msgstr "潛藏者是什麼？"
 
 #. event 01 (use (talk)), after "The Lurker's domain? "
 msgctxt "ask 0402"
@@ -302,12 +302,12 @@ msgstr "你知道得這麼少，真讓我吃驚，朋友。降靈師是墓地的
 #. event 01 (use (talk)), after "Who is Lithos? "
 msgctxt "bark 0402:207B"
 msgid "We call him the Mountain King. He rules the grass, the stones, the hills -- all that we walk upon. He also rules death. "
-msgstr "我們叫他山之王。他統治著草地、石頭、山丘——我們腳下所踏的一切。他也統治著死亡。"
+msgstr "我們叫他山岳之王。他統治著草地、石頭、山丘——我們腳下所踏的一切。他也統治著死亡。"
 
 #. event 01 (use (talk)), after "What is the Lurker? "
 msgctxt "bark 0402:21C9"
 msgid "The Lurker? That is our name for Hydros, Titan of water. She is a crafty and treacherous one, always ready to pull unwilling victims to their deaths at the depths of the sea... much like what nearly happened to you. "
-msgstr "潛伏者？那是我們對海特蘿的稱呼，她是海洋泰坦。她狡猾又陰險，隨時準備把不情願的受害者拖進深海送死……就像差點發生在你身上的事一樣。"
+msgstr "潛藏者？那是我們對海特蘿的稱呼，她是海洋泰坦。她狡猾又陰險，隨時準備把不情願的受害者拖進深海送死……就像差點發生在你身上的事一樣。"
 
 #. event 01 (use (talk)), after "How do you know my name? "
 msgctxt "bark 0402:22CF"
@@ -448,7 +448,7 @@ msgstr "聽說他就要被殺了。奉夫人之命處決。我知道他們給的
 #. event 01 (use (talk)), after "What should I do? "
 msgctxt "bark 0402:3120"
 msgid "All I am concerned about now is pacifying the Lurker, my friend. I am sorry, but I have no time for anything else. "
-msgstr "我現在只關心怎麼安撫潛伏者，朋友。抱歉，我沒空管別的事了。"
+msgstr "我現在只關心怎麼安撫潛藏者，朋友。抱歉，我沒空管別的事了。"
 
 #. event 01 (use (talk)), after "What should I do? "
 msgctxt "bark 0402:3311"

@@ -146,7 +146,7 @@ msgstr "你知道莫迪雅從不手下留情！"
 #. event 0F (calledFromAnim)
 msgctxt "bark 04C3:0872"
 msgid "She may feed you to the Lurker rather than put you in the dungeon! "
-msgstr "她可能不會把你關進地牢，而是直接丟去餵潛伏者！"
+msgstr "她可能不會把你關進地牢，而是直接丟去餵潛藏者！"
 
 # P13 batch 1
 #. event 0F (calledFromAnim)

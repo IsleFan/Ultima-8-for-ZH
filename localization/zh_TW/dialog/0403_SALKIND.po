@@ -401,7 +401,7 @@ msgstr "咱們怎麼會不知道役水師呢？是咱們太忙了，還是腦袋
 #. event 01 (use (talk)), after "Who is Hydros? "
 msgctxt "bark 0403:1D6B"
 msgid "Ah, the great Water Titan, the Lurker. What ever title she goes by, she is the most powerful of the Titans. The Lady Mordea can use a bit of Hydro's power to control the weather and all things of water. "
-msgstr "啊，偉大的海洋泰坦，潛伏者。不論用哪個稱號稱呼她，她都是泰坦之中最強大的。莫迪雅夫人能運用海特蘿的一小部分力量，控制天氣與一切和水有關的事物。"
+msgstr "啊，偉大的海洋泰坦，潛藏者。不論用哪個稱號稱呼她，她都是泰坦之中最強大的。莫迪雅夫人能運用海特蘿的一小部分力量，控制天氣與一切和水有關的事物。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me about Lady Mordea. "

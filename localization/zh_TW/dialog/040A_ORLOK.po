@@ -705,7 +705,7 @@ msgstr "是這樣的，我的曾曾曾祖父吹牛大王約翰，大半輩子都
 #. event 01 (use (talk)), after "Tell me how you lost your eye. "
 msgctxt "bark 040A:391F"
 msgid "Oh, 'tis a good one, that story. It happened like this. It was a dark and stormy night. I was a lad of 21 and was aboard me first ship when we were attacked by one of those ferocious beasts the Lurker keeps as pets. Out of the water it came, spouting and screaming. It took one sailor right out of the crow's nest then it turned to the first mate. I grabbed a spike from the deck and fought the thing. It was a terrible fight. One of the creature's great teeth raked across me face and took me eye but I fought on, blood running down me chin. I finally defeated the thing and sent it back to the black depths it calls home."
-msgstr "噢，那個故事可精彩了。事情是這樣的：那是個風雨交加的黑夜。我那時二十一歲，在我的第一艘船上，結果遭到潛伏者養的那種兇猛怪獸襲擊。牠噴著水、尖叫著從水裡竄出來，一口就把一個水手從瞭望台上叼走，接著又轉向大副。我從甲板上抓起一根鐵釘跟那東西搏鬥。那一仗打得好慘烈啊。怪物的一顆大牙劃過我的臉，把我的眼睛給挖走了，但我還是繼續奮戰，血順著下巴直流。最後我終於打敗那東西，把牠趕回牠老家那片漆黑的深海。"
+msgstr "噢，那個故事可精彩了。事情是這樣的：那是個風雨交加的黑夜。我那時二十一歲，在我的第一艘船上，結果遭到潛藏者養的那種兇猛怪獸襲擊。牠噴著水、尖叫著從水裡竄出來，一口就把一個水手從瞭望台上叼走，接著又轉向大副。我從甲板上抓起一根鐵釘跟那東西搏鬥。那一仗打得好慘烈啊。怪物的一顆大牙劃過我的臉，把我的眼睛給挖走了，但我還是繼續奮戰，血順著下巴直流。最後我終於打敗那東西，把牠趕回牠老家那片漆黑的深海。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me how you lost your eye. "
@@ -801,7 +801,7 @@ msgstr "（我劈柴時斧頭滑了一下。）"
 #. event 01 (use (talk)), after "Tell me how you lost your leg. "
 msgctxt "bark 040A:587C"
 msgid "'Tis a ghastly story. It was during the first voyage for me ship, the Night Hawk. On board we carried a wealthy merchant and his family. We were several days out and I was manning the wheel, when I heard  a scream. The merchant's young son had slipped and fallen overboard. His mother had seen it happen and had rushed over in time to see one of the Lurker's creatures bearing down on the boy. I raced to the side and jumped over. Just before  the creature reached the boy, I grabbed him in me arms and hollared for me crew to haul us aboard. As I was being pulled from the water with the boy in me arms, the creature jumped up and bit me leg clean off."
-msgstr "這是個駭人的故事。那是我的船「夜鷹號」的處女航，船上載著一位富商和他的家人。出海好幾天後，我正在掌舵，突然聽到一聲尖叫。富商的小兒子滑了一跤，掉進海裡。他母親親眼看見，衝到船邊時，正好看到一隻潛伏者的怪物朝那孩子撲去。我衝到船舷跳了下去，就在怪物碰到孩子之前，一把將他抱住，大喊要船員把我們拉上去。就在我抱著孩子被拉出水面時，那怪物一躍而起，把我的腿整條咬了下來。"
+msgstr "這是個駭人的故事。那是我的船「夜鷹號」的處女航，船上載著一位富商和他的家人。出海好幾天後，我正在掌舵，突然聽到一聲尖叫。富商的小兒子滑了一跤，掉進海裡。他母親親眼看見，衝到船邊時，正好看到一隻潛藏者的怪物朝那孩子撲去。我衝到船舷跳了下去，就在怪物碰到孩子之前，一把將他抱住，大喊要船員把我們拉上去。就在我抱著孩子被拉出水面時，那怪物一躍而起，把我的腿整條咬了下來。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me how you lost your leg. "
@@ -837,7 +837,7 @@ msgstr "（我生下來就少一隻手。）"
 #. event 01 (use (talk)), after "Tell me how you lost your hand. "
 msgctxt "bark 040A:664A"
 msgid "Oh, 'tis a right frightful story, it is matey. I was a young lad, it was me first voyage out upon me ship, the Lady Luck. I was fishing, when out of the water came one of the Lurker's horrid pets. Jumped right out of the water.  it did, and came right at me. Well, I jumped back and those razor sharp teeth just missed me throat. I thought I was right lucky, I did, until I noticed that me medallion was missing. Now this t'weren't an ordinary medallion, no siree, me mother gave it to me on her deathbed, she did. I had to have it back. So I dove in after it. I swam hard and caught that scaly beast by its tail. It bucked and flipped in the water but I didn't let go. I worked me way up to its horrid face and forced it to the surface. It thrashed and tried to bite me, but I wouldn't let it. I pulled its jaws open and there in its teeth was me medallion. I reached me hand into the creature's reeking maw, grabbed the chain and pulled it free. Then, just as I was letting  go, it turned its head quick and bit me. Took me hand clean off at the wrist, it did. Then it sank into the murky depths of the sea."
-msgstr "噢，這故事可真嚇人啊，伙計。那時我還是個小伙子，第一次駕著我的船「幸運女神號」出海。我正在釣魚，潛伏者養的一隻可怕寵物從水裡竄了出來，直直朝我撲來。我往後一跳，那些剃刀般鋒利的牙齒差一點就咬中我的喉嚨。我本來還覺得自己真走運，直到發現我的項鍊墜子不見了。那可不是普通的墜子，絕對不是，那是我娘臨終前給我的。我非把它拿回來不可，於是跟著跳下水去。我拚命游，抓住了那頭鱗片怪獸的尾巴。牠在水裡又蹦又翻，但我死不放手。我一路往上爬到牠那張可怕的臉，硬是把牠逼到水面。牠拚命掙扎想咬我，但我不讓牠得逞。我扳開牠的嘴，墜子就卡在牠的牙縫間。我把手伸進那怪物臭氣沖天的大嘴裡，抓住鏈子把墜子拉了出來。就在我要放手時，牠猛一轉頭咬住了我，把我的手從手腕整個咬斷，然後沉進了混濁的深海。"
+msgstr "噢，這故事可真嚇人啊，伙計。那時我還是個小伙子，第一次駕著我的船「幸運女神號」出海。我正在釣魚，潛藏者養的一隻可怕寵物從水裡竄了出來，直直朝我撲來。我往後一跳，那些剃刀般鋒利的牙齒差一點就咬中我的喉嚨。我本來還覺得自己真走運，直到發現我的項鍊墜子不見了。那可不是普通的墜子，絕對不是，那是我娘臨終前給我的。我非把它拿回來不可，於是跟著跳下水去。我拚命游，抓住了那頭鱗片怪獸的尾巴。牠在水裡又蹦又翻，但我死不放手。我一路往上爬到牠那張可怕的臉，硬是把牠逼到水面。牠拚命掙扎想咬我，但我不讓牠得逞。我扳開牠的嘴，墜子就卡在牠的牙縫間。我把手伸進那怪物臭氣沖天的大嘴裡，抓住鏈子把墜子拉了出來。就在我要放手時，牠猛一轉頭咬住了我，把我的手從手腕整個咬斷，然後沉進了混濁的深海。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me how you lost your hand. "
@@ -928,7 +928,7 @@ msgstr "說說雨之海。"
 #. event 01 (use (talk)), after "Tell me of the Sea of Rains. "
 msgctxt "bark 040A:8B27"
 msgid "She's a mysterious mistress, me boyo. Why ye never know when she's going to turn on ye. One fine day I took me ship, the Trident, out. There was no sign of trouble and it looked like clear sailing. Well, all of a sudden me boy in the crow's nest hollared and I looked up. There, on the horizon was the blackest storm cloud I'd ever seen. as I watched, I realized what I thought was a storm was really the biggest water spout I'd ever seen and it was coming straight for us. I ordered the ship about and tried to out run that monster, but it was no use. Before we knew it, it was upon us and we were picked straight up into the sky. We whirled and whirled about until we thought we were dead for sure. All caught up in that spout with us were fish and rocks and I even saw one of the Lurker's ghastly pets. We must have whirled about for two or three days until we were finally set down, safe and sound, in our berth in the harbor outside Tenebrae. It was something I'll never forget."
-msgstr "她是個神祕的情婦啊，老弟。你永遠不知道她什麼時候會翻臉。某個晴朗的日子，我駕著我的船「三叉戟號」出海。一點麻煩的徵兆都沒有，看來會是一帆風順。突然間，瞭望台上的小子大叫，我抬頭一看，地平線上是我這輩子見過最黑的暴風雲。我看著看著，才發覺那根本不是暴風雨，而是我見過最大的海龍捲，正直直朝我們衝來。我下令調轉船頭，想甩開那個怪物，卻一點用也沒有。我們還來不及反應，它就撲了上來，把我們整艘船捲上了天。我們轉啊轉啊，轉到都以為自己必死無疑了。跟我們一起被捲進龍捲裡的有魚、有石頭，我甚至還看到一隻潛伏者養的可怕寵物。我們大概轉了兩三天，最後才平平安安地落回泰納布利外海港裡我們的泊位。那是我一輩子都忘不了的事。"
+msgstr "她是個神祕的情婦啊，老弟。你永遠不知道她什麼時候會翻臉。某個晴朗的日子，我駕著我的船「三叉戟號」出海。一點麻煩的徵兆都沒有，看來會是一帆風順。突然間，瞭望台上的小子大叫，我抬頭一看，地平線上是我這輩子見過最黑的暴風雲。我看著看著，才發覺那根本不是暴風雨，而是我見過最大的海龍捲，正直直朝我們衝來。我下令調轉船頭，想甩開那個怪物，卻一點用也沒有。我們還來不及反應，它就撲了上來，把我們整艘船捲上了天。我們轉啊轉啊，轉到都以為自己必死無疑了。跟我們一起被捲進龍捲裡的有魚、有石頭，我甚至還看到一隻潛藏者養的可怕寵物。我們大概轉了兩三天，最後才平平安安地落回泰納布利外海港裡我們的泊位。那是我一輩子都忘不了的事。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of the Sea of Rains. "
@@ -1168,7 +1168,7 @@ msgstr "隨時再來。"
 #. event 01 (use (talk)), after "Goodbye. "
 msgctxt "bark 040A:B965"
 msgid "Have a care. Strangers, few tho' they are, have a tendency ta end up with the Lurker... if they're not careful. "
-msgstr "小心點。外地人雖然不多，可要是不小心，往往會落到潛伏者手裡……"
+msgstr "小心點。外地人雖然不多，可要是不小心，往往會落到潛藏者手裡……"
 
 # P11 POC: dynamic strings (proposed terms, see authority.tsv)
 #. value of {call_0BCF}: "Blackwine " | "Breath o' Spirit " | "Cloven Hoof " | "Hurricane " | "Tenebraen Ale "

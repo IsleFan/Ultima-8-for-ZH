@@ -726,13 +726,13 @@ msgstr "還有別的事嗎，{varF8}？"
 #. sentence template: keep the {placeholders}
 msgctxt "bark 041F:275B"
 msgid "Well, {varF8}, this is the Sorcerer's Enclave."
-msgstr "嗯，{varF8}，這裡是巫師聚落。"
+msgstr "嗯，{varF8}，這裡是巫師的領地。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "What can you tell me of this place? "
 msgctxt "ask 041F"
 msgid "Tell me about Sorcerer's Enclave. "
-msgstr "說說巫師聚落。"
+msgstr "說說巫師的領地。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "What can you tell me of this place? "
@@ -979,7 +979,7 @@ msgstr "大師是誰？"
 #. answer compared by the conversation code
 msgctxt "ask 041F"
 msgid "About Sorcerer's Enclave! "
-msgstr "關於巫師聚落！"
+msgstr "關於巫師的領地！"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "About Sorcerer's Enclave! "

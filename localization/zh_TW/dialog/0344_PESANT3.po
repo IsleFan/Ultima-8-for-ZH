@@ -206,7 +206,7 @@ msgstr "鄉巴佬！"
 #. event 01 (use (talk))
 msgctxt "bark 0344:0A8F"
 msgid "May the Lurker take ya! "
-msgstr "讓潛伏者把你抓去吧！"
+msgstr "讓潛藏者把你抓去吧！"
 
 # P13 batch 4
 #. event 01 (use (talk))

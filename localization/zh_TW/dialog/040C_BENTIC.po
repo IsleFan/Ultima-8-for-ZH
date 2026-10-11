@@ -384,7 +384,7 @@ msgstr "役水師的魔法是世襲的，而降靈師的魔法可以透過考驗
 #. event 01 (use (talk)), after "Who is Mythran? "
 msgctxt "bark 040C:24BF"
 msgid "Mythran lives in a small house on the Plateau. He has been known to dabble in the various magical arts and is a scholar. He often makes magical scrolls and things and sells them. "
-msgstr "米瑟倫住在高原上的一間小屋裡。大家都知道他涉獵各種魔法技藝，也是位學者。他常製作魔法捲軸之類的東西拿來販售。"
+msgstr "米瑟倫住在高地上的一間小屋裡。大家都知道他涉獵各種魔法技藝，也是位學者。他常製作魔法捲軸之類的東西拿來販售。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Who is Mythran? "
@@ -402,13 +402,13 @@ msgstr "米瑟倫是學者？"
 #. event 01 (use (talk)), after "Who is Mythran? "
 msgctxt "ask 040C"
 msgid "Where is the Plateau? "
-msgstr "高原在哪裡？"
+msgstr "高地在哪裡？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Where is the Plateau? "
 msgctxt "bark 040C:264A"
 msgid "From the palace in the center of Tenebrae, head north out of the city. Follow the path through the Valley to a cave entrance. Go through the cave. It opens on the other side of the mountain on the Plateau. "
-msgstr "從泰納布利中央的宮殿往北出城，沿著小路穿過山谷，走到一個洞穴入口。穿過洞穴，出口就在山的另一側，也就是高原上。"
+msgstr "從泰納布利中央的宮殿往北出城，沿著小路穿過山谷，走到一個洞穴入口。穿過洞穴，出口就在山的另一側，也就是高地上。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Mythran practices magical arts? "
@@ -438,7 +438,7 @@ msgstr "嗯，算是吧。他和我一樣喜歡研究、讀書，但他一旦有
 #. event 01 (use (talk)), after "Who is Lithos? "
 msgctxt "bark 040C:2C42"
 msgid "The Earth Titan, or Mountain King as he is sometimes called. He is a very powerful Titan, has the ability to make the very ground shake. The Necromancers still serve him, though I understand they have very few applicants to be an apprentice these days. "
-msgstr "他是大地泰坦，有時也被稱為山之王。他是非常強大的泰坦，能讓大地為之震動。降靈師至今仍侍奉著他，不過據我所知，這年頭想當他們學徒的人非常少。"
+msgstr "他是大地泰坦，有時也被稱為山岳之王。他是非常強大的泰坦，能讓大地為之震動。降靈師至今仍侍奉著他，不過據我所知，這年頭想當他們學徒的人非常少。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "What is 'Pagan'? "

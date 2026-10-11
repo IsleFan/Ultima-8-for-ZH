@@ -14,7 +14,7 @@ msgstr ""
 #. event 00 (look)
 msgctxt "bark 018F:00AE"
 msgid "eye of newt "
-msgstr "蠑螈之眼"
+msgstr "蠑螈眼睛"
 
 # P13 batch 6
 #. event 00 (look)
@@ -38,7 +38,7 @@ msgstr "龍血"
 #. event 00 (look)
 msgctxt "bark 018F:01B4"
 msgid "jar of newt eyes "
-msgstr "蠑螈之眼罐"
+msgstr "蠑螈眼睛罐"
 
 # P13 batch 6
 #. event 00 (look)

@@ -44,7 +44,7 @@ msgstr "此舉甚合我意，活人。"
 #. event 01 (use (talk))
 msgctxt "bark 00E8:0400"
 msgid "All has been prepared according to your law, Mountain King. "
-msgstr "一切都已依照祢的律法準備妥當，山之王。"
+msgstr "一切都已依照祢的律法準備妥當，山岳之王。"
 
 # P13 batch 4
 #. event 01 (use (talk))

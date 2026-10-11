@@ -33,42 +33,42 @@ msgstr "占卜術~~占卜術是非常實用的法術。它能讓施法者知道�
 # P13 batch 8
 msgctxt "book 0577:0F85"
 msgid "The Spell of Healing Touch~~This is the least powerful of the healing spells of Stratos and one of the first usually learned by Adepts. The Focus necessary to cast this spell represents a pointing hand. The words that must be uttered at the moment of casting are 'In Mani.'"
-msgstr "治癒之觸~~這是史卓拉透絲的治療法術中威力最弱的一種，通常也是行家法師最先學會的法術之一。施展這道法術所需的法器象徵一隻指路之手。施法時必須唸出的咒文是「In Mani」。"
+msgstr "醫療之觸~~這是史卓拉透絲的治療法術中威力最弱的一種，通常也是行家法師最先學會的法術之一。施展這道法術所需的法器象徵一隻指路之手。施法時必須唸出的咒文是「In Mani」。"
 
 # P13 batch 8
 msgctxt "book 0577:11DA"
 msgid "The spell of Aerial Servant~~One of the more impressive of the Theurgic spells, Aerial Servant is also one of the most versatile. Upon casting of the Aerial Servant spell, a whirling being of Air is called into existance. This being will accept the Theurgist's directives to manipulate or move any object. One of the more interesting aspects of this spell is that the Aerial Servant is able to move objects through another solid object, such as a door or wall. The Focus used to represent this spell represents an Arm Band and the casting words are 'Kal Ort Xen.'"
-msgstr "風之僕役~~風之僕役是神通術法術中較令人印象深刻的一種，也是用途最廣的法術之一。施展風之僕役時，會召喚出一個旋轉的風之存在。這個存在會聽從神通師的指示，操縱或移動任何物體。這道法術較有趣的一點是，風之僕役能讓物體穿過門或牆之類的其他固體。代表這道法術的法器象徵一個臂環，施法咒文是「Kal Ort Xen」。"
+msgstr "風之侍僕~~風之侍僕是神通術法術中較令人印象深刻的一種，也是用途最廣的法術之一。施展風之侍僕時，會召喚出一個旋轉的風之存在。這個存在會聽從神通師的指示，操縱或移動任何物體。這道法術較有趣的一點是，風之侍僕能讓物體穿過門或牆之類的其他固體。代表這道法術的法器象徵一個臂環，施法咒文是「Kal Ort Xen」。"
 
 # P13 batch 8
 msgctxt "book 0577:139D"
 msgid "The Spell of Reveal~~This spell is a dissipation spell, meaning that it will actually dispell another type of magic, specifically the spell of invisibility. When the Theurgist casts this spell, a wave of energy moves away from the caster in ever increasing concentric circles. These energy waves will dispell all forms of invisibility. The Focus used for this spell is an open eye and the casting words are 'Ort Lor.'"
-msgstr "現形術~~這是一道驅散法術，也就是說它能驅散另一種魔法，特別是隱形法術。神通師施展這道法術時，一波能量會從施法者身上以不斷擴大的同心圓向外擴散。這些能量波能驅散一切形式的隱形。這道法術所用的法器是一隻睜眼，施法咒文是「Ort Lor」。"
+msgstr "顯明術~~這是一道驅散法術，也就是說它能驅散另一種魔法，特別是隱形法術。神通師施展這道法術時，一波能量會從施法者身上以不斷擴大的同心圓向外擴散。這些能量波能驅散一切形式的隱形。這道法術所用的法器是一隻睜眼，施法咒文是「Ort Lor」。"
 
 # P13 batch 8
 msgctxt "book 0577:1588"
 msgid "The Spell of Restoration~~One of the most powerful spells available to the Theurgist, this spell restores the recipient to full health, providing the recipient is still alive upon the beginning of the casting. It will eliminate wounds and maimings and will cure disease. This spell is one that the Theurgist will find in great demand. The Focus for this spell resembles an open hand. The words which must be uttered upon casting the spell are 'Vas In Mani.'"
-msgstr "復原術~~這是神通師所能使用最強大的法術之一。只要施法開始時對象仍然活著，這道法術就能讓他完全恢復健康。它能消除傷口與殘缺，也能治癒疾病。神通師會發現這道法術的需求非常大。這道法術的法器形似一隻張開的手。施法時必須唸出的咒文是「Vas In Mani」。"
+msgstr "回復術~~這是神通師所能使用最強大的法術之一。只要施法開始時對象仍然活著，這道法術就能讓他完全恢復健康。它能消除傷口與殘缺，也能治癒疾病。神通師會發現這道法術的需求非常大。這道法術的法器形似一隻張開的手。施法時必須唸出的咒文是「Vas In Mani」。"
 
 # P13 batch 8
 msgctxt "book 0577:16B8"
 msgid "The Spell of Fade From Sight~~This spell is another very versatile spell as it allows the caster to become invisible to the sight of nearly all mortal beings. The Focus representing this spell is a closed eye. The words to be spoken during the casting are 'Quas An Lor.'"
-msgstr "隱匿行蹤~~這是另一道用途非常廣的法術，它能讓施法者在幾乎所有凡人眼中隱形。代表這道法術的法器是一隻閉眼。施法時要唸的咒文是「Quas An Lor」。"
+msgstr "隱形術~~這是另一道用途非常廣的法術，它能讓施法者在幾乎所有凡人眼中隱形。代表這道法術的法器是一隻閉眼。施法時要唸的咒文是「Quas An Lor」。"
 
 # P13 batch 8
 msgctxt "book 0577:19D5"
 msgid "The spell of Air Walk~~The Air Walk spell is the most highly valued spell a Theurgist can learn, for it is only through the use of this spell that a Theurgist can reach Stratos and hear the Mystic Voice. When this spell is cast, the Theurgist is capable of jumping quite a great distance with the aid of the surrounding air. It is interesting to note, that the first time a Theurgist experiences this spell is when he has completed the Tests and seeks Stratos for the first time. If Stratos is pleased with the Theurgist, then she will grant the spell without the use of a Focus. From that point on, however, the Theurgist must have the Focus representing wings to cast this spell. Words of power must also be spoken. For this spell those words are 'Vas Hur Por.'"
-msgstr "輕風漫步~~輕風漫步是神通師所能學到最珍貴的法術，因為唯有透過這道法術，神通師才能抵達史卓拉透絲身邊，聽見神秘之聲。施展這道法術時，神通師能藉著周遭空氣之助，跳躍相當遠的距離。值得一提的是，神通師第一次體驗這道法術，是在他完成考驗、首次尋找史卓拉透絲的時候。如果史卓拉透絲對這位神通師滿意，她就會在不使用法器的情況下賜予這道法術。不過從那時起，神通師就必須持有象徵雙翼的法器才能施展這道法術，還必須唸出力量之語。這道法術的咒文是「Vas Hur Por」。"
+msgstr "舞空術~~舞空術是神通師所能學到最珍貴的法術，因為唯有透過這道法術，神通師才能抵達史卓拉透絲身邊，聽見神秘之聲。施展這道法術時，神通師能藉著周遭空氣之助，跳躍相當遠的距離。值得一提的是，神通師第一次體驗這道法術，是在他完成考驗、首次尋找史卓拉透絲的時候。如果史卓拉透絲對這位神通師滿意，她就會在不使用法器的情況下賜予這道法術。不過從那時起，神通師就必須持有象徵雙翼的法器才能施展這道法術，還必須唸出力量之語。這道法術的咒文是「Vas Hur Por」。"
 
 # P13 batch 8
 msgctxt "book 0577:1B64"
 msgid "The Spell of Hear Truth~~A useful spell for any number of reasons. This spell allows the Theurgist to hear both what the speaker is saying and what the truth is. If the speaker is, indeed, speaking untruthfully, the truth will come to the caster as if carried on a breeze. The Focus for this spell resembles a chain. The words spoken upon casting are 'An Quas Lor.'"
-msgstr "聆聽真言~~這道法術基於種種原因都非常有用。它能讓神通師同時聽見說話者所說的話與真相。如果說話者確實在說謊，真相就會像隨風飄來一般傳到施法者耳中。這道法術的法器形似一條鎖鏈。施法時唸的咒文是「An Quas Lor」。"
+msgstr "實話術~~這道法術基於種種原因都非常有用。它能讓神通師同時聽見說話者所說的話與真相。如果說話者確實在說謊，真相就會像隨風飄來一般傳到施法者耳中。這道法術的法器形似一條鎖鏈。施法時唸的咒文是「An Quas Lor」。"
 
 # P13 batch 8
 msgctxt "book 0577:1D16"
 msgid "The spell of Intervention~~A powerful spell, upon casting the spell of Intervention, the Theurgist calls into being a wall of Air that blocks all damaging forces. While this spell will protect the caster from all blows and striking attacks, it will not protect the caster from immersion in lava or drowning in Water. The Focus for this spell resembles a fist and the words used are 'In Sanct An Jux.'"
-msgstr "庇佑之光~~這是一道強大的法術。施展庇佑之光時，神通師會召喚出一道擋住一切傷害之力的風之牆。雖然這道法術能保護施法者免受一切毆打與攻擊，卻無法保護施法者免於落入熔岩或溺水。這道法術的法器形似一隻拳頭，所用的咒文是「In Sanct An Jux」。"
+msgstr "干涉術~~這是一道強大的法術。施展干涉術時，神通師會召喚出一道擋住一切傷害之力的風之牆。雖然這道法術能保護施法者免受一切毆打與攻擊，卻無法保護施法者免於落入熔岩或溺水。這道法術的法器形似一隻拳頭，所用的咒文是「In Sanct An Jux」。"
 
 # P13 batch 8
 msgctxt "book 0577:246E"

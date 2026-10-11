@@ -600,7 +600,7 @@ msgstr "我還是會報仇的！我要讓我父親復活！我要把他從死亡
 #. event 01 (use (talk)), after "revenge "
 msgctxt "ask 041A"
 msgid "Your father is with the Lurker. "
-msgstr "你父親在潛伏者那裡。"
+msgstr "你父親在潛藏者那裡。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Your father is with the Lurker. "

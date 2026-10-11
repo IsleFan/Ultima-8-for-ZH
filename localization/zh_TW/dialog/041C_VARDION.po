@@ -141,7 +141,7 @@ msgstr "說完了嗎？"
 #. event 01 (use (talk)), after "Tell me of this place. "
 msgctxt "bark 041C:0A01"
 msgid "How can it be that you do not know of the Sorcerer's Enclave? "
-msgstr "你怎麼會不知道巫師聚落？"
+msgstr "你怎麼會不知道巫師的領地？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Tell me of this place. "
@@ -189,13 +189,13 @@ msgstr "第一學徒？那是什麼？"
 #. event 01 (use (talk)), after "I am a stranger here. "
 msgctxt "bark 041C:0DBC"
 msgid "This is the Sorcerer's Enclave. As First Acolyte, it is my duty to make sure that the Sorcerers learn about the Fire and keep the old ways alive. "
-msgstr "這裡是巫師聚落。身為第一學徒，我的職責是確保巫師們學習火焰之道，並讓古老的傳統延續下去。"
+msgstr "這裡是巫師的領地。身為第一學徒，我的職責是確保巫師們學習火焰之道，並讓古老的傳統延續下去。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "I am a stranger here. "
 msgctxt "bark 041C:0DBC"
 msgid "This is the Sorcerer's Enclave. We Sorcerers gather here to learn about the Fire and keep the old ways alive. "
-msgstr "這裡是巫師聚落。我們巫師聚集在此，學習火焰之道，並讓古老的傳統延續下去。"
+msgstr "這裡是巫師的領地。我們巫師聚集在此，學習火焰之道，並讓古老的傳統延續下去。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "I am a stranger here. "
@@ -219,7 +219,7 @@ msgstr "古老的傳統？"
 #. event 01 (use (talk)), after "Who are you? " or "What do you do? "
 msgctxt "bark 041C:0ED9"
 msgid "I am Vardion, First Acolyte of Sorcerer's Enclave. Keep this in mind, and we'll have no strife. "
-msgstr "我是瓦迪恩，巫師聚落的第一學徒。記住這一點，我們就不會有衝突。"
+msgstr "我是瓦迪恩，巫師的領地的第一學徒。記住這一點，我們就不會有衝突。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Who are you? " or "What do you do? "
@@ -749,25 +749,25 @@ msgstr "法術是我們釋放並控制火焰之力的手段。"
 #. event 01 (use (talk)), after "Tell me more of Earth. "
 msgctxt "bark 041C:2FB5"
 msgid "Earth is useful to Fire. It forms the channels through which Fire flows and provides the fuel by which it burns. The Mountain King and Lord of Flame have almost no conflict of wills. "
-msgstr "土對火有用。它形成火焰流動的通道，也提供燃燒的燃料。山之王與烈焰之主的意志幾乎沒有衝突。"
+msgstr "土對火有用。它形成火焰流動的通道，也提供燃燒的燃料。山岳之王與烈焰之主的意志幾乎沒有衝突。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Tell me more of Earth. "
 msgctxt "ask 041C"
 msgid "Tell me of the Mountain King? "
-msgstr "說說山之王吧？"
+msgstr "說說山岳之王吧？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "What can you say of Water? "
 msgctxt "bark 041C:30E8"
 msgid "That element is anathema to Fire as the Lurker is the nemesis of the Lord of Flame. "
-msgstr "那種元素是火的大忌，就像潛伏者是烈焰之主的死敵。"
+msgstr "那種元素是火的大忌，就像潛藏者是烈焰之主的死敵。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "What can you say of Water? "
 msgctxt "ask 041C"
 msgid "Tell me of the Lurker? "
-msgstr "說說潛伏者吧？"
+msgstr "說說潛藏者吧？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "I wish to know about Air. "
@@ -905,13 +905,13 @@ msgstr "派羅斯是烈焰之主，也就是火焰泰坦的名字。"
 #. event 01 (use (talk)), after "Hydros, who is that? "
 msgctxt "bark 041C:3DD3"
 msgid "That accursed name belongs to the Lurker, Titan of Water. "
-msgstr "那個可憎的名字屬於潛伏者，也就是海洋泰坦。"
+msgstr "那個可憎的名字屬於潛藏者，也就是海洋泰坦。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Who would Lithos be? "
 msgctxt "bark 041C:3E95"
 msgid "He is called the Mountain King and is the Titan of Earth. "
-msgstr "他被稱為山之王，是大地泰坦。"
+msgstr "他被稱為山岳之王，是大地泰坦。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Tell me more of Stratos. "

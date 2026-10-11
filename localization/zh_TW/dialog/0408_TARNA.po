@@ -286,7 +286,7 @@ msgstr "說說降靈師。"
 #. event 01 (use (talk)), after "What pact? "
 msgctxt "bark 0408:1CB1"
 msgid "Eons ago, our forebears formed a covenant with Lithos. He would cease his angry rumblings if we agreed to send our dead to him. There, deep in the heart of Pagan, the dead exist solely to serve the Mountain King's very wishes. And sometimes, Lithos has them wander the surface world as well! "
-msgstr "很久很久以前，我們的祖先與里索斯立下了盟約。只要我們同意把死者送給他，他就會平息憤怒的震動。在佩根的深處，死者只為了實現山之王的心願而存在。有時候，里索斯還會讓他們在地面上遊蕩！"
+msgstr "很久很久以前，我們的祖先與里索斯立下了盟約。只要我們同意把死者送給他，他就會平息憤怒的震動。在佩根的深處，死者只為了實現山岳之王的心願而存在。有時候，里索斯還會讓他們在地面上遊蕩！"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What pact? "
@@ -304,7 +304,7 @@ msgstr "在地面上遊蕩？"
 #. event 01 (use (talk)), after "Wander up here? "
 msgctxt "bark 0408:1E37"
 msgid "Aye, in the cemetery the undead wander, doing the bidding of the Necromancers, always ready to take the living down to the very depths of the Mountain King's domain. I would avoid the cemetery at all costs, I would.  Keep your business far from there. "
-msgstr "沒錯，不死者就在墓地裡遊蕩，聽從降靈師的差遣，隨時準備把活人拖進山之王領域的最深處。換作是我，無論如何都會避開墓地。別去那裡辦事。"
+msgstr "沒錯，不死者就在墓地裡遊蕩，聽從降靈師的差遣，隨時準備把活人拖進山岳之王領域的最深處。換作是我，無論如何都會避開墓地。別去那裡辦事。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "How do you send the dead? "

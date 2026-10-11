@@ -18,7 +18,7 @@ msgstr "你沒通過第一項考驗，門徒。準備受死吧。"
 # P13 batch 6
 msgctxt "bark 0583:257D"
 msgid "Nicely done, Disciple. Now the Explosion... "
-msgstr "做得好，門徒。現在是爆炸術……"
+msgstr "做得好，門徒。現在是爆裂術……"
 
 # P13 batch 6
 msgctxt "bark 0583:25EF"

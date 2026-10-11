@@ -32,7 +32,7 @@ msgstr "有尊嚴的人，可不會散播煽動的謠言來侮辱他的夫人，
 #. event 07 (hatch)
 msgctxt "bark 0483:04EA"
 msgid "I fear that Lithos will not find you at all... for your grave shall be a watery one.  The Lurker is not kind to the ones she... acquires. "
-msgstr "恐怕里索斯根本見不到你了……因為你的墳墓將在水底。潛伏者對她……收下的人，可不會手下留情。"
+msgstr "恐怕里索斯根本見不到你了……因為你的墳墓將在水底。潛藏者對她……收下的人，可不會手下留情。"
 
 # P13 batch 1
 #. event 07 (hatch)

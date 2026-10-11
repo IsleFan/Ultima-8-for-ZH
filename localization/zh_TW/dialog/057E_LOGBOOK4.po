@@ -38,7 +38,7 @@ msgstr "我要殺了你！"
 # P13 batch 6
 msgctxt "bark 057E:080C"
 msgid "May the Lurker welcome you... as she has your victims. "
-msgstr "願潛伏者迎接你……就像她迎接你的那些受害者一樣。"
+msgstr "願潛藏者迎接你……就像她迎接你的那些受害者一樣。"
 
 # P13 batch 6
 msgctxt "bark 057E:0847"

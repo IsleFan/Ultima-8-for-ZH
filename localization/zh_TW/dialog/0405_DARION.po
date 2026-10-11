@@ -841,7 +841,7 @@ msgstr "你以為我們為什麼整天都是好天氣？莫迪雅夫人憑著她
 #. event 01 (use (talk)), after "Who is Hydros? "
 msgctxt "bark 0405:3D1B"
 msgid "Keep a respectful tongue in your head when you speak that name, my friend. The Lurker is a force to be reckoned with. She is the power of all the waters. She can be as gentle as a spring rain or as powerful and terrible as a thundering waterfall. She is the mightiest of all the Titans. Well worth your respect and worship. "
-msgstr "說出那個名字時，口氣放尊重點，朋友。潛伏者可是不容小覷的力量。她是萬水之力，能像春雨一樣溫柔，也能像轟隆的瀑布一樣強大而可怕。她是所有泰坦中最強大的，值得你的尊敬與崇拜。"
+msgstr "說出那個名字時，口氣放尊重點，朋友。潛藏者可是不容小覷的力量。她是萬水之力，能像春雨一樣溫柔，也能像轟隆的瀑布一樣強大而可怕。她是所有泰坦中最強大的，值得你的尊敬與崇拜。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Who are the Necromancers? "

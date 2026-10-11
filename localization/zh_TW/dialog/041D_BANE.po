@@ -92,7 +92,7 @@ msgstr "法師"
 #. event 01 (use (talk))
 msgctxt "ask 041D"
 msgid "Tell me of the Enclave and Morgaelin. "
-msgstr "說說巫師聚落和摩蓋林。"
+msgstr "說說巫師的領地和摩蓋林。"
 
 # P13 batch 5
 #. event 01 (use (talk))
@@ -153,7 +153,7 @@ msgstr "還有什麼想談的嗎？"
 #. event 01 (use (talk)), after "Tell me of the Enclave and Morgaelin. "
 msgctxt "bark 041D:0B47"
 msgid "The Sorcerer's Enclave sits in the arms of Daemon's Crag, over-topped by Mount Morgaelin. The volcano is the namesake of the island. "
-msgstr "巫師聚落坐落在惡魔崖的懷抱中，上方聳立著摩蓋林山。這座島就是以這座火山命名的。"
+msgstr "巫師的領地坐落在惡魔崖的懷抱中，上方聳立著摩蓋林山。這座島就是以這座火山命名的。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Tell me of the Enclave and Morgaelin. "

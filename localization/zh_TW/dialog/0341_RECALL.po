@@ -32,7 +32,7 @@ msgstr "泰納布利中區"
 #. event 01 (use (talk))
 msgctxt "ask 0341"
 msgid "Plateau "
-msgstr "高原"
+msgstr "高地"
 
 # P13 batch 6
 #. event 01 (use (talk))
@@ -44,7 +44,7 @@ msgstr "上層地下墓穴"
 #. event 01 (use (talk))
 msgctxt "ask 0341"
 msgid "Hall of the Mountain King "
-msgstr "山之王大廳"
+msgstr "山岳之王的大廳"
 
 # P13 batch 6
 #. event 01 (use (talk))

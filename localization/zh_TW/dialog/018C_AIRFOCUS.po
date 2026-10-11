@@ -68,43 +68,43 @@ msgstr "占卜術法器"
 #. event 00 (look)
 msgctxt "bark 018C:0287"
 msgid "Healing Touch focus "
-msgstr "治癒之觸法器"
+msgstr "醫療之觸法器"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 018C:02C1"
 msgid "Aerial Servant focus "
-msgstr "風之僕役法器"
+msgstr "風之侍僕法器"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 018C:02F8"
 msgid "Restoration focus "
-msgstr "復原術法器"
+msgstr "回復術法器"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 018C:0333"
 msgid "Fade From Sight focus "
-msgstr "隱匿行蹤法器"
+msgstr "隱形術法器"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 018C:0367"
 msgid "Air Walk focus "
-msgstr "輕風漫步法器"
+msgstr "舞空術法器"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 018C:039D"
 msgid "Hear Truth focus "
-msgstr "聆聽真言法器"
+msgstr "實話術法器"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 018C:03D5"
 msgid "Intervention focus "
-msgstr "庇佑之光法器"
+msgstr "干涉術法器"
 
 # P13 batch 6
 #. event 00 (look)
@@ -116,4 +116,4 @@ msgstr "睜眼法器"
 #. event 00 (look)
 msgctxt "bark 018C:043B"
 msgid "Reveal focus "
-msgstr "現形術法器"
+msgstr "顯明術法器"

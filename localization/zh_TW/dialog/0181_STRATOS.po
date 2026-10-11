@@ -98,7 +98,7 @@ msgstr "我是暖日裡輕拂你臉頰的微風。我是推動浪濤的狂風。
 #. event 01 (use (talk)), after "Reward me? "
 msgctxt "bark 0181:09EF"
 msgid "Take this Focus, Adept. With it you will be able to cast the Air Walk spell at will. "
-msgstr "收下這個法器吧，行家法師。有了它，你就能隨心所欲地施展輕風漫步。"
+msgstr "收下這個法器吧，行家法師。有了它，你就能隨心所欲地施展舞空術。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Who are your children? "
@@ -152,7 +152,7 @@ msgstr "沒有狂風之息，很多人會死。很多人會為你追求力量付
 #. event 01 (use (talk)), after "bye "
 msgctxt "bark 0181:0FCD"
 msgid "Take this Focus, Adept. With it you will be able to cast the Air Walk spell at will. "
-msgstr "收下這個法器吧，行家法師。有了它，你就能隨心所欲地施展輕風漫步。"
+msgstr "收下這個法器吧，行家法師。有了它，你就能隨心所欲地施展舞空術。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "bye "

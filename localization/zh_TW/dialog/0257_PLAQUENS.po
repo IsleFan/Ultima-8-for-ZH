@@ -270,13 +270,13 @@ msgstr "學徒 戈格隆德"
 #. event 01 (use (talk))
 msgctxt "plaque 0257:0AA7"
 msgid "FLAM POR*FLASH "
-msgstr "Flam Por：閃光術"
+msgstr "Flam Por：飛遁術"
 
 # P13 batch 7
 #. event 01 (use (talk))
 msgctxt "plaque 0257:0AE0"
 msgid "AN FLAM*EXTINGUISH "
-msgstr "An Flam：熄火術"
+msgstr "An Flam：熄滅術"
 
 # P13 batch 7
 #. event 01 (use (talk))
@@ -288,7 +288,7 @@ msgstr "Sanct Flam：耐熱術"
 #. event 01 (use (talk))
 msgctxt "plaque 0257:0B62"
 msgid "VAS SANCT FLAM*ARMOR OF FLAMES "
-msgstr "Vas Sanct Flam：烈焰護甲"
+msgstr "Vas Sanct Flam：火焰之甲"
 
 # P13 batch 7
 #. event 01 (use (talk))

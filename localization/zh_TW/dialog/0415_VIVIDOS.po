@@ -14,7 +14,7 @@ msgstr ""
 #. event 11 (leaveFastArea)
 msgctxt "bark 0415:0171"
 msgid "Mountain King, I call Your name. Save me from this interloper! "
-msgstr "山之王，我呼喚祢的名。救我脫離這個闖入者！"
+msgstr "山岳之王，我呼喚祢的名。救我脫離這個闖入者！"
 
 # P13 batch 3
 #. event 11 (leaveFastArea)
@@ -26,7 +26,7 @@ msgstr "謝謝你，朋友。你今天立了大功，而且來得正是時候。
 #. event 11 (leaveFastArea)
 msgctxt "bark 0415:04D3"
 msgid "All of my life I have prepared for this, Vividos. I beg you now, send me to the Mountain King. "
-msgstr "我這一生都在為此做準備，維菲多斯。我求你，現在就送我到山之王那裡去。"
+msgstr "我這一生都在為此做準備，維菲多斯。我求你，現在就送我到山岳之王那裡去。"
 
 # P13 batch 3
 #. event 11 (leaveFastArea)
@@ -44,13 +44,13 @@ msgstr "請在往生祭壇前跪下。"
 #. event 11 (leaveFastArea)
 msgctxt "bark 0415:070B"
 msgid "Lord Lithos, Mountain King, eldest and mightiest of the four Titans, we come forth to send your faithful servant Lothian into your waiting arms. Tell us now, Lord of the Underworld, does this, our sacrifice please you? "
-msgstr "里索斯大人，山之王，四位泰坦中最年長、最強大者，我們前來將祢忠實的僕人洛西恩送入祢等待的懷抱。冥界之主啊，請告訴我們，我們的這份獻祭可令祢滿意？"
+msgstr "里索斯大人，山岳之王，四位泰坦中最年長、最強大者，我們前來將祢忠實的僕人洛西恩送入祢等待的懷抱。冥界之主啊，請告訴我們，我們的這份獻祭可令祢滿意？"
 
 # P13 batch 3
 #. event 11 (leaveFastArea)
 msgctxt "bark 0415:078B"
 msgid "Yes, Lord! Take me! I am ready to greet you, Mountain King! "
-msgstr "是的，大人！帶走我吧！我已準備好迎接祢，山之王！"
+msgstr "是的，大人！帶走我吧！我已準備好迎接祢，山岳之王！"
 
 # P13 batch 3
 #. event 11 (leaveFastArea)
@@ -92,7 +92,7 @@ msgstr "甜美的匕首，我就是你的劍鞘。現在就刺入我吧，可愛
 #. event 11 (leaveFastArea)
 msgctxt "bark 0415:0BBE"
 msgid "Go you now to the Mountain King! From life to death. From death to Lithos! "
-msgstr "現在就去山之王那裡吧！從生到死，從死到里索斯！"
+msgstr "現在就去山岳之王那裡吧！從生到死，從死到里索斯！"
 
 # P13 batch 3
 #. event 11 (leaveFastArea)
@@ -104,7 +104,7 @@ msgstr "Ex Ort Corp. Ort Des Lithos！"
 #. event 11 (leaveFastArea)
 msgctxt "bark 0415:0E3F"
 msgid "Now shall we bow in reverence of deeds here done, and to the awesome might of the Mountain King. "
-msgstr "現在，讓我們為此地所完成之事，也為山之王無比的威能，虔敬地鞠躬。"
+msgstr "現在，讓我們為此地所完成之事，也為山岳之王無比的威能，虔敬地鞠躬。"
 
 # P13 batch 3
 #. event 11 (leaveFastArea)
@@ -260,7 +260,7 @@ msgstr "噢，真想與里索斯同在。"
 #. event 10 (enterFastArea)
 msgctxt "bark 0415:1D69"
 msgid "Powerful indeed is the Mountain King. "
-msgstr "山之王真是強大。"
+msgstr "山岳之王真是強大。"
 
 # P13 batch 3
 #. event 10 (enterFastArea)
@@ -308,7 +308,7 @@ msgstr "啊，一位陌生人。你是來陵墓學習的嗎？"
 #. event 01 (use (talk))
 msgctxt "bark 0415:21CD"
 msgid "YOU!! You stole the Heart of Earth! You betrayed the Mountain King and now he has forsaken us!! He tears the land apart. He has sent his army of the dead to walk above the ground and it is all because of you!! Give the Heart of Earth back now and he may spare us. If not, all is lost. Go!! Get away from here and return to the Mountain King what is His!!! "
-msgstr "是你！！你偷走了大地之心！你背叛了山之王，現在祂拋棄了我們！！祂把大地撕裂，派出祂的亡者大軍在地面上行走，這全都是因為你！！現在就把大地之心還回來，祂也許會饒過我們。不然一切都完了。走！！離開這裡，把屬於山之王的東西還給祂！！！"
+msgstr "是你！！你偷走了大地之心！你背叛了山岳之王，現在祂拋棄了我們！！祂把大地撕裂，派出祂的亡者大軍在地面上行走，這全都是因為你！！現在就把大地之心還回來，祂也許會饒過我們。不然一切都完了。走！！離開這裡，把屬於山岳之王的東西還給祂！！！"
 
 # P13 batch 3
 #. event 01 (use (talk))
@@ -405,7 +405,7 @@ msgstr "什麼奧祕？"
 #. event 01 (use (talk)), after "What do you mean by interred? "
 msgctxt "bark 0415:2616"
 msgid "Buried, then given over to Lithos, the Mountain King. Long has it been since Moriens joined Lithos. "
-msgstr "就是埋葬，然後交給山之王里索斯。莫里恩斯與里索斯同在，已經很久很久了。"
+msgstr "就是埋葬，然後交給山岳之王里索斯。莫里恩斯與里索斯同在，已經很久很久了。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "What do you mean by interred? "
@@ -423,7 +423,7 @@ msgstr "里索斯是誰？"
 #. event 01 (use (talk)), after "Who is Lithos? "
 msgctxt "bark 0415:2757"
 msgid "What a jest you play, my friend! As if any one could not know of the Mountain King. How could a person live and not know of the Earth Titan? You have a sharp wit, friend. "
-msgstr "你真會開玩笑，朋友！好像真有人不知道山之王似的。一個人活在世上，怎麼可能不知道大地泰坦呢？你真是機智，朋友。"
+msgstr "你真會開玩笑，朋友！好像真有人不知道山岳之王似的。一個人活在世上，怎麼可能不知道大地泰坦呢？你真是機智，朋友。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "How long has it been? "
@@ -627,7 +627,7 @@ msgstr "人們的敬重減少了？"
 #. event 01 (use (talk)), after "People feared you? "
 msgctxt "bark 0415:374C"
 msgid "It is only natural that people fear forces that they do not understand. Of course they have never had a reason to fear us. Those of our order have always been benevolent, unlike the followers of Pyros or the Lurker. "
-msgstr "人們畏懼自己不了解的力量，這是很自然的。當然，他們從來沒有理由畏懼我們。我們教團的人一向心懷善意，不像派羅斯或潛伏者的追隨者。"
+msgstr "人們畏懼自己不了解的力量，這是很自然的。當然，他們從來沒有理由畏懼我們。我們教團的人一向心懷善意，不像派羅斯或潛藏者的追隨者。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "People feared you? "
@@ -639,7 +639,7 @@ msgstr "派羅斯？"
 #. event 01 (use (talk)), after "People feared you? "
 msgctxt "ask 0415"
 msgid "The Lurker? "
-msgstr "潛伏者？"
+msgstr "潛藏者？"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Pyros? "
@@ -669,7 +669,7 @@ msgstr "海洋泰坦。願她和她所有的追隨者都受詛咒。那就是莫
 #. event 01 (use (talk)), after "Your order is a great power? "
 msgctxt "bark 0415:3AC7"
 msgid "What greater power could there be than the power of the land itself? We who follow the Mountain King are peaceful, but when we are pressed we can wield our power well. "
-msgstr "還有什麼力量比大地本身的力量更強大呢？我們這些追隨山之王的人愛好和平，但被逼急了，我們也能好好運用我們的力量。"
+msgstr "還有什麼力量比大地本身的力量更強大呢？我們這些追隨山岳之王的人愛好和平，但被逼急了，我們也能好好運用我們的力量。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Your order is a great power? "
@@ -717,7 +717,7 @@ msgstr "想想看，要是兩股泰坦之力纏鬥在一起，會造成多大的
 #. event 01 (use (talk)), after "Why is this dagger special? "
 msgctxt "bark 0415:3F67"
 msgid "It was given to Moriens by the Mountain King Himself. We can not perform our ceremonies with any other dagger. "
-msgstr "它是山之王親手賜給莫里恩斯的。我們不能用其他匕首舉行儀式。"
+msgstr "它是山岳之王親手賜給莫里恩斯的。我們不能用其他匕首舉行儀式。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Power mad? "
@@ -765,7 +765,7 @@ msgstr "什麼樣的危險？"
 #. event 01 (use (talk)), after "What kind of danger? "
 msgctxt "bark 0415:4371"
 msgid "I truly can not tell you. The Mountain King's temper is, well, titanic. He may rip the land apart should we anger him. "
-msgstr "我真的不能告訴你。山之王的脾氣，嗯，可以說是泰坦級的。要是我們激怒了祂，祂可能會把大地撕裂。"
+msgstr "我真的不能告訴你。山岳之王的脾氣，嗯，可以說是泰坦級的。要是我們激怒了祂，祂可能會把大地撕裂。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "What kind of danger? "
@@ -795,7 +795,7 @@ msgstr "什麼故事？"
 #. event 01 (use (talk)), after "What stories? "
 msgctxt "bark 0415:458C"
 msgid "In the days before Moriens agreed to serve the Mountain King, our lord did often rend the land as was His pleasure. "
-msgstr "在莫里恩斯同意侍奉山之王之前，我們的主常常隨心所欲地撕裂大地。"
+msgstr "在莫里恩斯同意侍奉山岳之王之前，我們的主常常隨心所欲地撕裂大地。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "What stories? "
@@ -885,7 +885,7 @@ msgstr "如果你把匕首帶來給我，我就安排你晉見降靈師。"
 #. event 01 (use (talk)), after "Mordea is dead. "
 msgctxt "bark 0415:4CE8"
 msgid "She is truly dead? Oh praise be to the Mountain King! Perhaps now we may get our dagger back and avert certain danger. "
-msgstr "她真的死了？噢，讚美山之王！也許現在我們能拿回匕首，避開那場必然的危險了。"
+msgstr "她真的死了？噢，讚美山岳之王！也許現在我們能拿回匕首，避開那場必然的危險了。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Mordea is dead. "
@@ -903,7 +903,7 @@ msgstr "你們也許能拿回匕首。"
 #. event 01 (use (talk)), after "What kind of dagger? "
 msgctxt "bark 0415:4E13"
 msgid "It is a very special dagger. This dagger was given to us by the Mountain King so that we may perform a very special ceremony. Without the dagger, I can not perform the ceremony. "
-msgstr "那是一把非常特別的匕首。是山之王賜給我們的，讓我們能舉行一場非常特別的儀式。沒有那把匕首，我就無法舉行儀式。"
+msgstr "那是一把非常特別的匕首。是山岳之王賜給我們的，讓我們能舉行一場非常特別的儀式。沒有那把匕首，我就無法舉行儀式。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "You may get the dagger back. "
@@ -957,7 +957,7 @@ msgstr "噢。我本來還希望你替我拿回匕首了。要是不能盡快拿
 #. event 01 (use (talk)), after "What problem? "
 msgctxt "bark 0415:5476"
 msgid "Have you completely forgotten the discussion which we had when first we met? By the power of the Mountain King, man, how could you forget my plight when your own safety is at stake? Mordea has stolen our ceremonial dagger and you promised to retrieve it. "
-msgstr "你把我們初次見面時談的事全忘了嗎？以山之王的力量起誓，老兄，事關你自己的安危，你怎麼能忘了我的困境？莫迪雅偷走了我們的儀式匕首，而你答應過要把它拿回來。"
+msgstr "你把我們初次見面時談的事全忘了嗎？以山岳之王的力量起誓，老兄，事關你自己的安危，你怎麼能忘了我的困境？莫迪雅偷走了我們的儀式匕首，而你答應過要把它拿回來。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "What problem? "
@@ -1029,7 +1029,7 @@ msgstr "是的，她快死了！你上次來時我就告訴過你了。"
 #. event 01 (use (talk)), after "Tell me of Lithos. "
 msgctxt "bark 0415:5CB8"
 msgid "I am sorry friend, but I do not have time to tell you anything of the Mountain King that you can not already know. After you have retrieved the dagger for me, I will tell you in great length of our lord, the Earth Titan. "
-msgstr "抱歉，朋友，關於山之王，你不可能不知道的事，我現在沒時間跟你說。等你替我拿回匕首後，我會好好跟你詳談我們的主——大地泰坦。"
+msgstr "抱歉，朋友，關於山岳之王，你不可能不知道的事，我現在沒時間跟你說。等你替我拿回匕首後，我會好好跟你詳談我們的主——大地泰坦。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of Lithos. "
@@ -1065,7 +1065,7 @@ msgstr "我把材料帶來了，降靈師。"
 #. event 01 (use (talk)), after "Tell me of Lithos. "
 msgctxt "ask 0415"
 msgid "I have met the Mountain King. "
-msgstr "我見到山之王了。"
+msgstr "我見到山岳之王了。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of Lithos. "
@@ -1161,7 +1161,7 @@ msgstr "你也會一樣？"
 #. event 01 (use (talk)), after "Why were you the only apprentice? "
 msgctxt "bark 0415:6612"
 msgid "It is as I have said: many people fear us, and many more can not live so demanding and structured life as is necessary of one who serves the Mountain King. "
-msgstr "就像我說的：很多人畏懼我們，而更多人過不了侍奉山之王所必需的那種嚴苛又規矩的生活。"
+msgstr "就像我說的：很多人畏懼我們，而更多人過不了侍奉山岳之王所必需的那種嚴苛又規矩的生活。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Why were you the only apprentice? "
@@ -1341,7 +1341,7 @@ msgstr "是的，當然，我的學生。把我所知道的一切教給你，是
 #. event 01 (use (talk)), after "What reagents do you need? "
 msgctxt "bark 0415:79C6"
 msgid "I need for you to bring me a sample of Executioner's Hood from a place of danger and fallen sticks from a place where spirits roam. "
-msgstr "我需要你從危險之地帶一株劊子手兜帽草回來，再從幽魂遊蕩之地帶些掉落的樹枝回來。"
+msgstr "我需要你從危險之地帶一株劊子手的頭巾回來，再從幽魂遊蕩之地帶些掉落的樹枝回來。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "What reagents do you need? "
@@ -1353,7 +1353,7 @@ msgstr "這些東西有「魔力」？"
 #. event 01 (use (talk)), after "What reagents do you need? "
 msgctxt "ask 0415"
 msgid "What does Executioner's Hood look like? "
-msgstr "劊子手兜帽草長什麼樣子？"
+msgstr "劊子手的頭巾長什麼樣子？"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "What reagents do you need? "
@@ -1383,7 +1383,7 @@ msgstr "那是一種黑色、葉子茂密的植物，就長在附近，介於墓
 #. event 01 (use (talk)), after "The same will happen to you? "
 msgctxt "bark 0415:7EE5"
 msgid "Of course. When my time comes to be sent to meet the Mountain King, my first apprentice will perform the Ceremony of Eternity and prepare me for my journey. It is the way of the Necromancer. "
-msgstr "當然。等我被送去晉見山之王的時候到了，我的第一個學徒就會舉行永恆儀式，為我的旅程做好準備。這就是降靈師之道。"
+msgstr "當然。等我被送去晉見山岳之王的時候到了，我的第一個學徒就會舉行永恆儀式，為我的旅程做好準備。這就是降靈師之道。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "I have brought you the reagents, Necromancer. "
@@ -1455,7 +1455,7 @@ msgstr "我可以，而且往後幾年我會教你。不過，第一階的法術
 #. event 01 (use (talk)), after "Where are the upper catacombs? "
 msgctxt "bark 0415:8951"
 msgid "You will find the entrance to the catacombs through the very rock itself. You will need the Open Earth spell, which you can find in the library, and the Key of the Caretaker. Go you then just north of here. There you will find a small hall. Cast the Open Earth spell upon the rock face and you shall gain entrance to the the catacombs. "
-msgstr "地下墓穴的入口就在岩石本身裡面。你需要裂地術——你可以在圖書館找到它——還有看守人之鑰。從這裡往北走，你會找到一個小廳堂。對岩壁施展裂地術，你就能進入地下墓穴了。"
+msgstr "地下墓穴的入口就在岩石本身裡面。你需要開啟土地——你可以在圖書館找到它——還有看守人之鑰。從這裡往北走，你會找到一個小廳堂。對岩壁施展開啟土地，你就能進入地下墓穴了。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Where are the upper catacombs? "
@@ -1485,7 +1485,7 @@ msgstr "另一道什麼法術？"
 #. event 01 (use (talk)), after "What other spell? "
 msgctxt "bark 0415:8BFB"
 msgid "As the Necromancers are, to be certain, dead, you must cast Death Speak upon their sacred corpses. Only then shall you hear the voices of wisdom from their lifeless mouths. This spell you shall also find in the library. "
-msgstr "既然那些降靈師當然都已經死了，你必須對他們神聖的遺體施展與亡者交談。唯有如此，你才能從他們毫無生氣的口中聽到智慧之聲。這道法術你也能在圖書館找到。"
+msgstr "既然那些降靈師當然都已經死了，你必須對他們神聖的遺體施展死者對談。唯有如此，你才能從他們毫無生氣的口中聽到智慧之聲。這道法術你也能在圖書館找到。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "What is there that will help me? "
@@ -1515,7 +1515,7 @@ msgstr "你有東西要給我？"
 #. event 01 (use (talk)), after "The journey was difficult. "
 msgctxt "bark 0415:8F45"
 msgid "Yes, I remember when I met the Mountain King. I too found the journey most difficult. Yet, all has been worth the effort. "
-msgstr "是啊，我還記得我晉見山之王的時候。我也覺得那趟旅程非常艱辛。不過，一切都很值得。"
+msgstr "是啊，我還記得我晉見山岳之王的時候。我也覺得那趟旅程非常艱辛。不過，一切都很值得。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "You have something for me? "
@@ -1539,7 +1539,7 @@ msgstr "不，祂沒說。"
 #. event 01 (use (talk)), after "No, he didn't. "
 msgctxt "bark 0415:919F"
 msgid "He did not? I do not believe you. The Mountain King instructed me to ask you if He had told you what you must do. He told me He instructed you to inter Lothian. If you did not perform this task, you were to be expelled from His order. Now you lie to me. Therefore, you must go from here. Never return here again. "
-msgstr "祂沒說？我不相信你。山之王吩咐我問你，祂有沒有告訴你必須做什麼。祂告訴我，祂已經吩咐你去安葬洛西恩。如果你不完成這項任務，就要被逐出祂的教團。現在你竟然對我說謊。所以，你必須離開這裡，永遠別再回來。"
+msgstr "祂沒說？我不相信你。山岳之王吩咐我問你，祂有沒有告訴你必須做什麼。祂告訴我，祂已經吩咐你去安葬洛西恩。如果你不完成這項任務，就要被逐出祂的教團。現在你竟然對我說謊。所以，你必須離開這裡，永遠別再回來。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Yes, he did. "
@@ -1587,7 +1587,7 @@ msgstr "洛西恩在哪裡？"
 #. event 01 (use (talk)), after "Where is Lothian? "
 msgctxt "bark 0415:950C"
 msgid "You will find her outside of the tomb, near the Northeast corner of the building. There her body awaits you to send it to the Mountain King. "
-msgstr "她在陵墓外面，靠近建築的東北角。她的遺體就在那裡，等著你把它送到山之王那裡去。"
+msgstr "她在陵墓外面，靠近建築的東北角。她的遺體就在那裡，等著你把它送到山岳之王那裡去。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Another key? "

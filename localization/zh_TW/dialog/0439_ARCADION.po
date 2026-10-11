@@ -452,7 +452,7 @@ msgstr "不算是。我只是一項考驗。你看四處散落的骨頭就知道
 #. event 01 (use (talk)), after "How was it created? "
 msgctxt "bark 0439:1F9B"
 msgid "The first Sorcerers were revered by the people, but not so later generations. Eventually, fear and mistrust arose on both sides. The Master Sorcerer called upon the might of the Pyros who reluctantly came to his aid. The Lord of Flame in turn called upon his comrade, Lithos, and together they thrust the living rock up through a lake of lava that had formed in Daemon's Crag. Pyros then poured forth the excess lava into a river that blocked the path to the Sorcerer's Enclave. The cavern through which it flows, aptly called the Mouth of the Daemon, is the first obstacle for those who would disturb the mages of Sorcerer's Enclave."
-msgstr "最早的巫師受到人民崇敬，後來的幾代卻不然。最後，雙方都生出了恐懼與猜疑。大巫師召喚派羅斯的力量，派羅斯勉強前來相助。烈焰之主接著召喚他的同伴里索斯，兩者合力讓活岩從惡魔崖中形成的熔岩湖裡拔地而起。接著，派羅斯把多餘的熔岩傾瀉成一條河，擋住了通往巫師聚落的路。熔岩流經的洞穴被恰如其分地稱為惡魔之口，是想要打擾巫師聚落法師們的人所面臨的第一道障礙。"
+msgstr "最早的巫師受到人民崇敬，後來的幾代卻不然。最後，雙方都生出了恐懼與猜疑。大巫師召喚派羅斯的力量，派羅斯勉強前來相助。烈焰之主接著召喚他的同伴里索斯，兩者合力讓活岩從惡魔崖中形成的熔岩湖裡拔地而起。接著，派羅斯把多餘的熔岩傾瀉成一條河，擋住了通往巫師的領地的路。熔岩流經的洞穴被恰如其分地稱為惡魔之口，是想要打擾巫師的領地法師們的人所面臨的第一道障礙。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "What are the Trials? "
