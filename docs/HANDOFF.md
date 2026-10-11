@@ -1,6 +1,6 @@
 # Handoff — Ultima VIII 繁體中文化專案
 
-**更新日期：** 2026-10-11（**v1.0.0**：Windows 版與 macOS 版 arm64 / x86_64；macOS 由 GitHub Actions 建置；P17 自動走近使用 PASS；P16、P15 PASS）
+**更新日期：** 2026-10-11（**v1.0.1**：自動走近使用修正、玩家版主控台說明；**v1.0.0**：Windows 版與 macOS 版 arm64 / x86_64；macOS 由 GitHub Actions 建置；P17 自動走近使用 PASS；P16、P15 PASS）
 **目前進度：** Phase 0–13 ✅ PASS（P13 報告 `docs/reports/P13-full-translation.md`），Phase 14（打包）✅ PASS（報告 `docs/reports/P14-packaging.md`，產生方式見 §8 末）。**P15 高解析文字層 ✅ PASS**（報告 `docs/reports/P15-hd-text-layer.md`，見 §8 末）。其他待使用者決定：Release 呈現方式（使用者想參考「叛變克朗多」專案的 `dist/release_v100_zh`）、Mac 版（GitHub Actions）、P15 高解析文字層（Master Plan §34、§48）。舊摘要：Phase 0–12 ✅ PASS（**核心 localization 架構已證明**，P7）。**Phase 13（正式翻譯）進行中**：第一批（開場 → 碼頭處決 → 城內衛兵）已完成並經使用者試玩確認。下一步見 §8。
 
 給接手的 Agent：請先完整閱讀本文件，再讀 [Master Plan](../ULTIMA8_CHINESE_LOCALIZATION_MASTER_PLAN.md)（目前 v2.9，開頭有修訂紀錄，§18.1 有進度表，§49 是待辦總表）。翻譯檔的格式與流程見 [localization/README.md](../localization/README.md)。
@@ -294,7 +294,7 @@ python tools/catalog/progress.py zh_TW               # 更新 README / README_EN
 - 使用者決定：Windows 免安裝包、全專案 GPL-3.0（根目錄 `LICENSE`）、ScummVM 遊戲選項勾選框 `localization_zh_tw` / `localization_annotate`（預設開啟；未設定任何語言鍵時也預設 zh_TW）。
 - 產生：`tools\build\build_release.bat`（Release x64）→ `tools\package\make_package.ps1 [-Version 0.9.0-beta] [-Test]` → `dist\Ultima8-zhTW-<版本>\` 與 zip。玩家文件原稿在 `package/`。
 - 套件只附 Cubic 11；使用者自用的細明體（`chinese.ttf`）不可散布。
-- 2026-10-10：套件另附 jf open 粉圓（高解析用）。可攜設定改由 `package/scummvm.ini` 複製（UTF-8、每個設定一行中文 `#` 註解；ScummVM 改寫時保留註解但重排順序，所以註解要自成一句，可選設定列在 `[scummvm]` 之前的區段說明）。玩家設定說明 `package/SETTINGS.zh-TW.md`。最新包：**v1.0.1**（2026-10-11，Windows 版在 `dist/`；自動走近使用修正、玩家版主控台說明 `package/CONSOLE.zh-TW.md`、音樂音源說明。macOS 版仍是 v1.0.0，要先 push 引擎分支再跑 Actions）。
+- 2026-10-10：套件另附 jf open 粉圓（高解析用）。可攜設定改由 `package/scummvm.ini` 複製（UTF-8、每個設定一行中文 `#` 註解；ScummVM 改寫時保留註解但重排順序，所以註解要自成一句，可選設定列在 `[scummvm]` 之前的區段說明）。玩家設定說明 `package/SETTINGS.zh-TW.md`。最新包：**v1.0.1**（2026-10-11，Windows 版在 `dist/`；自動走近使用修正、玩家版主控台說明 `package/CONSOLE.zh-TW.md`、音樂音源說明。macOS 兩包由 Actions run 38117541510 建置；三包都在 `dist/`。README 已改為正式版、下載指向 GitHub Releases，Release 尚未建立）。
 - 使用者已驗收（2026-10-09：運作良好，中文顯示正常）。待決定：發布管道（GitHub Releases 等，需使用者同意才上傳）。
 
 ### P15 高解析文字層（2026-10-10 PASS）
