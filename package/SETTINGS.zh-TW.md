@@ -130,7 +130,48 @@ font_cjk_grave_size=24
 
 切換類的功能開啟時，圖示底色會變紅。功能和 ScummVM 主控台的 `Cheat::` 指令相同。取消勾選「Enable cheats」，圖示組就會消失。
 
-## 九、常見的調整範例
+## 九、音樂音源
+
+Ultima VIII 的音樂是 MIDI，可以選擇用哪一種音源播放。語音與音效是錄好的聲音，不受影響。
+
+| 音源 | 需要準備 | 說明 |
+|---|---|---|
+| General MIDI（預設） | 不用 | 原版音樂是為 General MIDI 寫的。Windows 用內建的「Microsoft GS Wavetable Synth」，macOS 用系統內建的音源 |
+| FluidSynth | SoundFont（`.sf2`） | 也是 General MIDI，但用你選的 SoundFont 播放，音色依 SoundFont 而定。網路上有許多免費的 SoundFont，例如 GeneralUser GS |
+| AdLib | 不用 | 模擬早年 Sound Blaster 音效卡的 FM 合成音色，使用遊戲本身的 FM 音色資料，是 DOS 時代的原味 |
+| Roland MT-32 | MT-32 的 ROM | 模擬 Roland MT-32 音源器。遊戲沒有為 MT-32 另做音樂，是把 General MIDI 的音樂轉到 MT-32 上播放 |
+
+### 在介面設定
+
+在 ScummVM 選取遊戲，按「Game Options…」（遊戲選項）：
+
+1. 「Audio」分頁：勾選「Override global audio settings」，在「Preferred device」選擇音源（`Windows MIDI`、`FluidSynth`、`AdLib emulator`、`MT-32 emulator` 等）。
+2. 用 FluidSynth 時：「MIDI」分頁勾選「Override global MIDI settings」，在「SoundFont」選擇 `.sf2` 檔。
+
+### 在 `scummvm.ini` 設定
+
+寫在 `[ultima8]` 區段：
+
+```ini
+# 音源：auto（自動，預設）、windows、fluidsynth、adlib、mt32；macOS 內建音源為 core
+music_driver=fluidsynth
+# FluidSynth 用的 SoundFont（完整路徑）
+soundfont=D:\SoundFonts\GeneralUser GS.sf2
+```
+
+### Roland MT-32 的 ROM
+
+MT-32 模擬器需要原機的 ROM。ROM 有版權，**本包與 ScummVM 都不附**，請使用你自己合法取得的檔案：
+
+- `MT32_CONTROL.ROM` 和 `MT32_PCM.ROM`（MT-32），或
+- `CM32L_CONTROL.ROM` 和 `CM32L_PCM.ROM`（CM-32L，有的話會優先使用）
+
+檔名須完全相同。把這兩個檔案放進本包的 **`extra` 資料夾**（和字型、翻譯檔同一處），再把音源設成 `MT-32 emulator`（或 `music_driver=mt32`）即可。macOS 版放進 `ScummVM.app/Contents/Resources/`（和換字型的位置相同）。
+
+- 選了 FluidSynth 卻沒有指定 SoundFont 時，遊戲可能停在啟動畫面；請先指定 SoundFont，或改回其他音源。
+- 選了 MT-32 卻找不到 ROM 時，ScummVM 會顯示錯誤訊息，請檢查檔名與位置。
+
+## 十、常見的調整範例
 
 **字大一點，每頁仍是 4 行**（台詞框會跟著變高）：
 
@@ -155,6 +196,6 @@ font_cjk_hd_file=你的字型.ttf
 
 **想要原作風格的點陣字**：關閉遊戲選項「高解析中文字」，就會使用第三節的 Cubic 11 點陣字型。
 
-## 十、還原預設
+## 十一、還原預設
 
 刪除你改過或加上的那一行，該設定就會回到預設值。想全部還原，可以從原本的壓縮檔取出 `scummvm.ini` 覆蓋；不過這也會清掉 ScummVM 記錄的遊戲清單，需要重新「Add Game…」（新增遊戲）。存檔不受影響。
