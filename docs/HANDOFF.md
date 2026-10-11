@@ -152,6 +152,8 @@ wsl -d Ubuntu -- bash "/mnt/d/git/Ultima 8 for ZH/tools/build/wsl_unit_tests.sh"
 
 ### 主控台指令（遊戲中 `Ctrl+Alt+D`）
 
+全部 85 個指令的中文對照表（用途、參數、快捷鍵）：[console-commands.md](console-commands.md)。下面是本專案常用的。
+
 | 指令 | 用途 |
 |---|---|
 | `Localization::info` | 翻譯狀態（語言、翻譯檔、條目數、字型） |
