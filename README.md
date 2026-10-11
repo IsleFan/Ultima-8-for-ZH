@@ -2,9 +2,9 @@
 
 [English](README_EN.md)
 
-讓《創世紀 VIII：異教徒》（Ultima VIII: Pagan）以**正體中文**遊玩的同好專案。以 [ScummVM](https://www.scummvm.org/) 的 Ultima 8 引擎為基礎，在不修改原始遊戲資料的前提下，把對話、選項、書籍、捲軸、墓碑與介面顯示成中文。
+讓《創世紀 VIII：佩根》（Ultima VIII: Pagan）以**正體中文**遊玩的同好專案。以 [ScummVM](https://www.scummvm.org/) 的 Ultima 8 引擎為基礎，在不修改原始遊戲資料的前提下，把對話、選項、書籍、捲軸、墓碑與介面顯示成中文。
 
-> **目前狀態：開發中，尚無可下載的版本。** 技術架構已經完成並經過遊戲內驗證（Phase 0–12），正在進行正式翻譯。
+> **目前狀態：v1.0.1 正式版。** 全遊戲翻譯完成（99.8%），提供 Windows 與 macOS（Apple Silicon、Intel）的免安裝版本，見[下載與安裝](#下載與安裝)。
 
 ## 特色
 
@@ -16,7 +16,10 @@
 - **語音與字幕**：有語音的角色播放英文原音，配上中文字幕，翻頁與語音同步。
 - **中文字型**：[Cubic 11（俐方體 11 號）](https://github.com/ACh-K/Cubic-11)點陣字型（SIL OFL 1.1），風格貼近原作；支援中文換行與標點禁則。
 - **高解析中文字**：遊戲畫面維持原版的 320×200，中文則以視窗解析度、[jf open 粉圓](https://justfont.com/huninn/)字型繪製，清晰易讀；屬性頁也因此能顯示中文（預設開啟，可在遊戲選項關閉）。
+- **墓碑牌匾全中文**：墓碑、牌匾與死亡畫面直接刻上中文（[王漢宗魏碑體](https://code.google.com/archive/p/wangfonts/)，加上雕刻陰影）；也可以改回英文雕刻加中文字幕。
 - **快捷圖示列**：滑鼠移到右下角就會出現（仿 Exult），可直接開背包、屬性頁、地圖、選單，存讀檔、切換戰鬥模式、使用鑰匙圈與召回石。
+- **自動走近使用**：雙擊太遠的門、箱子、書等物品時，聖者會自己走過去再使用。
+- **細部設定**：字型、字級、字距、行距、台詞框大小、音樂音源（General MIDI、AdLib、Roland MT-32）都可以調整，每個設定都有中文說明。
 - **安全退回**：找不到譯文、翻譯檔損壞或缺字型時，一律顯示英文原文，不會出現亂碼或當機。
 
 ## 翻譯進度
@@ -38,7 +41,26 @@
 已完成的角色與場景：Abacus、Agware、Airfocus、Altar、Altar_ew、Amostat、Anctones、Anvil、Aorta、Apastat、Appear、阿拉米娜、阿卡迪昂、Armguard、Armor、Axe、Axe2、Axeblade、Backpack、Bag、貝恩、Bane2、Barentry、Barrel、Basebook、Basescrl、Basket、Bathstuf、Bellows、Benchew、班提克、貝倫、Berenhch、Bgate、Bigdemst、Bigugly、Bladstrk、Blankets、Boat、Bones、Bones2、Bones3、Bones4、Book1、Bookbloo、Bookmark、Bottle、Branches、Bribook、Bribook2、Bribook3、Bribook4、Bribook5、Bribook6、Brock、Brokchar、Broken、Brokstf1、Bug、Burndout、Calguard、Campfire、Candlbra、Candle、Canopy、Canopyew、Canopytp、Cauldron、Chair、Chest_ew、Chest_ns、Child、Chimney、Chopblk、Cloth、Clothes、Clothing、Codew、Codns、黑曜石幣、柯林斯、Cuffs、Cup、Cusion、席勒斯、Daemscen、Daemspel、Dagger、Dagger2、Dart、Dartbord、Deadcloz、Deadew、Deadns、Deathdis、Deceiver、Demnstat、Demon、Deskew、Deskns、Deskpict、戴文、Door_ns、Dtable、Dummy、Earthmag、Ebrock、Endgate、Endgate2、Endhydro、Endlamp、Endlith、Endskul、Endstrat、Erthitem、Erthreag、Erthspel、Ethereag、Evilsorc、Ewbpaint、Ewcrops、Ewhollog、Ewlamptp、Ewshelf、Ewshfsid、Ewspaint、處決場景、Eye、Fallrock、Fan、Febarsew、Febarsns、Fenalia、Fgrenade、Fight、Firefeld、Fireglob、Fireitem、Firepit、Fireplac、Fireplew、Fireplns、Firereag、Fireshld、Fireshro、Firespel、Fireswmp、Firewood、Fish、Fish2、Fishbonz、Fishnet、Fishpole、Flamstng、Flask、Floatin、Flour、Food、Free、Ftableew、Ftablens、Gargoyle、Gateskul、Gemofpro、Ghost、Ghosthed、Ghoul、Girlsstu、Golem、戈格隆德、Graveii、Grave_ew、Grave_ns、Greentre、Grenade、Grimoire、城門衛兵、Guard10、Guard2、Guard3、Guard4、Guard5、Guard6、Guard7、Guard8、Guard9、Guardman、Guard_ew、威廉、Hammer、Hamostr、Hay、Helmet、Hourglas、海德羅斯、Intern、Ironman、Jbox、珍娜、Jewelry、Jug、Kegew、Kegns、Key、Keyonec、Keyring、奇蘭卓、Kingbdew、Kingbdns、Kith、Korgfang、科里克、Lamp1、Lamp2、Lamp3、Lamppost、Lava、Lavasink、Layghoul、Lchst_ew、Lchst_ns、Legging、Legs、Lever、利索斯、Litlmush、Logbook、Logbook2、Logbook3、Logbook4、Logo、Loom、Lothalt、Lothcorp、Lothlay、Mace、Mace2、Magarm、Magarmr2、Magarms、Maghelm、Maglegs、Magscrol、Magshld、馬爾奇爾、Marble、Melbook、Method、Mir、Monfast、莫爾迪亞、Mordeabe、Mordstat、Morebrok、Morefish、Morefood、Move、Mushcap、Mushgrup、Mushroom、米斯蘭、Nec1、Nitstand、Nsbpaint、Nscrops、Nshollog、Nslamptp、Nsrunwod、Nsshelf、Nsshfsid、Nsspaint、Nssticks、Oaktblew、Oaktblns、Odistat、Offsup、Opnbdrol、歐洛克、Oven、Pedestal、Pent、Pesant1、Pesant2、Pesant3、Plaqueew、Plaquens、Platefoo、Pole、Potion、Potplant、Potspans、Protectr、Pulchnew、Pulchnns、派羅斯、Rainbarl、Rat、Recall、芮安、Rope、Sabre、Salklog、Schair、Scimitar、Scimokg、Screamer、Scroll1、Scroll2、Sgargl、Sgbook、夏娜、Shchimne、Shield、Shortmsh、Silvore、Sinking、Skeleton、Skulcand、Skullhea、Skulz、Slayer、Smalmush、Sorcerer、Sorchat、Spelcmbt、Spider、Spiky、Spitter、Spout、Stalag、Statue、Statue1、Statuet、史泰洛斯、Stevbook、Stmite、Stovpipe、Strathat、史特拉托斯、Straw、Sword、Sword2、Tablware、Tallcand、Tankard、Tapestew、Tapestns、塔娜、Thurgist、Tomb、托蘭、Torax、Torch、Tortchar、Tortrack、托溫、Tossrock、Toys、Trap、Tree、Trialhat、Tring、Troll、Troodle、Troughew、Troughns、Trowel、Vanish、瓦爾迪恩、Vardion2、Vase、Vivalter、Vivdagr、維維多斯、Wallswit、Wardew、Wardns、Wbench、Well、Winchew、Winchns、Wool、Woundtor、Wtable、Wtableew、Wthrone、_
 <!-- progress:end -->
 
-翻譯順序依劇情進行：第一批是開場（戴文 → 泰尼伯瑞碼頭的處決）。人名、地名等譯名統一記錄在[權威檔](localization/zh_TW/authority.tsv)。
+全遊戲的對話、書籍與介面都已翻譯；未翻的少數條目是刻意保留的：作弊選單的密碼與座標資訊、數字選項 0–9 等。人名、地名等譯名統一記錄在[權威檔](localization/zh_TW/authority.tsv)。製作人員名單與開發者語錄維持英文，語音維持英文原音。
+
+## 下載與安裝
+
+到 [Releases](https://github.com/pmanyeh/Ultima-8-for-ZH/releases) 下載：
+
+| 檔案 | 適用 |
+|---|---|
+| `Ultima8-zhTW-<版本>.zip` | Windows（64 位元） |
+| `Ultima8-zhTW-<版本>-macOS-arm64.zip` | macOS，Apple Silicon（M 系列晶片） |
+| `Ultima8-zhTW-<版本>-macOS-x86_64.zip` | macOS，Intel |
+
+**需要你自己的正版 Ultima VIII 英文版遊戲資料**（例如 GOG 的 *Ultima 8 Gold Edition*）。本專案**不包含**任何遊戲資料、音樂、語音或存檔。
+
+壓縮檔內附 ScummVM（加入中文化功能的版本）、翻譯檔與字型，解壓即可使用，不需安裝。步驟與設定說明都在壓縮檔內：
+
+- [安裝說明（Windows）](package/INSTALL.zh-TW.md)、[安裝說明（macOS）](package/INSTALL-macOS.zh-TW.md)
+- [設定說明](package/SETTINGS.zh-TW.md)：字型、台詞框、音樂音源等
+- [主控台指令](package/CONSOLE.zh-TW.md)：傳送、作弊、播放動畫與音樂等進階功能
+- [更新紀錄](package/CHANGELOG.md)
 
 ## 運作方式
 
@@ -67,12 +89,14 @@
 | `tools/catalog/` | 合併、檢查、統計、編譯翻譯檔、翻譯批次工具 |
 | `tools/validate/`、`tools/automation/` | 字型覆蓋、存檔檢查、存讀檔矩陣、啟動回歸測試 |
 | `tools/diagnostics/` | Usecode 反組譯等研究工具 |
+| `tools/build/`、`tools/package/` | 建置引擎、打包 Windows 與 macOS 版 |
+| `package/` | 玩家文件（安裝、設定、主控台指令、更新紀錄）、字型、預設設定檔 |
+| `.github/workflows/` | macOS 版的自動建置（GitHub Actions） |
 | `docs/` | 計畫、架構決策（ADR）、各 Phase 報告 |
 
-## 你需要準備
+## 引擎原始碼
 
-- **合法的 Ultima VIII 遊戲資料**（例如 GOG 版 Ultima VIII Gold Edition，英文版）。本 repo **不包含**任何遊戲資料檔、音樂、語音或存檔。
-- 修改過的 ScummVM：引擎的修改在 [pmanyeh/scummvm 的 `ultima8-zh-tw-dev` 分支](https://github.com/pmanyeh/scummvm/tree/ultima8-zh-tw-dev)（GPL，原始碼公開）。目前需要自行建置；之後會提供建置好的專用版與安裝說明。
+引擎的修改在 [pmanyeh/scummvm 的 `ultima8-zh-tw-dev` 分支](https://github.com/pmanyeh/scummvm/tree/ultima8-zh-tw-dev)（GPL，原始碼公開）。想自行建置的話，Windows 用 `tools/build/build_release.bat` 與 `tools/package/make_package.ps1`，macOS 見 `.github/workflows/macos.yml`。
 
 ## 參與翻譯
 
@@ -87,7 +111,7 @@ python tools/catalog/progress.py zh_TW             # 更新本頁的翻譯進度
 ## 版權與授權
 
 - Ultima VIII: Pagan 及其文字的著作權屬於原權利人（Origin Systems / Electronic Arts）。翻譯檔中保留的英文原文，僅作為對照翻譯之用。
-- 中文字型 Cubic 11、jf open 粉圓採用 SIL Open Font License 1.1。
+- 中文字型 Cubic 11、jf open 粉圓採用 SIL Open Font License 1.1；王漢宗魏碑體採用 GPL-2.0。
 - 本專案（譯文、權威檔、工具）以 GNU General Public License v3.0 或更新版本授權，全文見 [LICENSE](LICENSE)；引擎修改沿用 ScummVM 的 GPL-3.0。
 
 ## 致謝
@@ -95,4 +119,5 @@ python tools/catalog/progress.py zh_TW             # 更新本頁的翻譯進度
 - [ScummVM](https://www.scummvm.org/) 與 Pentagram 團隊的 Ultima 8 引擎
 - [Cubic 11（俐方體 11 號）](https://github.com/ACh-K/Cubic-11)
 - [jf open 粉圓](https://justfont.com/huninn/)（justfont）
+- 王漢宗教授的[王漢宗自由字型](https://code.google.com/archive/p/wangfonts/)
 - 所有 Ultima 同好
