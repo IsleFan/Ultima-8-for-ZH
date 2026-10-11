@@ -42,6 +42,13 @@ cp "$ROOT"/package/fonts/*.txt "$APP/Contents/Resources/licenses/"
 # the Homebrew libraries inside the bundle, then sign it again (ad hoc)
 dylibbundler -od -b -x "$APP/Contents/MacOS/scummvm" \
 	-d "$APP/Contents/libs" -p @executable_path/../libs
+# Homebrew's SDL2 is sdl2-compat, which dlopens SDL3 from @loader_path at
+# startup; dylibbundler can't see a dlopen, so bundle it by hand. --deep
+# doesn't re-sign dylibs in libs/, so sign it on its own
+cp "$(brew --prefix sdl3)/lib/libSDL3.0.dylib" "$APP/Contents/libs/libSDL3.dylib"
+chmod u+w "$APP/Contents/libs/libSDL3.dylib"
+install_name_tool -id @loader_path/libSDL3.dylib "$APP/Contents/libs/libSDL3.dylib"
+codesign -s - --force "$APP/Contents/libs/libSDL3.dylib"
 codesign -s - --deep --force "$APP"
 
 # the package
