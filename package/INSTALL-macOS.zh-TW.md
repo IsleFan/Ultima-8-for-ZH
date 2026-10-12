@@ -29,6 +29,10 @@
 
 ScummVM 的介面語言預設跟隨系統。想要正體中文介面：「全域設定」（Global Options…）→「雜項」（Misc）→「介面語言」（GUI language）選擇「Chinese (Traditional)」。
 
+## 音樂音源
+
+macOS 版沒有 FluidSynth。`SETTINGS.zh-TW.md`「音樂音源」一節說的 SoundFont，在 macOS 上改用 macOS 內建的音源（`CoreAudio`，設定檔寫 `music_driver=core`）：在「MIDI」分頁的「SoundFont」選擇 `.sf2` 檔，macOS 內建音源就會用它播放。AdLib、Roland MT-32 和 Windows 版相同。
+
 ## 進階設定檔的位置
 
 `SETTINGS.zh-TW.md` 說的 `scummvm.ini`，在 macOS 上是：
