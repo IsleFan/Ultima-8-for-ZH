@@ -19,9 +19,9 @@ ScummVM 內建一個「除錯主控台」，可以輸入指令：傳送、作弊
 | 標記 | 意思 |
 |---|---|
 | 🔓 | 需要先開啟作弊，否則會顯示 `Cheats are disabled` |
-| ⌨️ | 有預設快捷鍵（可在 ScummVM 的「Keymaps」（按鍵對應）中更改） |
+| ⌨️ | 有預設快捷鍵（可在 ScummVM 的「按鍵對應」（Keymaps）中更改） |
 
-**開啟作弊**：在 ScummVM 選取遊戲 →「Game Options…」（遊戲選項）→「Game」分頁，勾選「Enable cheats」；或在主控台輸入 `Cheat::toggle on`。
+**開啟作弊**：在 ScummVM 選取遊戲 →「遊戲設定」（Game Options…）→「遊戲」分頁，勾選「開啟作弊」；或在主控台輸入 `Cheat::toggle on`。
 
 ---
 

@@ -11,15 +11,15 @@
 1. **解壓縮**：把整個壓縮檔解壓到一個資料夾，例如 `D:\Games\Ultima8-zhTW`。
    - 資料夾裡有 `scummvm.ini`，ScummVM 會以「可攜模式」執行：設定、存檔、截圖都放在這個資料夾裡（存檔在 `Saved games`），不會動到電腦上其他的 ScummVM。
 2. **執行** `scummvm.exe`（或 `啟動 Ultima 8.bat`）。
-3. **新增遊戲**：按「Add Game…」（新增遊戲），找到遊戲的英文資料夾後按「Choose」（選擇）。
+3. **新增遊戲**：按「新增遊戲」（Add Game…），找到遊戲的英文資料夾後按「選擇」（Choose）。
    - GOG 版：`C:\GOG Games\Ultima 8\ENGLISH`（依你的安裝位置而定）。這個資料夾裡應該有 `U8.EXE`、`STATIC`、`USECODE` 等。
-   - ScummVM 會辨識出「Ultima VIII: Pagan (Gold Edition/DOS/English)」，按「OK」。
-4. **確認中文化已開啟**（預設就是開啟的）：選取遊戲 →「Game Options…」→「Game」分頁，確認勾選了「Traditional Chinese translation (繁體中文)」。
-5. 按「Start」。片頭的守護者字幕應該是中文。
+   - ScummVM 會辨識出「Ultima VIII: Pagan (Gold Edition/DOS/English)」，按「確定」（OK）。
+4. **確認中文化已開啟**（預設就是開啟的）：選取遊戲 →「遊戲設定」（Game Options…）→「遊戲」分頁，確認勾選了「繁體中文翻譯」。
+5. 按「啟動」（Start）。片頭的守護者字幕應該是中文。
 
 ## 從原本的英文存檔繼續玩
 
-存檔與英文版通用。若要沿用 GOG / DOSBox 原版的存檔，可以在 ScummVM 的遊戲畫面用原版的日記讀檔（「Game Options…」→「Game」→ 勾選 *Use original save/load screens*），或把原版存檔匯入 ScummVM。
+存檔與英文版通用。若要沿用 GOG / DOSBox 原版的存檔，可以在 ScummVM 的遊戲畫面用原版的日記讀檔（「遊戲設定」（Game Options…）→「遊戲」→ 勾選「使用原版的存讀檔畫面」），或把原版存檔匯入 ScummVM。
 
 ## 疑難排解
 
