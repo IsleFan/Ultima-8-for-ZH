@@ -538,7 +538,7 @@ msgstr "再會。"
 #. event 01 (use (talk)), after "Greetings to you. "
 msgctxt "bark 0409:25F8"
 msgid "Well, a new face in town. I am Korick, the smith here in Tenebrae. Have you come to buy something? "
-msgstr "喲，城裡來了張新面孔。我是科里克，泰尼伯瑞的鐵匠。你是來買東西的嗎？"
+msgstr "喲，城裡來了張新面孔。我是科里克，泰納布利的鐵匠。你是來買東西的嗎？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Greetings to you. "
@@ -622,7 +622,7 @@ msgstr "得了吧，我們又不是活在完美的世界裡。就我所知，你
 #. event 01 (use (talk)), after "A new face? "
 msgctxt "bark 0409:2CEA"
 msgid "You are certainly not from Tenebrae. Are from the country? "
-msgstr "你肯定不是泰尼伯瑞人。你是從鄉下來的嗎？"
+msgstr "你肯定不是泰納布利人。你是從鄉下來的嗎？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "A new face? "
@@ -634,7 +634,7 @@ msgstr "不關你的事。"
 #. event 01 (use (talk)), after "A new face? "
 msgctxt "ask 0409"
 msgid "Not from Tenebrae. "
-msgstr "不是泰尼伯瑞人？"
+msgstr "不是泰納布利人？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "A new face? "
@@ -664,13 +664,13 @@ msgstr "你認識每個人？"
 #. event 01 (use (talk)), after "Not from Tenebrae. "
 msgctxt "ask 0409"
 msgid "You know everything about Tenebrae? "
-msgstr "泰尼伯瑞的事你都知道？"
+msgstr "泰納布利的事你都知道？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "You know everything about Tenebrae? "
 msgctxt "bark 0409:2FEA"
 msgid "Oh yes. Over in on the East side, that's where all of the rich folk live. The library is also there. Of course Lady Mordea's palace occupies the central part of the city.  And here on the West side is where we common folk live. It has never been nice here but lately things have gotten worse. "
-msgstr "噢，是啊。東邊那一帶住的全是有錢人，圖書館也在那裡。當然，莫爾迪亞夫人的宮殿就占據了城市的中央。而這裡西邊，住的是我們這些平民百姓。這裡從來就不怎麼好，但最近情況更糟了。"
+msgstr "噢，是啊。東邊那一帶住的全是有錢人，圖書館也在那裡。當然，莫迪雅夫人的宮殿就占據了城市的中央。而這裡西邊，住的是我們這些平民百姓。這裡從來就不怎麼好，但最近情況更糟了。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "You know everything about Tenebrae? "
@@ -742,7 +742,7 @@ msgstr "你打造金屬的天分？"
 #. event 01 (use (talk)), after "Creators? What creators? "
 msgctxt "bark 0409:36B3"
 msgid "Please, not so loud. Although I feel that I can freely discuss my beliefs now that Mordea is gone, I certainly do not want a Titan to hear me. "
-msgstr "拜託，小聲點。雖然莫爾迪亞不在了，我覺得可以自由談論我的信仰，但我可不想讓泰坦聽見。"
+msgstr "拜託，小聲點。雖然莫迪雅不在了，我覺得可以自由談論我的信仰，但我可不想讓泰坦聽見。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Creators? What creators? "
@@ -922,7 +922,7 @@ msgstr "關在牢裡？"
 #. event 01 (use (talk)), after "You thrashed him? "
 msgctxt "ask 0409"
 msgid "Her Ladyship... do you mean Mordea? "
-msgstr "夫人……你是說莫爾迪亞？"
+msgstr "夫人……你是說莫迪雅？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "In jail, huh? "
@@ -934,7 +934,7 @@ msgstr "是的，先生。我不是要吹噓，但能抓到那種人，我還挺
 #. event 01 (use (talk)), after "Her Ladyship... do you mean Mordea? "
 msgctxt "bark 0409:4920"
 msgid "Yes. It is odd being ruled by a lady but Mordea is not like most women. She is very strong, like a man, and does rule well. "
-msgstr "是的。被一位女士統治有點奇怪，但莫爾迪亞跟大多數女人不一樣。她像男人一樣非常強悍，統治得也確實不錯。"
+msgstr "是的。被一位女士統治有點奇怪，但莫迪雅跟大多數女人不一樣。她像男人一樣非常強悍，統治得也確實不錯。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Umm, the country. "
@@ -1169,7 +1169,7 @@ msgstr "我正設法拯救我的世界，不讓它被一個邪惡的存在毀滅
 #. event 01 (use (talk)), after "I'm trying to save my world from being destroyed by an evil being. "
 msgctxt "bark 0409:5EE8"
 msgid "I see. Look, whatever is bothering you is causing you more trouble than I can help you with. I suggest that you seek the Theurgists. I believe that they may be able to help you with your problems. Now if you will excuse me, I am busy. "
-msgstr "我明白了。聽著，不管困擾你的是什麼，那都超出了我能幫忙的範圍。我建議你去找神術師，我相信他們或許能幫你解決問題。好了，失陪了，我很忙。"
+msgstr "我明白了。聽著，不管困擾你的是什麼，那都超出了我能幫忙的範圍。我建議你去找神通師，我相信他們或許能幫你解決問題。好了，失陪了，我很忙。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Thanks, but I really need to make these items. "

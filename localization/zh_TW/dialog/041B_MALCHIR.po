@@ -14,25 +14,25 @@ msgstr ""
 #. event 00 (look)
 msgctxt "bark 041B:013E"
 msgid "Malchir the late Master Sorcerer "
-msgstr "已故的大巫師馬爾奇爾"
+msgstr "已故的大巫師麥爾吉爾"
 
 # P13 batch 5
 #. event 00 (look)
 msgctxt "bark 041B:016E"
 msgid "Malchir the Master Sorcerer "
-msgstr "大巫師馬爾奇爾"
+msgstr "大巫師麥爾吉爾"
 
 # P13 batch 5
 #. event 00 (look)
 msgctxt "bark 041B:01AA"
 msgid "Malchir the deceased "
-msgstr "已故的馬爾奇爾"
+msgstr "已故的麥爾吉爾"
 
 # P13 batch 5
 #. event 00 (look)
 msgctxt "bark 041B:01C5"
 msgid "Malchir"
-msgstr "馬爾奇爾"
+msgstr "麥爾吉爾"
 
 # P13 batch 5
 #. event 00 (look)
@@ -74,7 +74,7 @@ msgstr "要成為學徒，你必須先施展三道法術。你可以用我的五
 #. event 01 (use (talk))
 msgctxt "bark 041B:0699"
 msgid "First, cast the Flame Bolt spell, then the Explosion spell, and finally, summon a Daemon to assault me. Do this in order. Failure at this point will cost your life... and there is no turning back. "
-msgstr "首先施展烈焰箭，然後是爆炸術，最後召喚一隻惡魔來攻擊我。照這個順序做。到了這一步，失敗就會賠上你的命……而且沒有回頭路。"
+msgstr "首先施展火箭術，然後是爆裂術，最後召喚一隻惡魔來攻擊我。照這個順序做。到了這一步，失敗就會賠上你的命……而且沒有回頭路。"
 
 # P13 batch 5
 #. event 01 (use (talk))
@@ -86,13 +86,13 @@ msgstr "考驗現在開始……"
 #. event 01 (use (talk))
 msgctxt "bark 041B:073D"
 msgid "Cast the Flame Bolt spell at me. "
-msgstr "對我施展烈焰箭。"
+msgstr "對我施展火箭術。"
 
 # P13 batch 5
 #. event 01 (use (talk))
 msgctxt "bark 041B:0780"
 msgid "Cast the Explosion spell at me. "
-msgstr "對我施展爆炸術。"
+msgstr "對我施展爆裂術。"
 
 # P13 batch 5
 #. event 01 (use (talk))

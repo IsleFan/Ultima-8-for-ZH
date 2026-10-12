@@ -68,7 +68,7 @@ msgstr "有人在那裡嗎……？"
 #. said for PYROS (006D), event 01 (use (talk))
 msgctxt "bark 057C:088A"
 msgid "Vardion!"
-msgstr "瓦爾迪恩！"
+msgstr "瓦迪恩！"
 
 # P13 batch 6
 #. said for PYROS (006D), event 01 (use (talk))
@@ -110,7 +110,7 @@ msgstr "是，大師。"
 #. said for PYROS (006D), event 01 (use (talk))
 msgctxt "bark 057C:088A"
 msgid "Vardion..."
-msgstr "瓦爾迪恩……"
+msgstr "瓦迪恩……"
 
 # P13 batch 6
 #. said for PYROS (006D), event 01 (use (talk))

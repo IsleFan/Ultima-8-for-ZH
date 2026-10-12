@@ -170,13 +170,13 @@ msgstr "誰把這個開著沒關？"
 #. event 11 (leaveFastArea)
 msgctxt "bark 0418:0C9F"
 msgid "We have Tenebraean Ale, Blackwine, Hurricanes, Breath O'Spirit and Cloven Hoof. "
-msgstr "我們有泰尼伯瑞麥酒、黑酒、颶風酒、靈息酒和魔蹄酒。"
+msgstr "我們有泰納布利麥酒、黑酒、颶風酒、靈息酒和魔蹄酒。"
 
 # P13 batch 2
 #. event 11 (leaveFastArea)
 msgctxt "ask 0418"
 msgid "Tenebraean Ale "
-msgstr "泰尼伯瑞麥酒"
+msgstr "泰納布利麥酒"
 
 # P13 batch 2
 #. event 11 (leaveFastArea)
@@ -212,7 +212,7 @@ msgstr "不用了，謝謝。"
 #. event 11 (leaveFastArea), after "Tenebraean Ale "
 msgctxt "bark 0418:0D9A"
 msgid "Our Tenebraean ale is the finest. It'll costs one glassy black. "
-msgstr "我們的泰尼伯瑞麥酒是最棒的。一枚黑曜石幣。"
+msgstr "我們的泰納布利麥酒是最棒的。一枚黑曜石幣。"
 
 # P13 batch 2
 #. event 11 (leaveFastArea), after "Black Wine "
@@ -344,7 +344,7 @@ msgstr "托拉克斯獸乳酪"
 #. event 11 (leaveFastArea), after "fish "
 msgctxt "bark 0418:1472"
 msgid "It's very fresh. Kilandra just brought it in today. It will cost you only one obsidian. "
-msgstr "非常新鮮，奇蘭卓今天才送來的。只要一枚黑曜石幣。"
+msgstr "非常新鮮，綺蘭朵今天才送來的。只要一枚黑曜石幣。"
 
 # P13 batch 2
 #. event 11 (leaveFastArea), after "Toraxen jerky "
@@ -574,7 +574,7 @@ msgstr "別擔心，他會講的，他每次都會。那是他最愛的故事之
 #. event 01 (use (talk)), after "What strange weather this is. "
 msgctxt "bark 0418:23E9"
 msgid "I can't believe it. I've heard some fool somehow released Hydros and now our Tempest has no power to control the weather. It's even been said that Hydros is going to try to wash away the town! "
-msgstr "真不敢相信。我聽說有個笨蛋不知怎麼把海德羅斯放了出來，現在我們的風暴使者已經沒有能力控制天氣了。甚至有人說海德羅斯打算把整座城沖走！"
+msgstr "真不敢相信。我聽說有個笨蛋不知怎麼把海特蘿放了出來，現在我們的役水師已經沒有能力控制天氣了。甚至有人說海特蘿打算把整座城沖走！"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "What strange weather this is. "
@@ -586,7 +586,7 @@ msgstr "他們知道是誰幹的嗎？"
 #. event 01 (use (talk)), after "What strange weather this is. "
 msgctxt "ask 0418"
 msgid "I released Hydros. "
-msgstr "是我放出海德羅斯的。"
+msgstr "是我放出海特蘿的。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Do they know who did it? "
@@ -721,20 +721,20 @@ msgstr "說說席勒斯。"
 #. event 01 (use (talk)), after "I met Cyrrus. "
 msgctxt "bark 0418:2ECD"
 msgid "Oh, he is a dull thing, isn't he? All he ever used to talk about were those darn torax. He wanted me to marry him and live in the hills and be a herdsman's wife. I was certainly glad when he went to Argentrock. "
-msgstr "噢，他真是個無趣的傢伙，對吧？他以前開口閉口全是那些該死的托拉克斯獸。他想要我嫁給他、住到山上當牧民的老婆。他去白銀之岩的時候，我可真是高興。"
+msgstr "噢，他真是個無趣的傢伙，對吧？他以前開口閉口全是那些該死的托拉克斯獸。他想要我嫁給他、住到山上當牧民的老婆。他去銀岩的時候，我可真是高興。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "I met Cyrrus. "
 msgctxt "ask 0418"
 msgid "Why did he go to Argentrock? "
-msgstr "他為什麼去白銀之岩？"
+msgstr "他為什麼去銀岩？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Where is Argentrock? "
 #. answer compared by the conversation code
 msgctxt "ask 0418"
 msgid "Where is Argentrock? "
-msgstr "白銀之岩在哪裡？"
+msgstr "銀岩在哪裡？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Where is Argentrock? "
@@ -746,13 +746,13 @@ msgstr "離這裡相當遠。我不太確定怎麼走，只知道要穿過墓地
 #. event 01 (use (talk)), after "Tell me of Cyrrus. "
 msgctxt "bark 0418:30E5"
 msgid "He was a herdsman's son. He wanted to marry me and live in the hills tending torax. Now torax may be wonderful to him, but I think they are stupid and they smell. I was so glad when he went to Argentrock. "
-msgstr "他是牧民的兒子，想娶我，然後住在山上放牧托拉克斯獸。托拉克斯獸對他來說也許很棒，但我覺得牠們又笨又臭。他去白銀之岩的時候，我真是高興極了。"
+msgstr "他是牧民的兒子，想娶我，然後住在山上放牧托拉克斯獸。托拉克斯獸對他來說也許很棒，但我覺得牠們又笨又臭。他去銀岩的時候，我真是高興極了。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Why did he go to Argentrock? "
 msgctxt "bark 0418:3281"
 msgid "They say he has some talent for healing. He always did feel closer to Stratos than he did to Hydros, though he didn't tell his family that. They would have been very angry. Well, I don't know if he ever became a healer, I'm just glad he is gone. "
-msgstr "聽說他有治療的天分。比起海德羅斯，他一向更親近史特拉托斯，不過他沒跟家人說，不然他們會氣壞的。我不知道他後來有沒有成為治療師，我只慶幸他走了。"
+msgstr "聽說他有治療的天分。比起海特蘿，他一向更親近史卓拉透絲，不過他沒跟家人說，不然他們會氣壞的。我不知道他後來有沒有成為治療師，我只慶幸他走了。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "I met your father. "
@@ -982,7 +982,7 @@ msgstr "鬧鬼？"
 #. event 01 (use (talk)), after "Where is it? "
 msgctxt "bark 0418:4732"
 msgid "It is on the other side of Tenebrae. You will have to head east from here, going right past the Tempest's keep, through the east side of town, then down a long, dangerous road. "
-msgstr "在泰尼伯瑞的另一頭。你得從這裡往東走，經過風暴使者的城堡，穿過城東，然後沿著一條又長又危險的路走下去。"
+msgstr "在泰納布利的另一頭。你得從這裡往東走，經過役水師的城堡，穿過城東，然後沿著一條又長又危險的路走下去。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Where is it? "
@@ -1000,19 +1000,19 @@ msgstr "為什麼不能去？"
 #. event 01 (use (talk)), after "Haunted? "
 msgctxt "bark 0418:4807"
 msgid "Yes, with the ghosts of those horrid Necromancers. "
-msgstr "是啊，鬧的是那些可怕死靈法師的鬼魂。"
+msgstr "是啊，鬧的是那些可怕降靈師的鬼魂。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Why not go there? "
 msgctxt "bark 0418:4934"
 msgid "It's a terrible place, a frightening place. The Necromancers used to be there. Terrible people they are, study dead bodies. Some say they even eat them! Only one person I know of travels there willingly and that is Mythran. "
-msgstr "那是個可怕的地方，嚇人的地方。死靈法師以前就住在那裡。他們是很可怕的人，專門研究死人的屍體。有人說他們甚至會吃屍體！我知道唯一一個自願去那裡的人，就是米斯蘭。"
+msgstr "那是個可怕的地方，嚇人的地方。降靈師以前就住在那裡。他們是很可怕的人，專門研究死人的屍體。有人說他們甚至會吃屍體！我知道唯一一個自願去那裡的人，就是米瑟倫。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Why not go there? "
 msgctxt "ask 0418"
 msgid "Tell me about the Necromancers. "
-msgstr "說說死靈法師。"
+msgstr "說說降靈師。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Why not go there? "
@@ -1024,13 +1024,13 @@ msgstr "他們研究屍體？"
 #. event 01 (use (talk)), after "Why not go there? "
 msgctxt "ask 0418"
 msgid "Tell me of Mythran. "
-msgstr "說說米斯蘭。"
+msgstr "說說米瑟倫。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Mythran. "
 msgctxt "bark 0418:4AD1"
 msgid "Mythran is an old hermit that lives on the Plateau. Some call him a sage, but I think he wields magic. Occasionally he comes into town. I guess he buys things for all those scrolls he makes. "
-msgstr "米斯蘭是個住在高原上的老隱士。有人稱他為賢者，但我覺得他會使魔法。他偶爾會進城，我猜是來買材料做他那些捲軸的。"
+msgstr "米瑟倫是個住在高地上的老隱士。有人稱他為賢者，但我覺得他會使魔法。他偶爾會進城，我猜是來買材料做他那些捲軸的。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Mythran. "
@@ -1078,7 +1078,7 @@ msgstr "你這畜生！我不會在歐洛克的酒館裡打架，辜負他對我
 #. event 01 (use (talk)), after "Good day to you, Jenna. "
 msgctxt "bark 0418:515D"
 msgid "What do you mean, 'good day'?! Can you not see what is happening? The dead have left their graves and are walking the streets of Tenebrae! Darion needs my sword, I have no time to chat now! "
-msgstr "什麼「日安」？！你看不出現在是什麼情況嗎？死人都爬出墳墓，在泰尼伯瑞的街上走來走去了！達里恩需要我的劍，我現在沒空閒聊！"
+msgstr "什麼「日安」？！你看不出現在是什麼情況嗎？死人都爬出墳墓，在泰納布利的街上走來走去了！達里恩需要我的劍，我現在沒空閒聊！"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "bye "

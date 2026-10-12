@@ -53,4 +53,4 @@ msgstr "我明白了。你想考驗我。好吧，不管我是通過還是失敗
 # P13 batch 6
 msgctxt "bark 0589:120A"
 msgid "I did not ask you to banish a daemon, Disciple. You have failed... prepare to die. "
-msgstr "我沒叫你驅逐惡魔，門徒。你失敗了……準備受死吧。"
+msgstr "我沒叫你放逐惡魔，門徒。你失敗了……準備受死吧。"

@@ -13,7 +13,7 @@ msgstr ""
 # P13 batch 5
 msgctxt "bark 0595:0123"
 msgid "Ah. A stranger comes to the Enclave. How rare.*You are also a stranger to the island of Morgaelin.*Are you not? "
-msgstr "啊。有陌生人來到聚落了，真是難得。*你也是初來摩加林島的吧。*不是嗎？"
+msgstr "啊。有陌生人來到聚落了，真是難得。*你也是初來摩蓋林島的吧。*不是嗎？"
 
 # P13 batch 5
 msgctxt "bark 0595:0239"
@@ -362,13 +362,13 @@ msgstr "我覺得你說的話裡有個字拼錯了。我也不知道我怎麼會
 #. , after ""
 msgctxt "bark 0595:174A"
 msgid "Do you perchance have Vardion's Truename? "
-msgstr "你是不是拿到瓦爾迪恩的真名了？"
+msgstr "你是不是拿到瓦迪恩的真名了？"
 
 # P13 batch 5
 #. , after ""
 msgctxt "bark 0595:17EB"
 msgid "Wonderful! Give it to me and I will perform the ritual necessary to end Vardion's designs upon the Mastery. "
-msgstr "太好了！告訴我，我就舉行必要的儀式，終結瓦爾迪恩覬覦大師之位的陰謀。"
+msgstr "太好了！告訴我，我就舉行必要的儀式，終結瓦迪恩覬覦大師之位的陰謀。"
 
 # P13 batch 5
 #. , after ""
@@ -392,7 +392,7 @@ msgstr "莫杜因。"
 #. , after ""
 msgctxt "ask 0595"
 msgid " Vardion."
-msgstr "瓦爾迪恩。"
+msgstr "瓦迪恩。"
 
 # P13 batch 5
 #. , after ""
@@ -410,7 +410,7 @@ msgstr "莎布莉安。"
 #. , after " Vardion."
 msgctxt "bark 0595:19C2"
 msgid "You poor stupid fool. If you truly believe that Vardion is his Truename, you are of no use as a Sorcerer. "
-msgstr "你這可憐的蠢貨。要是你真以為瓦爾迪恩就是他的真名，那你當巫師根本毫無用處。"
+msgstr "你這可憐的蠢貨。要是你真以為瓦迪恩就是他的真名，那你當巫師根本毫無用處。"
 
 # P13 batch 5
 #. , after " Vardion."
@@ -428,7 +428,7 @@ msgstr "不對，你這小白痴。那是我給你取的名字。也許我該叫
 #. , after " Sabriane."
 msgctxt "bark 0595:1B80"
 msgid "That is my name. Have I entrusted my Truename, and the future of the Cabal to a simpering moron? Please run along now and get Vardion's Truename for me, won't you dear? "
-msgstr "那是我的名字。難道我把我的真名和密謀會的未來，託付給了一個只會傻笑的蠢蛋？現在請你快去幫我弄到瓦爾迪恩的真名吧，好嗎，親愛的？"
+msgstr "那是我的名字。難道我把我的真名和密謀會的未來，託付給了一個只會傻笑的蠢蛋？現在請你快去幫我弄到瓦迪恩的真名吧，好嗎，親愛的？"
 
 # P13 batch 5
 #. , after "I don't know it yet. "

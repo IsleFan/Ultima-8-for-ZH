@@ -20,12 +20,12 @@ msgstr "牌匾"
 #. event 01 (use (talk))
 msgctxt "plaque 0257:0109"
 msgid "THE MONASTERY*OF THE*THEURGISTS "
-msgstr "神術師修道院"
+msgstr "神通師修道院"
 
 #. event 01 (use (talk))
 msgctxt "plaque 0257:0149"
 msgid "THE PALACE*OF THE TEMPEST "
-msgstr "風暴使者宮殿"
+msgstr "役水師宮殿"
 
 # P13 batch 7
 #. event 01 (use (talk))
@@ -55,7 +55,7 @@ msgstr "閒人勿進"
 #. event 01 (use (talk))
 msgctxt "plaque 0257:0260"
 msgid "WATERS*OF THE*TEMPEST "
-msgstr "風暴使者之水"
+msgstr "役水師之水"
 
 # P13 batch 7
 #. event 01 (use (talk))
@@ -181,7 +181,7 @@ msgstr "我就說是我的針鼴嘛"
 #. event 01 (use (talk))
 msgctxt "plaque 0257:074F"
 msgid "TENEBRAE*LIBRARY "
-msgstr "泰尼伯瑞圖書館"
+msgstr "泰納布利圖書館"
 
 # P13 batch 7
 #. event 01 (use (talk))
@@ -199,7 +199,7 @@ msgstr "請勿進入"
 #. event 01 (use (talk))
 msgctxt "plaque 0257:07F6"
 msgid "TEMPLE*OF THE*DIVINE*HYDROS "
-msgstr "神聖海德羅斯神廟"
+msgstr "神聖海特蘿神廟"
 
 # P13 batch 7
 #. event 01 (use (talk))
@@ -216,7 +216,7 @@ msgstr "安靜"
 #. event 01 (use (talk))
 msgctxt "plaque 0257:08A1"
 msgid "SPRING*OF THE*ETERNAL*HYDROS "
-msgstr "永恆海德羅斯之泉"
+msgstr "永恆海特蘿之泉"
 
 # P13 batch 7
 #. event 01 (use (talk))
@@ -240,7 +240,7 @@ msgstr "第一學徒 貝恩"
 #. event 01 (use (talk))
 msgctxt "plaque 0257:099A"
 msgid "FIRST ACOLYTE*VARDION "
-msgstr "第一學徒 瓦爾迪恩"
+msgstr "第一學徒 瓦迪恩"
 
 # P13 batch 7
 #. event 01 (use (talk))
@@ -270,13 +270,13 @@ msgstr "學徒 戈格隆德"
 #. event 01 (use (talk))
 msgctxt "plaque 0257:0AA7"
 msgid "FLAM POR*FLASH "
-msgstr "Flam Por：閃光術"
+msgstr "Flam Por：飛遁術"
 
 # P13 batch 7
 #. event 01 (use (talk))
 msgctxt "plaque 0257:0AE0"
 msgid "AN FLAM*EXTINGUISH "
-msgstr "An Flam：熄火術"
+msgstr "An Flam：熄滅術"
 
 # P13 batch 7
 #. event 01 (use (talk))
@@ -288,7 +288,7 @@ msgstr "Sanct Flam：耐熱術"
 #. event 01 (use (talk))
 msgctxt "plaque 0257:0B62"
 msgid "VAS SANCT FLAM*ARMOR OF FLAMES "
-msgstr "Vas Sanct Flam：烈焰護甲"
+msgstr "Vas Sanct Flam：火焰之甲"
 
 # P13 batch 7
 #. event 01 (use (talk))
@@ -384,7 +384,7 @@ msgstr "即將進入死亡深坑"
 #. event 01 (use (talk))
 msgctxt "plaque 0257:0F78"
 msgid "THE*BIRTHPLACE*OF MORIENS "
-msgstr "摩瑞恩斯的誕生地"
+msgstr "莫里恩斯的誕生地"
 
 # P13 batch 7
 #. event 01 (use (talk))

@@ -92,7 +92,7 @@ msgstr "法師"
 #. event 01 (use (talk))
 msgctxt "ask 041D"
 msgid "Tell me of the Enclave and Morgaelin. "
-msgstr "說說巫師聚落和摩加林。"
+msgstr "說說巫師的領地和摩蓋林。"
 
 # P13 batch 5
 #. event 01 (use (talk))
@@ -153,7 +153,7 @@ msgstr "還有什麼想談的嗎？"
 #. event 01 (use (talk)), after "Tell me of the Enclave and Morgaelin. "
 msgctxt "bark 041D:0B47"
 msgid "The Sorcerer's Enclave sits in the arms of Daemon's Crag, over-topped by Mount Morgaelin. The volcano is the namesake of the island. "
-msgstr "巫師聚落坐落在惡魔崖的懷抱中，上方聳立著摩加林山。這座島就是以這座火山命名的。"
+msgstr "巫師的領地坐落在惡魔崖的懷抱中，上方聳立著摩蓋林山。這座島就是以這座火山命名的。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Tell me of the Enclave and Morgaelin. "
@@ -171,7 +171,7 @@ msgstr "這座山崖為什麼以惡魔命名？"
 #. event 01 (use (talk)), after "Tell me of the Enclave and Morgaelin. "
 msgctxt "ask 041D"
 msgid "Does Morgaelin have a meaning? "
-msgstr "摩加林有什麼含意嗎？"
+msgstr "摩蓋林有什麼含意嗎？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "What is a Truename? "
@@ -537,7 +537,7 @@ msgstr "門徒是什麼？"
 #. event 01 (use (talk)), after "Who are the Acolytes? "
 msgctxt "bark 041D:33E9"
 msgid "The Acolytes are poorly led by the First Acolyte who is more beast than man. His name is Vardion, and you would do well to avoid him, as his odor can be most offensive. "
-msgstr "學徒們由第一學徒帶領，領導得一塌糊塗，他與其說是人，不如說是野獸。他叫瓦爾迪恩，你最好離他遠一點，因為他身上的味道實在讓人受不了。"
+msgstr "學徒們由第一學徒帶領，領導得一塌糊塗，他與其說是人，不如說是野獸。他叫瓦迪恩，你最好離他遠一點，因為他身上的味道實在讓人受不了。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Who are the Acolytes? "
@@ -555,7 +555,7 @@ msgstr "最後是貝倫，一個值得信任的人。他說到做到，而他的
 #. event 01 (use (talk)), after "Who are the Acolytes? "
 msgctxt "ask 041D"
 msgid "Tell me more of Vardion. "
-msgstr "再多說說瓦爾迪恩。"
+msgstr "再多說說瓦迪恩。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Who are the Acolytes? "
@@ -573,7 +573,7 @@ msgstr "關於貝倫，你還能說些什麼？"
 #. event 01 (use (talk)), after "Tell me of your Master. "
 msgctxt "bark 041D:3711"
 msgid "Malchir is a wily one, but his self-interest is counter to my own outgoing nature. He should become more concerned with the other Sorcerers instead of always hiding himself away. "
-msgstr "馬爾奇爾很狡猾，但他的自私跟我外向的個性正好相反。他應該多關心其他巫師，而不是老把自己藏起來。"
+msgstr "麥爾吉爾很狡猾，但他的自私跟我外向的個性正好相反。他應該多關心其他巫師，而不是老把自己藏起來。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Tell me of your Master. "
@@ -639,13 +639,13 @@ msgstr "大師需要一個懂人心的人，一個對未來有遠見的人。"
 #. event 01 (use (talk)), after "What do you mean by First Acolyte? "
 msgctxt "bark 041D:3FA7"
 msgid "Vardion, our current First Acolyte,  is not this someone. Far to the contrary. He lingers in the past. "
-msgstr "我們現任的第一學徒瓦爾迪恩可不是這樣的人。恰恰相反，他活在過去。"
+msgstr "我們現任的第一學徒瓦迪恩可不是這樣的人。恰恰相反，他活在過去。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "What do you mean by First Acolyte? "
 msgctxt "bark 041D:3FA7"
 msgid "Vardion, is not this someone. Far to the contrary. He lingers in the past. "
-msgstr "瓦爾迪恩可不是這樣的人。恰恰相反，他活在過去。"
+msgstr "瓦迪恩可不是這樣的人。恰恰相反，他活在過去。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "What do you mean by First Acolyte? "
@@ -705,7 +705,7 @@ msgstr "我不是要吹噓自己微薄的能力，但只有最強大以及……
 #. event 01 (use (talk)), after "Tell me more of Vardion. "
 msgctxt "bark 041D:454B"
 msgid "Not to put too fine a point on it, he is a brutish, overbearing, pompous lout. In other words, I find his presence intolerable and if Master Malchir were not so engrossed in his own affairs, I feel sure that he would allow me to issue The Calling to Vardion, even if he is the First Acolyte. "
-msgstr "說白了，他是個粗暴、霸道、自大的蠢貨。換句話說，我實在受不了他。要不是馬爾奇爾大巫師那麼專注於自己的事，我相信他一定會允許我對瓦爾迪恩發出召喚，就算他是第一學徒也一樣。"
+msgstr "說白了，他是個粗暴、霸道、自大的蠢貨。換句話說，我實在受不了他。要不是麥爾吉爾大巫師那麼專注於自己的事，我相信他一定會允許我對瓦迪恩發出召喚，就算他是第一學徒也一樣。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Do you know more about Gorgrond? "
@@ -729,25 +729,25 @@ msgstr "把那些話說出口只會讓它們流傳下去，所以我不說。"
 #. event 01 (use (talk)), after "No, please go on. "
 msgctxt "bark 041D:49FA"
 msgid "I will entrust to you further knowledge of our predicament. I have reason to believe that Vardion is preparing to assassinate the Master. "
-msgstr "我要把我們的困境再多告訴你一些。我有理由相信，瓦爾迪恩正準備暗殺大師。"
+msgstr "我要把我們的困境再多告訴你一些。我有理由相信，瓦迪恩正準備暗殺大師。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "No, please go on. "
 msgctxt "bark 041D:4AFA"
 msgid "He thinks that Malchir breaks with too many of the old traditions but fears his power. Should he kill Malchir and become Master, he will return the Enclave to the days when Sorcerers were shunned by the rest of the island's populace. "
-msgstr "他認為馬爾奇爾打破了太多舊傳統，卻又畏懼他的力量。要是他殺了馬爾奇爾、成為大師，就會讓聚落倒退回巫師被島上其他居民排斥的年代。"
+msgstr "他認為麥爾吉爾打破了太多舊傳統，卻又畏懼他的力量。要是他殺了麥爾吉爾、成為大師，就會讓聚落倒退回巫師被島上其他居民排斥的年代。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "No, please go on. "
 msgctxt "bark 041D:4BF1"
 msgid "To get to the point at hand, I must ask a favor of you. I need someone to enter into the confidences of the First Acolyte and acquire from him his Truename. This will aid me in performing a scrying to know Vardion's motives. "
-msgstr "說到正題，我必須請你幫個忙。我需要有人去取得第一學徒的信任，從他那裡得到他的真名。這能幫助我施展占卜，看清瓦爾迪恩的動機。"
+msgstr "說到正題，我必須請你幫個忙。我需要有人去取得第一學徒的信任，從他那裡得到他的真名。這能幫助我施展占卜，看清瓦迪恩的動機。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "No, please go on. "
 msgctxt "bark 041D:4C87"
 msgid "Will you do this?*If so, I can offer you a position as a Disciple... or even Acolyte, should Vardion's intentions be murderous. "
-msgstr "你願意嗎？*如果願意，我可以給你門徒的地位……要是瓦爾迪恩真有殺意，甚至能讓你當上學徒。"
+msgstr "你願意嗎？*如果願意，我可以給你門徒的地位……要是瓦迪恩真有殺意，甚至能讓你當上學徒。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Can we change the subject? "

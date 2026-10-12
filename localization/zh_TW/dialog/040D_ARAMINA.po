@@ -188,7 +188,7 @@ msgstr "抱歉，我現在不能跟你說話。我得去服侍夫人。"
 #. event 01 (use (talk))
 msgctxt "bark 040D:1312"
 msgid "Find me later at my house in east Tenebrae, I will be there at bloodwatch. "
-msgstr "晚點到泰尼伯瑞東區我家來找我，血巡守時我會在家。"
+msgstr "晚點到泰納布利東區我家來找我，血巡守時我會在家。"
 
 # P13 batch 2
 #. event 01 (use (talk))
@@ -291,13 +291,13 @@ msgstr "說說宮殿。"
 #. event 01 (use (talk)), after "Tell me about the palace. "
 msgctxt "bark 040D:182D"
 msgid "This is the home of our Tempest, the Lady Mordea. "
-msgstr "這是我們的風暴使者莫爾迪亞夫人的居所。"
+msgstr "這是我們的役水師莫迪雅夫人的居所。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me about the palace. "
 msgctxt "ask 040D"
 msgid "Tell me of Lady Mordea. "
-msgstr "說說莫爾迪亞夫人。"
+msgstr "說說莫迪雅夫人。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of Lady Mordea. "
@@ -369,19 +369,19 @@ msgstr "說說薩金德。"
 #. event 01 (use (talk)), after "She wishes to preserve power? "
 msgctxt "bark 040D:1DF2"
 msgid "The power of the Tempestry, milord. The power to control the weather. This is, indeed, great power. "
-msgstr "風暴使者之力，大人。控制天氣的力量。這確實是很強大的力量。"
+msgstr "役水師之力，大人。控制天氣的力量。這確實是很強大的力量。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "She wishes to preserve power? "
 msgctxt "ask 040D"
 msgid "Tell me of the Tempestry. "
-msgstr "說說風暴術。"
+msgstr "說說役水術。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of the Tempestry. "
 msgctxt "bark 040D:1EFF"
 msgid "Tempestry, milord? Surely you have heard of it. It is the power that is transferred through the bloodline of the Tempests. "
-msgstr "風暴術，大人？您一定聽說過吧。那是透過風暴使者的血脈傳承的力量。"
+msgstr "役水術，大人？您一定聽說過吧。那是透過役水師的血脈傳承的力量。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of the Tempestry. "
@@ -417,7 +417,7 @@ msgstr "她拿它壓在人民頭上？"
 #. event 01 (use (talk)), after "She holds it over her people's heads? "
 msgctxt "bark 040D:229D"
 msgid "I mean...I mean it is a powerful tool to help the people's herds... of torax, that is. (Yes, she threatens to make the weather bad, or worse yet, send them to the Lurker, if they don't do her bidding.) Please, ask me no more. I am afraid Salkind will punish me. "
-msgstr "我是說……我是說，它是幫助人民照料牲口頭數的有力工具……我是指托拉克斯獸啦。（沒錯，誰要是不聽她的命令，她就威脅要讓天氣變壞，甚至更糟，把他們送給潛伏者。）拜託，別再問我了。我怕薩金德會懲罰我。"
+msgstr "我是說……我是說，它是幫助人民照料牲口頭數的有力工具……我是指托拉克斯獸啦。（沒錯，誰要是不聽她的命令，她就威脅要讓天氣變壞，甚至更糟，把他們送給潛藏者。）拜託，別再問我了。我怕薩金德會懲罰我。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "She holds it over her people's heads? "
@@ -513,7 +513,7 @@ msgstr "賞他一巴掌！"
 #. event 01 (use (talk)), after "Speak up about it! "
 msgctxt "bark 040D:2C98"
 msgid "Oh, you are very nice, and I appreciate your concern, however, who would I speak to? Lady Mordea? No, she dotes on him. Darion? He simply would not believe me. No, my friend, I need this job. Speaking of keeping my job, I need to get back to work. "
-msgstr "噢，你人真好，謝謝你的關心，可是我要跟誰說呢？莫爾迪亞夫人？不，她很寵他。達里恩？他根本不會相信我。不，朋友，我需要這份工作。說到保住工作，我得回去做事了。"
+msgstr "噢，你人真好，謝謝你的關心，可是我要跟誰說呢？莫迪雅夫人？不，她很寵他。達里恩？他根本不會相信我。不，朋友，我需要這份工作。說到保住工作，我得回去做事了。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Slap him! "
@@ -618,7 +618,7 @@ msgstr "你知道他？"
 #. event 01 (use (talk)), after "You'd like to meet him? "
 msgctxt "bark 040D:34FD"
 msgid "Once, when I was sent to the store to purchase something for Lady Mordea, he was there. I thought he had the nicest smile. "
-msgstr "有一次我被派去商店替莫爾迪亞夫人買東西，他也在那裡。我覺得他的笑容真好看。"
+msgstr "有一次我被派去商店替莫迪雅夫人買東西，他也在那裡。我覺得他的笑容真好看。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "You know of him? "
@@ -666,7 +666,7 @@ msgstr "噢……嗯，我想我明白，畢竟我只是個卑微的女僕。反
 #. event 01 (use (talk)), after "I'm looking for a dagger. "
 msgctxt "bark 040D:3994"
 msgid "A dagger? Hmmm, I saw a dagger once. Mordea kept it in a chest in her room. I have the key. Would you like it? "
-msgstr "匕首？嗯，我見過一把匕首。莫爾迪亞把它放在她房裡的一個箱子裡。我有鑰匙。你要嗎？"
+msgstr "匕首？嗯，我見過一把匕首。莫迪雅把它放在她房裡的一個箱子裡。我有鑰匙。你要嗎？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "I'm looking for a dagger. "
@@ -726,7 +726,7 @@ msgstr "其他人也需要幫忙？"
 #. event 01 (use (talk)), after "Others are in need of help? "
 msgctxt "bark 040D:3DF4"
 msgid "Not due to Lady Mordea, mind you. I-I'm certain that anyone out there who suffers or is hungry is in such a state due to their own laziness. "
-msgstr "請注意，這可不是莫爾迪亞夫人造成的。我、我相信外面那些受苦挨餓的人，都是因為自己懶惰才落到那種地步的。"
+msgstr "請注意，這可不是莫迪雅夫人造成的。我、我相信外面那些受苦挨餓的人，都是因為自己懶惰才落到那種地步的。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Are you certain? "
@@ -756,7 +756,7 @@ msgstr "好的，謝謝你。"
 #. event 01 (use (talk)), after "You won't get into trouble. "
 msgctxt "bark 040D:409D"
 msgid "Ohh, I do not know why, but I am going to trust you. Mordea keeps a very special dagger in a locked chest. You will find the chest in a small closet near her bed. "
-msgstr "噢，我也不知道為什麼，但我決定相信你。莫爾迪亞把一把非常特別的匕首鎖在一個箱子裡。那個箱子就在她床邊的小衣櫥裡。"
+msgstr "噢，我也不知道為什麼，但我決定相信你。莫迪雅把一把非常特別的匕首鎖在一個箱子裡。那個箱子就在她床邊的小衣櫥裡。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "You won't get into trouble. "

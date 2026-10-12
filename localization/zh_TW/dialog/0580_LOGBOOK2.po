@@ -13,17 +13,17 @@ msgstr ""
 # P13 batch 6
 msgctxt "bark 0580:043A"
 msgid "...And for treasonous plots against the fair Lady Mordea... "
-msgstr "……以及密謀叛逆，危害美麗的莫爾迪亞夫人……"
+msgstr "……以及密謀叛逆，危害美麗的莫迪雅夫人……"
 
 # P13 batch 6
 msgctxt "bark 0580:0491"
 msgid "...And for treasonous plots against the fair Lady Mordea... "
-msgstr "……以及密謀叛逆，危害美麗的莫爾迪亞夫人……"
+msgstr "……以及密謀叛逆，危害美麗的莫迪雅夫人……"
 
 # P13 batch 6
 msgctxt "bark 0580:04F5"
 msgid "Hail, Lady Mordea! "
-msgstr "參見莫爾迪亞夫人！"
+msgstr "參見莫迪雅夫人！"
 
 # P13 batch 6
 msgctxt "bark 0580:05C8"
@@ -58,7 +58,7 @@ msgstr "很遺憾在這裡見到你，朋友。"
 # P13 batch 6
 msgctxt "bark 0580:083F"
 msgid "It appears we will both become victims of Mordea. "
-msgstr "看來我們都要成為莫爾迪亞的犧牲品了。"
+msgstr "看來我們都要成為莫迪雅的犧牲品了。"
 
 # P13 batch 6
 msgctxt "bark 0580:085E"
@@ -78,4 +78,4 @@ msgstr "再見，朋友。"
 # P13 batch 6
 msgctxt "bark 0580:0A96"
 msgid "May Lithos forgive our spirits. "
-msgstr "願利索斯寬恕我們的靈魂。"
+msgstr "願里索斯寬恕我們的靈魂。"

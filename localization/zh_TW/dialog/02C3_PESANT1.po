@@ -80,7 +80,7 @@ msgstr "那是丟掉錢財和性命的捷徑。"
 #. event 01 (use (talk)), after "What is your name? "
 msgctxt "bark 02C3:0546"
 msgid "Who are you? Has Mordea sent you to question me? "
-msgstr "你是誰？是莫爾迪亞派你來盤問我的嗎？"
+msgstr "你是誰？是莫迪雅派你來盤問我的嗎？"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "What is your name? "

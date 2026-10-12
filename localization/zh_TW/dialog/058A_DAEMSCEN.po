@@ -44,7 +44,7 @@ msgstr "好了……完成了。"
 # P13 batch 5
 msgctxt "bark 058A:0E3C"
 msgid "I have sensed a daemonic presence within the confines of the Enclave.*Vardion, what is the meaning of this?"
-msgstr "我感覺到聚落裡有惡魔的氣息。*瓦爾迪恩，這是怎麼回事？"
+msgstr "我感覺到聚落裡有惡魔的氣息。*瓦迪恩，這是怎麼回事？"
 
 # P13 batch 5
 msgctxt "bark 058A:0E3C"
@@ -80,7 +80,7 @@ msgstr "哼，你這拙劣的護主之舉，讓我在需要召喚烈焰之主的
 # P13 batch 5
 msgctxt "bark 058A:11CC"
 msgid "How exactly do you propose to solve this dilemma, Vardion?"
-msgstr "你到底打算怎麼解決這個難題，瓦爾迪恩？"
+msgstr "你到底打算怎麼解決這個難題，瓦迪恩？"
 
 # P13 batch 5
 msgctxt "bark 058A:11CC"
@@ -192,25 +192,25 @@ msgstr "你讓我失望，我的門徒。不過，有什麼我能幫你的？"
 #. , after ""
 msgctxt "bark 058A:1C3F"
 msgid "Very well. But you must hurry. You have not even started and Master Malchir will not wait forever. "
-msgstr "好吧。但你得快點。你連開始都還沒開始，而馬爾奇爾大巫師可不會一直等下去。"
+msgstr "好吧。但你得快點。你連開始都還沒開始，而麥爾吉爾大巫師可不會一直等下去。"
 
 # P13 batch 5
 #. , after ""
 msgctxt "bark 058A:1C3F"
 msgid "Very well. But you must hurry. You have made a good start but Master Malchir will not wait forever. "
-msgstr "好吧。但你得快點。你開了個好頭，但馬爾奇爾大巫師可不會一直等下去。"
+msgstr "好吧。但你得快點。你開了個好頭，但麥爾吉爾大巫師可不會一直等下去。"
 
 # P13 batch 5
 #. , after ""
 msgctxt "bark 058A:1C3F"
 msgid "Very well. But you must hurry. You are almost done but Master Malchir will not wait forever. "
-msgstr "好吧。但你得快點。你快完成了，但馬爾奇爾大巫師可不會一直等下去。"
+msgstr "好吧。但你得快點。你快完成了，但麥爾吉爾大巫師可不會一直等下去。"
 
 # P13 batch 5
 #. , after ""
 msgctxt "bark 058A:1C3F"
 msgid "Very well. But you must hurry. Master Malchir will not wait forever. "
-msgstr "好吧。但你得快點。馬爾奇爾大巫師可不會一直等下去。"
+msgstr "好吧。但你得快點。麥爾吉爾大巫師可不會一直等下去。"
 
 # P13 batch 5
 #. , after ""
@@ -307,7 +307,7 @@ msgstr "我想了解一道法術。"
 #. , after "I am ready to be tested. "
 msgctxt "bark 058A:248F"
 msgid "Are you? We shall see.*Your test will consist of enchanting a focus or foci, your choice, with the spells of Flash, Flame Bolt, and Endure Heat. If you find that you are not ready once the test begins, you may still leave, but the test will be forfeit. "
-msgstr "是嗎？我們走著瞧。*你的考驗是為一個或多個法器——隨你選——附上閃光術、烈焰箭和耐熱術。考驗開始後，要是你發現自己還沒準備好，還是可以離開，但考驗就算棄權。"
+msgstr "是嗎？我們走著瞧。*你的考驗是為一個或多個法器——隨你選——附上飛遁術、火箭術和耐熱術。考驗開始後，要是你發現自己還沒準備好，還是可以離開，但考驗就算棄權。"
 
 # P13 batch 5
 #. , after "I am ready to be tested. "
@@ -362,7 +362,7 @@ msgstr "首先，我要考驗你創造巫術能量並將它束縛在實體器具
 #. , after "How will I be tested? "
 msgctxt "bark 058A:2AC6"
 msgid "For your next test, I will give you the key of the Acolyte. It is not a physical key, as such, but the ability to enter into the Obsidian Fortress. Your test lies within. If you survive to find Master Malchir, you have passed. "
-msgstr "你的下一項考驗，我會給你學徒之鑰。它不是實體的鑰匙，而是進入黑曜石要塞的能力。你的考驗就在裡面。只要你活著找到馬爾奇爾大巫師，就算通過了。"
+msgstr "你的下一項考驗，我會給你學徒之鑰。它不是實體的鑰匙，而是進入黑曜石要塞的能力。你的考驗就在裡面。只要你活著找到麥爾吉爾大巫師，就算通過了。"
 
 # P13 batch 5
 #. , after "How will I be tested? "
@@ -488,19 +488,19 @@ msgstr "法器是設計來容納法術能量的。每種法器能容納的法術
 #. , after "Explain the foci. "
 msgctxt "bark 058A:383C"
 msgid "The pentacle symbol is the least powerful, but quite possibly the most useful focus. It is designed to contain the energies of the Ignite and Extinguish spells, however, any other spell may be worked into its pattern for one use. "
-msgstr "五芒星符印是威力最弱、但很可能最有用的法器。它是設計來容納點燃術和熄火術的能量，不過其他任何法術也都能織入它的圖紋，用一次。"
+msgstr "五芒星符印是威力最弱、但很可能最有用的法器。它是設計來容納發火術和熄滅術的能量，不過其他任何法術也都能織入它的圖紋，用一次。"
 
 # P13 batch 5
 #. , after "Explain the foci. "
 msgctxt "bark 058A:396F"
 msgid "The wand can hold the Ignite, Extinguish, Flash, and Flame Bolt spells. The Rod holds all wand spells in addition to the protective spells of Endure Heat, Fire Shield, and Armor of Flames. The staff holds all of the wand and rod spells along with the Create Fire and Explosion spells. "
-msgstr "魔杖能容納點燃術、熄火術、閃光術和烈焰箭。權杖除了魔杖的所有法術外，還能容納耐熱術、火焰護盾和烈焰護甲這些防護法術。法杖能容納魔杖和權杖的所有法術，外加造火術和爆炸術。"
+msgstr "魔杖能容納發火術、熄滅術、飛遁術和火箭術。權杖除了魔杖的所有法術外，還能容納耐熱術、火盾術和火焰之甲這些防護法術。法杖能容納魔杖和權杖的所有法術，外加產生火焰和爆裂術。"
 
 # P13 batch 5
 #. , after "Explain the foci. "
 msgctxt "bark 058A:39E0"
 msgid "The daemon talisman holds only the Summon Daemon, Banish Daemon, and Conflagration spells. "
-msgstr "惡魔護符只能容納召喚惡魔、驅逐惡魔和烈焰焚燒這幾道法術。"
+msgstr "惡魔護符只能容納召喚惡魔、放逐惡魔和巨焰術這幾道法術。"
 
 # P13 batch 5
 #. , after "Explain the foci. "
@@ -524,7 +524,7 @@ msgstr "最簡單的材料是火山灰。它在巫術中的作用，是代表引
 #. , after "What are reagents? "
 msgctxt "bark 058A:3C4D"
 msgid "Pumice is thrown far from the maw of the volcano, and has the property of giving distance to a spell. "
-msgstr "浮岩是從火山口拋射到遠處的，具有讓法術射得更遠的特性。"
+msgstr "浮石是從火山口拋射到遠處的，具有讓法術射得更遠的特性。"
 
 # P13 batch 5
 #. , after "What are reagents? "
@@ -566,7 +566,7 @@ msgstr "我覺得你說的話裡有個字拼錯了。我也不知道我怎麼會
 #. , after ""
 msgctxt "bark 058A:4323"
 msgid "Well done, Disciple! You are now ready to seek out the Master. Go to the Obsidian Fortress. The gates will no longer bar you. In my eyes you are now an Acolyte, only Master Malchir has the right to revoke this should you fail his tests. "
-msgstr "做得好，門徒！你現在已經準備好去找大師了。前往黑曜石要塞吧，大門不會再阻擋你。在我眼中，你現在已經是學徒了。只有在你沒通過馬爾奇爾大巫師的考驗時，他才有權撤銷這個身分。"
+msgstr "做得好，門徒！你現在已經準備好去找大師了。前往黑曜石要塞吧，大門不會再阻擋你。在我眼中，你現在已經是學徒了。只有在你沒通過麥爾吉爾大巫師的考驗時，他才有權撤銷這個身分。"
 
 # P13 batch 5
 #. , after ""
@@ -578,7 +578,7 @@ msgstr "抱歉，學徒。我沒時間聊天。身為第一學徒，我的職責
 #. , after ""
 msgctxt "bark 058A:4464"
 msgid "Besides, I believe the Master still wishes to see you. Do not tarry overlong. Malchir is not known to be forgiving. "
-msgstr "再說，我想大師還想見你。別耽擱太久。馬爾奇爾可不是出了名的寬宏大量。"
+msgstr "再說，我想大師還想見你。別耽擱太久。麥爾吉爾可不是出了名的寬宏大量。"
 
 # P13 batch 5
 #. value of {varED}: "Yes, master. " | "Yes, mistress. "
@@ -606,4 +606,4 @@ msgstr "貝恩"
 #. parameter value inserted into sentence templates
 msgctxt "param 058A:varF1"
 msgid "Vardion"
-msgstr "瓦爾迪恩"
+msgstr "瓦迪恩"

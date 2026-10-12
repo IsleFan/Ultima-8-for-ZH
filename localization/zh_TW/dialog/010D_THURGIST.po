@@ -14,19 +14,19 @@ msgstr ""
 #. event 00 (look)
 msgctxt "bark 010D:00EF"
 msgid "dead theurgist "
-msgstr "死去的神術師"
+msgstr "死去的神通師"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 010D:0112"
 msgid "theurgist "
-msgstr "神術師"
+msgstr "神通師"
 
 # P13 batch 6
 #. event 11 (leaveFastArea)
 msgctxt "bark 010D:01BA"
 msgid "Help me, Stratos! I am attacked! "
-msgstr "救救我，史特拉托斯！有人攻擊我！"
+msgstr "救救我，史卓拉透絲！有人攻擊我！"
 
 # P13 batch 6
 #. event 01 (use (talk))
@@ -80,7 +80,7 @@ msgstr "我最好別跟你說話。"
 #. event 01 (use (talk))
 msgctxt "bark 010D:05CA"
 msgid "Strangers are a distraction that we do not need here on Argentrock. "
-msgstr "在白銀之岩，我們不需要陌生人來讓人分心。"
+msgstr "在銀岩，我們不需要陌生人來讓人分心。"
 
 # P13 batch 6
 #. event 01 (use (talk))

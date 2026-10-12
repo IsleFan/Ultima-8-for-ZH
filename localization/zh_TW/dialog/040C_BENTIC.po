@@ -263,7 +263,7 @@ msgstr "說說這些書。"
 #. event 01 (use (talk)), after "Tell me of the people. "
 msgctxt "bark 040C:16A2"
 msgid "Ah, are you a student of life as well? I do so enjoy finding someone who shares the same passions as I do. The people here in Tenebrae are a varied and fascinating lot. They go about their daily toils, laboring under the yoke of a somewhat ... restrictive government and yet still find the time to enjoy themselves occasionally."
-msgstr "啊，你也是研究人生的學生嗎？能找到和我志趣相投的人，真是太令人高興了。泰尼伯瑞這裡的人形形色色，十分有趣。他們在一個有點……嚴苛的政府枷鎖下日復一日地辛勞，卻仍能偶爾找時間享受一下。"
+msgstr "啊，你也是研究人生的學生嗎？能找到和我志趣相投的人，真是太令人高興了。泰納布利這裡的人形形色色，十分有趣。他們在一個有點……嚴苛的政府枷鎖下日復一日地辛勞，卻仍能偶爾找時間享受一下。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me of the people. "
@@ -317,7 +317,7 @@ msgstr "我的圖書館裡藏書豐富。你也是學者嗎？噢，能認識你
 #. event 01 (use (talk)), after "A restrictive government? "
 msgctxt "bark 040C:1D7E"
 msgid "Hmmm, it is not quite the safe thing to discuss here. Even my interest in knowledge and books can not protect me from Lady Mordea. You might say she has a rather...short temper. Why, just recently her guards confiscated my personal diary, though I don't have any idea why. "
-msgstr "嗯……這可不是在這裡談論的安全話題。就算我只對知識和書本有興趣，也保護不了我免於莫爾迪亞夫人的怒火。你可以說她的脾氣有點……暴躁。哎，就在不久前，她的衛兵沒收了我的私人日記，我完全不知道為什麼。"
+msgstr "嗯……這可不是在這裡談論的安全話題。就算我只對知識和書本有興趣，也保護不了我免於莫迪雅夫人的怒火。你可以說她的脾氣有點……暴躁。哎，就在不久前，她的衛兵沒收了我的私人日記，我完全不知道為什麼。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "I wish to leave Pagan. " or "Does he know how I may leave Pagan? "
@@ -330,31 +330,31 @@ msgstr "我想離開佩根。"
 #. event 01 (use (talk)), after "I wish to leave Pagan. " or "Does he know how I may leave Pagan? "
 msgctxt "bark 040C:1F64"
 msgid "Leave Pagan? My goodness, I don't think I've ever had anyone ask for that, but then again, you don't act, talk or dress like anyone I've ever seen before. Let's see, I can only suggest you speak to someone with more magic abilities than I. Mythran could help you or, though I dread to suggest it, perhaps the Necromancer could help you. "
-msgstr "離開佩根？我的天哪，我想從來沒有人問過這種事。不過話說回來，你的舉止、談吐和穿著也不像我見過的任何人。我想想……我只能建議你去找比我更懂魔法的人談談。米斯蘭也許能幫你；或者，雖然我很不願意這麼建議，死靈法師或許也能幫上忙。"
+msgstr "離開佩根？我的天哪，我想從來沒有人問過這種事。不過話說回來，你的舉止、談吐和穿著也不像我見過的任何人。我想想……我只能建議你去找比我更懂魔法的人談談。米瑟倫也許能幫你；或者，雖然我很不願意這麼建議，降靈師或許也能幫上忙。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "I wish to leave Pagan. " or "Does he know how I may leave Pagan? "
 msgctxt "ask 040C"
 msgid "Who is Mythran? "
-msgstr "米斯蘭是誰？"
+msgstr "米瑟倫是誰？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "I wish to leave Pagan. " or "Does he know how I may leave Pagan? "
 msgctxt "ask 040C"
 msgid "Necromancer? "
-msgstr "死靈法師？"
+msgstr "降靈師？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Necromancer? "
 msgctxt "bark 040C:20D9"
 msgid "Oh, they're not as bad as many of the people in this city make out. Their magic is a little macabre, I suppose, but they do have quite a bit of magic at their call. They serve Lithos, you know. "
-msgstr "噢，他們並不像城裡許多人說的那麼壞。我想他們的魔法是有點陰森，但他們確實能驅使相當強大的魔法。你知道的，他們侍奉利索斯。"
+msgstr "噢，他們並不像城裡許多人說的那麼壞。我想他們的魔法是有點陰森，但他們確實能驅使相當強大的魔法。你知道的，他們侍奉里索斯。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Necromancer? "
 msgctxt "ask 040C"
 msgid "Who is Lithos? "
-msgstr "利索斯是誰？"
+msgstr "里索斯是誰？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Necromancer? "
@@ -366,7 +366,7 @@ msgstr "他們有多少人？"
 #. event 01 (use (talk)), after "How many are there? "
 msgctxt "bark 040C:224B"
 msgid "There used to be many, but, the sentiment here in Tenebrae is against them so they have very few new recruits. I believe there are only one or two of them left. It's too bad, really. Their magic is so very different from the Tempest. "
-msgstr "以前有很多，但泰尼伯瑞的民情對他們不利，所以幾乎招不到新人。我想現在只剩一兩個了。真的很可惜，他們的魔法和風暴使者的大不相同。"
+msgstr "以前有很多，但泰納布利的民情對他們不利，所以幾乎招不到新人。我想現在只剩一兩個了。真的很可惜，他們的魔法和役水師的大不相同。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "How many are there? "
@@ -378,37 +378,37 @@ msgstr "魔法有什麼不同？"
 #. event 01 (use (talk)), after "How is the magic different? "
 msgctxt "bark 040C:23AE"
 msgid "The magic of the Tempest is hereditary, while the magic of the Necromancers may be learned and gained through tests and trials. Not that everyone can be a Necromancer, mind you. Not everyone has the stomach for it. "
-msgstr "風暴使者的魔法是世襲的，而死靈法師的魔法可以透過考驗與試煉學得。不過請注意，並不是人人都能當死靈法師，不是每個人都受得了的。"
+msgstr "役水師的魔法是世襲的，而降靈師的魔法可以透過考驗與試煉學得。不過請注意，並不是人人都能當降靈師，不是每個人都受得了的。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Who is Mythran? "
 msgctxt "bark 040C:24BF"
 msgid "Mythran lives in a small house on the Plateau. He has been known to dabble in the various magical arts and is a scholar. He often makes magical scrolls and things and sells them. "
-msgstr "米斯蘭住在高原上的一間小屋裡。大家都知道他涉獵各種魔法技藝，也是位學者。他常製作魔法捲軸之類的東西拿來販售。"
+msgstr "米瑟倫住在高地上的一間小屋裡。大家都知道他涉獵各種魔法技藝，也是位學者。他常製作魔法捲軸之類的東西拿來販售。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Who is Mythran? "
 msgctxt "ask 040C"
 msgid "Mythran practices magical arts? "
-msgstr "米斯蘭會施展魔法？"
+msgstr "米瑟倫會施展魔法？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Who is Mythran? "
 msgctxt "ask 040C"
 msgid "Mythran is a scholar? "
-msgstr "米斯蘭是學者？"
+msgstr "米瑟倫是學者？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Who is Mythran? "
 msgctxt "ask 040C"
 msgid "Where is the Plateau? "
-msgstr "高原在哪裡？"
+msgstr "高地在哪裡？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Where is the Plateau? "
 msgctxt "bark 040C:264A"
 msgid "From the palace in the center of Tenebrae, head north out of the city. Follow the path through the Valley to a cave entrance. Go through the cave. It opens on the other side of the mountain on the Plateau. "
-msgstr "從泰尼伯瑞中央的宮殿往北出城，沿著小路穿過山谷，走到一個洞穴入口。穿過洞穴，出口就在山的另一側，也就是高原上。"
+msgstr "從泰納布利中央的宮殿往北出城，沿著小路穿過山谷，走到一個洞穴入口。穿過洞穴，出口就在山的另一側，也就是高地上。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Mythran practices magical arts? "
@@ -426,7 +426,7 @@ msgstr "什麼流派？"
 #. event 01 (use (talk)), after "What schools? "
 msgctxt "bark 040C:2985"
 msgid "Why the four elemental schools, of course. There are those who follow Lithos and practice his magic. These spells are mostly earth-based spells. They require long hours of study and practice to cast correctly, or so I've read. The Tempestual magics of Hydros are only available through heredity and so are unavailable to the majority. Now the magics of Pyros, the fire elemental are quite spectacular to watch, but very dangerous to the caster. Stratos, on the other hand provides healing magics, although she requires strict obedience to her tenets."
-msgstr "當然是四大元素流派啊。有人追隨利索斯、修習他的魔法，這類法術多半與大地有關，據我讀到的，要正確施展需要長時間的研習與練習。海德羅斯的風暴魔法只能靠血統傳承，所以大多數人都學不到。至於火之元素派羅斯的魔法，看起來相當壯觀，但對施法者非常危險。而史特拉托斯則賜予治癒的魔法，不過她要求信徒嚴格遵守她的教義。"
+msgstr "當然是四大元素流派啊。有人追隨里索斯、修習他的魔法，這類法術多半與大地有關，據我讀到的，要正確施展需要長時間的研習與練習。海特蘿的風暴魔法只能靠血統傳承，所以大多數人都學不到。至於火之元素派羅斯的魔法，看起來相當壯觀，但對施法者非常危險。而史卓拉透絲則賜予治癒的魔法，不過她要求信徒嚴格遵守她的教義。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Mythran is a scholar? "
@@ -438,7 +438,7 @@ msgstr "嗯，算是吧。他和我一樣喜歡研究、讀書，但他一旦有
 #. event 01 (use (talk)), after "Who is Lithos? "
 msgctxt "bark 040C:2C42"
 msgid "The Earth Titan, or Mountain King as he is sometimes called. He is a very powerful Titan, has the ability to make the very ground shake. The Necromancers still serve him, though I understand they have very few applicants to be an apprentice these days. "
-msgstr "他是大地泰坦，有時也被稱為山之王。他是非常強大的泰坦，能讓大地為之震動。死靈法師至今仍侍奉著他，不過據我所知，這年頭想當他們學徒的人非常少。"
+msgstr "他是大地泰坦，有時也被稱為山岳之王。他是非常強大的泰坦，能讓大地為之震動。降靈師至今仍侍奉著他，不過據我所知，這年頭想當他們學徒的人非常少。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "What is 'Pagan'? "
@@ -450,7 +450,7 @@ msgstr "佩根？哎呀，那就是這個地方的名字啊。"
 #. event 01 (use (talk)), after "What is 'Pagan'? "
 msgctxt "ask 040C"
 msgid "I thought this place was 'Tenebrae'. "
-msgstr "我以為這裡叫「泰尼伯瑞」。"
+msgstr "我以為這裡叫「泰納布利」。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "I thought this place was 'Tenebrae'. "

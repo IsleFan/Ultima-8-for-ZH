@@ -14,7 +14,7 @@ msgstr ""
 #. event 00 (look)
 msgctxt "bark 02EA:00B2"
 msgid "Death Speak "
-msgstr "與亡者交談"
+msgstr "死者對談"
 
 # P13 batch 6
 #. event 00 (look)
@@ -26,43 +26,43 @@ msgstr "死亡面具"
 #. event 00 (look)
 msgctxt "bark 02EA:010D"
 msgid "Rock Flesh "
-msgstr "岩石之膚"
+msgstr "岩石血肉"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 02EA:013A"
 msgid "Summon Dead "
-msgstr "召喚亡者"
+msgstr "召喚死者"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 02EA:0167"
 msgid "Open Ground "
-msgstr "裂地術"
+msgstr "開啟土地"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 02EA:0195"
 msgid "Create Golem "
-msgstr "創造魔像"
+msgstr "創造石人"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 02EA:01C6"
 msgid "Withstand Death "
-msgstr "抵禦死亡"
+msgstr "抗拒死亡"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 02EA:01F3"
 msgid "Grant Peace "
-msgstr "賜予安息"
+msgstr "請求和平"
 
 # P13 batch 6
 #. event 00 (look)
 msgctxt "bark 02EA:021F"
 msgid "Call Quake "
-msgstr "引發地震"
+msgstr "召喚地震"
 
 # P13 batch 6
 #. event 00 (look)

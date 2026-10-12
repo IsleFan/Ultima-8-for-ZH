@@ -38,7 +38,7 @@ msgstr "泰坦們發怒了！快逃到安全的地方，祈求他們開恩吧！
 #. event 01 (use (talk))
 msgctxt "bark 042D:02FA"
 msgid "For the sake of Lithos, we are beset by the dead! Find shelter, stranger. "
-msgstr "看在利索斯的分上，死人把我們包圍了！快找地方躲起來，陌生人。"
+msgstr "看在里索斯的分上，死人把我們包圍了！快找地方躲起來，陌生人。"
 
 # P13 batch 1
 #. event 01 (use (talk))
@@ -98,13 +98,13 @@ msgstr "我叫什麼不關你的事。你該關心的是別惹麻煩。"
 #. event 01 (use (talk)), after "What is your duty? "
 msgctxt "bark 042D:05B4"
 msgid "My duty is to protect the Tempest, Devon, though I doubt he needs it with his powers. "
-msgstr "我的職責是保護風暴使者戴文，不過以他的力量，我懷疑他根本不需要保護。"
+msgstr "我的職責是保護役水師戴文，不過以他的力量，我懷疑他根本不需要保護。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What is your duty? "
 msgctxt "bark 042D:065E"
 msgid "My duty is to protect her Ladyship, Mordea, though I doubt she needs it with her powers. You would have to be insane to think of assaulting her. "
-msgstr "我的職責是保護莫爾迪亞夫人，不過以她的力量，我懷疑她根本不需要保護。只有瘋子才會想攻擊她。"
+msgstr "我的職責是保護莫迪雅夫人，不過以她的力量，我懷疑她根本不需要保護。只有瘋子才會想攻擊她。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Where am I? "
@@ -116,7 +116,7 @@ msgstr "這次給我仔細聽好！"
 #. event 01 (use (talk)), after "Where am I? "
 msgctxt "bark 042D:0701"
 msgid "You are in central Tenebrae. "
-msgstr "你在泰尼伯瑞的中心區。"
+msgstr "你在泰納布利的中心區。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Where am I? "
@@ -134,7 +134,7 @@ msgstr "既然你剛來，我建議你離那裡遠一點！"
 #. event 01 (use (talk)), after "Where am I? "
 msgctxt "bark 042D:0837"
 msgid "It is a quiet place without Mordea. "
-msgstr "少了莫爾迪亞，那裡安靜多了。"
+msgstr "少了莫迪雅，那裡安靜多了。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Where am I? "

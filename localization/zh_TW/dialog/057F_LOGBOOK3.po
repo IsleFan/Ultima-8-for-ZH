@@ -18,7 +18,7 @@ msgstr "戴文才是合法的繼承人！"
 # P13 batch 6
 msgctxt "ask 057F"
 msgid "The tyrant Mordea has no birthright! "
-msgstr "暴君莫爾迪亞根本沒有繼承權！"
+msgstr "暴君莫迪雅根本沒有繼承權！"
 
 # P13 batch 6
 #. , after "Devon is the rightful heir! "
@@ -54,7 +54,7 @@ msgstr "說出這種異端邪說，我現在就該殺了你！"
 #. , after "Devon is the rightful heir! "
 msgctxt "bark 057F:0333"
 msgid "Stay your hand, Darion. He'll soon feed the Lurker. "
-msgstr "住手，達里恩。他很快就會去餵潛伏者了。"
+msgstr "住手，達里恩。他很快就會去餵潛藏者了。"
 
 # P13 batch 6
 #. , after "Devon is the rightful heir! "
@@ -66,7 +66,7 @@ msgstr "是，夫人。"
 #. , after "Devon is the rightful heir! "
 msgctxt "bark 057F:0396"
 msgid "Me? A Tempest...? "
-msgstr "我？風暴使者……？"
+msgstr "我？役水師……？"
 
 # P13 batch 6
 #. , after "Devon is the rightful heir! "
@@ -96,7 +96,7 @@ msgstr "我有證據！"
 #. , after "The tyrant Mordea has no birthright! "
 msgctxt "bark 057F:0649"
 msgid "You shall not blaspheme the Tempest! "
-msgstr "不准你褻瀆風暴使者！"
+msgstr "不准你褻瀆役水師！"
 
 # P13 batch 6
 #. , after "The tyrant Mordea has no birthright! "
@@ -114,25 +114,25 @@ msgstr "我要除掉這個沒禮貌的粗人！"
 #. , after "I have proof! "
 msgctxt "bark 057F:08AA"
 msgid "I have a book that not only proves Devon is the rightful Tempest, "
-msgstr "我有一本書，不但證明戴文才是合法的風暴使者，"
+msgstr "我有一本書，不但證明戴文才是合法的役水師，"
 
 # P13 batch 6
 #. , after "I have proof! "
 msgctxt "bark 057F:0900"
 msgid "but also that his powers are stronger than those of Mordea's! "
-msgstr "還證明他的力量比莫爾迪亞更強！"
+msgstr "還證明他的力量比莫迪雅更強！"
 
 # P13 batch 6
 #. , after "I have proof! "
 msgctxt "bark 057F:095E"
 msgid "Mordea and Devon have the same father, but Devon was the first birth! "
-msgstr "莫爾迪亞和戴文是同一個父親，但戴文是長子！"
+msgstr "莫迪雅和戴文是同一個父親，但戴文是長子！"
 
 # P13 batch 6
 #. , after "I have proof! "
 msgctxt "bark 057F:0992"
 msgid "He is the rightful Tempest! "
-msgstr "他才是合法的風暴使者！"
+msgstr "他才是合法的役水師！"
 
 # P13 batch 6
 #. , after "I have proof! "
@@ -144,7 +144,7 @@ msgstr "你說謊！"
 #. , after "I have proof! "
 msgctxt "bark 057F:0A36"
 msgid "Mordea, I locked that book safely away! "
-msgstr "莫爾迪亞，我明明把那本書鎖得好好的！"
+msgstr "莫迪雅，我明明把那本書鎖得好好的！"
 
 # P13 batch 6
 #. , after "I have proof! "
@@ -162,7 +162,7 @@ msgstr "蠢貨！現在全世界都知道這個祕密了！"
 #. , after "I have proof! "
 msgctxt "bark 057F:0B9B"
 msgid "Forgive me, Lady Mordea! "
-msgstr "原諒我，莫爾迪亞夫人！"
+msgstr "原諒我，莫迪雅夫人！"
 
 # P13 batch 6
 #. , after "I have proof! "
@@ -198,7 +198,7 @@ msgstr "但真相救不了他！"
 #. , after "I have proof! "
 msgctxt "bark 057F:0EFD"
 msgid "His head will still rest in the belly of the Lurker! "
-msgstr "他的頭照樣會躺在潛伏者的肚子裡！"
+msgstr "他的頭照樣會躺在潛藏者的肚子裡！"
 
 # P13 batch 6
 #. , after "I have proof! "
@@ -222,7 +222,7 @@ msgstr "不？你竟敢違抗我？"
 #. , after "I have proof! "
 msgctxt "bark 057F:0FE6"
 msgid "I will not execute the true Tempest! "
-msgstr "我不會處決真正的風暴使者！"
+msgstr "我不會處決真正的役水師！"
 
 # P13 batch 6
 #. , after "I have proof! "
@@ -234,7 +234,7 @@ msgstr "達里恩，你也要違抗我嗎？"
 #. , after "I have proof! "
 msgctxt "bark 057F:111A"
 msgid "I cannot kill him, my Lady. He is -the- Tempest. "
-msgstr "我不能殺他，夫人。他「才是」風暴使者。"
+msgstr "我不能殺他，夫人。他「才是」役水師。"
 
 # P13 batch 6
 #. , after "I have proof! "

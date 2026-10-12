@@ -14,7 +14,7 @@ msgstr ""
 #. event 00 (look)
 msgctxt "bark 040F:00A2"
 msgid "Corinth "
-msgstr "柯林斯"
+msgstr "珂林絲"
 
 # P13 batch 5
 #. event 00 (look)
@@ -140,7 +140,7 @@ msgstr "那好吧……"
 #. event 10 (enterFastArea)
 msgctxt "bark 040F:0E07"
 msgid "I wonder what the people in Tenebrae are doing? "
-msgstr "不知道泰尼伯瑞的人都在做什麼？"
+msgstr "不知道泰納布利的人都在做什麼？"
 
 # P13 batch 5
 #. event 10 (enterFastArea)
@@ -200,7 +200,7 @@ msgstr "別轉身不理我，女人！"
 #. event 01 (use (talk))
 msgctxt "ask 040F"
 msgid "Hello, Corinth. "
-msgstr "你好，柯林斯。"
+msgstr "你好，珂林絲。"
 
 # P13 batch 5
 #. event 01 (use (talk))
@@ -242,7 +242,7 @@ msgstr "閉嘴，女人！"
 #. event 01 (use (talk)), after "I apologize, m'lady. "
 msgctxt "bark 040F:13AB"
 msgid "Apology accepted, sir. I hope that I was not too terse in my response. We certainly do not get many strangers up here. Allow me to introduce my self; I am Corinth. By what are you called? "
-msgstr "我接受你的道歉，先生。希望我剛才回答得不會太冷淡。我們這裡確實很少有陌生人來。容我自我介紹，我是柯林斯。你叫什麼名字？"
+msgstr "我接受你的道歉，先生。希望我剛才回答得不會太冷淡。我們這裡確實很少有陌生人來。容我自我介紹，我是珂林絲。你叫什麼名字？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "I apologize, m'lady. "
@@ -261,7 +261,7 @@ msgstr "我寧可不說。"
 #. event 01 (use (talk)), after "Don't turn away from me, woman! "
 msgctxt "bark 040F:146E"
 msgid "What? I cannot believe how rude you are! Go away before I call the Tenebrae guards!! "
-msgstr "什麼？真不敢相信你這麼無禮！快走，不然我要叫泰尼伯瑞的衛兵了！！"
+msgstr "什麼？真不敢相信你這麼無禮！快走，不然我要叫泰納布利的衛兵了！！"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Don't turn away from me, woman! "
@@ -280,7 +280,7 @@ msgstr "所以，你們很少見到陌生人？"
 #. event 01 (use (talk)), after "Don't turn away from me, woman! "
 msgctxt "ask 040F"
 msgid "Corinth? "
-msgstr "柯林斯？"
+msgstr "珂林絲？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Don't turn away from me, woman! "
@@ -394,7 +394,7 @@ msgstr "你們人民的價值觀"
 #. event 01 (use (talk)), after "I -do- apologize, my lady. "
 msgctxt "bark 040F:1BDD"
 msgid "Very well, sir, I accept your apology. I am called Corinth. By what are you called? "
-msgstr "好吧，先生，我接受你的道歉。我叫柯林斯。你叫什麼名字？"
+msgstr "好吧，先生，我接受你的道歉。我叫珂林絲。你叫什麼名字？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Hello, Corinth. "
@@ -436,7 +436,7 @@ msgstr "我對他們的了解，只有小時候聽過的故事的模糊記憶。
 #. event 01 (use (talk)), after "our people's values "
 msgctxt "bark 040F:2021"
 msgid "Lady Mordea has given us a culture to be proud of. Life is certainly better today than in the past. "
-msgstr "莫爾迪亞夫人給了我們值得驕傲的文化。如今的生活當然比過去好。"
+msgstr "莫迪雅夫人給了我們值得驕傲的文化。如今的生活當然比過去好。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "our people's values "
@@ -478,7 +478,7 @@ msgstr "你知道我是誰嗎？"
 #. event 01 (use (talk)), after "Do you know who I am? "
 msgctxt "bark 040F:2416"
 msgid "Well, to be honest, no. But, someone of my stature certainly has no business telling a warrior what he can or can not do. But I have not introduced myself. I am Corinth. And by what are you called? "
-msgstr "嗯，老實說，不知道。不過，像我這樣身分的人，當然沒資格告訴一位戰士他能做什麼、不能做什麼。我還沒自我介紹呢，我是柯林斯。你叫什麼名字？"
+msgstr "嗯，老實說，不知道。不過，像我這樣身分的人，當然沒資格告訴一位戰士他能做什麼、不能做什麼。我還沒自我介紹呢，我是珂林絲。你叫什麼名字？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Do you know who I am? "
@@ -977,43 +977,43 @@ msgstr "強壯的好男人？"
 #. event 01 (use (talk)), after "Strong and goodly? "
 msgctxt "bark 040F:4E42"
 msgid "Many men drink every night and beat their wives but Gwillim does not do such things. He does not even mind that I sacrifice to Hydros. "
-msgstr "很多男人每晚喝酒、打老婆，但威廉從不做那種事。他甚至不介意我向海德羅斯獻祭。"
+msgstr "很多男人每晚喝酒、打老婆，但威廉從不做那種事。他甚至不介意我向海特蘿獻祭。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Strong and goodly? "
 msgctxt "ask 040F"
 msgid "You sacrifice to Hydros? "
-msgstr "你向海德羅斯獻祭？"
+msgstr "你向海特蘿獻祭？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "You sacrifice to Hydros? "
 msgctxt "bark 040F:4F46"
 msgid "Gwillim is a farmer, so he sacrifices to Lithos, the Earth Titan. But, like my father, I sacrifice to the Water Titan, Hydros. "
-msgstr "威廉是農夫，所以他向大地泰坦利索斯獻祭。但我跟我父親一樣，向海洋泰坦海德羅斯獻祭。"
+msgstr "威廉是農夫，所以他向大地泰坦里索斯獻祭。但我跟我父親一樣，向海洋泰坦海特蘿獻祭。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "You sacrifice to Hydros? "
 msgctxt "ask 040F"
 msgid "Why Hydros? "
-msgstr "為什麼是海德羅斯？"
+msgstr "為什麼是海特蘿？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Why Hydros? "
 msgctxt "bark 040F:5036"
 msgid "My father taught me to sacrifice to Hydros. All of my family has sacrificed to the Lurker for as far back as any can remember. "
-msgstr "是我父親教我向海德羅斯獻祭的。從有人記得的時候起，我家人就一直向潛伏者獻祭。"
+msgstr "是我父親教我向海特蘿獻祭的。從有人記得的時候起，我家人就一直向潛藏者獻祭。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Great things? "
 msgctxt "bark 040F:50DE"
 msgid "Yes! Cyrrus has gone to study with the Theurgists. He will help many people as a Theurgist. "
-msgstr "是的！席勒斯去跟神術師學習了。他當上神術師後，會幫助很多人。"
+msgstr "是的！席勒斯去跟神通師學習了。他當上神通師後，會幫助很多人。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Great things? "
 msgctxt "ask 040F"
 msgid "Theurgist "
-msgstr "神術師"
+msgstr "神通師"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Great things? "
@@ -1025,31 +1025,31 @@ msgstr "幫助別人？"
 #. event 01 (use (talk)), after "Theurgist "
 msgctxt "bark 040F:51BD"
 msgid "The Theurgists are the disciples of the Air Titan. Although Gwillim sacrifices to Lithos, I believe that Cyrrus was born to be a Theurgist. "
-msgstr "神術師是天空泰坦的門徒。雖然威廉向利索斯獻祭，但我相信席勒斯天生就該當神術師。"
+msgstr "神通師是天空泰坦的門徒。雖然威廉向里索斯獻祭，但我相信席勒斯天生就該當神通師。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Theurgist "
 msgctxt "ask 040F"
 msgid "But what of Hydros? "
-msgstr "那海德羅斯呢？"
+msgstr "那海特蘿呢？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Theurgist "
 msgctxt "ask 040F"
 msgid "Born to be a Theurgist? "
-msgstr "天生就該當神術師？"
+msgstr "天生就該當神通師？"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Help people? "
 msgctxt "bark 040F:52A4"
 msgid "The Theurgists specialize in healing the sick. Some say that they can even bring back the dead. "
-msgstr "神術師專門醫治病人。有人說他們甚至能讓死者復活。"
+msgstr "神通師專門醫治病人。有人說他們甚至能讓死者復活。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "But what of Hydros? "
 msgctxt "bark 040F:53C4"
 msgid "All of the Titans are worthy of service. Gwillim did not much like the idea of Cyrrus being a Theurgist but saw the boy's dedication. If Cyrrus is meant to serve Stratos then we must not stand in his way. "
-msgstr "每位泰坦都值得侍奉。威廉不太喜歡席勒斯當神術師，但他看到了那孩子的決心。如果席勒斯注定要侍奉史特拉托斯，我們就不該擋他的路。"
+msgstr "每位泰坦都值得侍奉。威廉不太喜歡席勒斯當神通師，但他看到了那孩子的決心。如果席勒斯注定要侍奉史卓拉透絲，我們就不該擋他的路。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "But what of Hydros? "
@@ -1073,7 +1073,7 @@ msgstr "巫師？"
 #. event 01 (use (talk)), after "Born to be a Theurgist? "
 msgctxt "bark 040F:569C"
 msgid "All of his life Cyrrus has most enjoyed caring for others. He has always a talent for healing. It did not matter if it was a person or an animal, Cyrrus would heal it if it were sick. I knew that he was born to be a Theurgist, not to spend his life on a farm. "
-msgstr "席勒斯這一生最喜歡照顧別人。他一向有治療的天分。不管是人還是動物，只要生病了，席勒斯都會去醫治。我就知道他天生是當神術師的料，而不是一輩子待在農場上。"
+msgstr "席勒斯這一生最喜歡照顧別人。他一向有治療的天分。不管是人還是動物，只要生病了，席勒斯都會去醫治。我就知道他天生是當神通師的料，而不是一輩子待在農場上。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Born to be a Theurgist? "
@@ -1133,7 +1133,7 @@ msgstr "什麼隱士？"
 #. event 01 (use (talk)), after "What hermit? "
 msgctxt "bark 040F:5B8F"
 msgid "I believe that his name is Mythran. He goes into Tenebrae now and then, for supplies I suppose. No one knows much about Mythran but there are many tales about him. "
-msgstr "我想他叫米斯蘭。他不時會去泰尼伯瑞，我猜是去採買補給。沒人對米斯蘭了解多少，但關於他的傳聞可多了。"
+msgstr "我想他叫米瑟倫。他不時會去泰納布利，我猜是去採買補給。沒人對米瑟倫了解多少，但關於他的傳聞可多了。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "What hermit? "
@@ -1151,7 +1151,7 @@ msgstr "噢，我也不全知道。大家說他會魔法，有些人甚至說跟
 #. event 01 (use (talk)), after "His future? "
 msgctxt "bark 040F:5E09"
 msgid "I knew that if Cyrrus became a farmer, he would be poor for the rest of life. Gwillim does not know that I convinced Cyrrus to seek the Theurgists, but I had to, for Cyrrus' sake. Now he can lead a life far richer than that of a farm man. "
-msgstr "我知道席勒斯要是當了農夫，就會窮一輩子。威廉不知道是我說服席勒斯去找神術師的，但為了席勒斯好，我不得不這麼做。現在他能過上比農夫富足得多的生活了。"
+msgstr "我知道席勒斯要是當了農夫，就會窮一輩子。威廉不知道是我說服席勒斯去找神通師的，但為了席勒斯好，我不得不這麼做。現在他能過上比農夫富足得多的生活了。"
 
 # P13 batch 5
 #. event 01 (use (talk)), after "Even animals? "

@@ -134,7 +134,7 @@ msgstr "總算要走了。"
 #. event 01 (use (talk)), after "Bye "
 msgctxt "bark 042F:0764"
 msgid "By the way, rumor has it you had something to do with getting rid of Mordea. "
-msgstr "對了，有傳言說，莫爾迪亞被除掉跟你有關。"
+msgstr "對了，有傳言說，莫迪雅被除掉跟你有關。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Bye "

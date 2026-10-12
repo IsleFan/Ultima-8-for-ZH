@@ -21,11 +21,13 @@
 
 ## 加入遊戲
 
-1. 開啟 ScummVM，按「Add Game…」（新增遊戲）。
+1. 開啟 ScummVM，按「新增遊戲」（Add Game…）。
 2. 選擇遊戲的**英文版資料夾**（裡面有 `STATIC`、`USECODE` 等資料夾）。
-3. 選好遊戲後按「Start」（開始）。
+3. 選好遊戲後按「啟動」（Start）。
 
-遊戲選項（Game Options… → Game）裡的中文化、高解析中文字、快捷圖示列等開關，和 Windows 版相同，預設都已開啟，說明見 [SETTINGS.zh-TW.md](SETTINGS.zh-TW.md)。
+遊戲設定（Game Options… →「遊戲」分頁）裡的中文化、高解析中文字、快捷圖示列等開關，以及往下捲動的中文設定（字型、字級、字距等），都和 Windows 版相同，說明見 [SETTINGS.zh-TW.md](SETTINGS.zh-TW.md)。
+
+ScummVM 的介面語言預設跟隨系統。想要正體中文介面：「全域設定」（Global Options…）→「雜項」（Misc）→「介面語言」（GUI language）選擇「Chinese (Traditional)」。
 
 ## 進階設定檔的位置
 

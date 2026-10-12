@@ -105,7 +105,7 @@ msgstr "被惡魔吞噬，真是可怕的死法。我不確定我當初該不該
 #. , after "Emrichol"
 msgctxt "bark 0575:0898"
 msgid "I shall have to learn how to banish daemons as soon as possible. I suggest you do the same. Farewell for now. "
-msgstr "我得盡快學會怎麼驅逐惡魔。我建議你也一樣。暫且告辭了。"
+msgstr "我得盡快學會怎麼放逐惡魔。我建議你也一樣。暫且告辭了。"
 
 # P13 batch 5
 #. , after "Emrichol"
@@ -198,7 +198,7 @@ msgstr "還有別的想問的嗎？"
 #. , after "Tell me of this place. "
 msgctxt "bark 0575:0F6A"
 msgid "Well... as a Disciple, it is not my place to inform newcomers of this place. Suffice it to say, it is called Sorcerer's Enclave, and it sits in Daemon's Crag. "
-msgstr "嗯……身為門徒，向新來的人介紹這裡不是我的分內事。只能說，這裡叫巫師聚落，坐落在惡魔崖。"
+msgstr "嗯……身為門徒，向新來的人介紹這裡不是我的分內事。只能說，這裡叫巫師的領地，坐落在惡魔崖。"
 
 # P13 batch 5
 #. , after "Tell me of this place. "

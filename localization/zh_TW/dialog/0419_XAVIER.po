@@ -591,7 +591,7 @@ msgstr "樹林裡"
 #. event 01 (use (talk)), after "I found this ring. "
 msgctxt "ask 0419"
 msgid "Windy Point "
-msgstr "狂風角"
+msgstr "風之岬"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "the monastery " or "the woods "
@@ -621,7 +621,7 @@ msgstr "天哪。他一心尋死，一定是匆忙間把它弄丟了。這真是
 #. event 01 (use (talk)), after "I will return it. "
 msgctxt "bark 0419:2B9C"
 msgid "That is a good thing. His mother's name is Rhian and she lives in Tenebrae. She is a weaver and, since the death of her husband, has taken over the running of the shop. Thank you for this good deed. "
-msgstr "這是件好事。他母親叫芮安，住在泰尼伯瑞。她是個織工，丈夫死後就接手經營那家店。謝謝你做這件好事。"
+msgstr "這是件好事。他母親叫芮安，住在泰納布利。她是個織工，丈夫死後就接手經營那家店。謝謝你做這件好事。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "I don't wish to return it. "
@@ -669,7 +669,7 @@ msgstr "抱歉，我沒有力氣做這件事。等我休息過後再來吧。"
 #. event 01 (use (talk)), after "Yes, I need healing. " or "I need healing. "
 msgctxt "bark 0419:302D"
 msgid "I would that I could heal you, but a terrible thing has happened. I am not able to touch Stratos. I am afraid something dreadful has happened. "
-msgstr "我很想替你治療，但發生了一件可怕的事。我無法觸及史特拉托斯。恐怕出了什麼可怕的事。"
+msgstr "我很想替你治療，但發生了一件可怕的事。我無法觸及史卓拉透絲。恐怕出了什麼可怕的事。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Yes, I need healing. " or "I need healing. "
@@ -741,13 +741,13 @@ msgstr "噢不！你怎麼能這麼做？我看錯你的為人了，沒想到你
 #. event 01 (use (talk)), after "What is this place? " or "Tell me again of this place. "
 msgctxt "bark 0419:3689"
 msgid "This is Argentrock Isle. It is home to those that follow the Great Titan of Air, Stratos. "
-msgstr "這裡是白銀之岩島，是追隨偉大的天空泰坦史特拉托斯之人的家園。"
+msgstr "這裡是銀岩島，是追隨偉大的天空泰坦史卓拉透絲之人的家園。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "What is this place? " or "Tell me again of this place. "
 msgctxt "ask 0419"
 msgid "Who is Stratos? "
-msgstr "史特拉托斯是誰？"
+msgstr "史卓拉透絲是誰？"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "What is this place? " or "Tell me again of this place. "
@@ -759,13 +759,13 @@ msgstr "追隨者是什麼人？"
 #. event 01 (use (talk)), after "Who are the followers? "
 msgctxt "bark 0419:37C8"
 msgid "We are the Theurgists. By devoting our lives to Stratos, we are able to touch a small portion of the Titan's power and use it to heal. "
-msgstr "我們是神術師。我們把一生奉獻給史特拉托斯，因而能觸及這位泰坦的一小部分力量，用來治療。"
+msgstr "我們是神通師。我們把一生奉獻給史卓拉透絲，因而能觸及這位泰坦的一小部分力量，用來治療。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Who is Stratos? "
 msgctxt "bark 0419:3875"
 msgid "Stratos is the greatest of the Titans, worthy of the respect and admiration of all. "
-msgstr "史特拉托斯是泰坦之中最偉大的，值得所有人尊敬與景仰。"
+msgstr "史卓拉透絲是泰坦之中最偉大的，值得所有人尊敬與景仰。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Who is Stratos? "
@@ -777,7 +777,7 @@ msgstr "值得尊敬？"
 #. event 01 (use (talk)), after "Worthy of respect? "
 msgctxt "bark 0419:394C"
 msgid "Yes, even for one such as you, who is obviously not enlightened, Stratos can offer great things. "
-msgstr "是的，就算是像你這樣顯然尚未啟蒙的人，史特拉托斯也能給予偉大的事物。"
+msgstr "是的，就算是像你這樣顯然尚未啟蒙的人，史卓拉透絲也能給予偉大的事物。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Worthy of respect? "
@@ -789,7 +789,7 @@ msgstr "什麼偉大的事物？"
 #. event 01 (use (talk)), after "What great things? "
 msgctxt "bark 0419:3A8F"
 msgid "Stratos is the greatest of the Titans. Only through her can one achieve the ability to heal the sick and injured. This gift, the power to heal is the greatest gift anyone can receive. "
-msgstr "史特拉托斯是泰坦之中最偉大的。唯有透過她，人才能獲得醫治病患與傷者的能力。這份治療之力，是任何人所能得到最偉大的恩賜。"
+msgstr "史卓拉透絲是泰坦之中最偉大的。唯有透過她，人才能獲得醫治病患與傷者的能力。這份治療之力，是任何人所能得到最偉大的恩賜。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Enlightened? "
@@ -821,7 +821,7 @@ msgstr "我還沒準備好接受第二項考驗。"
 #. event 01 (use (talk)), after "Enlightened? "
 msgctxt "bark 0419:3D6F"
 msgid "You are not of our order and have not heard the Mystic Voice of Stratos. Once you have heard the voice, you become enlightened. "
-msgstr "你不是我們修會的人，也沒聽過史特拉托斯的神秘之聲。一旦聽見那個聲音，你就得到啟蒙了。"
+msgstr "你不是我們修會的人，也沒聽過史卓拉透絲的神秘之聲。一旦聽見那個聲音，你就得到啟蒙了。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Enlightened? "
@@ -875,7 +875,7 @@ msgstr "真可惜，我想你或許有通過考驗的品格與毅力。不過如
 #. event 01 (use (talk)), after "You question my mettle? "
 msgctxt "bark 0419:41DE"
 msgid "I simply mean that these tests are not for the faint of heart. Only one strong in his faith to Stratos may find the strengh of heart to survive the tests. "
-msgstr "我只是說，這些考驗不適合膽小的人。唯有對史特拉托斯信仰堅定的人，才有足夠的心志熬過這些考驗。"
+msgstr "我只是說，這些考驗不適合膽小的人。唯有對史卓拉透絲信仰堅定的人，才有足夠的心志熬過這些考驗。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "What makes the tests fearsome? "
@@ -905,7 +905,7 @@ msgstr "說說專注考驗。"
 #. event 01 (use (talk)), after "Tell me of the Test of Wisdom. "
 msgctxt "bark 0419:45DD"
 msgid "The Test of Wisdom is the first test you may take in your journey for enlightenment. This test consists of five questions which I shall ask you. These questions will test your knowledge of the ways of the Theurgists. You must answer all five correctly to pass the test. If you are thinking of taking this test, I strongly suggest you spend some time studying in the monastery's library. Do you still wish enlightenment? "
-msgstr "智慧考驗是你在追求啟蒙的旅程中第一項可以接受的考驗。這項考驗包括我會問你的五個問題，用來測驗你對神術師之道的了解。你必須五題全部答對才能通過。如果你打算接受這項考驗，我強烈建議你先到修道院的圖書館研讀一段時間。你還想得到啟蒙嗎？"
+msgstr "智慧考驗是你在追求啟蒙的旅程中第一項可以接受的考驗。這項考驗包括我會問你的五個問題，用來測驗你對神通師之道的了解。你必須五題全部答對才能通過。如果你打算接受這項考驗，我強烈建議你先到修道院的圖書館研讀一段時間。你還想得到啟蒙嗎？"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Tell me of the Test of Wisdom. "
@@ -954,7 +954,7 @@ msgstr "在接受專注考驗之前，你必須先通過智慧考驗。"
 #. event 01 (use (talk)), after "May I take the Test of Centeredness? "
 msgctxt "bark 0419:4B77"
 msgid "Yes, I think perhaps you are ready. To take the Test of Centeredness you must travel to Windy Point and climb the highest rock there. Once atop the rock, Stratos will begin her testing of you. Her winds will blow you but you must stay atop the rock, for to fall can mean almost sure disablement and possibly death. Good luck, friend. "
-msgstr "是的，我想你或許準備好了。要接受專注考驗，你必須前往狂風角，爬上那裡最高的岩石。一到岩石頂上，史特拉托斯就會開始考驗你。她的風會吹襲你，但你必須留在岩石上，因為摔下去幾乎必定殘廢，甚至可能喪命。祝你好運，朋友。"
+msgstr "是的，我想你或許準備好了。要接受專注考驗，你必須前往風之岬，爬上那裡最高的岩石。一到岩石頂上，史卓拉透絲就會開始考驗你。她的風會吹襲你，但你必須留在岩石上，因為摔下去幾乎必定殘廢，甚至可能喪命。祝你好運，朋友。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "May I take the Test of Centeredness? "
@@ -1154,13 +1154,13 @@ msgstr ""
 #. event 01 (use (talk)), after "the battle is lost "
 msgctxt "bark 0419:5964"
 msgid "You sit in a tavern, sipping a mug of ale. The stalwart fighters around you begin to brag on deeds done to honor their patron Titan. Do you join the camraderie and tell of the glories of Stratos, or do you remain quiet? "
-msgstr "你坐在酒館裡啜飲麥酒。你身旁那些強壯的戰士開始吹噓自己為了榮耀守護泰坦而立下的功績。你會加入他們，講述史特拉托斯的榮耀，還是保持沉默？"
+msgstr "你坐在酒館裡啜飲麥酒。你身旁那些強壯的戰士開始吹噓自己為了榮耀守護泰坦而立下的功績。你會加入他們，講述史卓拉透絲的榮耀，還是保持沉默？"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "the battle is lost "
 msgctxt "ask 0419"
 msgid "tell of Stratos' glories "
-msgstr "講述史特拉托斯的榮耀"
+msgstr "講述史卓拉透絲的榮耀"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "the battle is lost "
@@ -1361,7 +1361,7 @@ msgstr "這個時候他應該在家。他家就在院落東牆旁邊。"
 #. event 01 (use (talk)), after "Tell me of Stellos " or "Where is the Honorable Stellos? " or "Where is Stellos? "
 msgctxt "bark 0419:64BE"
 msgid "If you wish to find him, you might try Windy Point. He sometimes goes there at this hour to be in communion with the Mystic Voice. "
-msgstr "如果你想找他，可以去狂風角看看。他有時會在這個時候去那裡，與神秘之聲交流。"
+msgstr "如果你想找他，可以去風之岬看看。他有時會在這個時候去那裡，與神秘之聲交流。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Another wishing enlightenment? "
@@ -1453,7 +1453,7 @@ msgstr "我無法想像我會就這樣弄丟它。它對我太重要了，不可
 #. event 01 (use (talk)), after "stolen? "
 msgctxt "bark 0419:6D55"
 msgid "If it was, indeed, stolen, it is a tragedy beyond belief. Theft goes against all of Stratos' doctrine. It goes against all we have tried to teach here. "
-msgstr "如果它真的被偷了，那真是難以置信的悲劇。偷竊違背了史特拉托斯所有的教義，違背了我們在這裡努力傳授的一切。"
+msgstr "如果它真的被偷了，那真是難以置信的悲劇。偷竊違背了史卓拉透絲所有的教義，違背了我們在這裡努力傳授的一切。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "stolen? "
@@ -1477,7 +1477,7 @@ msgstr "你知道是誰拿走的嗎？"
 #. event 01 (use (talk)), after "Do you know who took it? "
 msgctxt "bark 0419:707F"
 msgid "That's ridiculous! If I knew who took it, I would go get it back! Fortunately, there are spells provided by Stratos that will help me learn what happened to it. "
-msgstr "這問題太荒唐了！要是我知道是誰拿的，早就去拿回來了！幸好，史特拉托斯賜予的法術能幫我查出它的下落。"
+msgstr "這問題太荒唐了！要是我知道是誰拿的，早就去拿回來了！幸好，史卓拉透絲賜予的法術能幫我查出它的下落。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "I have met Torwin. "
@@ -1531,7 +1531,7 @@ msgstr "什麼適當的條件？"
 #. event 01 (use (talk)), after "What proper conditions? "
 msgctxt "bark 0419:752C"
 msgid "It will cost you your eyesight. This is why Stellos is blind. Because of this high price, Stratos only gives that spell to one Adept at a time. It is, afterall, a very dangerous spell. "
-msgstr "代價是你的視力。這就是史泰洛斯失明的原因。因為代價這麼高，史特拉托斯同一時間只把這道法術賜給一位行家法師。畢竟，這是非常危險的法術。"
+msgstr "代價是你的視力。這就是史泰洛斯失明的原因。因為代價這麼高，史卓拉透絲同一時間只把這道法術賜給一位行家法師。畢竟，這是非常危險的法術。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "What proper conditions? "
@@ -1543,7 +1543,7 @@ msgstr "危險的法術？"
 #. event 01 (use (talk)), after "Dangerous spell? "
 msgctxt "bark 0419:7653"
 msgid "Most certainy, for to cast it, one must journey to the City of the Dead and face the minions of Lithos. More than one caster in our history has not survived that encounter. "
-msgstr "那當然，因為要施展它，就必須前往亡者之城，面對利索斯的爪牙。在我們的歷史上，不只一位施法者沒能在那場遭遇中活下來。"
+msgstr "那當然，因為要施展它，就必須前往亡者之城，面對里索斯的爪牙。在我們的歷史上，不只一位施法者沒能在那場遭遇中活下來。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Best student? "
@@ -1555,7 +1555,7 @@ msgstr "嗯，那是他死之前。"
 #. event 01 (use (talk)), after "Best student? "
 msgctxt "bark 0419:77C8"
 msgid "Well, he was until he reached the Third Test. For some reason he could not pass it. He has tried a number of times. I have heard he is trying to find a way to reach Stratos and hear the Mystic Voice without passing that third test. "
-msgstr "嗯，直到他碰上第三考驗之前都是。不知為何，他就是過不了。他試了好幾次。我聽說他正設法不通過第三考驗，就能找到史特拉托斯、聽見神秘之聲。"
+msgstr "嗯，直到他碰上第三考驗之前都是。不知為何，他就是過不了。他試了好幾次。我聽說他正設法不通過第三考驗，就能找到史卓拉透絲、聽見神秘之聲。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "How terrible about Torwin. "

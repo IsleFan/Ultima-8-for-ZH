@@ -89,7 +89,7 @@ msgstr "你好，戴文。"
 #. event 01 (use (talk))
 msgctxt "ask 0402"
 msgid "The Lurker is free! "
-msgstr "潛伏者被釋放了！"
+msgstr "潛藏者被釋放了！"
 
 #. event 01 (use (talk))
 msgctxt "ask 0402"
@@ -140,12 +140,12 @@ msgstr "什麼的岸邊？"
 #. event 01 (use (talk)), after "Shore of what? "
 msgctxt "bark 0402:0B7A"
 msgid "Shore of what? Why, the shore of Tenebrae, upon the Sea of Rains. "
-msgstr "什麼的岸邊？哎，當然是泰尼伯瑞的岸邊，就在雨之海旁。"
+msgstr "什麼的岸邊？哎，當然是泰納布利的岸邊，就在雨之海旁。"
 
 #. event 01 (use (talk)), after "Shore of what? "
 msgctxt "ask 0402"
 msgid "Tenebrae? "
-msgstr "泰尼伯瑞？"
+msgstr "泰納布利？"
 
 #. event 01 (use (talk)), after "Shore of what? "
 msgctxt "ask 0402"
@@ -165,12 +165,12 @@ msgstr "看來你在忙別的事。我就不再耽誤你的時間了。再會。
 #. event 01 (use (talk)), after "Sea of Rains? "
 msgctxt "bark 0402:0F0B"
 msgid "Obviously you do not spend any time away from the city to ask such a question. Why, 'tis nothing more than the name of the sea. The story goes that the rains are quite heavy the farther you go from the shore. It is supposed to have something to do with Mordea's powers. Part of her role as ruling Tempest is to control the rain over the city, but she feels no obligation to extend that in the distant waters. Of course, I have never had an unwanted cloud while out to sea, myself, so I suspect the name is more rumor than truth. "
-msgstr "看來你從沒離開過城裡，才會問這種問題。哎，那不過是這片海的名字罷了。傳說離岸越遠，雨就下得越大。據說這跟莫爾迪亞的力量有關。身為統治這座城的風暴使者，她的職責之一就是掌控城市上空的雨，但她覺得沒有義務把這份力量延伸到遙遠的海上。不過說真的，我自己出海時從沒遇過不想要的烏雲，所以我猜這名字多半是謠傳，不是事實。"
+msgstr "看來你從沒離開過城裡，才會問這種問題。哎，那不過是這片海的名字罷了。傳說離岸越遠，雨就下得越大。據說這跟莫迪雅的力量有關。身為統治這座城的役水師，她的職責之一就是掌控城市上空的雨，但她覺得沒有義務把這份力量延伸到遙遠的海上。不過說真的，我自己出海時從沒遇過不想要的烏雲，所以我猜這名字多半是謠傳，不是事實。"
 
 #. event 01 (use (talk)), after "Tenebrae? "
 msgctxt "bark 0402:10A0"
 msgid "Aye, Tenebrae, the City of Eternal Twilight. They say you'll never find a more lovely place and I do not disagree, save for one place. But I will say this, the farther I am from the Lady, the better I feel. I can tell by your questions that you are not from this land. Come you from another island? Or perhaps some place that is an even greater distance away. "
-msgstr "是啊，泰尼伯瑞，永恆暮光之城。人們說你再也找不到比這更美的地方了，我也不反對——只除了一個地方。不過我得說，離那位夫人越遠，我就覺得越自在。從你的問題聽得出來，你不是這片土地的人。你是從別的島來的嗎？還是從更遙遠的地方？"
+msgstr "是啊，泰納布利，永恆暮光之城。人們說你再也找不到比這更美的地方了，我也不反對——只除了一個地方。不過我得說，離那位夫人越遠，我就覺得越自在。從你的問題聽得出來，你不是這片土地的人。你是從別的島來的嗎？還是從更遙遠的地方？"
 
 #. event 01 (use (talk)), after "Tenebrae? "
 msgctxt "ask 0402"
@@ -190,7 +190,7 @@ msgstr "我來自很遠的地方。"
 #. event 01 (use (talk)), after "I am from far away. "
 msgctxt "bark 0402:1321"
 msgid "I suspected as much, my friend, for your questions are most unusual. I must inform you that, a simple fisherman, I am a poor source of information about our local customs and such. I am sure there must be someone else who can tell you more. Why, I know just the person. When you get to town, visit Bentic in the library in east Tenebrae. My good friend knows practically all there is to know about our land and its people. Yes, he can certainly help you. "
-msgstr "我就猜是這樣，朋友，因為你的問題實在很不尋常。我得先說，我只是個普通的漁夫，對我們這裡的風俗之類的事知道得不多。一定有其他人能告訴你更多。對了，我正好知道一個人。等你到了城裡，就去泰尼伯瑞東邊的圖書館找班提克。我這位好朋友對我們這片土地和人民幾乎無所不知。是的，他一定能幫上你的忙。"
+msgstr "我就猜是這樣，朋友，因為你的問題實在很不尋常。我得先說，我只是個普通的漁夫，對我們這裡的風俗之類的事知道得不多。一定有其他人能告訴你更多。對了，我正好知道一個人。等你到了城裡，就去泰納布利東邊的圖書館找班提克。我這位好朋友對我們這片土地和人民幾乎無所不知。是的，他一定能幫上你的忙。"
 
 #. event 01 (use (talk)), after "What is the lovelier place? "
 msgctxt "bark 0402:14E0"
@@ -200,12 +200,12 @@ msgstr "當然是遼闊的大海啊！我想不出有什麼比海鹽的氣味、
 #. event 01 (use (talk)), after "Who is the Lady? "
 msgctxt "bark 0402:15F3"
 msgid "You mean the Lady Mordea, my friend. She is Tempest and ruler of the city. Others call her a tyrant in whispered corners, though I held no opinion myself. Until recently, that is. "
-msgstr "你是說莫爾迪亞夫人吧，朋友。她是風暴使者，也是這座城的統治者。有人在角落裡竊竊私語，說她是暴君，不過我自己倒沒什麼看法。至少直到最近為止。"
+msgstr "你是說莫迪雅夫人吧，朋友。她是役水師，也是這座城的統治者。有人在角落裡竊竊私語，說她是暴君，不過我自己倒沒什麼看法。至少直到最近為止。"
 
 #. event 01 (use (talk)), after "Who is the Lady? "
 msgctxt "ask 0402"
 msgid "What is a Tempest? "
-msgstr "風暴使者是什麼？"
+msgstr "役水師是什麼？"
 
 #. event 01 (use (talk)), after "Who is the Lady? "
 msgctxt "ask 0402"
@@ -231,12 +231,12 @@ msgstr "發現我？"
 #. event 01 (use (talk)), after "What happened to me? " or "Found me? "
 msgctxt "bark 0402:1A04"
 msgid "I am unsure, my friend. All I know is that I found your water-logged body in the depths of The Lurker's domain. What happened before remains a mystery. I pulled in my nets and within one I discovered you. "
-msgstr "我也不太清楚，朋友。我只知道，我是在潛伏者領域的深處發現你那泡得濕透的身體。在那之前發生了什麼，仍然是個謎。我收網的時候，就在其中一張網裡發現了你。"
+msgstr "我也不太清楚，朋友。我只知道，我是在潛藏者領域的深處發現你那泡得濕透的身體。在那之前發生了什麼，仍然是個謎。我收網的時候，就在其中一張網裡發現了你。"
 
 #. event 01 (use (talk)), after "What happened to me? " or "Found me? "
 msgctxt "ask 0402"
 msgid "The Lurker's domain? "
-msgstr "潛伏者的領域？"
+msgstr "潛藏者的領域？"
 
 #. event 01 (use (talk)), after "The Lurker's domain? "
 msgctxt "bark 0402:1B1D"
@@ -246,7 +246,7 @@ msgstr "是啊，我們有時候就這麼稱呼大海。你差點就淹死在裡
 #. event 01 (use (talk)), after "The Lurker's domain? "
 msgctxt "ask 0402"
 msgid "What is the Lurker? "
-msgstr "潛伏者是什麼？"
+msgstr "潛藏者是什麼？"
 
 #. event 01 (use (talk)), after "The Lurker's domain? "
 msgctxt "ask 0402"
@@ -256,7 +256,7 @@ msgstr "雙重厄運？"
 #. event 01 (use (talk)), after "Twice bad? "
 msgctxt "bark 0402:1C48"
 msgid "Aye! Not only would it have meant death for you, but then you would have been doomed to walk the ocean floor, unable to fulfill the pact with Lithos. "
-msgstr "沒錯！那不只代表你會喪命，你還會注定在海底徘徊，無法履行與利索斯的契約。"
+msgstr "沒錯！那不只代表你會喪命，你還會注定在海底徘徊，無法履行與里索斯的契約。"
 
 #. event 01 (use (talk)), after "Twice bad? "
 msgctxt "ask 0402"
@@ -266,12 +266,12 @@ msgstr "什麼契約？"
 #. event 01 (use (talk)), after "Twice bad? "
 msgctxt "ask 0402"
 msgid "Who is Lithos? "
-msgstr "利索斯是誰？"
+msgstr "里索斯是誰？"
 
 #. event 01 (use (talk)), after "What pact? "
 msgctxt "bark 0402:1D55"
 msgid "Ages ago, our people forged a covenant with Lithos. If he would still the shaking earth, we would commend to him our dead at the time of their passing. "
-msgstr "很久以前，我們的人民與利索斯立下了盟約。只要他平息大地的震動，我們就會在死者過世時，將他們託付給他。"
+msgstr "很久以前，我們的人民與里索斯立下了盟約。只要他平息大地的震動，我們就會在死者過世時，將他們託付給他。"
 
 #. event 01 (use (talk)), after "What pact? "
 msgctxt "ask 0402"
@@ -287,27 +287,27 @@ msgstr "統治死亡？"
 #. event 01 (use (talk)), after "Commend to him? " or "Rules death? "
 msgctxt "bark 0402:1E3E"
 msgid "Through his Necromancers, Lithos takes the dead to serve him for the remainder of their existence. "
-msgstr "利索斯透過他的死靈法師，讓死者在剩下的存在中為他效力。"
+msgstr "里索斯透過他的降靈師，讓死者在剩下的存在中為他效力。"
 
 #. event 01 (use (talk)), after "Commend to him? " or "Rules death? "
 msgctxt "ask 0402"
 msgid "Who are the Necromancers? "
-msgstr "死靈法師是誰？"
+msgstr "降靈師是誰？"
 
 #. event 01 (use (talk)), after "Who are the Necromancers? "
 msgctxt "bark 0402:1FA8"
 msgid "I am amazed at how little you know, friend. The Necromancers are the keepers of the cemetery. They have the rather distasteful duty of burying the dead, thus honoring the pact and sending the dead to Lithos. "
-msgstr "你知道得這麼少，真讓我吃驚，朋友。死靈法師是墓地的看守者。他們負責埋葬死者這個相當令人不快的職責，藉此遵守契約，把死者送到利索斯那裡。"
+msgstr "你知道得這麼少，真讓我吃驚，朋友。降靈師是墓地的看守者。他們負責埋葬死者這個相當令人不快的職責，藉此遵守契約，把死者送到里索斯那裡。"
 
 #. event 01 (use (talk)), after "Who is Lithos? "
 msgctxt "bark 0402:207B"
 msgid "We call him the Mountain King. He rules the grass, the stones, the hills -- all that we walk upon. He also rules death. "
-msgstr "我們叫他山之王。他統治著草地、石頭、山丘——我們腳下所踏的一切。他也統治著死亡。"
+msgstr "我們叫他山岳之王。他統治著草地、石頭、山丘——我們腳下所踏的一切。他也統治著死亡。"
 
 #. event 01 (use (talk)), after "What is the Lurker? "
 msgctxt "bark 0402:21C9"
 msgid "The Lurker? That is our name for Hydros, Titan of water. She is a crafty and treacherous one, always ready to pull unwilling victims to their deaths at the depths of the sea... much like what nearly happened to you. "
-msgstr "潛伏者？那是我們對海德羅斯的稱呼，她是海洋泰坦。她狡猾又陰險，隨時準備把不情願的受害者拖進深海送死……就像差點發生在你身上的事一樣。"
+msgstr "潛藏者？那是我們對海特蘿的稱呼，她是海洋泰坦。她狡猾又陰險，隨時準備把不情願的受害者拖進深海送死……就像差點發生在你身上的事一樣。"
 
 #. event 01 (use (talk)), after "How do you know my name? "
 msgctxt "bark 0402:22CF"
@@ -364,19 +364,19 @@ msgstr "托蘭是誰？"
 #. event 01 (use (talk)), after "Any news? "
 msgctxt "bark 0402:2619"
 msgid "Nay, there is nothing new to tell. There has been little else on my mind than undoing what Mordea had wrought with her tyranny. "
-msgstr "沒有，沒什麼新鮮事。我滿腦子想的，都是怎麼收拾莫爾迪亞暴政留下的爛攤子。"
+msgstr "沒有，沒什麼新鮮事。我滿腦子想的，都是怎麼收拾莫迪雅暴政留下的爛攤子。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Any news? "
 msgctxt "bark 0402:26AB"
 msgid "Only that Mordea was more corrupt than I ever thought possible. I am spending all of my time undoing her wrongs. "
-msgstr "只知道莫爾迪亞比我想像的還要腐敗。我把所有時間都花在糾正她犯下的錯了。"
+msgstr "只知道莫迪雅比我想像的還要腐敗。我把所有時間都花在糾正她犯下的錯了。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Any news? "
 msgctxt "bark 0402:27B3"
 msgid "As a simple fisherman, I never wanted the life of a ruler. I always believed it would be a difficult and troublesome position. Now that I -am- responsible for the citizens of Tenebrae, I am certain of the difficuties and troubles. "
-msgstr "身為一個普通的漁夫，我從來就不想過統治者的生活。我一直認為那是個艱難又麻煩的位子。現在我真的要為泰尼伯瑞的人民負責了，才確定它有多艱難、多麻煩。"
+msgstr "身為一個普通的漁夫，我從來就不想過統治者的生活。我一直認為那是個艱難又麻煩的位子。現在我真的要為泰納布利的人民負責了，才確定它有多艱難、多麻煩。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Any news? "
@@ -430,7 +430,7 @@ msgstr "他兒子面對悲傷的方式和他母親不同。托溫決定自己想
 #. event 01 (use (talk)), after "His son? "
 msgctxt "bark 0402:2E2E"
 msgid "His son does not handle grief like his mother. Torwin has decided to take matters into his own hands, though only the Titans know what he will do. I suppose violence would not be out of the question. I can only hope that is not the case, for even if he could get past the guards, Mordea's abilities are more than adequate to stave off his assault. "
-msgstr "他兒子面對悲傷的方式和他母親不同。托溫決定自己想辦法，但他會做出什麼事，只有泰坦知道。我想他也不無可能訴諸暴力。我只能祈禱不會如此，因為就算他能闖過衛兵，莫爾迪亞的力量也足以擋下他的攻擊。"
+msgstr "他兒子面對悲傷的方式和他母親不同。托溫決定自己想辦法，但他會做出什麼事，只有泰坦知道。我想他也不無可能訴諸暴力。我只能祈禱不會如此，因為就算他能闖過衛兵，莫迪雅的力量也足以擋下他的攻擊。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What about Toran? "
@@ -448,12 +448,12 @@ msgstr "聽說他就要被殺了。奉夫人之命處決。我知道他們給的
 #. event 01 (use (talk)), after "What should I do? "
 msgctxt "bark 0402:3120"
 msgid "All I am concerned about now is pacifying the Lurker, my friend. I am sorry, but I have no time for anything else. "
-msgstr "我現在只關心怎麼安撫潛伏者，朋友。抱歉，我沒空管別的事了。"
+msgstr "我現在只關心怎麼安撫潛藏者，朋友。抱歉，我沒空管別的事了。"
 
 #. event 01 (use (talk)), after "What should I do? "
 msgctxt "bark 0402:3311"
 msgid "Well, I suppose now that you are better, you should consider visiting Tenebrae. Here there is nothing, unless you wish to join me in fishing. But in Tenebrae, there is a wealth of activities and information for a soul such as yourself. Why, I know just the person there who can help you. When you get to town, visit Bentic in the library in east Tenebrae. The good sage knows practically all there is to know about our land and its people. Yes, he can certainly help you. "
-msgstr "嗯，既然你已經好多了，我想你應該考慮去泰尼伯瑞看看。這裡什麼都沒有，除非你想跟我一起捕魚。但在泰尼伯瑞，有許多活動和消息，很適合像你這樣的人。對了，我正好知道那裡有個人能幫你。等你到了城裡，就去泰尼伯瑞東邊的圖書館找班提克。那位賢者對我們這片土地和人民幾乎無所不知。是的，他一定能幫上你的忙。"
+msgstr "嗯，既然你已經好多了，我想你應該考慮去泰納布利看看。這裡什麼都沒有，除非你想跟我一起捕魚。但在泰納布利，有許多活動和消息，很適合像你這樣的人。對了，我正好知道那裡有個人能幫你。等你到了城裡，就去泰納布利東邊的圖書館找班提克。那位賢者對我們這片土地和人民幾乎無所不知。是的，他一定能幫上你的忙。"
 
 #. event 01 (use (talk)), after "Goodbye. "
 #. sentence template: keep the {placeholders}
@@ -657,7 +657,7 @@ msgstr "那雖然很可怕，但我更擔心自己現在的處境。朋友，也
 #. event 01 (use (talk)), after "The Lurker is free! "
 msgctxt "bark 0402:4C93"
 msgid "I had feared as much. When the torrential rains began and the people came to me, I could not stop it. Then I knew something was wrong. At first, I had hopes that you simply found another Tempest, one who was older. Yet somehow\tI knew, I felt, that was not the case. Tell me, friend, how did this come to pass? "
-msgstr "我早就擔心會這樣。當傾盆大雨開始落下、人們跑來找我時，我卻無法讓雨停下來。那時我就知道出事了。起初，我還希望你只是找到了另一位風暴使者，一位年紀更長的。但不知為何，我就是知道、就是感覺到，事情不是那樣。告訴我，朋友，這是怎麼發生的？"
+msgstr "我早就擔心會這樣。當傾盆大雨開始落下、人們跑來找我時，我卻無法讓雨停下來。那時我就知道出事了。起初，我還希望你只是找到了另一位役水師，一位年紀更長的。但不知為何，我就是知道、就是感覺到，事情不是那樣。告訴我，朋友，這是怎麼發生的？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "The Lurker is free! "
@@ -675,10 +675,10 @@ msgstr "我不知道。"
 #. event 01 (use (talk)), after "Twas my fault. "
 msgctxt "bark 0402:4F1A"
 msgid "That does not surprise me. From the day I cut you free of my fishing nets, I knew of the luck that followed you. Whether it is good luck or bad I did not know. Nor, for that matter, am I sure now. Nevertheless, the rains must cease or the land will flood again, as in the days of Kalen and the wars with the Zealans. And, my friend, I believe it is up to you to end this cataclysm. Though I am loath to suggest this, perhaps the Sorcerers who dwell across the river of lava in the catacombs can help. "
-msgstr "這並不讓我意外。從我割開漁網把你救出來的那天起，我就知道你身上帶著某種運氣。是好運還是厄運，我當時不知道，老實說，現在也還不確定。無論如何，雨一定得停，否則大地又會像卡倫時代、與澤蘭人交戰的那段日子一樣被洪水淹沒。而且，朋友，我相信要結束這場浩劫，得靠你了。雖然我很不想這麼建議，但也許住在地下墓穴裡、熔岩河對岸的巫師們能幫上忙。"
+msgstr "這並不讓我意外。從我割開漁網把你救出來的那天起，我就知道你身上帶著某種運氣。是好運還是厄運，我當時不知道，老實說，現在也還不確定。無論如何，雨一定得停，否則大地又會像凱倫時代、與澤蘭人交戰的那段日子一樣被洪水淹沒。而且，朋友，我相信要結束這場浩劫，得靠你了。雖然我很不想這麼建議，但也許住在地下墓穴裡、熔岩河對岸的巫師們能幫上忙。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "I know not. "
 msgctxt "bark 0402:5025"
 msgid "This is terrible. With Hydros free and the rain falling in torrents, the land will surely flood. We have not the time nor the ability to move to the safety of higher ground! "
-msgstr "這太可怕了。海德羅斯被釋放，大雨傾盆而下，大地一定會被洪水淹沒。我們既沒有時間，也沒有能力遷往安全的高地！"
+msgstr "這太可怕了。海特蘿被釋放，大雨傾盆而下，大地一定會被洪水淹沒。我們既沒有時間，也沒有能力遷往安全的高地！"

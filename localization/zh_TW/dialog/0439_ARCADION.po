@@ -294,7 +294,7 @@ msgstr "你還想談什麼？"
 #. event 01 (use (talk)), after "I crafted the Shade Blade for you. "
 msgctxt "bark 0439:12B6"
 msgid "Go now. Master Malchir is not a patient sort of man. "
-msgstr "現在就去吧。馬爾奇爾大巫師可不是有耐心的人。"
+msgstr "現在就去吧。麥爾吉爾大巫師可不是有耐心的人。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "I crafted the Shade Blade for you. "
@@ -379,7 +379,7 @@ msgstr "試煉是什麼？"
 #. event 01 (use (talk)), after "Tell me of the Obsidian Fortress. "
 msgctxt "ask 0439"
 msgid "Where is Malchir's inner sanctum? "
-msgstr "馬爾奇爾的內殿在哪裡？"
+msgstr "麥爾吉爾的內殿在哪裡？"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Who are you? "
@@ -422,7 +422,7 @@ msgstr "我名叫阿卡迪昂。"
 #. event 01 (use (talk)), after "What are you? Why are you here? "
 msgctxt "bark 0439:1A37"
 msgid "A curious sort, aren't you? I am a daemon Sorcerer. The only daemon Sorcerer as far as I know. I am here at the behest of Master Malchir. He is providing my training as a Sorcerer in exchange for my services. "
-msgstr "你還真好奇，對吧？我是惡魔巫師。據我所知，唯一的惡魔巫師。我在這裡是奉馬爾奇爾大巫師之命。他訓練我成為巫師，換取我的效勞。"
+msgstr "你還真好奇，對吧？我是惡魔巫師。據我所知，唯一的惡魔巫師。我在這裡是奉麥爾吉爾大巫師之命。他訓練我成為巫師，換取我的效勞。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "What are you? Why are you here? "
@@ -452,7 +452,7 @@ msgstr "不算是。我只是一項考驗。你看四處散落的骨頭就知道
 #. event 01 (use (talk)), after "How was it created? "
 msgctxt "bark 0439:1F9B"
 msgid "The first Sorcerers were revered by the people, but not so later generations. Eventually, fear and mistrust arose on both sides. The Master Sorcerer called upon the might of the Pyros who reluctantly came to his aid. The Lord of Flame in turn called upon his comrade, Lithos, and together they thrust the living rock up through a lake of lava that had formed in Daemon's Crag. Pyros then poured forth the excess lava into a river that blocked the path to the Sorcerer's Enclave. The cavern through which it flows, aptly called the Mouth of the Daemon, is the first obstacle for those who would disturb the mages of Sorcerer's Enclave."
-msgstr "最早的巫師受到人民崇敬，後來的幾代卻不然。最後，雙方都生出了恐懼與猜疑。大巫師召喚派羅斯的力量，派羅斯勉強前來相助。烈焰之主接著召喚他的同伴利索斯，兩者合力讓活岩從惡魔崖中形成的熔岩湖裡拔地而起。接著，派羅斯把多餘的熔岩傾瀉成一條河，擋住了通往巫師聚落的路。熔岩流經的洞穴被恰如其分地稱為惡魔之口，是想要打擾巫師聚落法師們的人所面臨的第一道障礙。"
+msgstr "最早的巫師受到人民崇敬，後來的幾代卻不然。最後，雙方都生出了恐懼與猜疑。大巫師召喚派羅斯的力量，派羅斯勉強前來相助。烈焰之主接著召喚他的同伴里索斯，兩者合力讓活岩從惡魔崖中形成的熔岩湖裡拔地而起。接著，派羅斯把多餘的熔岩傾瀉成一條河，擋住了通往巫師的領地的路。熔岩流經的洞穴被恰如其分地稱為惡魔之口，是想要打擾巫師的領地法師們的人所面臨的第一道障礙。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "What are the Trials? "
@@ -470,7 +470,7 @@ msgstr "那些符印長什麼樣子？"
 #. event 01 (use (talk)), after "Where is Malchir's inner sanctum? "
 msgctxt "bark 0439:22C5"
 msgid "Through the gateway beyond the pillars in the rear of the chamber, but not until you have succeeded in accomplishing the Trials. When you have done so, I will allow you to go to Malchir's inner sanctum. He awaits you even now, so be quick about your task. "
-msgstr "穿過房間後方柱子那頭的傳送門就到了，但必須等你成功完成試煉之後。等你完成了，我就讓你去馬爾奇爾的內殿。他現在就在等你，所以動作快點。"
+msgstr "穿過房間後方柱子那頭的傳送門就到了，但必須等你成功完成試煉之後。等你完成了，我就讓你去麥爾吉爾的內殿。他現在就在等你，所以動作快點。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after "Where is Malchir's inner sanctum? "
@@ -488,7 +488,7 @@ msgstr "你看到就知道了。"
 #. event 01 (use (talk)), after "Let me go to him now. "
 msgctxt "bark 0439:24A0"
 msgid "Of course... What do you take me for? If I were to allow you to go to Malchir untested, he would be displeased. One does not live very long when one has displeased a Master Sorcerer. "
-msgstr "當然不行……你把我當成什麼了？要是我讓你未經考驗就去見馬爾奇爾，他會不高興的。讓大巫師不高興的人，可活不了多久。"
+msgstr "當然不行……你把我當成什麼了？要是我讓你未經考驗就去見麥爾吉爾，他會不高興的。讓大巫師不高興的人，可活不了多久。"
 
 # P13 batch 4
 #. event 01 (use (talk)), after ""

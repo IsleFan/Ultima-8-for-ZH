@@ -15,98 +15,98 @@ msgstr ""
 #. sentence template: keep the {placeholders}
 msgctxt "bark 018B:0300"
 msgid "{num} vial of blood"
-msgstr "{num} 瓶血"
+msgstr "{num} 瓶血液"
 
 # P11 POC: dynamic strings (proposed terms, see authority.tsv)
 #. event 00 (look)
 #. sentence template: keep the {placeholders}
 msgctxt "bark 018B:0300"
 msgid "{num} vials of blood"
-msgstr "{num} 瓶血"
+msgstr "{num} 瓶血液"
 
 # P11 POC: dynamic strings (proposed terms, see authority.tsv)
 #. event 00 (look)
 #. sentence template: keep the {placeholders}
 msgctxt "bark 018B:0300"
 msgid "{num} pile of bone shards"
-msgstr "{num} 堆碎骨"
+msgstr "{num} 堆骨骼"
 
 # P11 POC: dynamic strings (proposed terms, see authority.tsv)
 #. event 00 (look)
 #. sentence template: keep the {placeholders}
 msgctxt "bark 018B:0300"
 msgid "{num} piles of bone shards"
-msgstr "{num} 堆碎骨"
+msgstr "{num} 堆骨骼"
 
 # P11 POC: dynamic strings (proposed terms, see authority.tsv)
 #. event 00 (look)
 #. sentence template: keep the {placeholders}
 msgctxt "bark 018B:0300"
 msgid "{num} pile of wood"
-msgstr "{num} 堆木頭"
+msgstr "{num} 堆木材"
 
 # P11 POC: dynamic strings (proposed terms, see authority.tsv)
 #. event 00 (look)
 #. sentence template: keep the {placeholders}
 msgctxt "bark 018B:0300"
 msgid "{num} piles of wood"
-msgstr "{num} 堆木頭"
+msgstr "{num} 堆木材"
 
 # P11 POC: dynamic strings (proposed terms, see authority.tsv)
 #. event 00 (look)
 #. sentence template: keep the {placeholders}
 msgctxt "bark 018B:0300"
 msgid "{num} pile of dirt"
-msgstr "{num} 堆泥土"
+msgstr "{num} 堆塵土"
 
 # P11 POC: dynamic strings (proposed terms, see authority.tsv)
 #. event 00 (look)
 #. sentence template: keep the {placeholders}
 msgctxt "bark 018B:0300"
 msgid "{num} piles of dirt"
-msgstr "{num} 堆泥土"
+msgstr "{num} 堆塵土"
 
 # P13 batch 6
 #. event 00 (look)
 #. sentence template: keep the {placeholders}
 msgctxt "bark 018B:0300"
 msgid "{num} executioner's hoods"
-msgstr "{num}株劊子手兜帽草"
+msgstr "{num}株劊子手的頭巾"
 
 # P13 batch 6
 #. event 00 (look)
 #. sentence template: keep the {placeholders}
 msgctxt "bark 018B:0300"
 msgid "{num} executioner's hood"
-msgstr "{num}株劊子手兜帽草"
+msgstr "{num}株劊子手的頭巾"
 
 # P13 batch 6
 #. event 00 (look)
 #. sentence template: keep the {placeholders}
 msgctxt "bark 018B:0300"
 msgid "{num} sliced executioner's hoods"
-msgstr "{num}片切好的劊子手兜帽草"
+msgstr "{num}片切好的劊子手的頭巾"
 
 # P13 batch 6
 #. event 00 (look)
 #. sentence template: keep the {placeholders}
 msgctxt "bark 018B:0300"
 msgid "{num} sliced executioner's hood"
-msgstr "{num}片切好的劊子手兜帽草"
+msgstr "{num}片切好的劊子手的頭巾"
 
 # P13 batch 6
 #. event 00 (look)
 #. sentence template: keep the {placeholders}
 msgctxt "bark 018B:0300"
 msgid "{num} pile of blackmoor"
-msgstr "{num}堆黑沼草"
+msgstr "{num}堆黑石漿"
 
 # P13 batch 6
 #. event 00 (look)
 #. sentence template: keep the {placeholders}
 msgctxt "bark 018B:0300"
 msgid "{num} piles of blackmoor"
-msgstr "{num}堆黑沼草"
+msgstr "{num}堆黑石漿"
 
 # P13 batch 6
 #. event 00 (look)

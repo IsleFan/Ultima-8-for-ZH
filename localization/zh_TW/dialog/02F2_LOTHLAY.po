@@ -14,10 +14,10 @@ msgstr ""
 #. event 00 (look)
 msgctxt "bark 02F2:009A"
 msgid "Lothian"
-msgstr "羅西安"
+msgstr "洛西安"
 
 # P13 batch 6
 #. event 06 (gotHit)
 msgctxt "bark 02F2:0140"
 msgid "Mountain King, I call Your name. Save me from this interloper! "
-msgstr "山之王，我呼喚祢的名。救我脫離這個闖入者！"
+msgstr "山岳之王，我呼喚祢的名。救我脫離這個闖入者！"

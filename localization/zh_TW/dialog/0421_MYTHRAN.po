@@ -14,7 +14,7 @@ msgstr ""
 #. event 00 (look)
 msgctxt "bark 0421:00A1"
 msgid "Mythran"
-msgstr "米斯蘭"
+msgstr "米瑟倫"
 
 # P13 batch 3
 #. event 00 (look)
@@ -122,19 +122,19 @@ msgstr "也許你想談談捲軸以外的事。"
 #. event 10 (enterFastArea), after ""
 msgctxt "bark 0421:0925"
 msgid "Do you wish to purchase the reagents of Necromancy, Sorcery, or those specific to Thaumaturgy? "
-msgstr "你想買死靈術、巫術的材料，還是奇蹟術專用的材料？"
+msgstr "你想買降靈術、巫術的材料，還是奇術專用的材料？"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 msgctxt "bark 0421:09DE"
 msgid "You do realize that I only have reagents for the spells I teach. Do you wish to purchase the reagents of Necromancy, Sorcery, or those specific to Thaumaturgy? "
-msgstr "你應該明白，我只有我所教授法術的材料。你想買死靈術、巫術的材料，還是奇蹟術專用的材料？"
+msgstr "你應該明白，我只有我所教授法術的材料。你想買降靈術、巫術的材料，還是奇術專用的材料？"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 msgctxt "ask 0421"
 msgid "Necromancy. "
-msgstr "死靈術。"
+msgstr "降靈術。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
@@ -146,7 +146,7 @@ msgstr "巫術。"
 #. event 10 (enterFastArea), after ""
 msgctxt "ask 0421"
 msgid "Thaumaturgy. "
-msgstr "奇蹟術。"
+msgstr "奇術。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
@@ -158,19 +158,19 @@ msgstr "算了。"
 #. event 10 (enterFastArea), after "Necromancy. "
 msgctxt "bark 0421:0AA8"
 msgid "Do you wish to buy Bone, Executioner's Hood, or Blackmoor? "
-msgstr "你想買碎骨、劊子手兜帽草，還是黑沼草？"
+msgstr "你想買骨骼、劊子手的頭巾，還是黑石漿？"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Sorcery. "
 msgctxt "bark 0421:0B35"
 msgid "Do you wish to buy Obsidian, Brimstone, Pumice, Ash, or Pig Iron? "
-msgstr "你想買黑曜石、硫磺、浮岩、火山灰，還是生鐵？"
+msgstr "你想買黑曜石、硫磺、浮石、火山灰，還是生鐵？"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Thaumaturgy. "
 msgctxt "bark 0421:0BCB"
 msgid "Do you wish to buy Eye of Newt, Bat Wing, Serpent Scale, or Dragon Blood? "
-msgstr "你想買蠑螈之眼、蝙蝠翅膀、蛇鱗，還是龍血？"
+msgstr "你想買蠑螈眼睛、蝙蝠翅膀、巨蛇鱗，還是龍血？"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Nevermind. "
@@ -182,19 +182,19 @@ msgstr "很好。"
 #. event 10 (enterFastArea), after "Nevermind. "
 msgctxt "ask 0421"
 msgid "Bone. "
-msgstr "碎骨。"
+msgstr "骨骼。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Nevermind. "
 msgctxt "ask 0421"
 msgid "Executioner's Hood. "
-msgstr "劊子手兜帽草。"
+msgstr "劊子手的頭巾。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Nevermind. "
 msgctxt "ask 0421"
 msgid "Blackmoor. "
-msgstr "黑沼草。"
+msgstr "黑石漿。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Nevermind. "
@@ -212,7 +212,7 @@ msgstr "硫磺。"
 #. event 10 (enterFastArea), after "Nevermind. "
 msgctxt "ask 0421"
 msgid "Pumice. "
-msgstr "浮岩。"
+msgstr "浮石。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Nevermind. "
@@ -230,7 +230,7 @@ msgstr "生鐵。"
 #. event 10 (enterFastArea), after "Nevermind. "
 msgctxt "ask 0421"
 msgid "Eye of Newt. "
-msgstr "蠑螈之眼。"
+msgstr "蠑螈眼睛。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Nevermind. "
@@ -242,7 +242,7 @@ msgstr "蝙蝠翅膀。"
 #. event 10 (enterFastArea), after "Nevermind. "
 msgctxt "ask 0421"
 msgid "Serpent Scale. "
-msgstr "蛇鱗。"
+msgstr "巨蛇鱗。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after "Nevermind. "
@@ -267,28 +267,28 @@ msgstr "也許你並不是真的對材料有興趣。"
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coins for the Blackmoor ."
-msgstr "黑沼草我得收{num}枚黑曜石幣。"
+msgstr "黑石漿我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coin for the Blackmoor ."
-msgstr "黑沼草我得收{num}枚黑曜石幣。"
+msgstr "黑石漿我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coins for the Executioner's Hood ."
-msgstr "劊子手兜帽草我得收{num}枚黑曜石幣。"
+msgstr "劊子手的頭巾我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coin for the Executioner's Hood ."
-msgstr "劊子手兜帽草我得收{num}枚黑曜石幣。"
+msgstr "劊子手的頭巾我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
@@ -337,28 +337,28 @@ msgstr "龍血我得收{num}枚黑曜石幣。"
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coins for the Bone ."
-msgstr "碎骨我得收{num}枚黑曜石幣。"
+msgstr "骨骼我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coin for the Bone ."
-msgstr "碎骨我得收{num}枚黑曜石幣。"
+msgstr "骨骼我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coins for the Pumice ."
-msgstr "浮岩我得收{num}枚黑曜石幣。"
+msgstr "浮石我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coin for the Pumice ."
-msgstr "浮岩我得收{num}枚黑曜石幣。"
+msgstr "浮石我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
@@ -379,14 +379,14 @@ msgstr "硫磺我得收{num}枚黑曜石幣。"
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coins for the Eye of Newt ."
-msgstr "蠑螈之眼我得收{num}枚黑曜石幣。"
+msgstr "蠑螈眼睛我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coin for the Eye of Newt ."
-msgstr "蠑螈之眼我得收{num}枚黑曜石幣。"
+msgstr "蠑螈眼睛我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
@@ -407,14 +407,14 @@ msgstr "蝙蝠翅膀我得收{num}枚黑曜石幣。"
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coins for the Serpent Scale ."
-msgstr "蛇鱗我得收{num}枚黑曜石幣。"
+msgstr "巨蛇鱗我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0421:1123"
 msgid "I must ask {num} obsidian coin for the Serpent Scale ."
-msgstr "蛇鱗我得收{num}枚黑曜石幣。"
+msgstr "巨蛇鱗我得收{num}枚黑曜石幣。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
@@ -490,7 +490,7 @@ msgstr "現在學下一道法術還太早。"
 #. event 10 (enterFastArea), after ""
 msgctxt "bark 0421:15BA"
 msgid "You are ready for your fifth lesson in Thaumaturgy -- the spell of complete devastation. "
-msgstr "你已經準備好上奇蹟術的第五課了——徹底毀滅的法術。"
+msgstr "你已經準備好上奇術的第五課了——徹底毀滅的法術。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
@@ -502,7 +502,7 @@ msgstr "現在學下一道法術還太早。"
 #. event 10 (enterFastArea), after ""
 msgctxt "bark 0421:1673"
 msgid "You are ready for your fourth spell -- Call Destruction. "
-msgstr "你已經準備好學第四道法術了——呼喚毀滅。"
+msgstr "你已經準備好學第四道法術了——毀滅之召。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
@@ -514,7 +514,7 @@ msgstr "現在學下一道法術還太早。"
 #. event 10 (enterFastArea), after ""
 msgctxt "bark 0421:174A"
 msgid "You are ready for your third lesson in Thaumaturgy -- the spell of creature summoning. "
-msgstr "你已經準備好上奇蹟術的第三課了——召喚生物的法術。"
+msgstr "你已經準備好上奇術的第三課了——召喚生物的法術。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
@@ -538,7 +538,7 @@ msgstr "現在學下一道法術還太早。"
 #. event 10 (enterFastArea), after ""
 msgctxt "bark 0421:18BF"
 msgid "You are ready for your first lesson in Thaumaturgy -- the blast of confusion. "
-msgstr "你已經準備好上奇蹟術的第一課了——混亂衝擊。"
+msgstr "你已經準備好上奇術的第一課了——混亂之擊。"
 
 # P13 batch 3
 #. event 10 (enterFastArea), after ""
@@ -660,7 +660,7 @@ msgstr "好吧。你腦中充滿了與我們討論無關的念頭。我們可以
 #. event 01 (use (talk)), after "May I ask your name? "
 msgctxt "bark 0421:24BA"
 msgid "You may ask indeed, stranger. I am Mythran. By what name do you go, young one? "
-msgstr "當然可以問，陌生人。我是米斯蘭。年輕人，你叫什麼名字？"
+msgstr "當然可以問，陌生人。我是米瑟倫。年輕人，你叫什麼名字？"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "May I ask your name? "
@@ -802,7 +802,7 @@ msgstr "很好。"
 #. event 01 (use (talk)), after "Is there a haunted grove? "
 msgctxt "bark 0421:2E7B"
 msgid "A haunted grove of trees? Well, I have heard such rumors applied to a circle of dead trees here on the plateau, though I will not confirm the existence of undead there. "
-msgstr "鬧鬼的樹林？嗯，我聽過這類傳聞，說的是這片高原上一圈枯死的樹，不過那裡有沒有不死者，我可不敢證實。"
+msgstr "鬧鬼的樹林？嗯，我聽過這類傳聞，說的是這片高地上一圈枯死的樹，不過那裡有沒有不死者，我可不敢證實。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "What do you do? "
@@ -894,7 +894,7 @@ msgstr "這只是個測試。"
 #. event 01 (use (talk)), after "I plan to leave Pagan. "
 msgctxt "bark 0421:3B26"
 msgid "That 'tis, indeed, a tremendous task you are planning to undertake. I, myself, have given considerable thought to finding ways to cross into what you would call `other worlds.' I have not yet uncovered a solution. However, I -have- come to the conclusion that it is the power of the Titans that makes such travel impossible even for one with my command of the arcane. Therefore, it is reasonable to assume that to depart from Pagan, one must master the powers of all four of the Titans. I suppose the best place to begin is with one of the schools of magic. Have you spoken with the Necromancers?"
-msgstr "你打算進行的，確實是一項艱鉅的任務。我自己也曾認真思考過，如何穿越到你所謂的「其他世界」。我還沒找到辦法。不過，我「已經」得出一個結論：正是泰坦的力量，讓這種旅行即使對我這樣精通奧祕的人也不可能實現。因此，合理的推斷是：要離開佩根，就必須掌握全部四位泰坦的力量。我想最好的起點，是從某個魔法流派開始。你跟死靈法師談過了嗎？"
+msgstr "你打算進行的，確實是一項艱鉅的任務。我自己也曾認真思考過，如何穿越到你所謂的「其他世界」。我還沒找到辦法。不過，我「已經」得出一個結論：正是泰坦的力量，讓這種旅行即使對我這樣精通奧祕的人也不可能實現。因此，合理的推斷是：要離開佩根，就必須掌握全部四位泰坦的力量。我想最好的起點，是從某個魔法流派開始。你跟降靈師談過了嗎？"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "I plan to leave Pagan. "
@@ -912,13 +912,13 @@ msgstr "不，還沒有。"
 #. event 01 (use (talk)), after "Yes, I have. "
 msgctxt "bark 0421:3CD4"
 msgid "Then I expect you still have much more to learn about the powers of Necromancy. With enough study, perhaps, you will be able to master the abilities Lithos grants to his followers and use them to locate the other mages. Only by seeking the talents of all four Titans will you have any hope of succeeding in your mission. "
-msgstr "那我想你對死靈術的力量還有很多要學。只要充分研習，也許你就能掌握利索斯賜予追隨者的能力，並藉此找到其他的法師。唯有尋求四位泰坦全部的力量，你的任務才有成功的希望。"
+msgstr "那我想你對降靈術的力量還有很多要學。只要充分研習，也許你就能掌握里索斯賜予追隨者的能力，並藉此找到其他的法師。唯有尋求四位泰坦全部的力量，你的任務才有成功的希望。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Yes, I have. "
 msgctxt "bark 0421:3E6D"
 msgid "Then I expect you will have more to learn more about the powers of Necromancy. In fact, you must attempt to acquire those powers for yourself. With enough study, perhaps, you will be able to master the abilities Lithos grants to his followers and use them to locate the other mages. Only by seeking the talents of all four Titans will you have any hope of succeeding in your mission. "
-msgstr "那我想你對死靈術的力量還有更多要學。事實上，你必須設法親自獲得那些力量。只要充分研習，也許你就能掌握利索斯賜予追隨者的能力，並藉此找到其他的法師。唯有尋求四位泰坦全部的力量，你的任務才有成功的希望。"
+msgstr "那我想你對降靈術的力量還有更多要學。事實上，你必須設法親自獲得那些力量。只要充分研習，也許你就能掌握里索斯賜予追隨者的能力，並藉此找到其他的法師。唯有尋求四位泰坦全部的力量，你的任務才有成功的希望。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "No, I have not. "
@@ -930,19 +930,19 @@ msgstr "這就是你要給我的答案？真可悲。唉，算了。"
 #. event 01 (use (talk)), after "No, I have not. "
 msgctxt "bark 0421:404E"
 msgid "I suggest you begin with the Necromancers, then. Speak with Vividos about becoming his apprentice. I realize the thought of dealing with the rituals of death may seem distasteful, but I expect it is something to which you must become accustomed if you wish to succeed. "
-msgstr "那我建議你從死靈法師開始。去找維維多斯，談談當他學徒的事。我明白，一想到要跟死亡儀式打交道，或許會讓你覺得反感，但我想你若要成功，就必須習慣這些。"
+msgstr "那我建議你從降靈師開始。去找維菲多斯，談談當他學徒的事。我明白，一想到要跟死亡儀式打交道，或許會讓你覺得反感，但我想你若要成功，就必須習慣這些。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "No, I have not. "
 msgctxt "bark 0421:4194"
 msgid "Then I suggest you begin with them. Speak with Vividos about becoming his apprentice once Lothian has passed on her powers to him. I realize the thought of dealing with the rituals of death may seem distasteful, but I expect it is something to which you must become accustomed if you wish to succeed. "
-msgstr "那我建議你從他們開始。等羅西安把她的力量傳給維維多斯之後，去找他談談當他學徒的事。我明白，一想到要跟死亡儀式打交道，或許會讓你覺得反感，但我想你若要成功，就必須習慣這些。"
+msgstr "那我建議你從他們開始。等洛西安把她的力量傳給維菲多斯之後，去找他談談當他學徒的事。我明白，一想到要跟死亡儀式打交道，或許會讓你覺得反感，但我想你若要成功，就必須習慣這些。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "No, I have not. "
 msgctxt "ask 0421"
 msgid "Where are the Necromancers? "
-msgstr "死靈法師在哪裡？"
+msgstr "降靈師在哪裡？"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Where are the Necromancers? "
@@ -1068,49 +1068,49 @@ msgstr "你賣捲軸？"
 #. event 01 (use (talk)), after "Tell me of the mages. "
 msgctxt "bark 0421:4FDD"
 msgid "There are four of what I call 'schools' of magic on Pagan -- one for each of the Titans. The study of death and the ground is called Necromancy. It is the Necromancer who is responsible for carrying out the pact with Lithos by burying the dead and sending their spirits to him. "
-msgstr "佩根有四個我稱為魔法「流派」的派別——每位泰坦各有一個。研究死亡與大地的叫做死靈術。死靈法師負責履行與利索斯的契約：埋葬死者，並把他們的靈魂送到他那裡。"
+msgstr "佩根有四個我稱為魔法「流派」的派別——每位泰坦各有一個。研究死亡與大地的叫做降靈術。降靈師負責履行與里索斯的契約：埋葬死者，並把他們的靈魂送到他那裡。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of the mages. "
 msgctxt "bark 0421:513E"
 msgid "The current Necromancer, Vividos, is fairly new to his position. This means that he has been away from the city for only a few years, and is, therefore, less reclusive. In time, however, he will have forgotten most of his social graces, and the people will find dealing with him as distasteful as they did his predecessors. "
-msgstr "現任的死靈法師維維多斯接任不久。這表示他離開城市才幾年，所以還沒那麼孤僻。不過假以時日，他就會忘掉大部分的社交禮儀，人們也會跟對待他的前任一樣，覺得跟他打交道很討厭。"
+msgstr "現任的降靈師維菲多斯接任不久。這表示他離開城市才幾年，所以還沒那麼孤僻。不過假以時日，他就會忘掉大部分的社交禮儀，人們也會跟對待他的前任一樣，覺得跟他打交道很討厭。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of the mages. "
 msgctxt "bark 0421:51F9"
 msgid "The current Necromancer, Lothian, is very old. I expect she soon will be passing her role to her Apprentice. Vividos should handle the responsibility quite well. "
-msgstr "現任的死靈法師羅西安已經非常老了。我想她很快就會把職位傳給她的學徒。維維多斯應該能把這份職責處理得很好。"
+msgstr "現任的降靈師洛西安已經非常老了。我想她很快就會把職位傳給她的學徒。維菲多斯應該能把這份職責處理得很好。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of the mages. "
 msgctxt "bark 0421:53C6"
 msgid "Tempestry's main focus is water, though its aspect does involve combining with Hydros' sister Titan, Stratos, making storms as much a part of Tempestry as is the sea. Unlike the other schools, Tempestry is not learned. It is passed on through the bloodline. The eldest living Tempest possesses the greatest amount of power. However, as long as a younger Tempest's spell does not contradict an elder's, the younger's magic will work fully. "
-msgstr "風暴術主要掌管水，不過它也結合了海德羅斯的姊妹泰坦史特拉托斯的力量，所以暴風雨和大海一樣，都是風暴術的一部分。跟其他流派不同，風暴術無法學習，只能透過血統傳承。在世最年長的風暴使者擁有最強大的力量。不過，只要年輕風暴使者的法術不跟年長者的相衝突，年輕者的魔法就能完全生效。"
+msgstr "役水術主要掌管水，不過它也結合了海特蘿的姊妹泰坦史卓拉透絲的力量，所以暴風雨和大海一樣，都是役水術的一部分。跟其他流派不同，役水術無法學習，只能透過血統傳承。在世最年長的役水師擁有最強大的力量。不過，只要年輕役水師的法術不跟年長者的相衝突，年輕者的魔法就能完全生效。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of the mages. "
 msgctxt "bark 0421:5489"
 msgid "Since there seems to be little cap on the powers of Tempestry, I am glad for the Pagans that Devon now rules Tenebrae. You should be commended for your role in that. "
-msgstr "既然風暴術的力量似乎沒什麼上限，我很為佩根人慶幸，如今統治泰尼伯瑞的是戴文。你在這件事上的功勞值得嘉許。"
+msgstr "既然役水術的力量似乎沒什麼上限，我很為佩根人慶幸，如今統治泰納布利的是戴文。你在這件事上的功勞值得嘉許。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of the mages. "
 msgctxt "bark 0421:5556"
 msgid "Since there seems to be little cap on the powers of Tempestry, it is a true tragedy that Mordea rules the city. I hope for the sake of the people that her reign is not a long one. "
-msgstr "既然風暴術的力量似乎沒什麼上限，由莫爾迪亞統治這座城市真是一場悲劇。為了人民著想，我希望她的統治不會太長久。"
+msgstr "既然役水術的力量似乎沒什麼上限，由莫迪雅統治這座城市真是一場悲劇。為了人民著想，我希望她的統治不會太長久。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of the mages. "
 msgctxt "bark 0421:564D"
 msgid "Stellos was the first follower of Stratos. His Order of Enlightenment teaches Theurgy, the study of the winds. He is a good and learned man, if you will permit me a judgement of ethics, who freely uses his powers of healing. "
-msgstr "史泰洛斯是史特拉托斯的第一位追隨者。他的啟蒙修會教授神術，也就是研究風的學問。容我做個道德上的評價：他是個善良又博學的人，毫不吝惜地運用他的治癒之力。"
+msgstr "史泰洛斯是史卓拉透絲的第一位追隨者。他的啟蒙修會教授神通術，也就是研究風的學問。容我做個道德上的評價：他是個善良又博學的人，毫不吝惜地運用他的治癒之力。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of the mages. "
 msgctxt "bark 0421:577C"
 msgid "The fourth school, Sorcery, involves the Titan of Fire. I have never spoken to Malchir in person, but I feel the Sorcerers' reputation for deceit is unchanged by his rise to power. Take care when dealing with those who consort with Pyros, for it seems they become as wicked as he. "
-msgstr "第四個流派是巫術，與火焰泰坦有關。我從未當面跟馬爾奇爾談過，但我覺得巫師們狡詐的名聲，並沒有因為他掌權而改變。跟那些與派羅斯往來的人打交道時要小心，因為他們似乎會變得跟他一樣邪惡。"
+msgstr "第四個流派是巫術，與火焰泰坦有關。我從未當面跟麥爾吉爾談過，但我覺得巫師們狡詐的名聲，並沒有因為他掌權而改變。跟那些與派羅斯往來的人打交道時要小心，因為他們似乎會變得跟他一樣邪惡。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Tell me of the mages. "
@@ -1128,13 +1128,13 @@ msgstr "還有什麼其他的魔法？"
 #. event 01 (use (talk)), after "What other magic exists? "
 msgctxt "bark 0421:5938"
 msgid "There is what I call Thaumaturgy. It is not tied to any of the Titans, but borrows bits and pieces from any form of magic you can imagine. I am a practitioner of Thaumaturgy. "
-msgstr "還有我稱為奇蹟術的魔法。它不屬於任何一位泰坦，而是從你想像得到的各種魔法中東借一點、西取一些。我就是奇蹟術的修習者。"
+msgstr "還有我稱為奇術的魔法。它不屬於任何一位泰坦，而是從你想像得到的各種魔法中東借一點、西取一些。我就是奇術的修習者。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "What other magic exists? "
 msgctxt "ask 0421"
 msgid "Can you teach me Thaumaturgy? "
-msgstr "你能教我奇蹟術嗎？"
+msgstr "你能教我奇術嗎？"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Can you teach me Thaumaturgy? "
@@ -1158,19 +1158,19 @@ msgstr "確實有。你想買一些嗎？"
 #. event 01 (use (talk)), after "The city. "
 msgctxt "bark 0421:5D57"
 msgid "Ah, Tenebrae. The city was not settled until near the end of the war between the Pagans and Zealans. After the Titans defeated the Destroyer, most of the world lay in such ruin and disarray that the few people who were left on the island congregated into a single community. They called their city Tenebrae, meaning 'city of eternal twilight.' At first the Necromancers held rulership, but once Kalen became a Tempest as well, the people elected to have their leaders come from that line. "
-msgstr "啊，泰尼伯瑞。這座城市直到佩根人與澤蘭人的戰爭接近尾聲時才有人定居。泰坦擊敗毀滅者之後，世界大多陷入一片廢墟與混亂，島上僅存的少數人便聚集成一個聚落。他們把這座城市命名為泰尼伯瑞，意思是「永恆暮光之城」。起初由死靈法師掌權，但自從卡倫也成為風暴使者後，人民便選擇由那一脈的人來擔任領袖。"
+msgstr "啊，泰納布利。這座城市直到佩根人與澤蘭人的戰爭接近尾聲時才有人定居。泰坦擊敗毀滅者之後，世界大多陷入一片廢墟與混亂，島上僅存的少數人便聚集成一個聚落。他們把這座城市命名為泰納布利，意思是「永恆暮光之城」。起初由降靈師掌權，但自從凱倫也成為役水師後，人民便選擇由那一脈的人來擔任領袖。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "The city. "
 msgctxt "ask 0421"
 msgid "Who is Kalen? "
-msgstr "卡倫是誰？"
+msgstr "凱倫是誰？"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "The island. "
 msgctxt "bark 0421:5EAE"
 msgid "The island is called Morgaelin, same as the mountain -- or volcano -- from which it sprang. As far as the people know, this is the only piece of land remaining after the Titans vanquished the Destroyer. "
-msgstr "這座島叫做摩加林，跟它所由生成的那座山——或者說火山——同名。據人們所知，這是泰坦擊敗毀滅者之後唯一剩下的一塊土地。"
+msgstr "這座島叫做摩蓋林，跟它所由生成的那座山——或者說火山——同名。據人們所知，這是泰坦擊敗毀滅者之後唯一剩下的一塊土地。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "All of Pagan. "
@@ -1188,7 +1188,7 @@ msgstr "這個世界的土地曾經遼闊無邊。那時人民富足，而且—
 #. event 01 (use (talk)), after "Who is Kalen? "
 msgctxt "bark 0421:6462"
 msgid "He was the first Tempest. An early hero to the people, his life as a Necromancer was filled with some amount of tragedy. When we have time I will relate the history of this world to you, then you will have a better understanding. "
-msgstr "他是第一位風暴使者，也是人民早期的英雄。他身為死靈法師的一生充滿了些許悲劇。等我們有時間，我再跟你講述這個世界的歷史，那時你就會更明白了。"
+msgstr "他是第一位役水師，也是人民早期的英雄。他身為降靈師的一生充滿了些許悲劇。等我們有時間，我再跟你講述這個世界的歷史，那時你就會更明白了。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Enough about Pagan. "
@@ -1218,7 +1218,7 @@ msgstr "那就改天吧。"
 #. event 01 (use (talk)), after "No. "
 msgctxt "ask 0421"
 msgid "Hello, Mythran. "
-msgstr "你好，米斯蘭。"
+msgstr "你好，米瑟倫。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "No. "
@@ -1345,31 +1345,31 @@ msgstr "從來沒有人問過我這種問題。你真的想找方法離開這個
 #. event 01 (use (talk)), after "I plan to leave Pagan. "
 msgctxt "bark 0421:7833"
 msgid "That 'tis, indeed, a tremendous task you are planning to undertake. I, myself, have given considerable thought to finding ways to cross into what you would call `other worlds.' I have not yet uncovered a solution. However, I -have- come to the conclusion that it is the power of the Titans that makes such travel impossible even for one with my command of the arcane. Therefore, it is reasonable to assume that to depart from Pagan, one must master the powers of all four of the Titans. I suppose the best place to begin is with one of the schools of magic. Have you spoken with the Necromancers?"
-msgstr "你打算進行的，確實是一項艱鉅的任務。我自己也曾認真思考過，如何穿越到你所謂的「其他世界」。我還沒找到辦法。不過，我「已經」得出一個結論：正是泰坦的力量，讓這種旅行即使對我這樣精通奧祕的人也不可能實現。因此，合理的推斷是：要離開佩根，就必須掌握全部四位泰坦的力量。我想最好的起點，是從某個魔法流派開始。你跟死靈法師談過了嗎？"
+msgstr "你打算進行的，確實是一項艱鉅的任務。我自己也曾認真思考過，如何穿越到你所謂的「其他世界」。我還沒找到辦法。不過，我「已經」得出一個結論：正是泰坦的力量，讓這種旅行即使對我這樣精通奧祕的人也不可能實現。因此，合理的推斷是：要離開佩根，就必須掌握全部四位泰坦的力量。我想最好的起點，是從某個魔法流派開始。你跟降靈師談過了嗎？"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Yes, I have. "
 msgctxt "bark 0421:79E1"
 msgid "Then I expect you still have much more to learn about the powers of Necromancy. With enough study, perhaps, you will be able to master the abilities Lithos grants to his followers and use them to locate the other mages. Only by seeking the talents of all four Titans will you have any hope of succeeding in your mission. "
-msgstr "那我想你對死靈術的力量還有很多要學。只要充分研習，也許你就能掌握利索斯賜予追隨者的能力，並藉此找到其他的法師。唯有尋求四位泰坦全部的力量，你的任務才有成功的希望。"
+msgstr "那我想你對降靈術的力量還有很多要學。只要充分研習，也許你就能掌握里索斯賜予追隨者的能力，並藉此找到其他的法師。唯有尋求四位泰坦全部的力量，你的任務才有成功的希望。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Yes, I have. "
 msgctxt "bark 0421:7B7A"
 msgid "Then I expect you will have more to learn more about the powers of Necromancy. In fact, you must attempt to acquire those powers for yourself. With enough study, perhaps, you will be able to master the abilities Lithos grants to his followers and use them to locate the other mages. Only by seeking the talents of all four Titans will you have any hope of succeeding in your mission. "
-msgstr "那我想你對死靈術的力量還有更多要學。事實上，你必須設法親自獲得那些力量。只要充分研習，也許你就能掌握利索斯賜予追隨者的能力，並藉此找到其他的法師。唯有尋求四位泰坦全部的力量，你的任務才有成功的希望。"
+msgstr "那我想你對降靈術的力量還有更多要學。事實上，你必須設法親自獲得那些力量。只要充分研習，也許你就能掌握里索斯賜予追隨者的能力，並藉此找到其他的法師。唯有尋求四位泰坦全部的力量，你的任務才有成功的希望。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "No, I have not. "
 msgctxt "bark 0421:7D05"
 msgid "Then I suggest you begin with them. Speak with Vividos about becoming his apprentice. I realize the thought of dealing with the rituals of death may seem distasteful, but I expect it is something to which you must become accustomed if you wish to succeed. "
-msgstr "那我建議你從他們開始。去找維維多斯，談談當他學徒的事。我明白，一想到要跟死亡儀式打交道，或許會讓你覺得反感，但我想你若要成功，就必須習慣這些。"
+msgstr "那我建議你從他們開始。去找維菲多斯，談談當他學徒的事。我明白，一想到要跟死亡儀式打交道，或許會讓你覺得反感，但我想你若要成功，就必須習慣這些。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "No, I have not. "
 msgctxt "bark 0421:7E4B"
 msgid "Then I suggest you begin with them. Speak with Vividos about becoming his apprentice once Lothian has passed on her powers to him. I realize the thought of dealing with the rituals of death may seem distasteful, but I expect it is something to which you must become accustomed if you wish to succeed. "
-msgstr "那我建議你從他們開始。等羅西安把她的力量傳給維維多斯之後，去找他談談當他學徒的事。我明白，一想到要跟死亡儀式打交道，或許會讓你覺得反感，但我想你若要成功，就必須習慣這些。"
+msgstr "那我建議你從他們開始。等洛西安把她的力量傳給維菲多斯之後，去找他談談當他學徒的事。我明白，一想到要跟死亡儀式打交道，或許會讓你覺得反感，但我想你若要成功，就必須習慣這些。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "Where are the Necromancers? "
@@ -1387,7 +1387,7 @@ msgstr "我不喜歡被測試。也許你該給我一點時間，讓我重新提
 #. event 01 (use (talk)), after "Is there a haunted grove? "
 msgctxt "bark 0421:812E"
 msgid "A haunted grove of trees? Well, I have heard such rumors applied to a circle of dead trees here on the plateau, though I will not confirm the existence of undead there. "
-msgstr "鬧鬼的樹林？嗯，我聽過這類傳聞，說的是這片高原上一圈枯死的樹，不過那裡有沒有不死者，我可不敢證實。"
+msgstr "鬧鬼的樹林？嗯，我聽過這類傳聞，說的是這片高地上一圈枯死的樹，不過那裡有沒有不死者，我可不敢證實。"
 
 # P13 batch 3
 #. event 01 (use (talk)), after "What about Pagan history? "

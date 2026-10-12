@@ -20,7 +20,7 @@ msgstr "火山灰"
 #. event 00 (look)
 msgctxt "bark 018E:00E1"
 msgid "pumice "
-msgstr "浮岩"
+msgstr "浮石"
 
 # P13 batch 6
 #. event 00 (look)

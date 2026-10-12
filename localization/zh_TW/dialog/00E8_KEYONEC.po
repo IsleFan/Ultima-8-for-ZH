@@ -26,13 +26,13 @@ msgstr "傳人之鑰"
 #. event 00 (look)
 msgctxt "bark 00E8:0129"
 msgid "Key of the Necromancer "
-msgstr "死靈法師之鑰"
+msgstr "降靈師之鑰"
 
 # P13 batch 4
 #. event 01 (use (talk))
 msgctxt "bark 00E8:0344"
 msgid "Lord Lithos, I have come to inter Lothian into Your Earth as You have commanded. "
-msgstr "利索斯大人，我遵照祢的命令，前來將羅西安安葬於祢的大地。"
+msgstr "里索斯大人，我遵照祢的命令，前來將洛西安安葬於祢的大地。"
 
 # P13 batch 4
 #. event 01 (use (talk))
@@ -44,13 +44,13 @@ msgstr "此舉甚合我意，活人。"
 #. event 01 (use (talk))
 msgctxt "bark 00E8:0400"
 msgid "All has been prepared according to your law, Mountain King. "
-msgstr "一切都已依照祢的律法準備妥當，山之王。"
+msgstr "一切都已依照祢的律法準備妥當，山岳之王。"
 
 # P13 batch 4
 #. event 01 (use (talk))
 msgctxt "bark 00E8:044D"
 msgid "COME NOW TO ME, LOTHIAN. LET ME ENFOLD YOU IN MY ARMS. "
-msgstr "現在到我這裡來吧，羅西安。讓我將你擁入懷中。"
+msgstr "現在到我這裡來吧，洛西安。讓我將你擁入懷中。"
 
 # P13 batch 4
 #. event 01 (use (talk))

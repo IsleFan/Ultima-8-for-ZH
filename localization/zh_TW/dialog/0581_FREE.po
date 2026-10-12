@@ -39,19 +39,19 @@ msgstr "算了"
 #. , after "Empower offensive spell"
 msgctxt "ask 0581"
 msgid "Flame Bolt"
-msgstr "烈焰箭"
+msgstr "火箭術"
 
 # P13 batch 6
 #. , after "Empower offensive spell"
 msgctxt "ask 0581"
 msgid "Create Fire"
-msgstr "造火術"
+msgstr "產生火焰"
 
 # P13 batch 6
 #. , after "Empower offensive spell"
 msgctxt "ask 0581"
 msgid "Explosion "
-msgstr "爆炸術"
+msgstr "爆裂術"
 
 # P13 batch 6
 #. , after "Empower offensive spell"
@@ -63,7 +63,7 @@ msgstr "召喚惡魔"
 #. , after "Empower offensive spell"
 msgctxt "ask 0581"
 msgid "Conflagration "
-msgstr "烈焰焚燒"
+msgstr "巨焰術"
 
 # P13 batch 6
 #. , after "Empower offensive spell"
@@ -81,44 +81,44 @@ msgstr "耐熱術"
 #. , after "Empower defensive spell"
 msgctxt "ask 0581"
 msgid "Fire Shield"
-msgstr "火焰護盾"
+msgstr "火盾術"
 
 # P13 batch 6
 #. , after "Empower defensive spell"
 msgctxt "ask 0581"
 msgid "Armor Of Flames"
-msgstr "烈焰護甲"
+msgstr "火焰之甲"
 
 # P13 batch 6
 #. , after "Empower defensive spell"
 msgctxt "ask 0581"
 msgid "Banish Daemon"
-msgstr "驅逐惡魔"
+msgstr "放逐惡魔"
 
 # P13 batch 6
 #. , after "Empower other spell"
 msgctxt "ask 0581"
 msgid "Ignite"
-msgstr "點燃術"
+msgstr "發火術"
 
 # P13 batch 6
 #. , after "Empower other spell"
 msgctxt "ask 0581"
 msgid "Extinguish"
-msgstr "熄火術"
+msgstr "熄滅術"
 
 # P13 batch 6
 #. , after "Empower other spell"
 msgctxt "ask 0581"
 msgid "Flash"
-msgstr "閃光術"
+msgstr "飛遁術"
 
 # P13 batch 6
 #. , after "Explosion"
 #. answer compared by the conversation code
 msgctxt "ask 0581"
 msgid "Explosion"
-msgstr "爆炸術"
+msgstr "爆裂術"
 
 # P13 batch 6
 #. , after "Summon Daemon"
@@ -222,7 +222,7 @@ msgstr "糟了。"
 #. answer compared by the conversation code
 msgctxt "ask 0581"
 msgid "Conflagration"
-msgstr "烈焰焚燒"
+msgstr "巨焰術"
 
 # P13 batch 6
 #. , after "Conflagration"
@@ -252,7 +252,7 @@ msgstr "我需要更多火山灰。"
 #. , after "Conflagration"
 msgctxt "bark 0581:1111"
 msgid "I need more pumice. "
-msgstr "我需要更多浮岩。"
+msgstr "我需要更多浮石。"
 
 # P13 batch 6
 #. , after "Conflagration"

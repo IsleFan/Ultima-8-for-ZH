@@ -19,9 +19,9 @@ ScummVM 內建一個「除錯主控台」，可以輸入指令：傳送、作弊
 | 標記 | 意思 |
 |---|---|
 | 🔓 | 需要先開啟作弊，否則會顯示 `Cheats are disabled` |
-| ⌨️ | 有預設快捷鍵（可在 ScummVM 的「Keymaps」（按鍵對應）中更改） |
+| ⌨️ | 有預設快捷鍵（可在 ScummVM 的「按鍵對應」（Keymaps）中更改） |
 
-**開啟作弊**：在 ScummVM 選取遊戲 →「Game Options…」（遊戲選項）→「Game」分頁，勾選「Enable cheats」；或在主控台輸入 `Cheat::toggle on`。
+**開啟作弊**：在 ScummVM 選取遊戲 →「遊戲設定」（Game Options…）→「遊戲」分頁，勾選「開啟作弊」；或在主控台輸入 `Cheat::toggle on`。
 
 ---
 
@@ -33,7 +33,7 @@ ScummVM 內建一個「除錯主控台」，可以輸入指令：傳送、作弊
 | `Cheat::maxstats` 🔓 | — | 力量、敏捷、智力設為 25，體力與法力補滿 |
 | `Cheat::heal` 🔓 | — | 體力與法力補滿 |
 | `Cheat::toggleInvincibility` 🔓 | `[on\|off]` | 無敵 |
-| `Cheat::items` 🔓 | — | 背包放入：黑曜石 500、地震頭骨、召回石、數把武器（含烈焰之刺、屠殺者）、死靈術材料一袋、神術法器一袋、油瓶 3 個、盾牌 2 面、盔甲、死靈之碟 3 個 |
+| `Cheat::items` 🔓 | — | 背包放入：黑曜石 500、地震頭骨、召回石、數把武器（含烈焰之刺、屠殺者）、降靈術材料一袋、神通術法器一袋、油瓶 3 個、盾牌 2 面、盔甲、死靈之碟 3 個 |
 | `Cheat::equip` 🔓 | — | 現有裝備移進背包，換上欺詐者與一整套魔法護甲 |
 | `Cheat::hackMover` | `[on\|off]` | 可以拖動任何物品，不受距離限制，平常拖不動的物品也可以 |
 | `QuickAvatarMoverProcess::toggleClipping` 🔓 | `[on\|off]` | 穿牆 ⌨️ `Alt+Insert`。穿牆時可用 `Alt+Home` 上升、`Alt+End` 下降 |

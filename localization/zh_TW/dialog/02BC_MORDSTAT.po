@@ -14,4 +14,4 @@ msgstr ""
 #. event 00 (look)
 msgctxt "bark 02BC:00A4"
 msgid "statue of Mordea "
-msgstr "莫爾迪亞雕像"
+msgstr "莫迪雅雕像"

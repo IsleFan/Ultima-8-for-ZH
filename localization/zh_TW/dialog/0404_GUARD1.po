@@ -129,19 +129,19 @@ msgstr "聖者？天哪，聽你說得好像自己是什麼大人物似的。"
 #. event 01 (use (talk)), after "I am the Avatar! "
 msgctxt "bark 0404:06F8"
 msgid "Listen, bloke, if ya don't want to find yerself in the belly of the Lurker yer'll soon change that tone of yers. "
-msgstr "聽好了，老兄，要是不想進潛伏者的肚子，你最好趕快改改你那口氣。"
+msgstr "聽好了，老兄，要是不想進潛藏者的肚子，你最好趕快改改你那口氣。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "I am the Avatar! "
 msgctxt "ask 0404"
 msgid "The Lurker? "
-msgstr "潛伏者？"
+msgstr "潛藏者？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "The Lurker? "
 msgctxt "bark 0404:07FA"
 msgid "Say, ya don't know what tha Lurker is? "
-msgstr "喂，你連潛伏者是啥都不知道？"
+msgstr "喂，你連潛藏者是啥都不知道？"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "The Lurker? "
@@ -167,7 +167,7 @@ msgstr "好啦，{name}，俺現在認識你了。快滾吧！"
 #. event 01 (use (talk)), after "Best ya check out what's at the end of the dock, lest ya become fish bait yerself. "
 msgctxt "bark 0404:094D"
 msgid "I don't need Lady Mordea catching me chatting with some pauper. She's not in a right good mood today. "
-msgstr "俺可不想讓莫爾迪亞夫人撞見俺跟個窮鬼閒聊。她今天心情可不太好。"
+msgstr "俺可不想讓莫迪雅夫人撞見俺跟個窮鬼閒聊。她今天心情可不太好。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Best ya check out what's at the end of the dock, lest ya become fish bait yerself. "
@@ -191,7 +191,7 @@ msgstr "你腦子燒壞了嗎，小子？這可是全世界最大的一堆磚頭
 #. event 01 (use (talk)), after "What is this city? "
 msgctxt "bark 0404:0B5E"
 msgid "Tenebrae it is! And don't ya go now forgetin' it. "
-msgstr "這裡是泰尼伯瑞！可別給俺忘了。"
+msgstr "這裡是泰納布利！可別給俺忘了。"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "What is this city? "
@@ -203,7 +203,7 @@ msgstr "要是你連這是哪座城都不知道，那你就不該進這道城門
 #. event 01 (use (talk)), after "What is this city? "
 msgctxt "bark 0404:0C2D"
 msgid "Everyone knows that it's Tenebrae, dolt! "
-msgstr "大家都知道這裡是泰尼伯瑞，笨蛋！"
+msgstr "大家都知道這裡是泰納布利，笨蛋！"
 
 # P13 batch 1
 #. event 01 (use (talk)), after "Open the gate! "

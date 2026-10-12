@@ -478,7 +478,7 @@ msgstr "能請教你的名字嗎？"
 #. event 01 (use (talk)), after "May I know your name? "
 msgctxt "bark 0405:221F"
 msgid "I am Darion, the Arms Master and Captain of the Palace Guard here in Tenebrae. "
-msgstr "我是達里恩，泰尼伯瑞的武術教頭兼宮廷衛隊隊長。"
+msgstr "我是達里恩，泰納布利的武術教頭兼宮廷衛隊隊長。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "May I know your name? "
@@ -496,7 +496,7 @@ msgstr "說說宮殿。"
 #. event 01 (use (talk)), after "May I know your name? "
 msgctxt "ask 0405"
 msgid "Tell me about Tenebrae. "
-msgstr "說說泰尼伯瑞。"
+msgstr "說說泰納布利。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "May I know your name? "
@@ -599,7 +599,7 @@ msgstr "我見過班提克。"
 #. event 01 (use (talk)), after "Good morrow, Captain Darion. " or "Yes, just terrible, Captain Darion. "
 msgctxt "ask 0405"
 msgid "I met Kilandra. "
-msgstr "我見過奇蘭卓。"
+msgstr "我見過綺蘭朵。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Good morrow, Captain Darion. " or "Yes, just terrible, Captain Darion. "
@@ -611,7 +611,7 @@ msgstr "我見過你女兒珍娜。"
 #. event 01 (use (talk)), after "Good morrow, Captain Darion. " or "Yes, just terrible, Captain Darion. "
 msgctxt "ask 0405"
 msgid "So Devon is now your Tempest. "
-msgstr "所以現在戴文是你們的風暴使者了。"
+msgstr "所以現在戴文是你們的役水師了。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Good morrow, Captain Darion. " or "Yes, just terrible, Captain Darion. "
@@ -714,7 +714,7 @@ msgstr "再見"
 #. event 01 (use (talk)), after "So Devon is now your Tempest. "
 msgctxt "bark 0405:2EBD"
 msgid "And make no mistake, I will serve him as I served Mordea. I am loyal to the Tempestry, I am. "
-msgstr "別誤會，我會像侍奉莫爾迪亞那樣侍奉他。我效忠的是風暴使者之位，就是這樣。"
+msgstr "別誤會，我會像侍奉莫迪雅那樣侍奉他。我效忠的是役水師之位，就是這樣。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "I heard a tale from Orlok. "
@@ -738,38 +738,38 @@ msgstr "鬼魂？在我的城裡？絕不可能！！哼，就算有人在這裡
 #. event 01 (use (talk)), after "Tell me about the palace. "
 msgctxt "bark 0405:3291"
 msgid "The palace is the home of our Tempest, Devon. "
-msgstr "宮殿是我們的風暴使者戴文的居所。"
+msgstr "宮殿是我們的役水師戴文的居所。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me about the palace. "
 msgctxt "bark 0405:32E2"
 msgid "The palace is the home of our Tempest, the Lady Mordea. "
-msgstr "宮殿是我們的風暴使者莫爾迪亞夫人的居所。"
+msgstr "宮殿是我們的役水師莫迪雅夫人的居所。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me about the palace. "
 msgctxt "ask 0405"
 msgid "Who is Lady Mordea? "
-msgstr "莫爾迪亞夫人是誰？"
+msgstr "莫迪雅夫人是誰？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me about Tenebrae. "
 #. sentence template: keep the {placeholders}
 msgctxt "bark 0405:3440"
 msgid "Ah, Tenebrae, 'tis the finest gem in this fair land. I have served this city and her leaders since I was a mere lad, as an apprentice in the guard. I welcome you, {name}, to our fair city."
-msgstr "啊，泰尼伯瑞，這片美麗土地上最耀眼的寶石。我從還是個小伙子、當衛兵學徒的時候起，就一直效力於這座城市和它的領袖。{name}，歡迎你來到我們美麗的城市。"
+msgstr "啊，泰納布利，這片美麗土地上最耀眼的寶石。我從還是個小伙子、當衛兵學徒的時候起，就一直效力於這座城市和它的領袖。{name}，歡迎你來到我們美麗的城市。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Tell me about Tenebrae. "
 msgctxt "bark 0405:350D"
 msgid "Ah, Tenebrae, 'tis the finest gem in this fair land. I have served this city and her leaders since I was a mere lad, as an apprentice in the guard. I welcome you to our fair city. "
-msgstr "啊，泰尼伯瑞，這片美麗土地上最耀眼的寶石。我從還是個小伙子、當衛兵學徒的時候起，就一直效力於這座城市和它的領袖。歡迎你來到我們美麗的城市。"
+msgstr "啊，泰納布利，這片美麗土地上最耀眼的寶石。我從還是個小伙子、當衛兵學徒的時候起，就一直效力於這座城市和它的領袖。歡迎你來到我們美麗的城市。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Who is Lady Mordea? "
 msgctxt "bark 0405:35A3"
 msgid "The fair Tempest of our City. "
-msgstr "我們城市美麗的風暴使者。"
+msgstr "我們城市美麗的役水師。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Who are the Palace Guards? "
@@ -787,19 +787,19 @@ msgstr "準備什麼？"
 #. event 01 (use (talk)), after "Ready for what? "
 msgctxt "bark 0405:37CC"
 msgid "Of course, you never know what those Necromancers are up to. And we do have our fine Tempest to defend. "
-msgstr "當然啦，誰也不知道那些死靈法師在打什麼主意。而且我們還有尊貴的風暴使者要保護。"
+msgstr "當然啦，誰也不知道那些降靈師在打什麼主意。而且我們還有尊貴的役水師要保護。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Ready for what? "
 msgctxt "ask 0405"
 msgid "Who is the Tempest? "
-msgstr "風暴使者是誰？"
+msgstr "役水師是誰？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Ready for what? "
 msgctxt "ask 0405"
 msgid "Who are the Necromancers? "
-msgstr "死靈法師是誰？"
+msgstr "降靈師是誰？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Ready for what? "
@@ -811,13 +811,13 @@ msgstr "你們保護她？"
 #. event 01 (use (talk)), after "You defend her? "
 msgctxt "bark 0405:38DD"
 msgid "Of course, our Tempest is more than capable of defending herself. She has a portion of Hydros' power. "
-msgstr "當然，我們的風暴使者自己就綽綽有餘了。她擁有海德羅斯的一部分力量。"
+msgstr "當然，我們的役水師自己就綽綽有餘了。她擁有海特蘿的一部分力量。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Who is the Tempest? "
 msgctxt "bark 0405:3A54"
 msgid "Why, she is the representative of that mightiest of Titans, Hydros. Hydros' visage is much too fearsome and powerful for the likes of you and I, so Lady Mordea serves as her representative. In exchange, Lady Mordea is able to wield some of the power from Hydros. "
-msgstr "哎呀，她是最強大的泰坦海德羅斯的代言人。海德羅斯的真容對你我這種凡人來說太過可怕、太過強大，所以由莫爾迪亞夫人擔任她的代言人。作為交換，莫爾迪亞夫人能運用海德羅斯的一部分力量。"
+msgstr "哎呀，她是最強大的泰坦海特蘿的代言人。海特蘿的真容對你我這種凡人來說太過可怕、太過強大，所以由莫迪雅夫人擔任她的代言人。作為交換，莫迪雅夫人能運用海特蘿的一部分力量。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Who is the Tempest? "
@@ -829,25 +829,25 @@ msgstr "什麼力量？"
 #. event 01 (use (talk)), after "Who is the Tempest? "
 msgctxt "ask 0405"
 msgid "Who is Hydros? "
-msgstr "海德羅斯是誰？"
+msgstr "海特蘿是誰？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "What power? "
 msgctxt "bark 0405:3B70"
 msgid "Why do you think we have fair weather all the day? With her share of Hydros' power, Lady Mordea is able to control the weather. 'Tis a blessing, it is. "
-msgstr "你以為我們為什麼整天都是好天氣？莫爾迪亞夫人憑著她分得的海德羅斯之力，能夠控制天氣。這真是一大福氣啊。"
+msgstr "你以為我們為什麼整天都是好天氣？莫迪雅夫人憑著她分得的海特蘿之力，能夠控制天氣。這真是一大福氣啊。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Who is Hydros? "
 msgctxt "bark 0405:3D1B"
 msgid "Keep a respectful tongue in your head when you speak that name, my friend. The Lurker is a force to be reckoned with. She is the power of all the waters. She can be as gentle as a spring rain or as powerful and terrible as a thundering waterfall. She is the mightiest of all the Titans. Well worth your respect and worship. "
-msgstr "說出那個名字時，口氣放尊重點，朋友。潛伏者可是不容小覷的力量。她是萬水之力，能像春雨一樣溫柔，也能像轟隆的瀑布一樣強大而可怕。她是所有泰坦中最強大的，值得你的尊敬與崇拜。"
+msgstr "說出那個名字時，口氣放尊重點，朋友。潛藏者可是不容小覷的力量。她是萬水之力，能像春雨一樣溫柔，也能像轟隆的瀑布一樣強大而可怕。她是所有泰坦中最強大的，值得你的尊敬與崇拜。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Who are the Necromancers? "
 msgctxt "bark 0405:3EA4"
 msgid "Filthy things, they live in the cemetery and muck about with dead bodies. They serve the Titan Lithos. 'Tis no wonder there are so few Necromancers left. Only those who grub for a paltry living from the mud and dirt have anything to do with Lithos and the Necromancers. Phaw! "
-msgstr "骯髒的傢伙，住在墓地裡，整天擺弄死人的屍體。他們侍奉泰坦利索斯。難怪死靈法師所剩無幾。只有那些在泥土裡刨食、勉強餬口的人，才會跟利索斯和死靈法師扯上關係。呸！"
+msgstr "骯髒的傢伙，住在墓地裡，整天擺弄死人的屍體。他們侍奉泰坦里索斯。難怪降靈師所剩無幾。只有那些在泥土裡刨食、勉強餬口的人，才會跟里索斯和降靈師扯上關係。呸！"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Who are the Necromancers? "
@@ -859,7 +859,7 @@ msgstr "說說墓地。"
 #. event 01 (use (talk)), after "Who are the Necromancers? "
 msgctxt "ask 0405"
 msgid "Only a few Necromancers? "
-msgstr "只剩幾個死靈法師？"
+msgstr "只剩幾個降靈師？"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Only a few Necromancers? "
@@ -877,13 +877,13 @@ msgstr "那些骯髒的傢伙就住在那裡。他們喜歡盡可能靠近死人
 #. event 01 (use (talk)), after "An emergency situation? "
 msgctxt "bark 0405:426A"
 msgid "By Hydros' spume, man! Can't you see? The dead are walking the streets! I have a town to protect! A Tempest to find! People to calm! I haven't time for gawkers! "
-msgstr "以海德羅斯的浪花起誓，老兄！你看不出來嗎？死人在街上走來走去！我有城鎮要保護！有風暴使者要找！有百姓要安撫！我沒空理會看熱鬧的人！"
+msgstr "以海特蘿的浪花起誓，老兄！你看不出來嗎？死人在街上走來走去！我有城鎮要保護！有役水師要找！有百姓要安撫！我沒空理會看熱鬧的人！"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "What do you know about Salkind? "
 msgctxt "bark 0405:432F"
 msgid "Hmmmmm, I don't know much about him, except he is always at the side of Lady Mordea. I'm not sure I trust him. "
-msgstr "嗯……我對他了解不多，只知道他總是跟在莫爾迪亞夫人身邊。我不太確定能不能信任他。"
+msgstr "嗯……我對他了解不多，只知道他總是跟在莫迪雅夫人身邊。我不太確定能不能信任他。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "What do you know about Salkind? "
@@ -895,7 +895,7 @@ msgstr "你為什麼不信任薩金德？"
 #. event 01 (use (talk)), after "Why don't you trust Salkind? "
 msgctxt "bark 0405:44BA"
 msgid "Well, the Tempest has always ruled alone. This seneschal bit seems to go against our fine line of tradition here in Tenebrae. I'm not sure I agree, but then, Lady Mordea seems to like him, so I'll protect him as well as her. "
-msgstr "這個嘛，風暴使者向來都是獨自統治的。設這個總管，似乎違背了我們泰尼伯瑞的優良傳統。我不太贊同，不過莫爾迪亞夫人似乎很喜歡他，所以我也會像保護她一樣保護他。"
+msgstr "這個嘛，役水師向來都是獨自統治的。設這個總管，似乎違背了我們泰納布利的優良傳統。我不太贊同，不過莫迪雅夫人似乎很喜歡他，所以我也會像保護她一樣保護他。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "I met your daughter, Jenna. "
@@ -943,7 +943,7 @@ msgstr "為什麼沒有墳墓？"
 #. event 01 (use (talk)), after "Why is there no grave? "
 msgctxt "bark 0405:49F9"
 msgid "There was a grave, there WAS one. But one day as I went to leave flowers on her stone, as was my want, I found the grave ripped open and the body missing. It could only be the work of those filthy Necromancers. It pains me still to think of it. "
-msgstr "原本有墳墓的，「曾經」有過。可是有一天，我照例去她的墓碑前放花，卻發現墳墓被挖開，遺體不見了。這只可能是那些骯髒的死靈法師幹的。我到現在想起來還是很心痛。"
+msgstr "原本有墳墓的，「曾經」有過。可是有一天，我照例去她的墓碑前放花，卻發現墳墓被挖開，遺體不見了。這只可能是那些骯髒的降靈師幹的。我到現在想起來還是很心痛。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "She is beautiful. "
@@ -1093,7 +1093,7 @@ msgstr "班提克啊，那可是個好人。總是待在他的圖書館裡，從
 #. event 01 (use (talk)), after "What shady dealings? "
 msgctxt "bark 0405:58DC"
 msgid "Well, you know...just, shady ones. Ones that are forbidden by Lady Mordea. Ahem, I can't say anymore than that, you know, official policy and all. "
-msgstr "嗯，你知道的……就是，見不得人的那種。莫爾迪亞夫人禁止的那種。咳，我不能再多說了，你知道的，官方政策之類的。"
+msgstr "嗯，你知道的……就是，見不得人的那種。莫迪雅夫人禁止的那種。咳，我不能再多說了，你知道的，官方政策之類的。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "Orlok told a story of Bentic. "
@@ -1123,7 +1123,7 @@ msgstr "你會去哪裡找？"
 #. event 01 (use (talk)), after "Where would you look? "
 msgctxt "bark 0405:5F97"
 msgid "Well, when I was just a tyke, my father told me a story Much like one of Orlok's stories about John Blowhard. Only my father's story went this way. A bunch of trolls had taken up residence on an island. They raided neighboring villages and stole the children away to eat them. One night, the trolls came again and tried to steal the last child in the village. The child's mother was so enraged, she grabbed one of her knitting needles and killed the troll. Stratos was so impressed by this mother's defense, she turned the knitting needle into a magical sword. It is said this sword is hidden somewhere in the mountains outside Tenebrae, perhaps in Herdsman's valley. Were I looking for treasure, that's where'd I'd look."
-msgstr "這個嘛，我還是個小娃兒的時候，我父親跟我講過一個故事，跟歐洛克那些關於吹牛大王約翰的故事很像，只是我父親的版本是這樣的：一群巨魔在一座島上落腳，牠們襲擊鄰近的村子，把小孩擄走吃掉。有一晚，巨魔又來了，想擄走村裡最後一個孩子。孩子的母親氣壞了，抓起一根織毛衣的棒針就殺了那隻巨魔。史特拉托斯對這位母親的護子之舉印象深刻，就把那根棒針變成了一把魔法劍。據說這把劍就藏在泰尼伯瑞城外的山裡，也許在牧民谷。要是我去找寶藏，就會去那裡找。"
+msgstr "這個嘛，我還是個小娃兒的時候，我父親跟我講過一個故事，跟歐洛克那些關於吹牛大王約翰的故事很像，只是我父親的版本是這樣的：一群巨魔在一座島上落腳，牠們襲擊鄰近的村子，把小孩擄走吃掉。有一晚，巨魔又來了，想擄走村裡最後一個孩子。孩子的母親氣壞了，抓起一根織毛衣的棒針就殺了那隻巨魔。史卓拉透絲對這位母親的護子之舉印象深刻，就把那根棒針變成了一把魔法劍。據說這把劍就藏在泰納布利城外的山裡，也許在牧民谷。要是我去找寶藏，就會去那裡找。"
 
 # P13 batch 2
 #. event 01 (use (talk)), after "I met Kilandra. "
