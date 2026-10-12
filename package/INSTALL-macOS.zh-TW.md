@@ -2,7 +2,7 @@
 
 本包含有加入中文化功能的 ScummVM（`ScummVM.app`），翻譯檔與字型都已放在 app 裡，不需要另外安裝任何東西。
 
-- 下載的檔名結尾 `arm64` 是 Apple Silicon（M 系列晶片）用，`x86_64` 是 Intel Mac 用。
+- 下載的檔名結尾 `arm64` 是 Apple Silicon（M 系列晶片）用，需要 macOS 11 以上；`x86_64` 是 Intel Mac 用，需要 macOS 13 以上。
 - **本包不含遊戲資料。** 你需要擁有正版的 Ultima VIII 英文版資料（例如 GOG 的 *Ultima 8 Gold Edition*）。
 
 ## 第一次開啟
